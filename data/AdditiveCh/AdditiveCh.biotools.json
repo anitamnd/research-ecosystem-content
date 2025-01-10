@@ -1,0 +1,83 @@
+{
+    "accessibility": null,
+    "additionDate": "2025-01-10T15:43:25.400331Z",
+    "biotoolsCURIE": "biotools:AdditiveCh",
+    "biotoolsID": "AdditiveCh",
+    "collectionID": [],
+    "community": null,
+    "confidence_flag": "tool",
+    "cost": null,
+    "credit": [],
+    "description": "A comprehensive bioinformatics knowledge-base for food additive chemicals.\n\nA comprehensive food additive database.\n\nSupported search options:Text query, Structure, Fragment, Similarity, MCS.\n\nFood additives are considered to be the catalysts and headstones of the modern food industry, affecting every step of food production, processing, and storage.\n\nFields searchable in this way are:CAS number,JECFA number,FEMA number,CoE number,Name,InChI,InChI key,INS",
+    "documentation": [],
+    "download": [],
+    "editPermission": {
+        "authors": [],
+        "type": "public"
+    },
+    "elixirCommunity": [],
+    "elixirNode": [],
+    "elixirPlatform": [],
+    "elixir_badge": 0,
+    "function": [
+        {
+            "cmd": null,
+            "input": [],
+            "note": null,
+            "operation": [
+                {
+                    "term": "Database search",
+                    "uri": "http://edamontology.org/operation_2421"
+                }
+            ],
+            "output": []
+        }
+    ],
+    "homepage": "http://www.rxnfinder.org/additivechem/",
+    "homepage_status": 0,
+    "language": [],
+    "lastUpdate": "2025-01-10T15:43:25.410459Z",
+    "license": null,
+    "link": [],
+    "maturity": null,
+    "name": "AdditiveChem",
+    "operatingSystem": [],
+    "otherID": [],
+    "owner": "root",
+    "publication": [
+        {
+            "doi": "10.1016/J.FOODCHEM.2019.125519",
+            "metadata": {
+                "abstract": "",
+                "authors": [],
+                "citationCount": 22,
+                "date": "2020-03-05T00:00:00Z",
+                "journal": "Food Chemistry",
+                "title": "AdditiveChem: A comprehensive bioinformatics knowledge-base for food additive chemicals"
+            },
+            "note": null,
+            "pmcid": null,
+            "pmid": "31648087",
+            "type": [],
+            "version": null
+        }
+    ],
+    "relation": [],
+    "toolType": [],
+    "topic": [
+        {
+            "term": "Toxicology",
+            "uri": "http://edamontology.org/topic_2840"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Endocrinology and metabolism",
+            "uri": "http://edamontology.org/topic_3407"
+        }
+    ],
+    "validated": 0,
+    "version": []
+}
