@@ -13,13 +13,15 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
+      - name: Set branch name
+        run: echo "BRANCH_NAME=${{ github.head_ref }}" >> $GITHUB_ENV
         
       - name: Get tool ID from branch name
         id: vars
         shell: bash
         run: |
-          BRANCH_NAME="${GITHUB_REF##*/}"
-          TOOL_ID="${BRANCH_NAME#*__}"  # Extract after '__'
+          TOOL_ID="${env.BRANCH_NAME#*_}"  # Extract after '__'
           FILE="data/$TOOL_ID/$TOOL_ID.biotools.json"
           echo "tool_id=$TOOL_ID" >> "$GITHUB_OUTPUT"
           echo "file=$FILE" >> "$GITHUB_OUTPUT"
