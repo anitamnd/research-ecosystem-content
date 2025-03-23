@@ -55,7 +55,7 @@
             "url": "https://github.com/524D"
         }
     ],
-    "description": "compareMS2 is a tool for comparing sets of (tandem) mass spectra for clustering samples, molecular phylogenetics, identification of biological species or tissues, and quality control. compareMS2 currently consumes Mascot Gweneric Format, or MGF, and produces output in a variety of common image and distance matrix formats.JIL",
+    "description": "compareMS2 is a tool for comparing sets of (tandem) mass spectra for clustering samples, molecular phylogenetics, identification of biological species or tissues, and quality control. compareMS2 currently consumes Mascot Gweneric Format, or MGF, and produces output in a variety of common image and distance matrix formats.",
     "documentation": [
         {
             "note": null,
@@ -196,7 +196,7 @@
         "C",
         "JavaScript"
     ],
-    "lastUpdate": "2025-03-23T15:49:27.441867Z",
+    "lastUpdate": "2025-03-23T15:57:23.186508Z",
     "license": "MIT",
     "link": [
         {
