@@ -11,13 +11,13 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - name: Checkout code
+      - name: checkout code
         uses: actions/checkout@v3
 
-      - name: Set branch name
+      - name: set branch name
         run: echo "BRANCH_NAME=${{ github.head_ref }}" >> $GITHUB_ENV
         
-      - name: Get tool ID from branch name
+      - name: get tool ID from branch name
         id: vars
         shell: bash
         run: |
@@ -34,8 +34,8 @@ jobs:
           jq --indent 4 'walk( if type == "array" then sort else . end )' "${{ steps.vars.outputs.file }}" | sponge "${{ steps.vars.outputs.file }}"
           echo "Processed ${{ steps.vars.outputs.file }}!"
           
-      - id: automerge
-        name: merge pull requests (automerge-action)
+      - name: merge pull requests
+        id: automerge
         uses: pascalgn/automerge-action@v0.16.4
         env:
           GITHUB_TOKEN: "${{ secrets.REPO_TOKEN }}"
