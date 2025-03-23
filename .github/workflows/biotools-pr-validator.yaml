@@ -1,0 +1,38 @@
+name: 'import bio.tools'
+description: 'bio.tools pr validator'
+inputs:
+  repo-user:  # id of input
+    description: 'User that commits modifications'
+    required: true
+  repo-token:
+    description: 'GitHub token to commit modifications'
+    required: true
+runs:
+  using: "composite"
+  steps:
+    - name: Get tool ID from branch name
+      id: vars
+      shell: bash
+      run: |
+        BRANCH_NAME="${GITHUB_REF##*/}"
+        TOOL_ID="${BRANCH_NAME#*__}"  # Extract after '__'
+        FILE="data/$TOOL_ID/$TOOL_ID.biotools.json"
+        echo "tool_id=$TOOL_ID" >> "$GITHUB_OUTPUT"
+        echo "file=$FILE" >> "$GITHUB_OUTPUT"
+    - name: reformat json to a predictable format with jq and sponge
+      run: |
+        sudo apt-get update -y
+        sudo apt-get install moreutils
+        jq --indent 4 'walk( if type == "array" then sort else . end )' "${{ steps.vars.outputs.file }}" | sponge "${{ steps.vars.outputs.file }}"
+        echo "Processed ${{ steps.vars.outputs.file }}!"
+        shell: bash
+    - id: automerge
+      name: merge pull requests (automerge-action)
+      uses: pascalgn/automerge-action@v0.16.4
+      env:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+    - name: feedback
+      if: ${{ steps.automerge.outputs.mergeResult == 'merged' }}
+      run: |
+        echo "Pull request ${{ steps.automerge.outputs.pullRequestNumber }} merged!"
+        
