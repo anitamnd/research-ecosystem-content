@@ -21,7 +21,7 @@ jobs:
         id: vars
         shell: bash
         run: |
-          TOOL_ID="${env.BRANCH_NAME#*_}"  # Extract after '__'
+          TOOL_ID="${BRANCH_NAME#*_}"  # Extract after '__'
           FILE="data/$TOOL_ID/$TOOL_ID.biotools.json"
           echo "tool_id=$TOOL_ID" >> "$GITHUB_OUTPUT"
           echo "file=$FILE" >> "$GITHUB_OUTPUT"
