@@ -1,0 +1,317 @@
+{
+    "accessibility": null,
+    "additionDate": "2025-03-23T15:44:13.752634Z",
+    "biotoolsCURIE": "biotools:test_ms2",
+    "biotoolsID": "test_ms2",
+    "collectionID": [
+        "ms-utils",
+        "Proteomics"
+    ],
+    "confidence_flag": null,
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": null,
+            "fundrefid": null,
+            "gridid": null,
+            "name": "lumc.nl",
+            "note": null,
+            "orcidid": null,
+            "rorid": null,
+            "typeEntity": "Institute",
+            "typeRole": [
+                "Support"
+            ],
+            "url": "https://www.lumc.nl"
+        },
+        {
+            "email": "magnus.palmblad@gmail.com",
+            "fundrefid": null,
+            "gridid": null,
+            "name": "Magnus Palmblad",
+            "note": null,
+            "orcidid": "http://orcid.org/0000-0002-5865-8994",
+            "rorid": null,
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer",
+                "Primary contact",
+                "Documentor"
+            ],
+            "url": "https://github.com/magnuspalmblad"
+        },
+        {
+            "email": null,
+            "fundrefid": null,
+            "gridid": null,
+            "name": "Rob Marissen",
+            "note": null,
+            "orcidid": "https://orcid.org/0000-0002-1220-9173",
+            "rorid": null,
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer"
+            ],
+            "url": "https://github.com/524D"
+        }
+    ],
+    "description": "compareMS2 is a tool for comparing sets of (tandem) mass spectra for clustering samples, molecular phylogenetics, identification of biological species or tissues, and quality control. compareMS2 currently consumes Mascot Gweneric Format, or MGF, and produces output in a variety of common image and distance matrix formats. Iaad",
+    "documentation": [
+        {
+            "note": null,
+            "type": [
+                "General",
+                "Command-line options"
+            ],
+            "url": "http://www.ms-utils.org/compareMS2.html"
+        },
+        {
+            "note": null,
+            "type": [
+                "General",
+                "User manual",
+                "Command-line options",
+                "Installation instructions"
+            ],
+            "url": "https://github.com/524D/compareMS2"
+        }
+    ],
+    "download": [
+        {
+            "note": null,
+            "type": "Source code",
+            "url": "http://www.ms-utils.org/compareMS2.c",
+            "version": "1.0"
+        },
+        {
+            "note": null,
+            "type": "Binaries",
+            "url": "http://www.ms-utils.org/compareMS2.html",
+            "version": "1.0"
+        },
+        {
+            "note": null,
+            "type": "Source code",
+            "url": "http://www.ms-utils.org/compareMS2.c",
+            "version": "1.0"
+        },
+        {
+            "note": null,
+            "type": "Source code",
+            "url": "https://github.com/524D/compareMS2/tree/main/src",
+            "version": "2.0"
+        },
+        {
+            "note": null,
+            "type": "Binaries",
+            "url": "https://github.com/524D/compareMS2/tree/main",
+            "version": "2.0"
+        }
+    ],
+    "editPermission": {
+        "authors": [
+            "proteomics.bio.tools"
+        ],
+        "type": "group"
+    },
+    "elixirCommunity": [
+        "Proteomics"
+    ],
+    "elixirNode": [
+        "Netherlands"
+    ],
+    "elixirPlatform": [],
+    "elixir_badge": 0,
+    "function": [
+        {
+            "cmd": null,
+            "input": [
+                {
+                    "data": {
+                        "term": "Mass spectrometry data",
+                        "uri": "http://edamontology.org/data_2536"
+                    },
+                    "format": [
+                        {
+                            "term": "MGF",
+                            "uri": "http://edamontology.org/format_3651"
+                        }
+                    ]
+                }
+            ],
+            "note": null,
+            "operation": [
+                {
+                    "term": "Comparison",
+                    "uri": "http://edamontology.org/operation_2424"
+                },
+                {
+                    "term": "Phylogenetic tree visualisation",
+                    "uri": "http://edamontology.org/operation_0567"
+                }
+            ],
+            "output": [
+                {
+                    "data": {
+                        "term": "Species tree",
+                        "uri": "http://edamontology.org/data_3272"
+                    },
+                    "format": [
+                        {
+                            "term": "PNG",
+                            "uri": "http://edamontology.org/format_3603"
+                        },
+                        {
+                            "term": "SVG",
+                            "uri": "http://edamontology.org/format_3604"
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "term": "Distance matrix",
+                        "uri": "http://edamontology.org/data_2855"
+                    },
+                    "format": [
+                        {
+                            "term": "mega",
+                            "uri": "http://edamontology.org/format_1991"
+                        },
+                        {
+                            "term": "Nexus format",
+                            "uri": "http://edamontology.org/format_1912"
+                        },
+                        {
+                            "term": "newick",
+                            "uri": "http://edamontology.org/format_1910"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/524D/compareMS2",
+    "homepage_status": 0,
+    "language": [
+        "C",
+        "JavaScript"
+    ],
+    "lastUpdate": "2025-03-23T15:44:13.759819Z",
+    "license": "MIT",
+    "link": [
+        {
+            "note": null,
+            "type": [
+                "Repository"
+            ],
+            "url": "https://github.com/524D/compareMS2"
+        },
+        {
+            "note": null,
+            "type": [
+                "Software catalogue"
+            ],
+            "url": "https://www.ms-utils.org/compareMS2.html"
+        },
+        {
+            "note": null,
+            "type": [
+                "Software catalogue"
+            ],
+            "url": "https://research-software-directory.org/software/comparems2"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "compareMS2",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "otherID": [],
+    "owner": "anita2",
+    "publication": [
+        {
+            "doi": "10.1002/rcm.6162",
+            "metadata": {
+                "abstract": "",
+                "authors": [],
+                "citationCount": 30,
+                "date": "2012-04-15T00:00:00Z",
+                "journal": "Rapid Communications in Mass Spectrometry",
+                "title": "Molecular phylogenetics by direct comparison of tandem mass spectra"
+            },
+            "note": null,
+            "pmcid": null,
+            "pmid": "22368051",
+            "type": [
+                "Primary"
+            ],
+            "version": "1.0"
+        },
+        {
+            "doi": "10.1021/acs.jproteome.2c00457",
+            "metadata": {
+                "abstract": "",
+                "authors": [],
+                "citationCount": 7,
+                "date": "2023-02-03T00:00:00Z",
+                "journal": "Journal of Proteome Research",
+                "title": "compareMS2 2.0: An Improved Software for Comparing Tandem Mass Spectrometry Datasets"
+            },
+            "note": null,
+            "pmcid": "PMC9903320",
+            "pmid": "36173614",
+            "type": [
+                "Primary"
+            ],
+            "version": "2.0"
+        },
+        {
+            "doi": "10.1021/acs.jproteome.1c00528",
+            "metadata": {
+                "abstract": "",
+                "authors": [],
+                "citationCount": 1,
+                "date": "2021-10-01T00:00:00Z",
+                "journal": "Journal of Proteome Research",
+                "title": "Rewinding the Molecular Clock: Looking at Pioneering Molecular Phylogenetics Experiments in the Light of Proteomics"
+            },
+            "note": null,
+            "pmcid": "PMC8491155",
+            "pmid": "34523928",
+            "type": [
+                "Review"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "relation": [],
+    "toolType": [
+        "Command-line tool",
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Metabolomics",
+            "uri": "http://edamontology.org/topic_3172"
+        },
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        }
+    ],
+    "validated": 0,
+    "version": [
+        "1.0",
+        "2.0"
+    ]
+}
