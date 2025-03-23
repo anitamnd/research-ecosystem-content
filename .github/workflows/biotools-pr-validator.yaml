@@ -25,12 +25,13 @@ runs:
         sudo apt-get install moreutils
         jq --indent 4 'walk( if type == "array" then sort else . end )' "${{ steps.vars.outputs.file }}" | sponge "${{ steps.vars.outputs.file }}"
         echo "Processed ${{ steps.vars.outputs.file }}!"
-        shell: bash
+      shell: bash
     - id: automerge
       name: merge pull requests (automerge-action)
       uses: pascalgn/automerge-action@v0.16.4
       env:
-        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        GITHUB_TOKEN: "${{ inputs.repo-token }}"
+        MERGE_LABELS: ""
     - name: feedback
       if: ${{ steps.automerge.outputs.mergeResult == 'merged' }}
       run: |
