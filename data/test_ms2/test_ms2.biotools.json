@@ -196,7 +196,7 @@
         "C",
         "JavaScript"
     ],
-    "lastUpdate": "2025-03-23T15:57:23.186508Z",
+    "lastUpdate": "2025-03-23T16:04:06.909531Z",
     "license": "MIT",
     "link": [
         {
@@ -292,10 +292,6 @@
         "Desktop application"
     ],
     "topic": [
-        {
-            "term": "Phylogeny",
-            "uri": "http://edamontology.org/topic_0084"
-        },
         {
             "term": "Proteomics",
             "uri": "http://edamontology.org/topic_0121"
