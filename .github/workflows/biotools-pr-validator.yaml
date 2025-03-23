@@ -38,7 +38,7 @@ jobs:
         name: merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.16.4
         env:
-          GITHUB_TOKEN: "${{ inputs.repo-token }}"
+          GITHUB_TOKEN: "${{ secrets.REPO_TOKEN }}"
           MERGE_LABELS: ""
           
       - name: feedback
