@@ -19,7 +19,7 @@
     "Maintainer": "Davide Maspero <d.maspero@campus.unimib.it>",
     "NeedsCompilation": "no",
     "Package": "VERSO",
-    "Rank": 1992,
+    "Rank": 1995,
     "Rfiles": [
         "vignettes/VERSO/inst/doc/v1_introduction.R",
         "vignettes/VERSO/inst/doc/v2_running_VERSO.R"
@@ -40,7 +40,7 @@
         "Software",
         "SomaticMutation"
     ],
-    "dependencyCount": "21",
+    "dependencyCount": "20",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "3d998f7",
     "git_last_commit_date": "2024-10-29",

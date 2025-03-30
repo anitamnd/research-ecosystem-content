@@ -11,7 +11,7 @@
     "Maintainer": "Jack Zhu <zhujack@mail.nih.gov>",
     "NeedsCompilation": "no",
     "Package": "GEOmetadb",
-    "Rank": 454,
+    "Rank": 451,
     "Rfiles": [
         "vignettes/GEOmetadb/inst/doc/GEOmetadb.R"
     ],
@@ -30,7 +30,7 @@
         "Infrastructure",
         "Software"
     ],
-    "dependencyCount": "23",
+    "dependencyCount": "24",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "a842cf8",
     "git_last_commit_date": "2024-12-10",

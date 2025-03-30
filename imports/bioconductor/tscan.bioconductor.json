@@ -32,7 +32,7 @@
     "Maintainer": "Zhicheng Ji <zji4@jhu.edu>",
     "NeedsCompilation": "no",
     "Package": "TSCAN",
-    "Rank": 264,
+    "Rank": 272,
     "Rfiles": [
         "vignettes/TSCAN/inst/doc/TSCAN.R"
     ],
@@ -56,6 +56,10 @@
         "Visualization"
     ],
     "dependencyCount": "95",
+    "dependsOnMe": [
+        "OSCA.advanced",
+        "OSCA.multisample"
+    ],
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "677c4f2",
     "git_last_commit_date": "2024-10-29",

@@ -25,7 +25,7 @@
     "Maintainer": "Mikhail Dozmorov <mikhail.dozmorov@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "TADCompare",
-    "Rank": 1116,
+    "Rank": 1241,
     "Rfiles": [
         "vignettes/TADCompare/inst/doc/Input_Data.R",
         "vignettes/TADCompare/inst/doc/Ontology_Analysis.R",
@@ -54,7 +54,7 @@
         "Sequencing",
         "Software"
     ],
-    "dependencyCount": "123",
+    "dependencyCount": "126",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "1993e3f",
     "git_last_commit_date": "2024-10-29",

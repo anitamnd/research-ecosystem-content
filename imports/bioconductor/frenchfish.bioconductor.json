@@ -12,7 +12,7 @@
     "Maintainer": "Adam Berman <agb61@cam.ac.uk>",
     "NeedsCompilation": "no",
     "Package": "frenchFISH",
-    "Rank": 2132,
+    "Rank": 2115,
     "Rfiles": [
         "vignettes/frenchFISH/inst/doc/frenchFISH.R"
     ],
@@ -32,7 +32,7 @@
         "Preprocessing",
         "Software"
     ],
-    "dependencyCount": "74",
+    "dependencyCount": "77",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "065ea7f",
     "git_last_commit_date": "2024-10-29",

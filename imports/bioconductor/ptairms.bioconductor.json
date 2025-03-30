@@ -41,7 +41,7 @@
     "Maintainer": "camille Roquencourt <camille.roquencourt@hotmail.fr>",
     "NeedsCompilation": "yes",
     "Package": "ptairMS",
-    "Rank": 1971,
+    "Rank": 1995,
     "Rfiles": [
         "vignettes/ptairMS/inst/doc/ptairMS.R"
     ],
@@ -64,7 +64,7 @@
         "Preprocessing",
         "Software"
     ],
-    "dependencyCount": "190",
+    "dependencyCount": "193",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "305ca9a",
     "git_last_commit_date": "2024-10-29",

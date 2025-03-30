@@ -40,7 +40,7 @@
     "Maintainer": "Devon Kohler <kohler.d@northeastern.edu>",
     "NeedsCompilation": "no",
     "Package": "MSstatsShiny",
-    "Rank": 936,
+    "Rank": 1018,
     "Rfiles": [
         "vignettes/MSstatsShiny/inst/doc/MSstatsShiny_Launch_Instructions.R"
     ],
@@ -68,7 +68,7 @@
         "Software",
         "TwoChannel"
     ],
-    "dependencyCount": "155",
+    "dependencyCount": "158",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "5f27eb7",
     "git_last_commit_date": "2024-10-29",

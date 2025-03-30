@@ -12,7 +12,7 @@
     "Maintainer": "Michael Love <michaelisaiahlove@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "tximport",
-    "Rank": 110,
+    "Rank": 106,
     "Rfiles": [
         "vignettes/tximport/inst/doc/tximport.R"
     ],
@@ -65,7 +65,7 @@
         "IsoformSwitchAnalyzeR",
         "TDbasedUFE",
         "alevinQC",
-        "seeker",
+        "cpam",
         "singleCellTK",
         "tximeta"
     ],

@@ -24,7 +24,7 @@
     "Maintainer": "Marcel Ramos <marcel.ramos@sph.cuny.edu>",
     "NeedsCompilation": "no",
     "Package": "UniProt.ws",
-    "Rank": 335,
+    "Rank": 324,
     "Rfiles": [
         "vignettes/UniProt.ws/inst/doc/UniProt.ws.R"
     ],
@@ -62,6 +62,7 @@
         "immunogenViewer"
     ],
     "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/UniProt.ws_2.46.1.tgz",
+    "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/UniProt.ws_2.46.1.tgz",
     "source.ver": "src/contrib/UniProt.ws_2.46.1.tar.gz",
     "suggestsMe": [
         "autonomics",

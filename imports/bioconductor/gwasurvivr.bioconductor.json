@@ -21,7 +21,7 @@
     "Maintainer": "Abbas Rizvi <aarizv@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "gwasurvivr",
-    "Rank": 1005,
+    "Rank": 1064,
     "Rfiles": [
         "vignettes/gwasurvivr/inst/doc/gwasurvivr_Introduction.R"
     ],
@@ -45,7 +45,7 @@
         "Software",
         "Survival"
     ],
-    "dependencyCount": "143",
+    "dependencyCount": "146",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "e634cba",
     "git_last_commit_date": "2024-10-29",

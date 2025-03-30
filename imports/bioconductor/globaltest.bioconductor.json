@@ -18,7 +18,7 @@
     "Maintainer": "Jelle Goeman <j.j.goeman@lumc.nl>",
     "NeedsCompilation": "no",
     "Package": "globaltest",
-    "Rank": 153,
+    "Rank": 160,
     "Rfiles": [
         "vignettes/globaltest/inst/doc/GlobalTest.R"
     ],
@@ -66,7 +66,6 @@
         "BiSeq",
         "EGSEA",
         "SIM",
-        "SlaPMEG",
         "miRtest"
     ],
     "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/globaltest_5.60.0.tgz",

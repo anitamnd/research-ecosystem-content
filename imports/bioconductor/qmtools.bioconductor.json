@@ -27,7 +27,7 @@
     "Maintainer": "Jaehyun Joo <jaehyunjoo@outlook.com>",
     "NeedsCompilation": "no",
     "Package": "qmtools",
-    "Rank": 1836,
+    "Rank": 1843,
     "Rfiles": [
         "vignettes/qmtools/inst/doc/qmtools.R"
     ],
@@ -58,7 +58,7 @@
         "Preprocessing",
         "Software"
     ],
-    "dependencyCount": "163",
+    "dependencyCount": "166",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "8b97db4",
     "git_last_commit_date": "2024-10-29",

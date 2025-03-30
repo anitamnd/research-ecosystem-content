@@ -24,7 +24,7 @@
     "Maintainer": "Brennan Baker <brennanhilton@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "RNAseqCovarImpute",
-    "Rank": 2146,
+    "Rank": 2141,
     "Rfiles": [
         "vignettes/RNAseqCovarImpute/inst/doc/Example_Data_for_RNAseqCovarImpute.R",
         "vignettes/RNAseqCovarImpute/inst/doc/Impute_Covariate_Data_in_RNA_sequencing_Studies.R"
@@ -49,7 +49,7 @@
         "Sequencing",
         "Software"
     ],
-    "dependencyCount": "82",
+    "dependencyCount": "85",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "a863a3d",
     "git_last_commit_date": "2024-10-29",

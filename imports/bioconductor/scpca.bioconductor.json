@@ -34,7 +34,7 @@
     "Maintainer": "Philippe Boileau <philippe_boileau@berkeley.edu>",
     "NeedsCompilation": "no",
     "Package": "scPCA",
-    "Rank": 1068,
+    "Rank": 1157,
     "Rfiles": [
         "vignettes/scPCA/inst/doc/scpca_intro.R"
     ],
@@ -67,6 +67,7 @@
     ],
     "dependencyCount": "73",
     "dependsOnMe": [
+        "OSCA.advanced",
         "OSCA.workflows"
     ],
     "git_branch": "RELEASE_3_20",

@@ -19,7 +19,7 @@
     "Maintainer": "Jiadi Zhu <2160090406@email.szu.edu.cn>, Yan Zhou <zhouy1016@szu.edu.cn>",
     "NeedsCompilation": "no",
     "Package": "MEB",
-    "Rank": 1902,
+    "Rank": 1866,
     "Rfiles": [
         "vignettes/MEB/inst/doc/NIMEB.R"
     ],
@@ -39,7 +39,7 @@
         "Sequencing",
         "Software"
     ],
-    "dependencyCount": "115",
+    "dependencyCount": "116",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "d8aa2aa",
     "git_last_commit_date": "2024-10-29",

@@ -34,7 +34,7 @@
     "Maintainer": "Christof Seiler <christof.seiler@maastrichtuniversity.nl>",
     "NeedsCompilation": "no",
     "Package": "CytoGLMM",
-    "Rank": 967,
+    "Rank": 1576,
     "Rfiles": [
         "vignettes/CytoGLMM/inst/doc/CytoGLMM.R"
     ],
@@ -59,7 +59,7 @@
         "Software",
         "StatisticalMethod"
     ],
-    "dependencyCount": "173",
+    "dependencyCount": "174",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "019171c",
     "git_last_commit_date": "2024-10-29",
@@ -68,6 +68,9 @@
     "hasLICENSE": false,
     "hasNEWS": true,
     "hasREADME": false,
+    "importsMe": [
+        "CyTOFpower"
+    ],
     "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/CytoGLMM_1.14.0.tgz",
     "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/CytoGLMM_1.14.0.tgz",
     "source.ver": "src/contrib/CytoGLMM_1.14.0.tar.gz",

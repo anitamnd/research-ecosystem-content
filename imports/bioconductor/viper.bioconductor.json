@@ -59,6 +59,7 @@
     "source.ver": "src/contrib/viper_1.40.0.tar.gz",
     "suggestsMe": [
         "MOMA",
+        "MethReg",
         "decoupleR",
         "dorothea",
         "easier",

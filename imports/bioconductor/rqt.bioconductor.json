@@ -25,7 +25,7 @@
     "Maintainer": "Ilya Zhbannikov <ilya.zhbannikov@duke.edu>",
     "NeedsCompilation": "no",
     "Package": "rqt",
-    "Rank": 2014,
+    "Rank": 2005,
     "Rfiles": [
         "vignettes/rqt/inst/doc/rqt-vignette.R"
     ],
@@ -47,7 +47,7 @@
         "StatisticalMethod",
         "Survival"
     ],
-    "dependencyCount": "155",
+    "dependencyCount": "156",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "2cb8668",
     "git_last_commit_date": "2024-10-29",

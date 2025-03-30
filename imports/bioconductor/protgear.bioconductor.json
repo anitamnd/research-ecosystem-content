@@ -47,7 +47,7 @@
     "Maintainer": "Kennedy Mwai <keniajin@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "protGear",
-    "Rank": 1808,
+    "Rank": 1774,
     "Rfiles": [
         "vignettes/protGear/inst/doc/vignette.R"
     ],
@@ -84,7 +84,7 @@
         "Software",
         "SystemsBiology"
     ],
-    "dependencyCount": "188",
+    "dependencyCount": "191",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "7290eaf",
     "git_last_commit_date": "2024-10-29",

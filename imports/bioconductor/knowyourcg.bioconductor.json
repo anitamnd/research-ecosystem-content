@@ -29,7 +29,7 @@
     "Maintainer": "Goldberg David <golddc72@pennmedicine.upenn.edu>",
     "NeedsCompilation": "no",
     "Package": "knowYourCG",
-    "Rank": 2223,
+    "Rank": 2192,
     "Rfiles": [
         "vignettes/knowYourCG/inst/doc/Array.R",
         "vignettes/knowYourCG/inst/doc/Continuous.R",
@@ -53,7 +53,7 @@
         "MethylationArray",
         "Software"
     ],
-    "dependencyCount": "79",
+    "dependencyCount": "98",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "200fa49",
     "git_last_commit_date": "2024-12-30",

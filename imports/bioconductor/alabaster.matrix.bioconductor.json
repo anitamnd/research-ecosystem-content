@@ -26,7 +26,7 @@
     "Maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "NeedsCompilation": "yes",
     "Package": "alabaster.matrix",
-    "Rank": 140,
+    "Rank": 121,
     "Rfiles": [
         "vignettes/alabaster.matrix/inst/doc/userguide.R"
     ],
@@ -46,7 +46,7 @@
         "DataRepresentation",
         "Software"
     ],
-    "dependencyCount": "33",
+    "dependencyCount": "34",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "d176a56",
     "git_last_commit_date": "2024-11-19",

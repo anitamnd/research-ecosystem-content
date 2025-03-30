@@ -1,7 +1,7 @@
 {
     "Author": "Yang Cao [aut, cre]",
     "BugReports": "https://github.com/yiluheihei/microbiomeMarker/issues",
-    "Date/Publication": "2024-05-04",
+    "Date/Publication": "2025-02-20",
     "Depends": [
         "R (>= 4.1.0)"
     ],
@@ -46,11 +46,14 @@
         "yaml"
     ],
     "License": "GPL-3",
-    "MD5sum": "e8ab332ff33dd55ef15479e6117024c0",
+    "MD5sum": "06e05c7e9e917feafa1be81d8fbb370c",
     "Maintainer": "Yang Cao <caoyang.name@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "microbiomeMarker",
-    "Rank": 359,
+    "Rank": 368,
+    "Rfiles": [
+        "vignettes/microbiomeMarker/inst/doc/microbiomeMarker-vignette.R"
+    ],
     "Suggests": [
         "BiocStyle",
         "Matrix",
@@ -59,6 +62,7 @@
         "glmnet",
         "kernlab",
         "knitr",
+        "microbiome",
         "ranger",
         "rmarkdown",
         "testthat",
@@ -66,7 +70,7 @@
     ],
     "Title": "microbiome biomarker analysis toolkit",
     "URL": "https://github.com/yiluheihei/microbiomeMarker",
-    "Version": "1.11.0",
+    "Version": "1.12.2",
     "VignetteBuilder": "knitr",
     "biocViews": [
         "DifferentialExpression",
@@ -74,13 +78,23 @@
         "Microbiome",
         "Software"
     ],
-    "git_branch": "devel",
-    "git_last_commit": "0197460",
-    "git_last_commit_date": "2024-04-30",
+    "dependencyCount": "264",
+    "git_branch": "RELEASE_3_20",
+    "git_last_commit": "c71d8a2",
+    "git_last_commit_date": "2025-02-19",
     "git_url": "https://git.bioconductor.org/packages/microbiomeMarker",
     "hasINSTALL": false,
     "hasLICENSE": false,
     "hasNEWS": true,
     "hasREADME": false,
-    "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/microbiomeMarker_1.11.0.tgz"
+    "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/microbiomeMarker_1.12.2.tgz",
+    "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/microbiomeMarker_1.12.2.tgz",
+    "source.ver": "src/contrib/microbiomeMarker_1.12.2.tar.gz",
+    "vignetteTitles": [
+        "Tools for microbiome marker identification"
+    ],
+    "vignettes": [
+        "vignettes/microbiomeMarker/inst/doc/microbiomeMarker-vignette.html"
+    ],
+    "win.binary.ver": "bin/windows/contrib/4.4/microbiomeMarker_1.12.2.zip"
 }

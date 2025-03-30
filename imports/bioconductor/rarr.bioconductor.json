@@ -21,7 +21,7 @@
     "Maintainer": "Mike Smith <grimbough@gmail.com>",
     "NeedsCompilation": "yes",
     "Package": "Rarr",
-    "Rank": 717,
+    "Rank": 666,
     "Rfiles": [
         "vignettes/Rarr/inst/doc/Rarr.R"
     ],
@@ -41,7 +41,7 @@
         "DataImport",
         "Software"
     ],
-    "dependencyCount": "47",
+    "dependencyCount": "50",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "270345b",
     "git_last_commit_date": "2024-10-29",

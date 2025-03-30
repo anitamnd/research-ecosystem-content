@@ -42,7 +42,7 @@
     "Maintainer": "Subhadeep Das <subhadeep1024@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "OMICsPCA",
-    "Rank": 1423,
+    "Rank": 1431,
     "Rfiles": [
         "vignettes/OMICsPCA/inst/doc/vignettes.R"
     ],
@@ -74,7 +74,7 @@
         "Visualization",
         "Workflow"
     ],
-    "dependencyCount": "206",
+    "dependencyCount": "209",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "413b54f",
     "git_last_commit_date": "2024-10-29",

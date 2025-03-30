@@ -39,7 +39,7 @@
     "Maintainer": "Seonggyun Han <hangost@ssu.ac.kr>",
     "NeedsCompilation": "no",
     "Package": "IMAS",
-    "Rank": 1547,
+    "Rank": 1536,
     "Rfiles": [
         "vignettes/IMAS/inst/doc/IMAS.R"
     ],
@@ -63,7 +63,7 @@
         "Software",
         "Transcription"
     ],
-    "dependencyCount": "117",
+    "dependencyCount": "120",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "19add53",
     "git_last_commit_date": "2024-10-29",

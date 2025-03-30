@@ -18,7 +18,7 @@
     "Maintainer": "P.M.V. Rancoita <rancoita.paola@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "mBPCR",
-    "Rank": 1177,
+    "Rank": 1031,
     "Rfiles": [
         "vignettes/mBPCR/inst/doc/mBPCR.R"
     ],
@@ -35,7 +35,7 @@
         "Software",
         "aCGH"
     ],
-    "dependencyCount": "122",
+    "dependencyCount": "125",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "dc703c0",
     "git_last_commit_date": "2024-10-29",

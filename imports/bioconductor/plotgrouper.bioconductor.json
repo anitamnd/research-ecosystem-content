@@ -33,7 +33,7 @@
     "Maintainer": "John D. Gagnon <john.gagnon.42@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "plotGrouper",
-    "Rank": 1950,
+    "Rank": 1945,
     "Rfiles": [
         "vignettes/plotGrouper/inst/doc/plotGrouper-vignette.R"
     ],
@@ -58,7 +58,7 @@
         "Software",
         "StatisticalMethod"
     ],
-    "dependencyCount": "133",
+    "dependencyCount": "136",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "79a21d5",
     "git_last_commit_date": "2024-10-29",
@@ -75,5 +75,6 @@
     ],
     "vignettes": [
         "vignettes/plotGrouper/inst/doc/plotGrouper-vignette.html"
-    ]
+    ],
+    "win.binary.ver": "bin/windows/contrib/4.4/plotGrouper_1.24.0.zip"
 }

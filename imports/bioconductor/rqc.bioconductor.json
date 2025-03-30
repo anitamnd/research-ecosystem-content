@@ -36,7 +36,7 @@
     "Maintainer": "Welliton Souza <well309@gmail.com>",
     "NeedsCompilation": "yes",
     "Package": "Rqc",
-    "Rank": 433,
+    "Rank": 404,
     "Rfiles": [
         "vignettes/Rqc/inst/doc/Rqc.R"
     ],
@@ -54,7 +54,7 @@
         "Sequencing",
         "Software"
     ],
-    "dependencyCount": "159",
+    "dependencyCount": "160",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "956d2d1",
     "git_last_commit_date": "2024-10-29",

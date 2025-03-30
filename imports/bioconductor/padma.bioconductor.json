@@ -20,7 +20,7 @@
     "Maintainer": "Andrea Rau <andrea.rau@inrae.fr>",
     "NeedsCompilation": "no",
     "Package": "padma",
-    "Rank": 1785,
+    "Rank": 1751,
     "Rfiles": [
         "vignettes/padma/inst/doc/padma.R"
     ],
@@ -51,7 +51,7 @@
         "Software",
         "StatisticalMethod"
     ],
-    "dependencyCount": "133",
+    "dependencyCount": "136",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "0871699",
     "git_last_commit_date": "2024-10-29",

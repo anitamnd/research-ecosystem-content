@@ -25,7 +25,7 @@
     "Maintainer": "Selcen Ari Yuka <selcenarii@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "ceRNAnetsim",
-    "Rank": 2054,
+    "Rank": 2061,
     "Rfiles": [
         "vignettes/ceRNAnetsim/inst/doc/auxiliary_commands.R",
         "vignettes/ceRNAnetsim/inst/doc/basic_usage.R",
@@ -51,7 +51,7 @@
         "SystemsBiology",
         "Transcriptomics"
     ],
-    "dependencyCount": "69",
+    "dependencyCount": "70",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "a7e730f",
     "git_last_commit_date": "2024-10-29",

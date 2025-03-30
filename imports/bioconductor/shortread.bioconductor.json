@@ -63,7 +63,6 @@
         "NestLink",
         "OTUbase",
         "Rqc",
-        "STRMPS",
         "chipseq",
         "esATAC",
         "girafe",
@@ -101,6 +100,7 @@
         "genBaRcode",
         "icetea",
         "nucleR",
+        "rsahmi",
         "scruff",
         "seqpac"
     ],
