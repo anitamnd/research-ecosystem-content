@@ -32,7 +32,7 @@
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 1,
+                                    "count": 3,
                                     "year": "2024"
                                 },
                                 {
@@ -44,7 +44,7 @@
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 18,
+                                    "count": 16,
                                     "year": "2021"
                                 }
                             ],
@@ -595,6 +595,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/3.7/bioc/html/treeio.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -626,6 +632,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/3.7/bioc/html/treeio.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }

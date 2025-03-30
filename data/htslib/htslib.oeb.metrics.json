@@ -24,29 +24,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -54,14 +54,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -84,6 +76,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -114,29 +112,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -144,14 +142,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -174,6 +164,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -204,29 +200,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -234,14 +230,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -264,6 +252,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -294,29 +288,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -324,14 +318,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -354,6 +340,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -384,29 +376,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -414,14 +406,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -444,6 +428,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -474,29 +464,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -504,14 +494,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -534,6 +516,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -564,29 +552,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -594,14 +582,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -624,6 +604,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -654,29 +640,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -684,14 +670,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -714,6 +692,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -744,29 +728,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -774,14 +758,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -804,6 +780,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -834,29 +816,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -864,14 +846,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -894,6 +868,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -924,29 +904,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -954,14 +934,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -984,6 +956,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1014,29 +992,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1044,14 +1022,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1074,6 +1044,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1104,29 +1080,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1134,14 +1110,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1164,6 +1132,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1194,29 +1168,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1224,14 +1198,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1254,6 +1220,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1284,29 +1256,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1314,14 +1286,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1344,6 +1308,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1374,29 +1344,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1404,14 +1374,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1434,6 +1396,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1464,29 +1432,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1494,14 +1462,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1524,6 +1484,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1554,29 +1520,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1584,14 +1550,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1614,6 +1572,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1644,29 +1608,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1674,14 +1638,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1704,6 +1660,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1734,29 +1696,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1764,14 +1726,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1794,6 +1748,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1824,29 +1784,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1854,14 +1814,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1884,6 +1836,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -1914,29 +1872,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1944,14 +1902,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -1974,6 +1924,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2004,29 +1960,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2034,14 +1990,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -2064,6 +2012,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2094,29 +2048,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2124,14 +2078,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -2154,6 +2100,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2184,29 +2136,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2214,14 +2166,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -2244,6 +2188,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2274,29 +2224,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2304,14 +2254,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -2334,6 +2276,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2364,29 +2312,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2394,14 +2342,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -2424,6 +2364,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2454,29 +2400,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2484,14 +2430,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -2514,6 +2452,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2544,29 +2488,29 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 32,
+                            "cit_count": 7,
                             "citations": [
                                 {
-                                    "count": 3,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 14,
+                                    "count": 2,
                                     "year": "2023"
                                 }
                             ],
                             "doi": "10.1093/gigascience/giab007",
                             "pmcid": "PMC7931820",
                             "pmid": "33594436",
-                            "ref_count": 8,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2574,14 +2518,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -2604,6 +2540,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2651,6 +2593,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -2701,6 +2649,12 @@
                 "https": false,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://sourceforge.net/projects/samtools/"
+                    }
+                ],
                 "ssl": null,
                 "ssl_err": null
             }
@@ -4230,7 +4184,7 @@
                         "url": "https://sourceforge.net/projects/samtools/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         },

@@ -17,16 +17,8 @@
                             "doi": "10.1186/s12859-019-3077-x",
                             "pmcid": "PMC6886211",
                             "pmid": "31787091",
-                            "ref_count": 39,
+                            "ref_count": 33,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1971"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1995"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2006"
@@ -45,15 +37,15 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 3,
                                     "year": "2011"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2013"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 3,
@@ -66,10 +58,6 @@
                                 {
                                     "count": 4,
                                     "year": "2012"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2015"
                                 },
                                 {
                                     "count": 9,
@@ -90,7 +78,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 500,
+                "operational": 200,
                 "ssl": null,
                 "ssl_err": null
             }
@@ -113,7 +101,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 500,
+                "operational": 200,
                 "ssl": null,
                 "ssl_err": null
             }

@@ -20,7 +20,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 172,
+                            "cit_count": 183,
                             "citations": [
                                 {
                                     "count": 1,
@@ -31,20 +31,8 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
                                     "count": 3,
                                     "year": "2007"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2024"
                                 },
                                 {
                                     "count": 4,
@@ -71,16 +59,8 @@
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 11,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 11,
-                                    "year": "2012"
                                 },
                                 {
                                     "count": 13,
@@ -95,12 +75,20 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 16,
-                                    "year": "2014"
+                                    "count": 18,
+                                    "year": "2011"
                                 },
                                 {
                                     "count": 18,
-                                    "year": "2011"
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 18,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 19,
+                                    "year": "2014"
                                 },
                                 {
                                     "count": 22,
@@ -150,11 +138,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww25.casplab.com/?subid1=20241223-2102-225c-af14-771a0ed74f5c"
+                        "url": "http://ww25.casplab.com/?subid1=20250329-2104-4251-9953-bf0787fbf25b"
                     }
                 ],
                 "ssl": null,
@@ -182,11 +170,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww25.casplab.com/?subid1=20241223-2102-23c0-9049-376757c47671"
+                        "url": "http://ww25.casplab.com/?subid1=20250329-2104-4256-af30-95927994c57e"
                     }
                 ],
                 "ssl": null,

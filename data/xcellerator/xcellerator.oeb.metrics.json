@@ -20,15 +20,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 45,
+                            "cit_count": 46,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2004"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2012"
                                 },
                                 {
                                     "count": 1,
@@ -41,6 +37,10 @@
                                 {
                                     "count": 2,
                                     "year": "2008"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 2,
@@ -105,11 +105,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 403,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww12.xcellerator.info/?usid=19&utid=19851758589"
+                        "url": "http://ww1.xcellerator.info/?usid=25&utid=9872762923"
                     }
                 ],
                 "ssl": null,
@@ -141,7 +141,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww1.xcellerator.info/?usid=19&utid=19851758534"
+                        "url": "http://ww1.xcellerator.info/?usid=25&utid=9872762879"
                     }
                 ],
                 "ssl": null,

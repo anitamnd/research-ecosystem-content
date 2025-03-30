@@ -22,7 +22,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 401,
+                            "cit_count": 404,
                             "citations": [
                                 {
                                     "count": 1,
@@ -77,20 +77,20 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 36,
+                                    "count": 37,
                                     "year": "2012"
                                 },
                                 {
                                     "count": 39,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 40,
                                     "year": "2011"
                                 },
                                 {
                                     "count": 40,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 42,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 48,
@@ -153,7 +153,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 401,
+                            "cit_count": 404,
                             "citations": [
                                 {
                                     "count": 1,
@@ -208,20 +208,20 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 36,
+                                    "count": 37,
                                     "year": "2012"
                                 },
                                 {
                                     "count": 39,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 40,
                                     "year": "2011"
                                 },
                                 {
                                     "count": 40,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 42,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 48,

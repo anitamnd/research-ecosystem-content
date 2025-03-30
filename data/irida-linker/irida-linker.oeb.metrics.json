@@ -106,8 +106,12 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 303,
-                        "url": "https://cran.r-project.org/web/packages/HEMDAG/index.html"
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq"
+                    },
+                    {
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq/"
                     }
                 ],
                 "ssl": true,
@@ -165,8 +169,12 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 303,
-                        "url": "https://cran.r-project.org/web/packages/HEMDAG/index.html"
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq"
+                    },
+                    {
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq/"
                     }
                 ],
                 "ssl": true,
@@ -224,8 +232,12 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 303,
-                        "url": "https://cran.r-project.org/web/packages/HEMDAG/index.html"
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq"
+                    },
+                    {
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq/"
                     }
                 ],
                 "ssl": true,
@@ -279,8 +291,12 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 303,
-                        "url": "https://cran.r-project.org/web/packages/HEMDAG/index.html"
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq"
+                    },
+                    {
+                        "status": 301,
+                        "url": "https://compbio.med.harvard.edu/Supplements/ChIP-seq/"
                     }
                 ],
                 "ssl": true,

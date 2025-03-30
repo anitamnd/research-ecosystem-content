@@ -12,12 +12,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 2,
+                            "cit_count": 1,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2022"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2023"
@@ -63,6 +59,10 @@
                 "redirects": [
                     {
                         "status": 301,
+                        "url": "https://aca.unl.edu/dbCAN_PUL/dbCAN_PUL/"
+                    },
+                    {
+                        "status": 301,
                         "url": "https://bcb.unl.edu/dbCAN_PUL/"
                     }
                 ],
@@ -90,6 +90,10 @@
                 "license": false,
                 "operational": 200,
                 "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://aca.unl.edu/dbCAN_PUL/dbCAN_PUL/"
+                    },
                     {
                         "status": 301,
                         "url": "https://bcb.unl.edu/dbCAN_PUL/"

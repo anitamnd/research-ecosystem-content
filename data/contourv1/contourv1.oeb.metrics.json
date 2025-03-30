@@ -125,19 +125,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/&osid=1&passive=1209600&ifkv=AeZLP9-vIkaJWM0U6hptq73rRre7NpYH6nADnGnmmAgKbwFRNaB2HfKMyP1V289NIddtRb1I6kJSjg"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/contourv1/&followup=https://sites.google.com/site/contourv1/&osid=1&passive=1209600&ifkv=AXH0vVsZc6CEnc8EVL5M97WcH59VlyXzWSsb7DPywgTSnVbMOFO8uKHmUHR8633KldwihZj9rJ8C"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/contourv1/&followup=https://sites.google.com/site/contourv1/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcontourv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcontourv1%2F&ifkv=AeZLP99BXsfGmkBPlZj5cot06CIPSXbaAFU-QkNeeJPQieBgSoHYSnigHazPbSiYPVFW6J7MKe1i2g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1663185739%3A1735882957348521&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fcontourv1%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fcontourv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fcontourv1%2F&ifkv=AXH0vVvafQRjpq6DA0T1I6b0Icjm5BoVGGAAaaZutOb3JXZPoqDcPmpQ70uwxGmtB-iFrYzXRlUv&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1463419122%3A1743241618129041"
                     }
                 ],
                 "ssl": true,
@@ -222,19 +218,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/&osid=1&passive=1209600&ifkv=AeZLP9_NsKzA0ns7cM4m9DfqcpmyifW82ftBVPS82dRqT9m-T1IHwbIoQBYrXA3C91dbqIPMRW6doQ"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/contourv1/&followup=https://sites.google.com/site/contourv1/&osid=1&passive=1209600&ifkv=AXH0vVsExWrwbhaB4eCfJeo1Lrbhh2cL21ZhEo6J2N4xecqiNbBD_wDfspwqpEjdS8a2vA87CWOS"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/contourv1/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/contourv1/&followup=https://sites.google.com/site/contourv1/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcontourv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcontourv1%2F&ifkv=AeZLP9-117h5UnAgNfBUGmcjfecK2dUNqgiNAQLoHP_IlFdhktVOzIXvV5rsT7uPFZF39BNJWVe0RA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S136858712%3A1735883088457279&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fcontourv1%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fcontourv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fcontourv1%2F&ifkv=AXH0vVuK3DeBTEahu5KaZHiRIvMXImisEpWn2l1EWDEOFf-AhIY2fkzDMV8gnaebX3usewpDOCDC&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1882342526%3A1743241668191556"
                     }
                 ],
                 "ssl": true,

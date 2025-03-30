@@ -34,7 +34,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 8,
+                            "cit_count": 10,
                             "citations": [
                                 {
                                     "count": 1,
@@ -45,6 +45,10 @@
                                     "year": "2020"
                                 },
                                 {
+                                    "count": 2,
+                                    "year": "2023"
+                                },
+                                {
                                     "count": 3,
                                     "year": "2017"
                                 },
@@ -53,10 +57,14 @@
                                     "year": "2018"
                                 }
                             ],
-                            "doi": "10.1093/BIOINFORMATICS/BTV662",
+                            "doi": "10.1093/bioinformatics/btv662",
                             "pmid": "26568628",
-                            "ref_count": 20,
+                            "ref_count": 25,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "2002"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2006"
@@ -83,6 +91,10 @@
                                 },
                                 {
                                     "count": 4,
+                                    "year": "0"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2013"
                                 },
                                 {
@@ -90,8 +102,8 @@
                                     "year": "2012"
                                 }
                             ],
-                            "title": "rHAT: fast alignment of noisy long reads with regional hashing",
-                            "year": 2015
+                            "title": "rHAT: fast alignment of noisy long reads with regional hashing.",
+                            "year": 2016
                         }
                     ]
                 }

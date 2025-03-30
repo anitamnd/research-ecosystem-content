@@ -17,7 +17,7 @@
                             "doi": "10.1093/database/baab063",
                             "pmcid": "PMC8533362",
                             "pmid": "34679165",
-                            "ref_count": 10,
+                            "ref_count": 6,
                             "refs": [
                                 {
                                     "count": 1,
@@ -29,27 +29,15 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2006"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2021"
                                 }
                             ],
                             "title": "MMV-db: vaccinomics and RNA-based therapeutics database for infectious hemorrhagic fever-causing mammarenaviruses.",
@@ -64,16 +52,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://www.mmvdb.dqweilab-sjtu.com/index.php"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         }
@@ -96,7 +84,7 @@
                             "doi": "10.1093/database/baab063",
                             "pmcid": "PMC8533362",
                             "pmid": "34679165",
-                            "ref_count": 10,
+                            "ref_count": 6,
                             "refs": [
                                 {
                                     "count": 1,
@@ -108,27 +96,15 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2006"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2021"
                                 }
                             ],
                             "title": "MMV-db: vaccinomics and RNA-based therapeutics database for infectious hemorrhagic fever-causing mammarenaviruses.",
@@ -143,16 +119,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://www.mmvdb.dqweilab-sjtu.com/index.php"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         }
@@ -172,16 +148,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://www.mmvdb.dqweilab-sjtu.com/index.php"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         }

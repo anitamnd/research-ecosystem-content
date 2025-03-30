@@ -62,7 +62,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -106,11 +106,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -121,19 +125,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -229,7 +229,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -273,11 +273,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -288,19 +292,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -502,7 +502,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -546,11 +546,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -561,19 +565,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -661,7 +661,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -705,11 +705,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -720,19 +724,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -751,6 +751,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/release/bioc/html/rGADEM.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -814,7 +820,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -858,11 +864,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -873,19 +883,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -967,7 +973,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1011,11 +1017,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -1026,19 +1036,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -1120,7 +1126,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1164,11 +1170,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -1179,19 +1189,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -1273,7 +1279,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1317,11 +1323,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -1332,19 +1342,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -1426,7 +1432,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1470,11 +1476,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -1485,19 +1495,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -1579,7 +1585,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1623,11 +1629,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -1638,19 +1648,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -1732,7 +1738,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1776,11 +1782,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -1791,19 +1801,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -1885,7 +1891,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1929,11 +1935,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -1944,19 +1954,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -2038,7 +2044,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2082,11 +2088,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -2097,19 +2107,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],
@@ -2191,7 +2197,7 @@
                             "doi": "10.1371/journal.pone.0016432",
                             "pmcid": "PMC3040171",
                             "pmid": "21358819",
-                            "ref_count": 75,
+                            "ref_count": 68,
                             "refs": [
                                 {
                                     "count": 1,
@@ -2235,11 +2241,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2007"
+                                    "year": "1994"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2001"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 5,
@@ -2250,19 +2260,15 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "1994"
+                                    "count": 8,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 10,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 13,
+                                    "count": 11,
                                     "year": "2008"
                                 }
                             ],

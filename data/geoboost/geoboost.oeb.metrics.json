@@ -38,8 +38,12 @@
                             "doi": "10.1093/bioinformatics/btx799",
                             "pmcid": "PMC5925778",
                             "pmid": "29240889",
-                            "ref_count": 13,
+                            "ref_count": 9,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "2008"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2010"
@@ -54,11 +58,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2008"
+                                    "year": "2016"
                                 },
                                 {
                                     "count": 2,
@@ -67,10 +67,6 @@
                                 {
                                     "count": 2,
                                     "year": "2015"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2016"
                                 }
                             ],
                             "title": "GeoBoost: accelerating research involving the geospatial metadata of virus GenBank records.",
@@ -91,11 +87,15 @@
                 "redirects": [
                     {
                         "status": 302,
+                        "url": "https://drive.google.com/drive/folders/0B_4ZL2GZpq2yeHRxMmRvYlNPY2s"
+                    },
+                    {
+                        "status": 302,
                         "url": "https://support.google.com/drive/?p=unsupported_browser"
                     },
                     {
                         "status": 302,
-                        "url": "https://support.google.com/drive/answer/6283888?visit_id=638714829355676350-3614340086&p=unsupported_browser&rd=1"
+                        "url": "https://support.google.com/drive/answer/6283888?visit_id=638788394739087674-2173948190&p=unsupported_browser&rd=1"
                     }
                 ],
                 "ssl": true,
@@ -127,11 +127,15 @@
                 "redirects": [
                     {
                         "status": 302,
+                        "url": "https://drive.google.com/drive/folders/0B_4ZL2GZpq2yeHRxMmRvYlNPY2s"
+                    },
+                    {
+                        "status": 302,
                         "url": "https://support.google.com/drive/?p=unsupported_browser"
                     },
                     {
                         "status": 302,
-                        "url": "https://support.google.com/drive/answer/6283888?visit_id=638714826837430629-2779772595&p=unsupported_browser&rd=1"
+                        "url": "https://support.google.com/drive/answer/6283888?visit_id=638788394330206872-799852227&p=unsupported_browser&rd=1"
                     }
                 ],
                 "ssl": true,

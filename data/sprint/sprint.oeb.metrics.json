@@ -50,35 +50,19 @@
                             "doi": "10.1186/1471-2105-9-558",
                             "pmcid": "PMC2628907",
                             "pmid": "19114001",
-                            "ref_count": 20,
+                            "ref_count": 10,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1991"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1998"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1999"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2005"
+                                    "year": "2003"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2002"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2003"
-                                },
-                                {
-                                    "count": 6,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 6,
@@ -99,11 +83,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww16.r-sprint.org/?sub1=20241218-1341-3096-80ad-73d59b5797e2"
+                        "url": "http://ww25.r-sprint.org/?subid1=20250329-1435-0064-81f4-4590ab6c9c07"
                     }
                 ],
                 "ssl": null,
@@ -131,11 +115,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww16.r-sprint.org/?sub1=20241218-1341-3096-80ad-73d59b5797e2"
+                        "url": "http://ww25.r-sprint.org/?subid1=20250329-1435-000e-8321-866bd2514144"
                     }
                 ],
                 "ssl": null,

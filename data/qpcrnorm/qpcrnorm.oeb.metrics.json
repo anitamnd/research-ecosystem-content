@@ -24,7 +24,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -33,10 +33,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -82,35 +78,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -119,10 +103,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -179,7 +159,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -188,10 +168,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -237,35 +213,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -274,10 +238,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -403,7 +363,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -412,10 +372,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -461,35 +417,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -498,10 +442,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -550,7 +490,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -559,10 +499,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -608,35 +544,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -645,10 +569,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -691,7 +611,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -700,10 +620,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -749,35 +665,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -786,10 +690,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -807,6 +707,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/release/bioc/html/qpcrNorm.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -832,7 +738,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -841,10 +747,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -890,35 +792,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -927,10 +817,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -973,7 +859,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -982,10 +868,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -1031,35 +913,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -1068,10 +938,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -1114,7 +980,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1123,10 +989,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -1172,35 +1034,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -1209,10 +1059,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -1255,7 +1101,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1264,10 +1110,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -1313,35 +1155,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -1350,10 +1180,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -1396,7 +1222,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1405,10 +1231,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -1454,35 +1276,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -1491,10 +1301,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -1537,7 +1343,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1546,10 +1352,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -1595,35 +1397,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -1632,10 +1422,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -1678,7 +1464,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1687,10 +1473,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -1736,35 +1518,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -1773,10 +1543,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -1819,7 +1585,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1828,10 +1594,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -1877,35 +1639,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -1914,10 +1664,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",
@@ -1960,7 +1706,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 58,
+                            "cit_count": 57,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1969,10 +1715,6 @@
                                 {
                                     "count": 1,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -2018,35 +1760,23 @@
                             "doi": "10.1186/1471-2105-10-110",
                             "pmcid": "PMC2680405",
                             "pmid": "19374774",
-                            "ref_count": 23,
+                            "ref_count": 15,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1979"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2002"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 4,
@@ -2055,10 +1785,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2008"
                                 }
                             ],
                             "title": "Data-driven normalization strategies for high-throughput quantitative RT-PCR.",

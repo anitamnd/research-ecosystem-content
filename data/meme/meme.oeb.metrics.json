@@ -34,12 +34,8 @@
                             "doi": "10.1093/bioinformatics/btv750",
                             "pmcid": "PMC4907379",
                             "pmid": "26704599",
-                            "ref_count": 7,
+                            "ref_count": 6,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "0"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1998"
@@ -437,9 +433,9 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 301,
@@ -450,7 +446,7 @@
                         "url": "https://meme-suite.org/tools/meme"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         }

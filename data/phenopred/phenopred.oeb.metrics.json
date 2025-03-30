@@ -69,7 +69,7 @@
                             "doi": "10.1002/prot.21989",
                             "pmcid": "PMC2824611",
                             "pmid": "18300252",
-                            "ref_count": 69,
+                            "ref_count": 65,
                             "refs": [
                                 {
                                     "count": 1,
@@ -88,12 +88,12 @@
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "1996"
+                                    "count": 2,
+                                    "year": "1998"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "1998"
+                                    "year": "1996"
                                 },
                                 {
                                     "count": 3,
@@ -109,11 +109,11 @@
                                 },
                                 {
                                     "count": 5,
-                                    "year": "2007"
+                                    "year": "2000"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "2000"
+                                    "count": 5,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 7,
@@ -124,11 +124,11 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 7,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 15,
+                                    "count": 14,
                                     "year": "2006"
                                 }
                             ],
@@ -142,18 +142,26 @@
                 "description": true
             },
             "website": {
-                "bioschemas": false,
+                "bioschemas": true,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": false,
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
+                        "status": 301,
+                        "url": "https://alexeyleonreyes.com"
+                    },
+                    {
+                        "status": 301,
+                        "url": "https://phenopred.org/"
+                    },
+                    {
+                        "status": 301,
                         "url": "https://www.phenopred.org/"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         },
@@ -227,18 +235,26 @@
                 "description": true
             },
             "website": {
-                "bioschemas": false,
+                "bioschemas": true,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": false,
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
+                        "status": 301,
+                        "url": "https://alexeyleonreyes.com"
+                    },
+                    {
+                        "status": 301,
+                        "url": "https://phenopred.org/"
+                    },
+                    {
+                        "status": 301,
                         "url": "https://www.phenopred.org/"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         }

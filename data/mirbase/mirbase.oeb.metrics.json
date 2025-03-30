@@ -20,15 +20,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 1907,
+                            "cit_count": 1950,
                             "citations": [
                                 {
-                                    "count": 1,
+                                    "count": 2,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2024"
                                 },
                                 {
                                     "count": 2,
@@ -43,7 +39,7 @@
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 40,
+                                    "count": 39,
                                     "year": "2020"
                                 },
                                 {
@@ -71,16 +67,16 @@
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 279,
+                                    "count": 298,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 363,
-                                    "year": "2013"
+                                    "count": 386,
+                                    "year": "2014"
                                 },
                                 {
-                                    "count": 385,
-                                    "year": "2014"
+                                    "count": 387,
+                                    "year": "2013"
                                 }
                             ],
                             "doi": "10.1093/nar/gkq1027",

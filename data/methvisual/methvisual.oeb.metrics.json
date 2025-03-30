@@ -24,8 +24,12 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 7,
+                            "cit_count": 8,
                             "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2012"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2013"
@@ -46,12 +50,8 @@
                             "doi": "10.1186/1756-0500-3-337",
                             "pmcid": "PMC3012040",
                             "pmid": "21159174",
-                            "ref_count": 37,
+                            "ref_count": 28,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1973"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1997"
@@ -66,7 +66,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 2,
@@ -81,6 +81,10 @@
                                     "year": "2007"
                                 },
                                 {
+                                    "count": 2,
+                                    "year": "2009"
+                                },
+                                {
                                     "count": 3,
                                     "year": "2004"
                                 },
@@ -90,19 +94,7 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2006"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 3,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 7,
@@ -163,8 +155,12 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 7,
+                            "cit_count": 8,
                             "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2012"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2013"
@@ -185,12 +181,8 @@
                             "doi": "10.1186/1756-0500-3-337",
                             "pmcid": "PMC3012040",
                             "pmid": "21159174",
-                            "ref_count": 37,
+                            "ref_count": 28,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1973"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1997"
@@ -205,7 +197,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 2,
@@ -220,6 +212,10 @@
                                     "year": "2007"
                                 },
                                 {
+                                    "count": 2,
+                                    "year": "2009"
+                                },
+                                {
                                     "count": 3,
                                     "year": "2004"
                                 },
@@ -229,19 +225,7 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2006"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 3,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 7,

@@ -24,22 +24,26 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 468,
+                            "cit_count": 464,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 4,
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 4,
                                     "year": "2022"
                                 },
                                 {
@@ -47,7 +51,7 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 19,
+                                    "count": 18,
                                     "year": "2020"
                                 },
                                 {
@@ -59,16 +63,16 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 31,
+                                    "count": 30,
                                     "year": "2019"
-                                },
-                                {
-                                    "count": 36,
-                                    "year": "2012"
                                 },
                                 {
                                     "count": 37,
                                     "year": "2018"
+                                },
+                                {
+                                    "count": 38,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 43,
@@ -94,12 +98,8 @@
                             "doi": "10.1038/nbt.1508",
                             "pmcid": "PMC2597701",
                             "pmid": "19029915",
-                            "ref_count": 20,
+                            "ref_count": 19,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "2000"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2002"
@@ -147,19 +147,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq&osid=1&passive=1209600&ifkv=AeZLP9_JkSeXsBIAUfq5wOGKexmnHnBD3UUV94bd92hP_7-fUavDuMK9Lrp6u6efzzeYxs_VeWqS"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq&osid=1&passive=1209600&ifkv=AXH0vVuEZqo-bvjS9awdJEh7CgB4roA6H4R99qbtcUGtGkYcSp8BqY5MwPfgHwb_l1msXKLtLrirYQ"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&ifkv=AeZLP98AayTXNFZFb4k6J7rq-UVZhndJvhT0eRfxY_YtcRryRNrN-mX5bLHArqNqUW7_WxvXtgTt&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S956748406%3A1735998421183488&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path=%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&ifkv=AXH0vVuIjIzvdNToaoFm0Gf96f7EYTscb8iZpARC1vn3_btYkmoBfSaT5fgrzsrLf_NvIKmfJuqfRQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1121751506%3A1743241064570631"
                     }
                 ],
                 "ssl": true,
@@ -190,22 +186,26 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 468,
+                            "cit_count": 464,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 4,
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 4,
                                     "year": "2022"
                                 },
                                 {
@@ -213,7 +213,7 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 19,
+                                    "count": 18,
                                     "year": "2020"
                                 },
                                 {
@@ -225,16 +225,16 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 31,
+                                    "count": 30,
                                     "year": "2019"
-                                },
-                                {
-                                    "count": 36,
-                                    "year": "2012"
                                 },
                                 {
                                     "count": 37,
                                     "year": "2018"
+                                },
+                                {
+                                    "count": 38,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 43,
@@ -260,12 +260,8 @@
                             "doi": "10.1038/nbt.1508",
                             "pmcid": "PMC2597701",
                             "pmid": "19029915",
-                            "ref_count": 20,
+                            "ref_count": 19,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "2000"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2002"
@@ -341,22 +337,26 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 468,
+                            "cit_count": 464,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 4,
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 4,
                                     "year": "2022"
                                 },
                                 {
@@ -364,7 +364,7 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 19,
+                                    "count": 18,
                                     "year": "2020"
                                 },
                                 {
@@ -376,16 +376,16 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 31,
+                                    "count": 30,
                                     "year": "2019"
-                                },
-                                {
-                                    "count": 36,
-                                    "year": "2012"
                                 },
                                 {
                                     "count": 37,
                                     "year": "2018"
+                                },
+                                {
+                                    "count": 38,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 43,
@@ -411,12 +411,8 @@
                             "doi": "10.1038/nbt.1508",
                             "pmcid": "PMC2597701",
                             "pmid": "19029915",
-                            "ref_count": 20,
+                            "ref_count": 19,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "2000"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2002"
@@ -493,19 +489,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq&osid=1&passive=1209600&ifkv=AeZLP9_M5chh18RcYIEcXpu2rHWqEKnl-Ua0JxEYSacdRTa3GYCtHJvgaFmX7GBBGQBHbDGSdGXe"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq&osid=1&passive=1209600&ifkv=AXH0vVsmCvfilq4rfhj0hkINMtgfD91rfYwdCFdnJFAtL-ysUx5CjXGZck-Ef1nsN_klsSic6i77RA"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path%3D/bioinformatics-in-biomed/spp-r-from-chip-seq"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq&followup=https://sites.google.com/a/brown.edu/bioinformatics-in-biomed/spp-r-from-chip-seq"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&ifkv=AeZLP98wecD3rIz0GPbwtwMW0jZVfhPY1_5ANgIBFDLRtx15LRTzrgL0ov5CicAkJCgx2zC10UCb&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1261788041%3A1735998415057179&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/a/brown.edu/sites/system/errors/WebspaceNotFound?path=%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fbrown.edu%2Fbioinformatics-in-biomed%2Fspp-r-from-chip-seq&ifkv=AXH0vVuFEUaDFc1GKDRR2WhPl_bbtCUTve2YPKEVLCKbc9aYuINbRCxzXt7E-HpIZ0EbSkiYbecUng&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2078460549%3A1743241062858194"
                     }
                 ],
                 "ssl": true,

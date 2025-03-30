@@ -45,12 +45,8 @@
                             "doi": "10.1186/s13062-015-0086-1",
                             "pmcid": "PMC4590705",
                             "pmid": "26427375",
-                            "ref_count": 68,
+                            "ref_count": 64,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1922"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1999"
@@ -66,10 +62,6 @@
                                 {
                                     "count": 1,
                                     "year": "2004"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 3,
@@ -130,19 +122,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/&osid=1&passive=1209600&ifkv=AeZLP9-zUN0wrn0xNiM4HdqNnlsheqrIh6l8Vdh3DiDlN3pqAb1KbXhn1OsE7pfVXUe737oNvVQADw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/mutexsl/&followup=https://sites.google.com/site/mutexsl/&osid=1&passive=1209600&ifkv=AXH0vVtn9epRym3r9m52XexX_aYo2seSzcq5HbGunwlXuok35RYc_DPjniA6foQyrMaCH3W-UFph"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/mutexsl/&followup=https://sites.google.com/site/mutexsl/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmutexsl%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmutexsl%2F&ifkv=AeZLP98XVnnhVJc9YWc5rHLsS9UibYo1RqtBHanagQn_qL4PiNCb-RNkX07Hsu7fNutEpYx1stq7dA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2046877365%3A1735957521570077&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fmutexsl%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fmutexsl%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fmutexsl%2F&ifkv=AXH0vVuJxA0hFqUXV0yPRgyGPkHm31cA3jEISGwxZMuIYi__mhuKKerN2huPlMLdgbOTQeUB41rk&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2146744171%3A1743245397241533"
                     }
                 ],
                 "ssl": true,
@@ -174,19 +162,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/&osid=1&passive=1209600&ifkv=AeZLP99yEfyXjdhls7kYo7hpicogeQcv9AdfrJj1GlunbqylihLFv-kiDDO1pP9FM3v-oIzRrDPYiw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/mutexsl/&followup=https://sites.google.com/site/mutexsl/&osid=1&passive=1209600&ifkv=AXH0vVv8h3RpaGFME3va74TzvSPA4v1X1G3b9l3vDJNXa0Ke0aSbrfDe9BEwX2BK_IxdERHfkdhSsA"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mutexsl/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/mutexsl/&followup=https://sites.google.com/site/mutexsl/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmutexsl%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmutexsl%2F&ifkv=AeZLP99_CQW7cEiI6WyQshxUL2JogH1MiAUBfyFu0T8AjiOiFU-AiDgZN3KNIHtkPuBzzd8wS81H7g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S220706410%3A1735957351576174&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fmutexsl%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fmutexsl%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fmutexsl%2F&ifkv=AXH0vVvT4LPaaIB1Sdsv0_fagFhSDHQag8EMmxJlUjGh6qZ7EqbEkSJVpM5DRB0qhf0V_LtDQbsMCg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-264714924%3A1743245348766422"
                     }
                 ],
                 "ssl": true,

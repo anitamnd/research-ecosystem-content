@@ -59,6 +59,16 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -90,26 +100,30 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 128,
+                            "cit_count": 117,
                             "citations": [
                                 {
-                                    "count": 20,
-                                    "year": "2021"
+                                    "count": 3,
+                                    "year": "2025"
                                 },
                                 {
-                                    "count": 22,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 23,
+                                    "count": 15,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 25,
+                                    "count": 19,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 20,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 21,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 38,
+                                    "count": 39,
                                     "year": "2020"
                                 }
                             ],
@@ -174,6 +188,139 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
+                "ssl": true,
+                "ssl_err": null
+            }
+        }
+    },
+    {
+        "@id": "https://openebench.bsc.es/monitor/metrics/bioconda:kraken2:2.14/cmd/ccb.jhu.edu",
+        "@license": "https://creativecommons.org/licenses/by/4.0/",
+        "@nmsp": "bioconda",
+        "@type": "metrics",
+        "distribution": {
+            "packages": true,
+            "sourcecode": {}
+        },
+        "project": {
+            "build": {},
+            "deployment": {},
+            "license": {
+                "open_source": false,
+                "osi": false
+            },
+            "publications": [
+                {
+                    "entries": [
+                        {
+                            "cit_count": 117,
+                            "citations": [
+                                {
+                                    "count": 3,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 15,
+                                    "year": "2024"
+                                },
+                                {
+                                    "count": 19,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 20,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 21,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 39,
+                                    "year": "2020"
+                                }
+                            ],
+                            "doi": "10.1186/s13059-019-1891-0",
+                            "pmcid": "PMC6883579",
+                            "pmid": "31779668",
+                            "ref_count": 23,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1985"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2010"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2014"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2015"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2019"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2016"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2017"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2018"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 9,
+                                    "year": "0"
+                                }
+                            ],
+                            "title": "Improved metagenomic analysis with Kraken 2.",
+                            "year": 2019
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "description": true
+            },
+            "website": {
+                "bioschemas": false,
+                "copyright": false,
+                "https": true,
+                "license": false,
+                "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -214,27 +361,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 931,
+                            "cit_count": 896,
                             "citations": [
                                 {
-                                    "count": 6,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 3,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 4,
                                     "year": "2022"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 14,
                                     "year": "2014"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2021"
                                 },
                                 {
                                     "count": 54,
@@ -249,22 +396,22 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 153,
+                                    "count": 145,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 207,
+                                    "count": 208,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 219,
+                                    "count": 214,
                                     "year": "2019"
                                 }
                             ],
                             "doi": "10.1186/gb-2014-15-3-r46",
                             "pmcid": "PMC4053813",
                             "pmid": "24580807",
-                            "ref_count": 27,
+                            "ref_count": 23,
                             "refs": [
                                 {
                                     "count": 1,
@@ -279,20 +426,16 @@
                                     "year": "1994"
                                 },
                                 {
+                                    "count": 1,
+                                    "year": "2008"
+                                },
+                                {
                                     "count": 2,
                                     "year": "2007"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 3,
@@ -379,27 +522,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 931,
+                            "cit_count": 896,
                             "citations": [
                                 {
-                                    "count": 6,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 3,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 4,
                                     "year": "2022"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 14,
                                     "year": "2014"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2021"
                                 },
                                 {
                                     "count": 54,
@@ -414,22 +557,22 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 153,
+                                    "count": 145,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 207,
+                                    "count": 208,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 219,
+                                    "count": 214,
                                     "year": "2019"
                                 }
                             ],
                             "doi": "10.1186/gb-2014-15-3-r46",
                             "pmcid": "PMC4053813",
                             "pmid": "24580807",
-                            "ref_count": 27,
+                            "ref_count": 23,
                             "refs": [
                                 {
                                     "count": 1,
@@ -444,20 +587,16 @@
                                     "year": "1994"
                                 },
                                 {
+                                    "count": 1,
+                                    "year": "2008"
+                                },
+                                {
                                     "count": 2,
                                     "year": "2007"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 3,
@@ -492,6 +631,16 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -538,27 +687,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 931,
+                            "cit_count": 896,
                             "citations": [
                                 {
-                                    "count": 6,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 3,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 4,
                                     "year": "2022"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 14,
                                     "year": "2014"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2021"
                                 },
                                 {
                                     "count": 54,
@@ -573,22 +722,22 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 153,
+                                    "count": 145,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 207,
+                                    "count": 208,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 219,
+                                    "count": 214,
                                     "year": "2019"
                                 }
                             ],
                             "doi": "10.1186/gb-2014-15-3-r46",
                             "pmcid": "PMC4053813",
                             "pmid": "24580807",
-                            "ref_count": 27,
+                            "ref_count": 23,
                             "refs": [
                                 {
                                     "count": 1,
@@ -603,20 +752,16 @@
                                     "year": "1994"
                                 },
                                 {
+                                    "count": 1,
+                                    "year": "2008"
+                                },
+                                {
                                     "count": 2,
                                     "year": "2007"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 3,
@@ -651,6 +796,16 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -697,27 +852,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 931,
+                            "cit_count": 896,
                             "citations": [
                                 {
-                                    "count": 6,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 3,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 4,
                                     "year": "2022"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 14,
                                     "year": "2014"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2021"
                                 },
                                 {
                                     "count": 54,
@@ -732,22 +887,22 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 153,
+                                    "count": 145,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 207,
+                                    "count": 208,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 219,
+                                    "count": 214,
                                     "year": "2019"
                                 }
                             ],
                             "doi": "10.1186/gb-2014-15-3-r46",
                             "pmcid": "PMC4053813",
                             "pmid": "24580807",
-                            "ref_count": 27,
+                            "ref_count": 23,
                             "refs": [
                                 {
                                     "count": 1,
@@ -762,20 +917,16 @@
                                     "year": "1994"
                                 },
                                 {
+                                    "count": 1,
+                                    "year": "2008"
+                                },
+                                {
                                     "count": 2,
                                     "year": "2007"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 3,
@@ -810,6 +961,16 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -856,27 +1017,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 931,
+                            "cit_count": 896,
                             "citations": [
                                 {
-                                    "count": 6,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 3,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 4,
                                     "year": "2022"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 14,
                                     "year": "2014"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2021"
                                 },
                                 {
                                     "count": 54,
@@ -891,22 +1052,22 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 153,
+                                    "count": 145,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 207,
+                                    "count": 208,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 219,
+                                    "count": 214,
                                     "year": "2019"
                                 }
                             ],
                             "doi": "10.1186/gb-2014-15-3-r46",
                             "pmcid": "PMC4053813",
                             "pmid": "24580807",
-                            "ref_count": 27,
+                            "ref_count": 23,
                             "refs": [
                                 {
                                     "count": 1,
@@ -921,20 +1082,16 @@
                                     "year": "1994"
                                 },
                                 {
+                                    "count": 1,
+                                    "year": "2008"
+                                },
+                                {
                                     "count": 2,
                                     "year": "2007"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 3,
@@ -969,6 +1126,16 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -1015,27 +1182,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 931,
+                            "cit_count": 896,
                             "citations": [
                                 {
-                                    "count": 6,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 3,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 4,
                                     "year": "2022"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 14,
                                     "year": "2014"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2021"
                                 },
                                 {
                                     "count": 54,
@@ -1050,22 +1217,22 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 153,
+                                    "count": 145,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 207,
+                                    "count": 208,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 219,
+                                    "count": 214,
                                     "year": "2019"
                                 }
                             ],
                             "doi": "10.1186/gb-2014-15-3-r46",
                             "pmcid": "PMC4053813",
                             "pmid": "24580807",
-                            "ref_count": 27,
+                            "ref_count": 23,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1080,20 +1247,16 @@
                                     "year": "1994"
                                 },
                                 {
+                                    "count": 1,
+                                    "year": "2008"
+                                },
+                                {
                                     "count": 2,
                                     "year": "2007"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "0"
                                 },
                                 {
                                     "count": 3,
@@ -1128,6 +1291,16 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -1157,6 +1330,16 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ccb.jhu.edu/software/kraken2/"
+                    },
+                    {
+                        "status": 308,
+                        "url": "https://ccb.jhu.edu/software/kraken2/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }

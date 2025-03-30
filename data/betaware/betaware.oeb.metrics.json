@@ -24,7 +24,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 8,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
@@ -35,22 +35,18 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
                                     "count": 2,
-                                    "year": "2013"
+                                    "year": "2011"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2011"
+                                    "year": "2013"
                                 }
                             ],
                             "doi": "10.1186/1748-7188-4-13",
                             "pmcid": "PMC2776008",
                             "pmid": "19849839",
-                            "ref_count": 24,
+                            "ref_count": 12,
                             "refs": [
                                 {
                                     "count": 1,
@@ -58,43 +54,31 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1994"
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2006"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 1,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1999"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2007"
-                                },
-                                {
                                     "count": 3,
-                                    "year": "2006"
+                                    "year": "2005"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2008"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2005"
                                 }
                             ],
                             "title": "Grammatical-Restrained Hidden Conditional Random Fields for Bioinformatics applications.",
@@ -105,11 +89,15 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 9,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2012"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 1,
@@ -120,21 +108,13 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2015"
-                                },
-                                {
                                     "count": 3,
                                     "year": "2013"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/btr549",
                             "pmid": "21967762",
-                            "ref_count": 27,
+                            "ref_count": 25,
                             "refs": [
                                 {
                                     "count": 1,
@@ -146,11 +126,15 @@
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2002"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 2,
@@ -159,10 +143,6 @@
                                 {
                                     "count": 2,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2004"
                                 },
                                 {
                                     "count": 3,
@@ -189,7 +169,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 13,
                             "citations": [
                                 {
                                     "count": 1,
@@ -209,16 +189,16 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2018"
+                                    "year": "2015"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2015"
+                                    "count": 3,
+                                    "year": "2018"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/bts728",
                             "pmid": "23297037",
-                            "ref_count": 17,
+                            "ref_count": 14,
                             "refs": [
                                 {
                                     "count": 1,
@@ -226,11 +206,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
+                                    "year": "2003"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 1,
@@ -242,23 +222,19 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2009"
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2006"
+                                    "count": 3,
+                                    "year": "2009"
                                 }
                             ],
                             "title": "BETAWARE: a machine-learning tool to detect and predict transmembrane beta-barrel proteins in prokaryotes.",
@@ -312,7 +288,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 8,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
@@ -323,22 +299,18 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
                                     "count": 2,
-                                    "year": "2013"
+                                    "year": "2011"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2011"
+                                    "year": "2013"
                                 }
                             ],
                             "doi": "10.1186/1748-7188-4-13",
                             "pmcid": "PMC2776008",
                             "pmid": "19849839",
-                            "ref_count": 24,
+                            "ref_count": 12,
                             "refs": [
                                 {
                                     "count": 1,
@@ -346,43 +318,31 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1994"
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2006"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 1,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1999"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2007"
-                                },
-                                {
                                     "count": 3,
-                                    "year": "2006"
+                                    "year": "2005"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2008"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2005"
                                 }
                             ],
                             "title": "Grammatical-Restrained Hidden Conditional Random Fields for Bioinformatics applications.",
@@ -393,11 +353,15 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 9,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2012"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 1,
@@ -408,21 +372,13 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2015"
-                                },
-                                {
                                     "count": 3,
                                     "year": "2013"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/btr549",
                             "pmid": "21967762",
-                            "ref_count": 27,
+                            "ref_count": 25,
                             "refs": [
                                 {
                                     "count": 1,
@@ -434,11 +390,15 @@
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2002"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 2,
@@ -447,10 +407,6 @@
                                 {
                                     "count": 2,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2004"
                                 },
                                 {
                                     "count": 3,
@@ -477,7 +433,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 13,
                             "citations": [
                                 {
                                     "count": 1,
@@ -497,16 +453,16 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2018"
+                                    "year": "2015"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2015"
+                                    "count": 3,
+                                    "year": "2018"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/bts728",
                             "pmid": "23297037",
-                            "ref_count": 17,
+                            "ref_count": 14,
                             "refs": [
                                 {
                                     "count": 1,
@@ -514,11 +470,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
+                                    "year": "2003"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 1,
@@ -530,23 +486,19 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2009"
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2006"
+                                    "count": 3,
+                                    "year": "2009"
                                 }
                             ],
                             "title": "BETAWARE: a machine-learning tool to detect and predict transmembrane beta-barrel proteins in prokaryotes.",
@@ -602,7 +554,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 8,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
@@ -613,22 +565,18 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
                                     "count": 2,
-                                    "year": "2013"
+                                    "year": "2011"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2011"
+                                    "year": "2013"
                                 }
                             ],
                             "doi": "10.1186/1748-7188-4-13",
                             "pmcid": "PMC2776008",
                             "pmid": "19849839",
-                            "ref_count": 24,
+                            "ref_count": 12,
                             "refs": [
                                 {
                                     "count": 1,
@@ -636,43 +584,31 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1994"
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2006"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 1,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1999"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2007"
-                                },
-                                {
                                     "count": 3,
-                                    "year": "2006"
+                                    "year": "2005"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2008"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2005"
                                 }
                             ],
                             "title": "Grammatical-Restrained Hidden Conditional Random Fields for Bioinformatics applications.",
@@ -683,11 +619,15 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 9,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2012"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 1,
@@ -698,21 +638,13 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2015"
-                                },
-                                {
                                     "count": 3,
                                     "year": "2013"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/btr549",
                             "pmid": "21967762",
-                            "ref_count": 27,
+                            "ref_count": 25,
                             "refs": [
                                 {
                                     "count": 1,
@@ -724,11 +656,15 @@
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2002"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 2,
@@ -737,10 +673,6 @@
                                 {
                                     "count": 2,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2004"
                                 },
                                 {
                                     "count": 3,
@@ -767,7 +699,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 13,
                             "citations": [
                                 {
                                     "count": 1,
@@ -787,16 +719,16 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2018"
+                                    "year": "2015"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2015"
+                                    "count": 3,
+                                    "year": "2018"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/bts728",
                             "pmid": "23297037",
-                            "ref_count": 17,
+                            "ref_count": 14,
                             "refs": [
                                 {
                                     "count": 1,
@@ -804,11 +736,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
+                                    "year": "2003"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 1,
@@ -820,23 +752,19 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2009"
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2006"
+                                    "count": 3,
+                                    "year": "2009"
                                 }
                             ],
                             "title": "BETAWARE: a machine-learning tool to detect and predict transmembrane beta-barrel proteins in prokaryotes.",
@@ -895,7 +823,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 8,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
@@ -906,22 +834,18 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
                                     "count": 2,
-                                    "year": "2013"
+                                    "year": "2011"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2011"
+                                    "year": "2013"
                                 }
                             ],
                             "doi": "10.1186/1748-7188-4-13",
                             "pmcid": "PMC2776008",
                             "pmid": "19849839",
-                            "ref_count": 24,
+                            "ref_count": 12,
                             "refs": [
                                 {
                                     "count": 1,
@@ -929,43 +853,31 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1994"
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2006"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 1,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1999"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2007"
-                                },
-                                {
                                     "count": 3,
-                                    "year": "2006"
+                                    "year": "2005"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2008"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2005"
                                 }
                             ],
                             "title": "Grammatical-Restrained Hidden Conditional Random Fields for Bioinformatics applications.",
@@ -976,11 +888,15 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 9,
+                            "cit_count": 7,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2012"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 1,
@@ -991,21 +907,13 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2015"
-                                },
-                                {
                                     "count": 3,
                                     "year": "2013"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/btr549",
                             "pmid": "21967762",
-                            "ref_count": 27,
+                            "ref_count": 25,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1017,11 +925,15 @@
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2002"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 2,
@@ -1030,10 +942,6 @@
                                 {
                                     "count": 2,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2004"
                                 },
                                 {
                                     "count": 3,
@@ -1060,7 +968,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 13,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1080,16 +988,16 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2018"
+                                    "year": "2015"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2015"
+                                    "count": 3,
+                                    "year": "2018"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/bts728",
                             "pmid": "23297037",
-                            "ref_count": 17,
+                            "ref_count": 14,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1097,11 +1005,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
+                                    "year": "2003"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 1,
@@ -1113,23 +1021,19 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2005"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2009"
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2006"
+                                    "count": 3,
+                                    "year": "2009"
                                 }
                             ],
                             "title": "BETAWARE: a machine-learning tool to detect and predict transmembrane beta-barrel proteins in prokaryotes.",

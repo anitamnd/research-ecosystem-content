@@ -34,22 +34,22 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 573,
+                            "cit_count": 570,
                             "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2022"
+                                },
                                 {
                                     "count": 2,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 8,
+                                    "count": 7,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 17,
+                                    "count": 18,
                                     "year": "2013"
                                 },
                                 {
@@ -61,7 +61,7 @@
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 63,
+                                    "count": 62,
                                     "year": "2020"
                                 },
                                 {
@@ -83,7 +83,7 @@
                             ],
                             "doi": "10.1093/bioinformatics/bts271",
                             "pmid": "22581179",
-                            "ref_count": 11,
+                            "ref_count": 7,
                             "refs": [
                                 {
                                     "count": 1,
@@ -95,19 +95,15 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2012"
+                                    "year": "2009"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2009"
+                                    "count": 1,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2011"
                                 }
                             ],
                             "title": "Strelka: accurate somatic small-variant calling from sequenced tumor-normal sample pairs.",
@@ -129,19 +125,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/strelkasomaticvariantcaller/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/strelkasomaticvariantcaller/&osid=1&passive=1209600&ifkv=AeZLP982F2aDlv8mBss88huVJ46zaqNJklSDyQp2Wm9YUceZCvt7T2fC-8yPIsDyKQXnGYAcrjFohQ"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/strelkasomaticvariantcaller/&followup=https://sites.google.com/site/strelkasomaticvariantcaller/&osid=1&passive=1209600&ifkv=AXH0vVvR8FHjV6d1DcRoRFWNPSWMWEIPiAuLh7Ux3YLpIYSCLCV9EE96InZzth_8akDTpvGq9nbX"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/strelkasomaticvariantcaller/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/strelkasomaticvariantcaller/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/strelkasomaticvariantcaller/&followup=https://sites.google.com/site/strelkasomaticvariantcaller/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fstrelkasomaticvariantcaller%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fstrelkasomaticvariantcaller%2F&ifkv=AeZLP9-1yqpcdLE8Nu1gpH7_IddGdnGv9L-6HfTMwaj5Wr_vrmCJw4a8w7xcFcqQOTFp5toolsqthQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-819275602%3A1735997837532630&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fstrelkasomaticvariantcaller%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fstrelkasomaticvariantcaller%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fstrelkasomaticvariantcaller%2F&ifkv=AXH0vVvpbAHD_an7JvcE5MJb14bu4PmSMck96v8wEN4IuJPEFdNvA68st5Kx7JkY20dbqhvCEO36&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2033974745%3A1743240721251216"
                     }
                 ],
                 "ssl": true,

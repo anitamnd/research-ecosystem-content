@@ -20,12 +20,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 139,
+                            "cit_count": 137,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2021"
-                                },
                                 {
                                     "count": 2,
                                     "year": "2020"
@@ -83,7 +79,7 @@
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 25,
+                                    "count": 24,
                                     "year": "2008"
                                 }
                             ],
@@ -137,16 +133,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://genskew.csb.univie.ac.at/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         },
@@ -175,12 +171,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 139,
+                            "cit_count": 137,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2021"
-                                },
                                 {
                                     "count": 2,
                                     "year": "2020"
@@ -238,7 +230,7 @@
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 25,
+                                    "count": 24,
                                     "year": "2008"
                                 }
                             ],
@@ -292,16 +284,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://genskew.csb.univie.ac.at/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         },
@@ -324,16 +316,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://genskew.csb.univie.ac.at/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         }

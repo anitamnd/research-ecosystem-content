@@ -29,10 +29,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
                 "operational": 200,
-                "ssl": true,
+                "redirects": [
+                    {
+                        "status": 302,
+                        "url": "http://ww25.microbe.directory/?subid1=20250329-1422-592e-b7b0-7f1ecb739dfc"
+                    }
+                ],
+                "ssl": null,
                 "ssl_err": null
             }
         }
@@ -52,10 +58,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
                 "operational": 200,
-                "ssl": true,
+                "redirects": [
+                    {
+                        "status": 302,
+                        "url": "http://ww25.microbe.directory/?subid1=20250329-1422-5967-8bcd-2b1faae81996"
+                    }
+                ],
+                "ssl": null,
                 "ssl_err": null
             }
         }

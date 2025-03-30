@@ -158,19 +158,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software&osid=1&passive=1209600&ifkv=AeZLP99vcy3vJtIAywXmA9jfBJgvYLmyzhNI4eAMb3Cv9tM8tjGU7kp2qt52J6ySTl_iTY8vEXyqXQ"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/fdudbridge/software&followup=https://sites.google.com/site/fdudbridge/software&osid=1&passive=1209600&ifkv=AXH0vVtZXd_dUZSYM2Um3XpfwkjcLiJUZiwgsWGHoB1z5jy9L31i5G5y9DQ4cHzLo4qadhrMVcyOhg"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/fdudbridge/software&followup=https://sites.google.com/site/fdudbridge/software"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ffdudbridge%2Fsoftware&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ffdudbridge%2Fsoftware&ifkv=AeZLP99-QqYUtFmkpuBoabZ16tH8MXPSuQri5OcWYX6z589s8tsVyBwVPQtWeZI66Jb1UQeMfviP&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1726267907%3A1735998468029576&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Ffdudbridge%2Fsoftware"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Ffdudbridge%2Fsoftware&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Ffdudbridge%2Fsoftware&ifkv=AXH0vVvk58f2YMibMg86CVrS7MsnqPpnZvKb0-P_EQbZnRb783eCye7VCTISWqEfqP4J4Fr20rFH&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2011745358%3A1743241074032147"
                     }
                 ],
                 "ssl": true,
@@ -202,19 +198,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software&osid=1&passive=1209600&ifkv=AeZLP9-dZVPfPBnUENN3_obZA02t8Z6LmKgxDkhJL2n3ktbNcJIL2MYdmAftomDgWnwlc91Ylq8Lsg"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/fdudbridge/software&followup=https://sites.google.com/site/fdudbridge/software&osid=1&passive=1209600&ifkv=AXH0vVuTfhvx5CsHJo0oKGlUB1F3qy-QYYqyfwLJ2QCEeFrH0HND3CNJqu_TAGLLDMQxnIHcJl_6"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/fdudbridge/software"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/fdudbridge/software&followup=https://sites.google.com/site/fdudbridge/software"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ffdudbridge%2Fsoftware&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ffdudbridge%2Fsoftware&ifkv=AeZLP9_ZSc5QnR2jb7EBI-6IHKepx0FkZjDDY-2MDZ8wInGU0keCYJNcYWeYmRpSY0ggISJx59KQ-g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2017303384%3A1735998425669018&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Ffdudbridge%2Fsoftware"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Ffdudbridge%2Fsoftware&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Ffdudbridge%2Fsoftware&ifkv=AXH0vVtT-4F5wPwgLfN7g19MC6av5MqCqAK08uLVQuWVw38ivGy1odFl7yTn2_JSvriSijAFluF0&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-181986199%3A1743241067253433"
                     }
                 ],
                 "ssl": true,

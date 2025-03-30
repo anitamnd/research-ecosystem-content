@@ -40,19 +40,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home&osid=1&passive=1209600&ifkv=AeZLP99suReacPgQUrAMmfe2xofVC9p2Arfu42PF6sMaPA8xnX8SeBA1Oh86LMWnazqH8oHkjiJwpg"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/offtargetpipeline/home&followup=https://sites.google.com/site/offtargetpipeline/home&osid=1&passive=1209600&ifkv=AXH0vVtnbE3qbg5Kh03gOcqNtzcShcHXtY2v5lkmKnuJROcmNjk4vALjWYtLqLkBE5zxWJYKTEod"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/offtargetpipeline/home&followup=https://sites.google.com/site/offtargetpipeline/home"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fofftargetpipeline%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fofftargetpipeline%2Fhome&ifkv=AeZLP9_PBwQAiaKxNHbGJFeeiSbrJ7R9RVBHTGkQOIE3mRt1wCJ6H1f1FG9Je0NBBudh8e3Zj-_4ZA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-31240059%3A1735958494985524&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fofftargetpipeline%2Fhome"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fofftargetpipeline%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fofftargetpipeline%2Fhome&ifkv=AXH0vVuWi29eFCXgJEa8XESVojiOCEoPgGeXVmfkKlFqTeuzUUmiYBWw5f5TUOKsXgpdtrd-NZeg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-803568185%3A1743245735136990"
                     }
                 ],
                 "ssl": true,
@@ -84,19 +80,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home&osid=1&passive=1209600&ifkv=AeZLP9-nDTkBzGHm_la0rMB883GOauC38dD1kFAt8xLDbvckq1NxPA_m6d8j44p-CpDy3s8WYp6ryw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/offtargetpipeline/home&followup=https://sites.google.com/site/offtargetpipeline/home&osid=1&passive=1209600&ifkv=AXH0vVue9L-sJvpH-OzExOl2VbIDNADFjaN27ll_A1JrS9Nt24nXxzaxMm5c3hwBC4GCXYYBo5Jdgw"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/offtargetpipeline/home"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/offtargetpipeline/home&followup=https://sites.google.com/site/offtargetpipeline/home"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fofftargetpipeline%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fofftargetpipeline%2Fhome&ifkv=AeZLP99lv0OPE2MovsPsiS7gZYsSD9VbOv0z9ygt0PHtPlEIzUtpxP6qFn1APFz7VFZnGZSNal2u1g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1828086065%3A1735958469934587&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fofftargetpipeline%2Fhome"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fofftargetpipeline%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fofftargetpipeline%2Fhome&ifkv=AXH0vVuiQMAQAX_cUNPTtouPNeQBg5hWdlmsn5iIe28ngEWAevmVDG2HoZTtjaculy6N29sSVGPB&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S203561467%3A1743245735009581"
                     }
                 ],
                 "ssl": true,

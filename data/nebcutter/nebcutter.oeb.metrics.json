@@ -21,12 +21,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 185,
+                            "cit_count": 189,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
                                 {
                                     "count": 5,
                                     "year": "2005"
@@ -68,12 +64,8 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 14,
-                                    "year": "2012"
-                                },
-                                {
                                     "count": 16,
-                                    "year": "2013"
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 16,
@@ -88,6 +80,10 @@
                                     "year": "2015"
                                 },
                                 {
+                                    "count": 19,
+                                    "year": "2013"
+                                },
+                                {
                                     "count": 20,
                                     "year": "2016"
                                 }
@@ -95,12 +91,8 @@
                             "doi": "10.1093/nar/gkg526",
                             "pmcid": "PMC168933",
                             "pmid": "12824395",
-                            "ref_count": 6,
+                            "ref_count": 5,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "0"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1986"
@@ -148,15 +140,15 @@
                     },
                     {
                         "status": 307,
-                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=890ea909051090a1be633818d2065e0e0a320a6b81c05c82b15ade9e00447061&chk=0045d5ec8e4758b8d03dd0a18d5eba4e6ab5e1180&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
+                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=0e68fe52736ee55fca31d9859cc4757b4d10b36eed15684137561e9a0901630d&chk=0c3bdee6784101884eade91a9c482a909fd93d4f9&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
                     },
                     {
                         "status": 307,
-                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=b175bf6d65f7ae15132891b69f4a9c2cd31fdd48800ce4c9efd4dcc8f37633d5&chk=0d2cf5b829d937735a681cd93245fc4ead96013e2&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
+                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=1e616d2a5780f5ecb29f5e01aff8b4abffc862d01584fb2eb06627b59feaf328&chk=0b710577c1bb00447924e68a9dd47d8de8306c5cf&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
                     },
                     {
                         "status": 307,
-                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=d6b377a229f58cfd4e5439110b98928bd90d2343d86f03b15ad66c0f8519ecc8&chk=06f27933689c9dc2e2ba0dc099d4a660d56883066&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
+                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=e7ef54e058c3b4e30f759f641528816007d722ef2618127084eaf2ac8ae6eaec&chk=040863ba769f92a6c91e08b9b76eb737dddef122d&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
                     },
                     {
                         "status": 307,
@@ -216,15 +208,15 @@
                     },
                     {
                         "status": 307,
-                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=2f29f212baa85ba21f87391f179d74e907547077f4588b20768067a78bd4bd36&chk=0f046d9530fc4c00fd6afdd43120000ac57f7859c&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
+                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=15dcfbe2302967a52085f33d67f936a92dd222a51ef83e65d7612fbab3815b47&chk=0c50fdee96109dafa4ec3dd0f9126976f0f8eb024&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
                     },
                     {
                         "status": 307,
-                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=a199c7c8f02ef12b609d5c4bacce1a3423086f911e4bba372d2fe2a3f1b1d03f&chk=0c0e47b65f02f75011682b1eafe020eeee9210596&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
+                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=c33138e33471448e44e6538f9015b196c072e5d1dc446382afb3d62f64ee1297&chk=064474b345c8e83b61363a105921af9083dec03e3&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
                     },
                     {
                         "status": 307,
-                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=bdbc110287890681cf3603e2ad3f20d3d99184298173b82f69273484f240ae9a&chk=0a40b8a8b0b02179d4d889db71b1771dd5c23c7ef&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
+                        "url": "https://biosso.neb.com/attach.php?host=nc3&token=d895938dee173247c3efa4c10079586c983385d2c7524d46b74939f1a3bfb12e&chk=0540b7c8b47b9ff05ce36ea542561fb8c658eb970&redirect=https%3A%2F%2Fnc3.neb.com%2FNEBcutter%2F"
                     },
                     {
                         "status": 307,

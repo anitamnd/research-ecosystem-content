@@ -19,7 +19,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 67,
                             "citations": [
                                 {
                                     "count": 1,
@@ -39,11 +39,11 @@
                                 },
                                 {
                                     "count": 6,
-                                    "year": "2012"
+                                    "year": "2016"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "2016"
+                                    "count": 7,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 7,
@@ -68,7 +68,7 @@
                             ],
                             "doi": "10.1093/bioinformatics/btq081",
                             "pmid": "20189941",
-                            "ref_count": 7,
+                            "ref_count": 3,
                             "refs": [
                                 {
                                     "count": 1,
@@ -77,10 +77,6 @@
                                 {
                                     "count": 2,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2004"
                                 }
                             ],
                             "title": "CPFP: a central proteomics facilities pipeline.",
@@ -136,7 +132,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 67,
                             "citations": [
                                 {
                                     "count": 1,
@@ -156,11 +152,11 @@
                                 },
                                 {
                                     "count": 6,
-                                    "year": "2012"
+                                    "year": "2016"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "2016"
+                                    "count": 7,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 7,
@@ -185,7 +181,7 @@
                             ],
                             "doi": "10.1093/bioinformatics/btq081",
                             "pmid": "20189941",
-                            "ref_count": 7,
+                            "ref_count": 3,
                             "refs": [
                                 {
                                     "count": 1,
@@ -194,10 +190,6 @@
                                 {
                                     "count": 2,
                                     "year": "2003"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2004"
                                 }
                             ],
                             "title": "CPFP: a central proteomics facilities pipeline.",

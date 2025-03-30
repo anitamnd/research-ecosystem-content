@@ -28,9 +28,9 @@
                                     "year": "2012"
                                 }
                             ],
-                            "doi": "10.1016/J.BPC.2009.01.004",
+                            "doi": "10.1016/j.bpc.2009.01.004",
                             "pmid": "19195766",
-                            "ref_count": 4,
+                            "ref_count": 3,
                             "refs": [
                                 {
                                     "count": 1,
@@ -42,14 +42,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2000"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2004"
                                 }
                             ],
-                            "title": "Inhibition of viral group-1 and group-2 neuraminidases by oseltamivir: A comparative structural analysis by the ScrewFit algorithm",
+                            "title": "Inhibition of viral group-1 and group-2 neuraminidases by oseltamivir: A comparative structural analysis by the ScrewFit algorithm.",
                             "year": 2009
                         }
                     ]

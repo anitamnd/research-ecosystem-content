@@ -68,7 +68,7 @@
                             "doi": "10.1016/j.jprot.2013.02.022",
                             "pmcid": "PMC3759844",
                             "pmid": "23470796",
-                            "ref_count": 38,
+                            "ref_count": 35,
                             "refs": [
                                 {
                                     "count": 1,
@@ -103,11 +103,11 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 12,
+                                    "count": 10,
                                     "year": "2011"
                                 }
                             ],
@@ -119,12 +119,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 50,
+                            "cit_count": 53,
                             "citations": [
-                                {
-                                    "count": 3,
-                                    "year": "2020"
-                                },
                                 {
                                     "count": 4,
                                     "year": "2017"
@@ -134,12 +130,16 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 5,
-                                    "year": "2012"
+                                    "count": 4,
+                                    "year": "2020"
                                 },
                                 {
                                     "count": 6,
                                     "year": "2019"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 7,
@@ -160,8 +160,33 @@
                             ],
                             "doi": "10.1021/pr1012784",
                             "pmid": "21526793",
-                            "ref_count": 0,
-                            "refs": [],
+                            "ref_count": 8,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1925"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2000"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2007"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2006"
+                                }
+                            ],
                             "title": "General statistical modeling of data from protein relative expression isobaric tags.",
                             "year": 2011
                         }
@@ -265,7 +290,7 @@
                             "doi": "10.1016/j.jprot.2013.02.022",
                             "pmcid": "PMC3759844",
                             "pmid": "23470796",
-                            "ref_count": 38,
+                            "ref_count": 35,
                             "refs": [
                                 {
                                     "count": 1,
@@ -300,11 +325,11 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 12,
+                                    "count": 10,
                                     "year": "2011"
                                 }
                             ],
@@ -316,12 +341,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 50,
+                            "cit_count": 53,
                             "citations": [
-                                {
-                                    "count": 3,
-                                    "year": "2020"
-                                },
                                 {
                                     "count": 4,
                                     "year": "2017"
@@ -331,12 +352,16 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 5,
-                                    "year": "2012"
+                                    "count": 4,
+                                    "year": "2020"
                                 },
                                 {
                                     "count": 6,
                                     "year": "2019"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 7,
@@ -357,8 +382,33 @@
                             ],
                             "doi": "10.1021/pr1012784",
                             "pmid": "21526793",
-                            "ref_count": 0,
-                            "refs": [],
+                            "ref_count": 8,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1925"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2000"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2007"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2006"
+                                }
+                            ],
                             "title": "General statistical modeling of data from protein relative expression isobaric tags.",
                             "year": 2011
                         }

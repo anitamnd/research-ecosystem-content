@@ -38,8 +38,12 @@
                             "doi": "10.3390/microarrays5040024",
                             "pmcid": "PMC5197943",
                             "pmid": "27669316",
-                            "ref_count": 24,
+                            "ref_count": 21,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1958"
+                                },
                                 {
                                     "count": 1,
                                     "year": "1959"
@@ -66,6 +70,10 @@
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2011"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2015"
                                 },
                                 {
@@ -74,15 +82,7 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "1958"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2004"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
                                 },
                                 {
                                     "count": 2,
@@ -93,7 +93,7 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2013"
                                 }
                             ],
@@ -115,19 +115,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/&osid=1&passive=1209600&ifkv=AeZLP9-eg5HVQDTFf-pKexroRVWoGnxqHcZkjCp0rsb_F2UVq_fTGC82ivItrtV3saYEXSP8RhFX"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/overallsurvivalanalyzer/&followup=https://sites.google.com/site/overallsurvivalanalyzer/&osid=1&passive=1209600&ifkv=AXH0vVuU6e8efcA0FQzPk2iTu706UJjTT0_5FP0ZFjM4s8nNVS6doLBU1NK03u8JQqCFZHZYoxZtQQ"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/overallsurvivalanalyzer/&followup=https://sites.google.com/site/overallsurvivalanalyzer/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Foverallsurvivalanalyzer%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Foverallsurvivalanalyzer%2F&ifkv=AeZLP9-4bW7qxDd6aJNSm59HvJqlELUJjItKPY5fdCT9zvmmGexg4LAAonl_VqwZyWgofNCarcE5&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1811340649%3A1735958937106582&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Foverallsurvivalanalyzer%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Foverallsurvivalanalyzer%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Foverallsurvivalanalyzer%2F&ifkv=AXH0vVtJnMMz3doAbZC7Q3VICbDwATo3u4TrfcM3eSir2SH4cR9xkpXqysmMVLpBsu9luNpnJUdg-Q&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-434767570%3A1743245925613150"
                     }
                 ],
                 "ssl": true,
@@ -159,19 +155,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/&osid=1&passive=1209600&ifkv=AeZLP9-5pPSZ9IevDY_h2piKwXdChPOBZhnXHvBk0V7gSgl2IrBoB9cqOOtglaOOUvx-1WSRCLAJ"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/overallsurvivalanalyzer/&followup=https://sites.google.com/site/overallsurvivalanalyzer/&osid=1&passive=1209600&ifkv=AXH0vVu4rvZRi0PX_2jQbGrBTL2U5rJS4z82KF-Y7wyr-Ka-tF5YrL200eTAdjcu3VcL7Q1Ij7QvCQ"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/overallsurvivalanalyzer/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/overallsurvivalanalyzer/&followup=https://sites.google.com/site/overallsurvivalanalyzer/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Foverallsurvivalanalyzer%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Foverallsurvivalanalyzer%2F&ifkv=AeZLP9-N4vSzcgZYVudLMeBW_TDKIN3BQRmjIatgQVQT1HWBlkspP5wy_Mf_TtZeh0Z78x4vIBBH&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-986084817%3A1735958751201982&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Foverallsurvivalanalyzer%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Foverallsurvivalanalyzer%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Foverallsurvivalanalyzer%2F&ifkv=AXH0vVu4y9qOJFJnoFDEKAVMo_k0VRCXSa3pFMrD46lQWAHpy6-2Njl9WHcjJfAy4y4fKfd3-mCOKA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1778512747%3A1743245785391048"
                     }
                 ],
                 "ssl": true,

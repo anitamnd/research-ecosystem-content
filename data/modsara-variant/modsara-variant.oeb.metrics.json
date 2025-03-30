@@ -29,20 +29,8 @@
                             "doi": "10.1093/bioinformatics/btx212",
                             "pmcid": "PMC5860124",
                             "pmid": "28453611",
-                            "ref_count": 10,
+                            "ref_count": 7,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1981"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1989"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2000"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2004"
@@ -82,6 +70,10 @@
                 "redirects": [
                     {
                         "status": 301,
+                        "url": "http://ysph.yale.edu/ysph/c2s2/software/modsara/"
+                    },
+                    {
+                        "status": 301,
                         "url": "https://ysph.yale.edu/c2s2/software/modSaRa/"
                     },
                     {
@@ -117,6 +109,10 @@
                 "license": false,
                 "operational": 200,
                 "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://ysph.yale.edu/ysph/c2s2/software/modsara/"
+                    },
                     {
                         "status": 301,
                         "url": "https://ysph.yale.edu/c2s2/software/modSaRa/"

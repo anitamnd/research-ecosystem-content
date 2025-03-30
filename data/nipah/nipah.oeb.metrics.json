@@ -38,8 +38,12 @@
                 "operational": 408,
                 "redirects": [
                     {
+                        "status": 301,
+                        "url": "https://cospi.iiserpune.ac.in/Nipah"
+                    },
+                    {
                         "status": 308,
-                        "url": "http://cospi.iiserpune.ac.in/Nipah/"
+                        "url": "https://cospi.iiserpune.ac.in/Nipah/"
                     }
                 ],
                 "ssl": null,
@@ -64,11 +68,15 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
+                        "status": 301,
+                        "url": "https://cospi.iiserpune.ac.in/Nipah"
+                    },
+                    {
                         "status": 308,
-                        "url": "http://cospi.iiserpune.ac.in/Nipah/"
+                        "url": "https://cospi.iiserpune.ac.in/Nipah/"
                     }
                 ],
                 "ssl": null,

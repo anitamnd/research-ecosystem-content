@@ -62,7 +62,7 @@
                             "doi": "10.1186/1471-2105-8-52",
                             "pmcid": "PMC1803798",
                             "pmid": "17291344",
-                            "ref_count": 17,
+                            "ref_count": 9,
                             "refs": [
                                 {
                                     "count": 1,
@@ -83,10 +83,6 @@
                                 {
                                     "count": 3,
                                     "year": "2005"
-                                },
-                                {
-                                    "count": 8,
-                                    "year": "0"
                                 }
                             ],
                             "title": "PASSIM--an open source software system for managing information in biomedical studies.",

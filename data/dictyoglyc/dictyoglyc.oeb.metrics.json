@@ -20,7 +20,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 38,
+                            "cit_count": 40,
                             "citations": [
                                 {
                                     "count": 1,
@@ -72,10 +72,6 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 3,
                                     "year": "2014"
                                 },
                                 {
@@ -88,16 +84,20 @@
                                 },
                                 {
                                     "count": 4,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 6,
                                     "year": "2012"
                                 }
                             ],
                             "doi": "10.1093/glycob/9.10.1009",
                             "pmid": "10521537",
-                            "ref_count": 59,
+                            "ref_count": 58,
                             "refs": [
                                 {
                                     "count": 1,
@@ -164,7 +164,7 @@
                                     "year": "1998"
                                 },
                                 {
-                                    "count": 13,
+                                    "count": 12,
                                     "year": "1997"
                                 }
                             ],

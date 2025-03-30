@@ -15,7 +15,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 24,
+                            "cit_count": 25,
                             "citations": [
                                 {
                                     "count": 1,
@@ -50,14 +50,14 @@
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 7,
                                     "year": "2012"
                                 }
                             ],
                             "doi": "10.1021/bi9019934",
                             "pmcid": "PMC2847624",
                             "pmid": "20184389",
-                            "ref_count": 37,
+                            "ref_count": 36,
                             "refs": [
                                 {
                                     "count": 1,
@@ -105,15 +105,15 @@
                                 },
                                 {
                                     "count": 3,
+                                    "year": "2003"
+                                },
+                                {
+                                    "count": 3,
                                     "year": "2004"
                                 },
                                 {
                                     "count": 4,
                                     "year": "2001"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2003"
                                 },
                                 {
                                     "count": 7,

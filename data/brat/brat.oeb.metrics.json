@@ -20,7 +20,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 41,
+                            "cit_count": 42,
                             "citations": [
                                 {
                                     "count": 2,
@@ -55,7 +55,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 12,
+                                    "count": 13,
                                     "year": "2012"
                                 }
                             ],
@@ -135,9 +135,9 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 302,

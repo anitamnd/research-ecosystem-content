@@ -20,12 +20,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 257,
+                            "cit_count": 258,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2022"
-                                },
                                 {
                                     "count": 2,
                                     "year": "2010"
@@ -59,7 +55,7 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 45,
+                                    "count": 47,
                                     "year": "2013"
                                 },
                                 {
@@ -70,7 +66,7 @@
                             "doi": "10.1101/gr.112326.110",
                             "pmcid": "PMC3106329",
                             "pmid": "20980555",
-                            "ref_count": 35,
+                            "ref_count": 29,
                             "refs": [
                                 {
                                     "count": 1,
@@ -78,11 +74,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1998"
+                                    "year": "1999"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1999"
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 2,
@@ -90,26 +86,22 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2006"
+                                    "year": "2011"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 4,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2007"
-                                },
-                                {
                                     "count": 5,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 9,
                                     "year": "2009"
                                 }
                             ],
@@ -130,24 +122,20 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel&osid=1&passive=1209600&ifkv=AeZLP9-ee1yGdf2r43-CoAW2nSt2jtx5-KsR4_jLNxigSUnON38OQLyC_mct5RaQjsAtFwlmPKlPew"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fkeesalbers%2Fsoft%2Fdindel&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fkeesalbers%2Fsoft%2Fdindel&ifkv=AeZLP9-RMIynI_RAuJzWCf5BTfzdMUmmQb66YnVrrcSC0fDQiq2GNknMCt9pAhqJp_WzIJBbMOSq-w&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1278779920%3A1735884067650907&ddm=1"
-                    },
-                    {
-                        "status": 302,
+                        "status": 301,
                         "url": "https://sites.google.com/site/keesalbers/soft/dindel"
                     },
                     {
                         "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fkeesalbers%2Fsoft%2Fdindel"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/keesalbers/soft/dindel&followup=https://sites.google.com/site/keesalbers/soft/dindel&osid=1&passive=1209600&ifkv=AXH0vVtv9GVxspYCann_jAmo6ZPFjvB5W_wWOcCKZiNMvzWrmf3GPg64EjM1Uk62B4uJcva01HJ0VA"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/keesalbers/soft/dindel&followup=https://sites.google.com/site/keesalbers/soft/dindel"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fkeesalbers%2Fsoft%2Fdindel&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fkeesalbers%2Fsoft%2Fdindel&ifkv=AXH0vVv0c3D5BSFLtXm4N32JpqG6sjkut1WI7l_VN0-magLhxfq2khSUmBGuUmm785uucUMpoZVT6w&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-164162799%3A1743242028713287"
                     }
                 ],
                 "ssl": true,
@@ -178,24 +166,20 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel&osid=1&passive=1209600&ifkv=AeZLP98WfI4lgMebzmozVlpkVgWPHtm3gO-OurevKK940UvVgUzKETICQyVd4RwzRHLutkqPBmmpiw"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/keesalbers/soft/dindel"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fkeesalbers%2Fsoft%2Fdindel&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fkeesalbers%2Fsoft%2Fdindel&ifkv=AeZLP9_uQrNmUkjLAJ4Lx9VZMebkja3xl3P9LI8ku1BbGkSplaLVRP11_CVe7ZCPshtPQKDzygZd8A&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S337440151%3A1735997880778371&ddm=1"
-                    },
-                    {
-                        "status": 302,
+                        "status": 301,
                         "url": "https://sites.google.com/site/keesalbers/soft/dindel"
                     },
                     {
                         "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fkeesalbers%2Fsoft%2Fdindel"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/keesalbers/soft/dindel&followup=https://sites.google.com/site/keesalbers/soft/dindel&osid=1&passive=1209600&ifkv=AXH0vVsPKor1kasGTxQmef43kdH4a3O4wvBgtB1uG5uuQn_NGKsTUKCgRmQyn0-mIe5PDCHU81iKKw"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/keesalbers/soft/dindel&followup=https://sites.google.com/site/keesalbers/soft/dindel"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fkeesalbers%2Fsoft%2Fdindel&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fkeesalbers%2Fsoft%2Fdindel&ifkv=AXH0vVvNWzjzpDwZf4IINhnvUulpwOzq_sMPIQjHjV22toCLh-zuHi9B3PXbIIAmWoOOKv7VqDtE-g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1963483826%3A1743240730464692"
                     }
                 ],
                 "ssl": true,

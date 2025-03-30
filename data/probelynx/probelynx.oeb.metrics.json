@@ -45,12 +45,8 @@
                             "doi": "10.1093/nar/gkh452",
                             "pmcid": "PMC441590",
                             "pmid": "15215432",
-                            "ref_count": 15,
+                            "ref_count": 14,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "0"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1999"
@@ -88,9 +84,9 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": true,
-                "operational": 503,
+                "operational": 403,
                 "redirects": [
                     {
                         "status": 301,
@@ -101,7 +97,7 @@
                         "url": "https://pathogenomics.ca/probelynx/"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         },
@@ -124,9 +120,9 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": true,
-                "operational": 503,
+                "operational": 403,
                 "redirects": [
                     {
                         "status": 301,
@@ -137,7 +133,7 @@
                         "url": "https://pathogenomics.ca/probelynx/"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         }

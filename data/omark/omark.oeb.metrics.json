@@ -1,5 +1,53 @@
 [
     {
+        "@id": "https://openebench.bsc.es/monitor/metrics/biotools:omark:0.3.0/cmd/github.com",
+        "@license": "https://creativecommons.org/licenses/by/4.0/",
+        "@nmsp": "biotools",
+        "@type": "metrics",
+        "deprecated": true,
+        "distribution": {
+            "sourcecode": {
+                "interpreted": true
+            }
+        },
+        "project": {
+            "build": {},
+            "deployment": {},
+            "documentation": {
+                "general": true
+            },
+            "license": {
+                "open_source": true,
+                "osi": true
+            },
+            "publications": [
+                {
+                    "entries": [
+                        {
+                            "cit_count": 0,
+                            "citations": [],
+                            "doi": "10.5281/zenodo.6462026.",
+                            "ref_count": 0,
+                            "refs": []
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "description": true
+            },
+            "website": {
+                "bioschemas": true,
+                "copyright": false,
+                "https": true,
+                "license": false,
+                "operational": 200,
+                "ssl": true,
+                "ssl_err": null
+            }
+        }
+    },
+    {
         "@id": "https://openebench.bsc.es/monitor/metrics/bioconda:omark:0.3.0/cmd/github.com",
         "@license": "https://creativecommons.org/licenses/by/4.0/",
         "@nmsp": "bioconda",
@@ -45,21 +93,17 @@
         }
     },
     {
-        "@id": "https://openebench.bsc.es/monitor/metrics/biotools:omark:0.3.0/cmd/github.com",
+        "@id": "https://openebench.bsc.es/monitor/metrics/bioconda:omark:0.3.1/cmd/github.com",
         "@license": "https://creativecommons.org/licenses/by/4.0/",
-        "@nmsp": "biotools",
+        "@nmsp": "bioconda",
         "@type": "metrics",
         "distribution": {
-            "sourcecode": {
-                "interpreted": true
-            }
+            "packages": true,
+            "sourcecode": {}
         },
         "project": {
             "build": {},
             "deployment": {},
-            "documentation": {
-                "general": true
-            },
             "license": {
                 "open_source": true,
                 "osi": true
@@ -70,9 +114,11 @@
                         {
                             "cit_count": 0,
                             "citations": [],
-                            "doi": "10.5281/zenodo.6462026.",
+                            "doi": "10.1101/2022.11.25.517970",
                             "ref_count": 0,
-                            "refs": []
+                            "refs": [],
+                            "title": "Multifaceted quality assessment of gene repertoire annotation with OMArk",
+                            "year": 2022
                         }
                     ]
                 }

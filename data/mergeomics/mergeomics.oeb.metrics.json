@@ -533,8 +533,8 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://mergeomics.research.idre.ucla.edu/home.php"
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/3.7/bioc/html/Mergeomics.html"
                     }
                 ],
                 "ssl": true,
@@ -635,7 +635,7 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
+                        "status": 301,
                         "url": "https://mergeomics.research.idre.ucla.edu/home.php"
                     }
                 ],
@@ -737,8 +737,8 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://mergeomics.research.idre.ucla.edu/home.php"
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/3.7/bioc/html/Mergeomics.html"
                     }
                 ],
                 "ssl": true,
@@ -831,6 +831,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/3.7/bioc/html/Mergeomics.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }

@@ -41,7 +41,7 @@
                             ],
                             "doi": "10.1093/bioinformatics/btt736",
                             "pmid": "24363375",
-                            "ref_count": 6,
+                            "ref_count": 5,
                             "refs": [
                                 {
                                     "count": 1,
@@ -49,19 +49,15 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2009"
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 1,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2012"
-                                },
-                                {
                                     "count": 2,
-                                    "year": "2010"
+                                    "year": "2009"
                                 }
                             ],
                             "title": "GPU-Meta-Storms: computing the structure similarities among massive amount of microbial community samples using GPU.",
@@ -82,7 +78,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww1.computationalbioenergy.org"
+                        "url": "http://ww38.computationalbioenergy.org/meta-storms.html"
                     }
                 ],
                 "ssl": null,
@@ -114,7 +110,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww1.computationalbioenergy.org"
+                        "url": "http://ww38.computationalbioenergy.org/meta-storms.html"
                     }
                 ],
                 "ssl": null,

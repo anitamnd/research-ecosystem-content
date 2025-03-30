@@ -16,7 +16,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 67,
+                            "cit_count": 66,
                             "citations": [
                                 {
                                     "count": 1,
@@ -59,12 +59,12 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 7,
-                                    "year": "2007"
+                                    "count": 6,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 7,
-                                    "year": "2012"
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 9,
@@ -77,7 +77,7 @@
                             ],
                             "doi": "10.1093/bioinformatics/bti550",
                             "pmid": "15972285",
-                            "ref_count": 27,
+                            "ref_count": 26,
                             "refs": [
                                 {
                                     "count": 1,
@@ -117,15 +117,15 @@
                                 },
                                 {
                                     "count": 3,
+                                    "year": "1994"
+                                },
+                                {
+                                    "count": 3,
                                     "year": "2003"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2004"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "1994"
                                 },
                                 {
                                     "count": 4,
@@ -150,7 +150,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://rna.informatik.uni-freiburg.de/MARNA/Input.jsp;jsessionid=172239CA77A7706D7D0596614CBD1A41"
+                        "url": "http://rna.informatik.uni-freiburg.de/MARNA/Input.jsp;jsessionid=0A92BD473358D2332650D9EC5924FEB1"
                     }
                 ],
                 "ssl": null,
@@ -182,7 +182,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://rna.informatik.uni-freiburg.de/MARNA/Input.jsp;jsessionid=4712F3D380FDC88D0E619FDF7B757445"
+                        "url": "http://rna.informatik.uni-freiburg.de/MARNA/Input.jsp;jsessionid=DEE98EA121801DBF10AE8F6AF0083E13"
                     }
                 ],
                 "ssl": null,

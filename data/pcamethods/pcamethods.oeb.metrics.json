@@ -24,7 +24,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -39,10 +39,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -55,20 +51,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -97,8 +93,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -112,15 +116,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -178,7 +182,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -193,10 +197,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -209,20 +209,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -251,8 +251,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -266,15 +274,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -438,7 +446,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -453,10 +461,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -469,20 +473,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -511,8 +515,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -526,15 +538,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -584,7 +596,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -599,10 +611,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -615,20 +623,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -657,8 +665,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -672,15 +688,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -699,6 +715,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioconductor.org/packages/release/bioc/html/pcaMethods.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -724,7 +746,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -739,10 +761,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -755,20 +773,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -797,8 +815,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -812,15 +838,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -864,7 +890,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -879,10 +905,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -895,20 +917,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -937,8 +959,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -952,15 +982,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1004,7 +1034,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1019,10 +1049,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -1035,20 +1061,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -1077,8 +1103,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -1092,15 +1126,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1144,7 +1178,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1159,10 +1193,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -1175,20 +1205,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -1217,8 +1247,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -1232,15 +1270,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1284,7 +1322,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1299,10 +1337,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -1315,20 +1349,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -1357,8 +1391,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -1372,15 +1414,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1424,7 +1466,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1439,10 +1481,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -1455,20 +1493,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -1497,8 +1535,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -1512,15 +1558,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1564,7 +1610,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1579,10 +1625,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -1595,20 +1637,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -1637,8 +1679,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -1652,15 +1702,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1704,7 +1754,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1719,10 +1769,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -1735,20 +1781,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -1777,8 +1823,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -1792,15 +1846,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1844,7 +1898,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1859,10 +1913,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -1875,20 +1925,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -1917,8 +1967,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -1932,15 +1990,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],
@@ -1984,7 +2042,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 291,
+                            "cit_count": 294,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1999,10 +2057,6 @@
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2023"
                                 },
@@ -2015,20 +2069,20 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 18,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
-                                    "year": "2012"
+                                    "count": 20,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2014"
+                                },
+                                {
+                                    "count": 24,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 24,
@@ -2057,8 +2111,16 @@
                             ],
                             "doi": "10.1093/bioinformatics/btm069",
                             "pmid": "17344241",
-                            "ref_count": 9,
+                            "ref_count": 13,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1966"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2000"
@@ -2072,15 +2134,15 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2004"
-                                },
-                                {
                                     "count": 2,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 4,
                                     "year": "2005"
                                 }
                             ],

@@ -33,7 +33,7 @@
                             ],
                             "doi": "10.1007/s11538-008-9331-4",
                             "pmid": "18665426",
-                            "ref_count": 12,
+                            "ref_count": 11,
                             "refs": [
                                 {
                                     "count": 1,
@@ -58,10 +58,6 @@
                                 {
                                     "count": 1,
                                     "year": "2006"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
                                 },
                                 {
                                     "count": 2,
@@ -90,11 +86,11 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
+                        "url": "https://www.uea.ac.uk:443/computing/my-closure"
                     },
                     {
-                        "status": 301,
-                        "url": "https://www.uea.ac.uk:443/computing/my-closure"
+                        "status": 308,
+                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
                     }
                 ],
                 "ssl": true,
@@ -126,11 +122,11 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
+                        "url": "https://www.uea.ac.uk:443/computing/my-closure"
                     },
                     {
-                        "status": 301,
-                        "url": "https://www.uea.ac.uk:443/computing/my-closure"
+                        "status": 308,
+                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
                     }
                 ],
                 "ssl": true,

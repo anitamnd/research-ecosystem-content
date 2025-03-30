@@ -71,11 +71,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 301,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "http://www.explainbio.com"
+                        "url": "http://127.0.0.1"
                     }
                 ],
                 "ssl": null,
@@ -155,11 +155,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 301,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "http://www.explainbio.com"
+                        "url": "http://127.0.0.1"
                     }
                 ],
                 "ssl": null,
@@ -184,11 +184,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 301,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "http://www.explainbio.com"
+                        "url": "http://127.0.0.1"
                     }
                 ],
                 "ssl": null,

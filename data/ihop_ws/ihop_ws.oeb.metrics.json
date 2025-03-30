@@ -15,7 +15,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 220,
+                            "cit_count": 224,
                             "citations": [
                                 {
                                     "count": 1,
@@ -38,7 +38,7 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 10,
                                     "year": "2005"
                                 },
                                 {
@@ -58,10 +58,6 @@
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 16,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 17,
                                     "year": "2010"
                                 },
@@ -70,20 +66,24 @@
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 21,
-                                    "year": "2011"
+                                    "count": 19,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 22,
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 27,
-                                    "year": "2012"
+                                    "count": 22,
+                                    "year": "2011"
                                 },
                                 {
-                                    "count": 28,
+                                    "count": 27,
                                     "year": "2009"
+                                },
+                                {
+                                    "count": 27,
+                                    "year": "2012"
                                 }
                             ],
                             "doi": "10.1038/ng0704-664",

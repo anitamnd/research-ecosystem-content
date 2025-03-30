@@ -15,7 +15,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 44,
+                            "cit_count": 43,
                             "citations": [
                                 {
                                     "count": 1,
@@ -54,14 +54,14 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 12,
+                                    "count": 11,
                                     "year": "2011"
                                 }
                             ],
                             "doi": "10.1186/1471-2105-10-397",
                             "pmcid": "PMC2799422",
                             "pmid": "19958528",
-                            "ref_count": 25,
+                            "ref_count": 17,
                             "refs": [
                                 {
                                     "count": 1,
@@ -73,15 +73,19 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2000"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2003"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2004"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2001"
                                 },
                                 {
                                     "count": 3,
@@ -90,18 +94,6 @@
                                 {
                                     "count": 3,
                                     "year": "2007"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2001"
                                 }
                             ],
                             "title": "Bioclipse 2: a scriptable integration platform for the life sciences.",
@@ -116,16 +108,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 522,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://www.bioclipse.net/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         },
@@ -148,16 +140,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 522,
                 "redirects": [
                     {
                         "status": 301,
                         "url": "https://www.bioclipse.net/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         }

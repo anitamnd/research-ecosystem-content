@@ -12,19 +12,19 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 9,
                             "citations": [
                                 {
                                     "count": 2,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "2021"
+                                    "count": 2,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "2022"
+                                    "count": 5,
+                                    "year": "2021"
                                 }
                             ],
                             "doi": "10.1093/nar/gkz804",
@@ -95,7 +95,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 503,
+                "operational": 403,
                 "redirects": [
                     {
                         "status": 301,
@@ -160,7 +160,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 503,
+                "operational": 403,
                 "redirects": [
                     {
                         "status": 301,

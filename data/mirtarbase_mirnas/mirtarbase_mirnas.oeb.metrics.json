@@ -12,18 +12,18 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 15,
+                            "cit_count": 13,
                             "citations": [
                                 {
                                     "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2024"
                                 }
                             ],
@@ -79,11 +79,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://miRTarBase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/index.php"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://miRTarBase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/php/index.php"
+                        "url": "https://miRTarBase.cuhk.edu.cn/~miRTarBase/miRTarBase_2025/index.php"
                     }
                 ],
                 "ssl": true,
@@ -112,11 +108,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://miRTarBase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/index.php"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://miRTarBase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/php/index.php"
+                        "url": "https://miRTarBase.cuhk.edu.cn/~miRTarBase/miRTarBase_2025/index.php"
                     }
                 ],
                 "ssl": true,

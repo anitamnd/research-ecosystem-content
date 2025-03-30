@@ -21,11 +21,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://syapse.com/"
-                    },
-                    {
-                        "status": 301,
-                        "url": "https://www.Syapse.com/"
+                        "url": "https://www.syapse.com/"
                     }
                 ],
                 "ssl": true,
@@ -57,11 +53,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://syapse.com/"
-                    },
-                    {
-                        "status": 301,
-                        "url": "https://www.Syapse.com/"
+                        "url": "https://www.syapse.com/"
                     }
                 ],
                 "ssl": true,

@@ -17,7 +17,7 @@
                             "doi": "10.1093/nar/gkab132",
                             "pmcid": "PMC8216290",
                             "pmid": "33684219",
-                            "ref_count": 7,
+                            "ref_count": 6,
                             "refs": [
                                 {
                                     "count": 1,
@@ -34,10 +34,6 @@
                                 {
                                     "count": 1,
                                     "year": "2015"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2017"
                                 },
                                 {
                                     "count": 2,
@@ -58,11 +54,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "http://shiny.bio.lmu.de:3838/iPASSv2"
+                        "status": 301,
+                        "url": "http://www.bultmannlab.eu/tools/iPASS/"
                     }
                 ],
                 "ssl": null,
@@ -87,11 +83,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "http://shiny.bio.lmu.de:3838/iPASSv2"
+                        "status": 301,
+                        "url": "http://www.bultmannlab.eu/tools/iPASS/"
                     }
                 ],
                 "ssl": null,

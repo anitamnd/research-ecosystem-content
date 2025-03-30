@@ -26,14 +26,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -95,27 +95,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -191,7 +195,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -226,14 +230,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -295,27 +299,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -391,7 +399,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -426,14 +434,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -495,27 +503,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -591,7 +603,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -626,14 +638,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -695,27 +707,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -791,7 +807,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -826,14 +842,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -895,27 +911,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -991,7 +1011,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -1026,14 +1046,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -1095,27 +1115,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -1191,7 +1215,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -1226,14 +1250,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -1295,27 +1319,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -1391,7 +1419,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -1426,14 +1454,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -1495,27 +1523,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -1591,7 +1623,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -1626,14 +1658,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -1695,27 +1727,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -1791,7 +1827,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -1826,14 +1862,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -1895,27 +1931,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -1991,7 +2031,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -2026,14 +2066,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -2095,27 +2135,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -2191,7 +2235,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -2226,14 +2270,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -2295,27 +2339,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -2391,7 +2439,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -2426,14 +2474,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -2495,27 +2543,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -2591,7 +2643,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -2626,14 +2678,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -2695,27 +2747,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -2791,7 +2847,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -2826,14 +2882,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -2895,27 +2951,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -2991,7 +3051,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -3026,14 +3086,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -3095,27 +3155,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -3191,7 +3255,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -3226,14 +3290,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -3295,27 +3359,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -3391,7 +3459,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -3426,14 +3494,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -3495,27 +3563,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -3591,7 +3663,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -3635,14 +3707,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -3704,27 +3776,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -3788,7 +3864,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -3838,14 +3914,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -3907,27 +3983,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -3991,7 +4071,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -4041,14 +4121,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -4110,27 +4190,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -4194,7 +4278,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -4244,14 +4328,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -4313,27 +4397,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -4397,7 +4485,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -4447,14 +4535,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -4516,27 +4604,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -4600,7 +4692,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -4650,14 +4742,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -4719,27 +4811,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -4803,7 +4899,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -4853,14 +4949,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -4922,27 +5018,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -5006,7 +5106,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -5056,14 +5156,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -5125,27 +5225,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -5209,7 +5313,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -5259,14 +5363,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -5328,27 +5432,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -5412,7 +5520,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -5462,14 +5570,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -5531,27 +5639,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -5615,7 +5727,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -5665,14 +5777,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -5734,27 +5846,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -5818,7 +5934,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -5868,14 +5984,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -5937,27 +6053,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -6021,7 +6141,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -6071,14 +6191,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -6140,27 +6260,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -6224,7 +6348,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -6274,14 +6398,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -6343,27 +6467,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -6427,7 +6555,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -6482,14 +6610,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -6551,27 +6679,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -6648,7 +6780,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -6703,14 +6835,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -6772,27 +6904,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -6869,7 +7005,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -6924,14 +7060,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -6993,27 +7129,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -7090,7 +7230,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -7145,14 +7285,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -7214,27 +7354,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -7311,7 +7455,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -7366,14 +7510,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -7435,27 +7579,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -7532,7 +7680,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -7587,14 +7735,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -7656,27 +7804,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -7753,7 +7905,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -7808,14 +7960,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -7877,27 +8029,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -7974,7 +8130,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -8029,14 +8185,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -8098,27 +8254,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -8195,7 +8355,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -8250,14 +8410,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -8319,27 +8479,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -8416,7 +8580,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -8471,14 +8635,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -8540,27 +8704,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -8637,7 +8805,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -8692,14 +8860,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -8761,27 +8929,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -8858,7 +9030,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -8913,14 +9085,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -8982,27 +9154,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -9079,7 +9255,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -9134,14 +9310,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -9203,27 +9379,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -9300,7 +9480,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -9355,14 +9535,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -9424,27 +9604,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -9521,7 +9705,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -9576,14 +9760,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -9645,27 +9829,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -9742,7 +9930,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -9797,14 +9985,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -9866,27 +10054,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -9963,7 +10155,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -10018,14 +10210,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -10087,27 +10279,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -10184,7 +10380,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -10239,14 +10435,14 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 2,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2024"
                                 }
                             ],
@@ -10308,27 +10504,31 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 37,
                             "citations": [
                                 {
-                                    "count": 11,
+                                    "count": 3,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 6,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 11,
-                                    "year": "2022"
+                                    "count": 6,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 6,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2020"
-                                },
-                                {
-                                    "count": 14,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 18,
-                                    "year": "2023"
                                 }
                             ],
                             "doi": "10.1038/s41587-020-0439-x",
@@ -10405,7 +10605,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,
@@ -10499,30 +10699,18 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 163,
+                            "cit_count": 149,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 4,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 15,
+                                    "count": 13,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 21,
+                                    "count": 17,
                                     "year": "2020"
                                 },
                                 {
@@ -10627,7 +10815,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://nf-co.re/sarek/3.5.0/"
+                        "url": "https://nf-co.re/sarek/3.5.1/"
                     }
                 ],
                 "ssl": true,

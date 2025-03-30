@@ -142,19 +142,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/&osid=1&passive=1209600&ifkv=AeZLP9_oUdLI_1QXx55rE7xc3p7KBRvXesqV24sSTBqjbU_gNtDRjbokzXO2uqUFCjecnQ9-2aDO8Q"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/bgcsoftware/&followup=https://sites.google.com/site/bgcsoftware/&osid=1&passive=1209600&ifkv=AXH0vVvmBSzJFjkUL0aK9ZkafU347UNRUGfk0qzsDNvl4wkVTSobvOCiFoB5XcWaO7epwpQC5VyC"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/bgcsoftware/&followup=https://sites.google.com/site/bgcsoftware/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbgcsoftware%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbgcsoftware%2F&ifkv=AeZLP9-YQHlwIxQ_15_irZGrl5iCAZFaOQf9HlfBTBhj2FGAM-2YJEj5fyyi2LeyJ_zaSydLqJrVjg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-434234804%3A1735998867696622&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fbgcsoftware%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fbgcsoftware%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fbgcsoftware%2F&ifkv=AXH0vVuXsWxYJ1wFVt2qQhNafIXJsL4pDkpJoeZJUZXKIdINFPN__GWoti2g2bcGSENQTJpxq3AY&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1625840106%3A1743241200199521"
                     }
                 ],
                 "ssl": true,
@@ -186,19 +182,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/&osid=1&passive=1209600&ifkv=AeZLP9_4zJnHHJ1ToYW3oJXBUeWfikOoSPetuCJFnVYLAttpfQHqXYwVCLdhOsKpzStx8ABdHGWM3Q"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/bgcsoftware/&followup=https://sites.google.com/site/bgcsoftware/&osid=1&passive=1209600&ifkv=AXH0vVtbzymB3jlsCByPB1y_8ci_gYOmGGJa0H5FJER25X2bVYpDByC4UdVT6-tEQr0O2JvkmJLX"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bgcsoftware/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/bgcsoftware/&followup=https://sites.google.com/site/bgcsoftware/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbgcsoftware%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbgcsoftware%2F&ifkv=AeZLP98ogltwfV2Db1RyAYpU8K2RiVdKUz2UpZhQaosjksTub1C7jC9Q9fXKMu27yAP6uRK8S-3jTw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1204408388%3A1735999102805512&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fbgcsoftware%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fbgcsoftware%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fbgcsoftware%2F&ifkv=AXH0vVvHD9oo2u1darYP7icXUIBLJRfLfUM0jimIDbFUHT2HeKSCdmjHAv3NhuqmVLH6GLqif4Li&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1422770752%3A1743241317243567"
                     }
                 ],
                 "ssl": true,

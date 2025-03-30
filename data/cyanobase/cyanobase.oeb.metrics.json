@@ -12,7 +12,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 76,
+                            "cit_count": 77,
                             "citations": [
                                 {
                                     "count": 1,
@@ -39,6 +39,10 @@
                                     "year": "2018"
                                 },
                                 {
+                                    "count": 7,
+                                    "year": "2017"
+                                },
+                                {
                                     "count": 8,
                                     "year": "2015"
                                 },
@@ -47,15 +51,11 @@
                                     "year": "2016"
                                 },
                                 {
-                                    "count": 8,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 10,
+                                    "count": 11,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 11,
                                     "year": "2013"
                                 },
                                 {
@@ -117,16 +117,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": false,
                 "operational": 404,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://genome.microbedb.jp/CyanoBase"
+                        "url": "https://genome.kazusa.or.jp/cyanobase"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         },
@@ -149,16 +149,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": false,
                 "operational": 404,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://genome.microbedb.jp/CyanoBase"
+                        "url": "https://genome.kazusa.or.jp/cyanobase"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         }

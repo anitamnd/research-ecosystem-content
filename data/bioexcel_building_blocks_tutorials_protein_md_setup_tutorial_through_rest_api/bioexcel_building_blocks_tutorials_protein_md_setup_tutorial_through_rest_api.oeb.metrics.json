@@ -38,29 +38,49 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 8,
                             "citations": [
                                 {
-                                    "count": 1,
+                                    "count": 2,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 1,
+                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 1,
+                                    "count": 4,
                                     "year": "2022"
                                 }
                             ],
                             "doi": "10.1038/s41597-019-0177-4",
                             "pmcid": "PMC6736963",
                             "pmid": "31506435",
-                            "ref_count": 68,
+                            "ref_count": 54,
                             "refs": [
                                 {
                                     "count": 1,
+                                    "year": "1981"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1983"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1987"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1993"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "1995"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1996"
                                 },
                                 {
                                     "count": 1,
@@ -75,24 +95,12 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1981"
+                                    "count": 1,
+                                    "year": "2015"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1983"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1987"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1993"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1996"
+                                    "count": 1,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -108,10 +116,6 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2015"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2018"
                                 },
                                 {
@@ -124,26 +128,22 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 4,
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 7,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 8,
                                     "year": "2016"
                                 }
                             ],
@@ -219,29 +219,49 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 3,
+                            "cit_count": 8,
                             "citations": [
                                 {
-                                    "count": 1,
+                                    "count": 2,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 1,
+                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 1,
+                                    "count": 4,
                                     "year": "2022"
                                 }
                             ],
                             "doi": "10.1038/s41597-019-0177-4",
                             "pmcid": "PMC6736963",
                             "pmid": "31506435",
-                            "ref_count": 68,
+                            "ref_count": 54,
                             "refs": [
                                 {
                                     "count": 1,
+                                    "year": "1981"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1983"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1987"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1993"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "1995"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1996"
                                 },
                                 {
                                     "count": 1,
@@ -256,24 +276,12 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1981"
+                                    "count": 1,
+                                    "year": "2015"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1983"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1987"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1993"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1996"
+                                    "count": 1,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -289,10 +297,6 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2015"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2018"
                                 },
                                 {
@@ -305,26 +309,22 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 4,
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 8,
+                                    "count": 7,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 10,
+                                    "count": 8,
                                     "year": "2016"
                                 }
                             ],

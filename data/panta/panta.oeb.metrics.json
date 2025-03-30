@@ -4,6 +4,7 @@
         "@license": "https://creativecommons.org/licenses/by/4.0/",
         "@nmsp": "biotools",
         "@type": "metrics",
+        "deprecated": true,
         "distribution": {
             "sourcecode": {
                 "interpreted": true
@@ -30,19 +31,11 @@
                             "doi": "10.1186/s13059-024-03362-z",
                             "pmcid": "PMC11304767",
                             "pmid": "39107817",
-                            "ref_count": 13,
+                            "ref_count": 9,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "2006"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
                                 },
                                 {
                                     "count": 1,
@@ -50,7 +43,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 1,
@@ -67,10 +60,6 @@
                                 {
                                     "count": 1,
                                     "year": "2024"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2015"
                                 },
                                 {
                                     "count": 2,
@@ -102,6 +91,7 @@
         "@license": "https://creativecommons.org/licenses/by/4.0/",
         "@nmsp": "biotools",
         "@type": "metrics",
+        "deprecated": true,
         "distribution": {
             "sourcecode": {
                 "interpreted": true
@@ -128,19 +118,11 @@
                             "doi": "10.1186/s13059-024-03362-z",
                             "pmcid": "PMC11304767",
                             "pmid": "39107817",
-                            "ref_count": 13,
+                            "ref_count": 9,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "2006"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
                                 },
                                 {
                                     "count": 1,
@@ -148,7 +130,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2014"
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 1,
@@ -165,10 +147,6 @@
                                 {
                                     "count": 1,
                                     "year": "2024"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2015"
                                 },
                                 {
                                     "count": 2,

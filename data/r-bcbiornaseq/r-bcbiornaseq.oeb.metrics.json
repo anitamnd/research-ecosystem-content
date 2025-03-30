@@ -25,6 +25,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -56,6 +62,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -87,6 +99,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -118,6 +136,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -149,6 +173,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -180,6 +210,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -211,6 +247,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -629,6 +671,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -682,6 +730,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -735,6 +789,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -779,11 +839,17 @@
                 "description": true
             },
             "website": {
-                "bioschemas": false,
+                "bioschemas": true,
                 "copyright": false,
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://bioinformatics.sph.harvard.edu/bcbioRNASeq/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }

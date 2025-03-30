@@ -20,7 +20,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 31,
+                            "cit_count": 32,
                             "citations": [
                                 {
                                     "count": 1,
@@ -36,10 +36,6 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2015"
                                 },
                                 {
@@ -49,6 +45,10 @@
                                 {
                                     "count": 3,
                                     "year": "2010"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 3,
@@ -114,11 +114,11 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
+                        "url": "https://www.uea.ac.uk:443/computing/superq"
                     },
                     {
-                        "status": 301,
-                        "url": "https://www.uea.ac.uk:443/computing/superq"
+                        "status": 308,
+                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
                     }
                 ],
                 "ssl": true,
@@ -150,11 +150,11 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
+                        "url": "https://www.uea.ac.uk:443/computing/superq"
                     },
                     {
-                        "status": 301,
-                        "url": "https://www.uea.ac.uk:443/computing/superq"
+                        "status": 308,
+                        "url": "https://www.uea.ac.uk/about/school-of-computing-sciences"
                     }
                 ],
                 "ssl": true,

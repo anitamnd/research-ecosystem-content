@@ -27,24 +27,20 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/&osid=1&passive=1209600&ifkv=AeZLP9-2K9Pgq2eLvQlNZnBtVcxCVfssiEbk3fwFHVDgu04sUVptW4DQnH_5jLdoOhv0iIGfSet0Jw"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fthomashoffmannproject%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fthomashoffmannproject%2F&ifkv=AeZLP9_JFBbE3e9tTJb1-stj-as0wx5mLZYFJH03irVrhvRQvJlbQkkyK19vcqgvbyf1PqkRE_arvQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1405956951%3A1735998559362429&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fthomashoffmannproject%2F"
-                    },
-                    {
-                        "status": 302,
+                        "status": 301,
                         "url": "https://sites.google.com/site/thomashoffmannproject/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/thomashoffmannproject/&followup=https://sites.google.com/site/thomashoffmannproject/&osid=1&passive=1209600&ifkv=AXH0vVtY9GVzbBMXlUhkGhEvU5pH0j-nlH5Sj9JC8nwk-HHe2RsA4qr8dzhYtI14WyzlDwtx1Lb3NA"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/thomashoffmannproject/&followup=https://sites.google.com/site/thomashoffmannproject/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fthomashoffmannproject%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fthomashoffmannproject%2F&ifkv=AXH0vVsmP6BWqXt2xB5IUb4kpriatAiWrCetXbz6RaaX6XkAMsw3kV778_CgIsJnOCwxfNiQygYdgA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-399283245%3A1743241098491663"
                     }
                 ],
                 "ssl": true,
@@ -72,24 +68,20 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/&osid=1&passive=1209600&ifkv=AeZLP99rZKvf-XZkE3fFUrswIVSgsajXN59aXAHRLMuUdWWYJuEJYIljaP3WjdWkpc68UN_Egg1EOw"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/thomashoffmannproject/"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fthomashoffmannproject%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fthomashoffmannproject%2F&ifkv=AeZLP99-dAemN0Sex6L82KGwouvAw5QUbUp8wgw9XtgTjL3ZIxoa7u7-bDy9Xvq6WHQ5lhpkHpfN3g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S822430375%3A1735998537465450&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fthomashoffmannproject%2F"
-                    },
-                    {
-                        "status": 302,
+                        "status": 301,
                         "url": "https://sites.google.com/site/thomashoffmannproject/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/thomashoffmannproject/&followup=https://sites.google.com/site/thomashoffmannproject/&osid=1&passive=1209600&ifkv=AXH0vVteDCgDut_KWwwxF7eWDyNajIuR7uOpffLiW2lNWYPBvGddNK38yoqeRXX7d-FsSHYdtYrTfQ"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/thomashoffmannproject/&followup=https://sites.google.com/site/thomashoffmannproject/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fthomashoffmannproject%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fthomashoffmannproject%2F&ifkv=AXH0vVuJkjRJ1Ki4PcBI9idL8iRrtzADK2E16CWAN-vneFUWS6hKT7lMmYLhmRr8Yu3SDAvsjsCXUA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-46929360%3A1743241084847279"
                     }
                 ],
                 "ssl": true,

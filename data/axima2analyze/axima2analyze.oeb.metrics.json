@@ -15,16 +15,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": false,
-                "operational": 200,
+                "operational": 403,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "http://maldi-msi.org/index.php?option=com_content&view=article&id=87&Itemid=48"
+                        "url": "https://www.maldi-msi.org/index.php?option=com_content&view=article&id=87&Itemid=48"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         },
@@ -47,16 +47,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": false,
+                "https": true,
                 "license": false,
-                "operational": 200,
+                "operational": 403,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "http://maldi-msi.org/index.php?option=com_content&view=article&id=87&Itemid=48"
+                        "url": "https://www.maldi-msi.org/index.php?option=com_content&view=article&id=87&Itemid=48"
                     }
                 ],
-                "ssl": null,
+                "ssl": true,
                 "ssl_err": null
             }
         }
