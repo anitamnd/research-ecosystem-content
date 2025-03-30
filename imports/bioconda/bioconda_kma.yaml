@@ -1,8 +1,9 @@
 about:
+  dev_url: https://bitbucket.org/genomicepidemiology/kma
   home: https://bitbucket.org/genomicepidemiology/kma
   license: Apache-2.0
   license_family: APACHE
-  summary: KMA is mapping a method designed to map raw reads directly against redundant
+  summary: KMA is a mapping method designed to map raw reads directly against redundant
     databases, in an ultra-fast manner using seed and extend.
 build:
   number: 0
@@ -14,9 +15,10 @@ extra:
   - osx-arm64
   identifiers:
   - doi:10.1186/s12859-018-2336-6
+  - usegalaxy-eu:kma_map
 package:
   name: kma
-  version: 1.4.15
+  version: 1.4.18
 requirements:
   build:
   - make
@@ -24,8 +26,8 @@ requirements:
   host:
   - zlib
 source:
-  sha256: d95b1a958879fcbd37f680cfad74b7939879d357e13a073e53b62ea108675885
-  url: https://bitbucket.org/genomicepidemiology/kma/get/1.4.15.tar.gz
+  sha256: 71a6acf74625bb666e3e7dfd01fb3f4362f466216bb35c89fd1eae5a54c8b8bc
+  url: https://bitbucket.org/genomicepidemiology/kma/get/1.4.18.tar.gz
 test:
   commands:
   - kma -h | grep KMA >/dev/null

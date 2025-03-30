@@ -1,9 +1,10 @@
 about:
+  dev_url: https://github.com/orthanq/orthanq
   home: https://github.com/orthanq/orthanq
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: Uncertainty aware HLA typing and general haplotype quantification
+  summary: Uncertainty aware HLA typing and general haplotype quantification.
 build:
   number: 0
   run_exports:
@@ -14,13 +15,12 @@ extra:
   - linux-aarch64
 package:
   name: orthanq
-  version: 1.7.9
+  version: 1.10.0
 requirements:
   build:
   - None
   - None
   - None
-  - rust >=1.54
   - pkg-config
   - make
   - cmake
@@ -46,16 +46,13 @@ requirements:
   - gsl
   - libcblas
   - openssl
-  - zlib
-  - bzip2
-  - xz
   - clangdev
   - coincbc
   - hdf5 =1.10.5
   - fontconfig
 source:
-  sha256: 101f3b82aaae6bd6f50cce04cee14478236384677300e7441c88da08ca975554
-  url: https://github.com/orthanq/orthanq/archive/v1.7.9.tar.gz
+  sha256: 213bf294190b36fdacd6191f159f11b48d7dc9a5f2469e387d8e6af3e1783a06
+  url: https://github.com/orthanq/orthanq/archive/v1.10.0.tar.gz
 test:
   commands:
   - orthanq -h

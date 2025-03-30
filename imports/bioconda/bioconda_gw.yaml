@@ -19,10 +19,9 @@ build:
   - zlib
   - libuuid
   - libdeflate
-  number: 0
+  number: 1
   run_exports:
   - None
-  skip: true
 extra:
   additional-platforms:
   - osx-arm64
@@ -32,7 +31,7 @@ extra:
   - kcleal
 package:
   name: gw
-  version: 1.1.1
+  version: 1.1.4
 requirements:
   build:
   - make
@@ -41,13 +40,13 @@ requirements:
   host:
   - fontconfig
   - libuuid
-  - libcurl
+  - libcurl >=7.5
   - libdeflate >=1.0
   - htslib >=1.12
   - glfw >=3.3
   - unzip
   - freetype
-  - zlib
+  - zlib >=1.1
   - pthread-stubs
   - xorg-libsm
   - xorg-libice
@@ -69,11 +68,8 @@ requirements:
   - mesalib
   - wayland
 source:
-  patches:
-  - fix-linker-issues.patch
-  - fix-context.patch
-  sha256: 5ac0430d9179d1a48938f24011c329fe807e72aba0c20eb191c566d129115f86
-  url: https://github.com/kcleal/gw/archive/refs/tags/v1.1.1.tar.gz
+  sha256: ceb439bdd699810d2b2b0e265c10956045a758de4e96c3a47149f83fc451b1cd
+  url: https://github.com/kcleal/gw/archive/refs/tags/v1.1.4.tar.gz
 test:
   commands:
   - which gw && ls -lh $(which gw)

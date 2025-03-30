@@ -1,30 +1,40 @@
 about:
-  home: https://github.com/jean-pierreBoth/graphembed
+  dev_url: https://github.com/jianshu93/graphembed
+  home: https://github.com/jianshu93/graphembed
   license: MIT
-  summary: Efficient and Robust Graph Embedding via High-Order Proximity Preservation
-    or Recursive Sketching
+  license_family: MIT
+  summary: Efficient and Robust Graph/Network Embedding via High-Order Proximity Preservation
+    or Recursive Sketching.
 build:
   number: 0
   run_exports:
   - None
   skip: true
 extra:
-  maintainers:
-  - Jean Pierre-Both
-  - Jianshu Zhao
+  recipe-maintainers:
+  - jianshu93
+  - jean-pierreBoth
 package:
   name: graphembed
-  version: 0.1.2
+  version: 0.1.5
 requirements:
   build:
   - None
   - None
-  - rust >=1.69
+  - None
   - make
   - cmake
+  - cargo-bundle-licenses
+  - pkg-config
+  host:
+  - openblas
+  - openssl
+  run:
+  - openblas
+  - openssl
 source:
-  sha256: 9e3d87b57b493768dbb38feb1084b41f79141a12775373cac74a2798c9c9cd56
-  url: https://github.com/jianshu93/graphembed/archive/v0.1.2.tar.gz
+  sha256: fb9e5a340a5ff5cbe7c796649736426eb41edd856a1c6b8fcb807ce75331a18f
+  url: https://github.com/jianshu93/graphembed/archive/v0.1.5.tar.gz
 test:
   commands:
   - graphembed -h

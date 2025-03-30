@@ -21,7 +21,7 @@ extra:
   - johanneskoester
 package:
   name: predictosaurus
-  version: 0.2.6
+  version: 0.2.10
 requirements:
   build:
   - None
@@ -36,9 +36,10 @@ requirements:
   - libcblas
   - libcurl
   - openssl
+  - clangdev
 source:
-  sha256: b560bcf2b7a70e282152e8274f01ba09bc3f116f442f94c5a065c8975d05e0c4
-  url: https://github.com/fxwiegand/predictosaurus/archive/refs/tags/v0.2.6.tar.gz
+  sha256: d63819af83e53fc325ea7ffa6b0ba513988a39e086c8e66596f0b259eac1e6ad
+  url: https://github.com/fxwiegand/predictosaurus/archive/refs/tags/v0.2.10.tar.gz
 test:
   commands:
   - predictosaurus --help

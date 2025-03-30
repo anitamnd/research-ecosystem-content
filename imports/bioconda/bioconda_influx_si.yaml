@@ -37,7 +37,7 @@ extra:
   - sgsokol
 package:
   name: influx_si
-  version: 7.2.2
+  version: 7.2.4
 requirements:
   host:
   - pip
@@ -64,8 +64,8 @@ requirements:
   - r-kvh
   - r-bitops
 source:
-  sha256: 304919acd53979400bf3952b27c3cbea14c9687743834ab17417b072a70fcfbf
-  url: https://pypi.io/packages/source/i/influx_si/influx_si-7.2.2.tar.gz
+  sha256: 89e212d3ebfdef19ed51c2cf74a55df546ce55e24638f3d7e044587dfb2200b4
+  url: https://pypi.io/packages/source/i/influx_si/influx_si-7.2.4.tar.gz
 test:
   commands:
   - influx_s -h

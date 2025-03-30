@@ -12,7 +12,7 @@ build:
   script: -m pip install --no-deps --no-build-isolation . -vvv
 package:
   name: ntm-profiler
-  version: 0.5.0
+  version: 0.6.1
 requirements:
   host:
   - python >=3.7
@@ -23,13 +23,12 @@ requirements:
   - snpeff =5.0
   run:
   - python >=3.7
-  - mash =2.3
-  - pathogen-profiler =4.1.0
+  - pathogen-profiler =4.7.0
   - jinja2
   - sourmash >=4.8.3
 source:
-  sha256: 6dafd31f7a5ccf7b770481c0fffeb09509287a402ca4023ee88e0620d440c85b
-  url: https://github.com/jodyphelan/NTM-Profiler/archive/v0.5.0.tar.gz
+  sha256: dd82e6b9a2eb375481f5c85443fa66404753fb67fdcf109ec5f0723d9f1acd90
+  url: https://github.com/jodyphelan/NTM-Profiler/archive/v0.6.1.tar.gz
 test:
   commands:
   - ntm-profiler -h

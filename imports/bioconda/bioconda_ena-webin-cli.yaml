@@ -10,14 +10,14 @@ build:
   - None
 package:
   name: ena-webin-cli
-  version: 8.1.0
+  version: 8.2.0
 requirements:
   run:
-  - openjdk >=8,<9
+  - openjdk >=17
   - python
 source:
-  sha256: 591f2e9b6536d1eb5ca7f94c11d81267118978261f6bc41ce226dd81b68d5340
-  url: https://github.com/enasequence/webin-cli/releases/download/8.1.0/webin-cli-8.1.0.jar
+  sha256: d0bdba83fc4477526a4cc3a510da6006bdcaf938f4daee7c55f5b344b3f909ec
+  url: https://github.com/enasequence/webin-cli/releases/download/8.2.0/webin-cli-8.2.0.jar
 test:
   commands:
   - ena-webin-cli -version

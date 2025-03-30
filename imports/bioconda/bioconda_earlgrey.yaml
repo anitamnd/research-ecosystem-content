@@ -25,7 +25,7 @@ extra:
   - doi:10.1093/molbev/msae068
 package:
   name: earlgrey
-  version: 5.1.0
+  version: 6.0.0
 requirements:
   build:
   - make
@@ -41,7 +41,7 @@ requirements:
   - pyfaidx
   - pyranges
   - parallel
-  - repeatmasker =4.1.5
+  - repeatmasker =4.1.8
   - ltr_retriever
   - mafft
   - mreps
@@ -67,9 +67,10 @@ requirements:
   - pybedtools
   - samtools
   - heliano
+  - r-kableextra
 source:
-  sha256: 1a98830a0609f204f7c755462e82ffa4f286dad60e383207ec06e202447903c1
-  url: https://github.com/TobyBaril/EarlGrey/archive/refs/tags/v5.1.0.tar.gz
+  sha256: b3016a4f83a7f3b3c8ea9e5115956d02eb39f73c0e71e69c1937c428ee86436c
+  url: https://github.com/TobyBaril/EarlGrey/archive/refs/tags/v6.0.0.tar.gz
 test:
   commands:
   - df -h

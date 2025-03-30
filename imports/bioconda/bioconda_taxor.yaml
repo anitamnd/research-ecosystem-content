@@ -11,7 +11,7 @@ build:
   skip: true
 package:
   name: taxor
-  version: 0.1.3
+  version: 0.2.0
 requirements:
   build:
   - make
@@ -33,8 +33,8 @@ requirements:
   - curl
   - diffutils
 source:
-  md5: 7bffd64282894433b4db60af8f1052c9
-  url: https://github.com/JensUweUlrich/Taxor/archive/refs/tags/0.1.3.tar.gz
+  md5: a5d7adafa66b43ba4c9d9a170f5cc163
+  url: https://github.com/JensUweUlrich/Taxor/archive/refs/tags/0.2.0.tar.gz
 test:
   commands:
   - taxor --help

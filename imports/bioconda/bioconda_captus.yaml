@@ -11,7 +11,7 @@ build:
   - None
 package:
   name: captus
-  version: 1.1.0
+  version: 1.3.2
 requirements:
   build: null
   host:
@@ -39,8 +39,8 @@ requirements:
   - tqdm
   - vsearch
 source:
-  sha256: 7a82c26cca9c56dec5e0ddc65bc5ae13cd2beb01719bd621c2cd6bf01d1bfe3e
-  url: https://github.com/edgardomortiz/Captus/archive/v1.1.0.tar.gz
+  sha256: 67bc59465c1523c6cee19c711f0b8c1462e3b603620072086f03d98516a54618
+  url: https://github.com/edgardomortiz/Captus/archive/v1.3.2.tar.gz
 test:
   commands:
   - captus_assembly --help

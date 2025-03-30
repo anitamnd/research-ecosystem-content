@@ -7,13 +7,13 @@ build:
   number: 0
   run_exports:
     weak:
-    - perl-math-bigint =2.003003
+    - perl-math-bigint =2.005002
 extra:
   recipe-maintainers:
   - xileF1337
 package:
   name: perl-math-bigint
-  version: 2.003003
+  version: 2.005002
 requirements:
   build:
   - make
@@ -27,8 +27,8 @@ requirements:
   - perl-math-complex >=1.36
   - perl-scalar-list-utils
 source:
-  sha256: f24804a58265b7b3d00dc3f71dc575aebcf9e0230a291028b65e7a2c41abcb1c
-  url: https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-2.003003.tar.gz
+  sha256: 3a635ad3ab5bb5cb15719515350203654f413ade0ec48468bc3f07a14385598d
+  url: https://cpan.metacpan.org/authors/id/P/PJ/PJACKLAM/Math-BigInt-2.005002.tar.gz
 test:
   imports:
   - Math::BigFloat

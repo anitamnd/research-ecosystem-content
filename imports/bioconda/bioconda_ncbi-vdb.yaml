@@ -11,7 +11,7 @@ about:
   license: Public Domain
   summary: SRA tools database engine.
 build:
-  number: 2
+  number: 0
   run_exports:
   - None
 extra:
@@ -20,7 +20,7 @@ extra:
   - osx-arm64
 package:
   name: ncbi-vdb
-  version: 3.1.1
+  version: 3.2.1
 requirements:
   build:
   - None
@@ -32,8 +32,8 @@ source:
   folder: ncbi-vdb
   patches:
   - env.cmake.patch
-  sha256: e9766f259853c696be48e289b08cb5ae6e198d82d7ffee79f09ce7f720487991
-  url: https://github.com/ncbi/ncbi-vdb/archive/3.1.1.tar.gz
+  sha256: 535511984928ec5bac02a61fc6b4d1ca72a5b69c742f4882eabd32ed3a97621c
+  url: https://github.com/ncbi/ncbi-vdb/archive/3.2.1.tar.gz
 test:
   commands:
   - test -e ${PREFIX}/lib/libncbi-vdb.so

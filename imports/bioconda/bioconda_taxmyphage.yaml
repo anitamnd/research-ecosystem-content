@@ -16,7 +16,7 @@ extra:
   - rdenise
 package:
   name: taxmyphage
-  version: 0.3.3
+  version: 0.3.6
 requirements:
   host:
   - python >=3.9,<3.13
@@ -40,8 +40,8 @@ requirements:
   - blast >=2.14.0,<3.0.0
   - mash >=2.3,<3.0.0
 source:
-  sha256: 89ca35ef70c214f7585960b92545c7ece75a339c252d02bec17fa28c51ccbcb8
-  url: https://pypi.io/packages/source/t/taxmyphage/taxmyphage-0.3.3.tar.gz
+  sha256: a7b7f0a1a221748ab305746ddb954d760fcc840020dfc3eb609214b0dcaff9eb
+  url: https://pypi.io/packages/source/t/taxmyphage/taxmyphage-0.3.6.tar.gz
 test:
   commands:
   - taxmyphage --help

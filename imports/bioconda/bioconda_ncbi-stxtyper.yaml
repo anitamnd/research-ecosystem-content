@@ -14,11 +14,13 @@ build:
   run_exports:
   - None
 extra:
+  additional-platforms:
+  - linux-aarch64
   recipe-maintainers:
   - evolarjun
 package:
   name: ncbi-stxtyper
-  version: 1.0.27
+  version: 1.0.40
 requirements:
   build:
   - make
@@ -28,8 +30,8 @@ requirements:
   run:
   - blast >=2.9
 source:
-  sha256: 07966b8c6aa909bb1201c098d3c72eaf067e7b11de1a2ab0f89fb2cf52820382
-  url: https://github.com/ncbi/stxtyper/archive/v1.0.27.tar.gz
+  sha256: bb1484e5f56a7f32f4b89701faac246303b33a5093b5929d46bc233c127f7b87
+  url: https://github.com/ncbi/stxtyper/archive/v1.0.40.tar.gz
 test:
   commands:
   - echo "PREFIX=$PREFIX   CONDA_PREFIX=$CONDA_PREFIX  SRC_DIR=$SRC_DIR"
