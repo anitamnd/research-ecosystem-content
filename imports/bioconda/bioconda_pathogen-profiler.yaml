@@ -13,7 +13,7 @@ build:
   script: python -m pip install --no-deps --ignore-installed .
 package:
   name: pathogen-profiler
-  version: 4.6.0
+  version: 4.8.0
 requirements:
   host:
   - python
@@ -49,8 +49,8 @@ requirements:
   - seqkit
   - sourmash
 source:
-  sha256: 8e8212c785b19692fc58683d496d3ef6f827ee3da6969cfe81aaf7feb48df89a
-  url: https://github.com/jodyphelan/pathogen-profiler/archive/v4.6.0.tar.gz
+  sha256: 3b03d53df03f06f7349481da4e7ee74c1066728c85c1edfcd6743d20fab4b1f2
+  url: https://github.com/jodyphelan/pathogen-profiler/archive/v4.8.0.tar.gz
 test:
   commands:
   - rename_vcf_chrom.py -h

@@ -1,6 +1,6 @@
 about:
   dev_url: https://github.com/wdecoster/STRdust
-  doc_url: https://github.com/wdecoster/STRdust/blob/v0.8.2/README.md
+  doc_url: https://github.com/wdecoster/STRdust/blob/v0.11.1/README.md
   home: https://github.com/wdecoster/STRdust
   license: MIT
   license_family: MIT
@@ -13,25 +13,29 @@ build:
 extra:
   additional-platforms:
   - osx-arm64
+  - linux-aarch64
+  identifiers:
+  - doi:10.1101/gr.279265.124
 package:
   name: strdust
-  version: 0.8.2
+  version: 0.11.1
 requirements:
   build:
   - None
+  - None
+  - clangdev
+  - make
+  - cmake
   - autoconf
   - automake
   - libtool
-  - make
-  - None
   - pkg-config
-  - cmake
+  - cargo-bundle-licenses
   host:
-  - clangdev
   - zlib
 source:
-  sha256: 4fd97b05b22870c70a9d41dbcb2f106836f009e3db39bce47921ab6aa9bff100
-  url: https://github.com/wdecoster/STRdust/archive/refs/tags/v0.8.2.tar.gz
+  sha256: 74a52f2b262ee1162c56abcfcd8065ea22d5e20f764074101fe634ae03b92330
+  url: https://github.com/wdecoster/STRdust/archive/refs/tags/v0.11.1.tar.gz
 test:
   commands:
   - STRdust --help

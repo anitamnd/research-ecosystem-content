@@ -1,0 +1,56 @@
+about:
+  description: R functions to use in the UK Biobank Research Analysis Platform (RAP).
+    The aim is to make working in the RAP quicker, easier, and more reproducible.
+    Though some functions require a Spark cluster, the package is mostly aimed to
+    work in a "normal" cluster using RStudio, and raw UK Biobank data from the table-exporter.
+  dev_url: https://github.com/lcpilling/ukbrapR
+  home: https://lcpilling.github.io/ukbrapR
+  license: GPL-3.0-only
+  license_file: LICENSE
+  summary: R functions to use in the UK Biobank Research Analysis Platform (RAP)
+build:
+  noarch: generic
+  number: 0
+  rpaths:
+  - lib/R/lib/
+  - lib/
+  run_exports:
+  - None
+  script: R CMD INSTALL --build .
+extra:
+  recipe-maintainers:
+  - nsandau
+package:
+  name: r-ukbrapr
+  version: 0.3.3
+requirements:
+  host:
+  - r-base
+  - r-dplyr >=1.1.0
+  - r-readr >=2.0.0
+  - r-stringr >=1.5.0
+  - r-purrr >=1.0.0
+  - r-lubridate >=1.9.0
+  - r-rlang >=1.0.0
+  - r-cli >=3.6.1
+  - r-prettyunits >=1.0.0
+  - r-lifecycle >=1.0.0
+  - r-haven >=2.5.0
+  run:
+  - r-base
+  - r-dplyr >=1.1.0
+  - r-readr >=2.0.0
+  - r-stringr >=1.5.0
+  - r-purrr >=1.0.0
+  - r-lubridate >=1.9.0
+  - r-rlang >=1.0.0
+  - r-cli >=3.6.1
+  - r-prettyunits >=1.0.0
+  - r-lifecycle >=1.0.0
+  - r-haven >=2.5.0
+source:
+- sha256: ab1b9e0eefa43e64c8693bcfb9cda28e3ed5af4512ea64b572a9481d6411ffdb
+  url: https://github.com/lcpilling/ukbrapR/archive/refs/tags/v0.3.3.tar.gz
+test:
+  commands:
+  - $R -e 'library("ukbrapR")'

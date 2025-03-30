@@ -1,6 +1,8 @@
 about:
+  dev_url: https://github.com/marschall-lab/gfaffix
   home: https://github.com/marschall-lab/GFAffix
   license: MIT
+  license_family: MIT
   license_file: LICENSE.md
   summary: GFAffix identifies and collapses walk-preserving shared affixes in variation
     graphs
@@ -9,18 +11,23 @@ build:
   run_exports:
   - None
 extra:
+  additional-platforms:
+  - osx-arm64
+  - linux-aarch64
   recipe-maintainers:
   - danydoerr
 package:
   name: gfaffix
-  version: 0.1.5b
+  version: 0.2.1
 requirements:
   build:
   - None
-  - rust >=1.51
+  - None
+  - cmake
+  - make
 source:
-  sha256: 7a49a588c374670316f52f30d209766c93c99391e03d68262a0e40e75898e43c
-  url: https://github.com/marschall-lab/GFAffix/archive/refs/tags/0.1.5b.tar.gz
+  sha256: 19435b111b6da680f43278301c5ec340263312556a906dd22ade35dbdae4bd78
+  url: https://github.com/marschall-lab/GFAffix/archive/refs/tags/0.2.1.tar.gz
 test:
   commands:
   - gfaffix --help

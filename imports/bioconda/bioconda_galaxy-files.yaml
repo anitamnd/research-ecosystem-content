@@ -18,20 +18,20 @@ extra:
   - bernt-matthias
 package:
   name: galaxy-files
-  version: 24.1.4
+  version: 24.2.3
 requirements:
   host:
   - pip
   - python >=3.7
   - setuptools
   run:
-  - galaxy-util >=24.1
+  - galaxy-util >=24.2
   - fs
   - typing-extensions
   - python >=3.7
 source:
-  sha256: 0a90d3fc33daadc5b5b3560443bb9c7c5689bb5367261a1daef520e5511d3b26
-  url: https://pypi.io/packages/source/g/galaxy-files/galaxy_files-24.1.4.tar.gz
+  sha256: b1550a4648e251e55da0bd27410f8a1680e4b846f11e56c3a34a5712beed869f
+  url: https://pypi.io/packages/source/g/galaxy-files/galaxy_files-24.2.3.tar.gz
 test:
   imports:
   - galaxy

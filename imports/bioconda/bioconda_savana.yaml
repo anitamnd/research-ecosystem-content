@@ -14,7 +14,7 @@ build:
   - ' -m pip install . -vv'
 package:
   name: savana
-  version: 1.2.5
+  version: 1.3.3
 requirements:
   build:
   - python >=3.9
@@ -29,8 +29,8 @@ requirements:
   - pandas >=2.0.0
   - matplotlib-base >=3.7.1
 source:
-  sha256: 38f9e820f99f26cffb9713110f71e3dc1a8b2ec643d8c8619809634f9ef73b51
-  url: https://github.com/cortes-ciriano-lab/savana/archive/1.2.5.tar.gz
+  sha256: 4a0ef2623bf9b61518ba04b9bae6c66404e963aed7c8ce2701b88a90f2b20623
+  url: https://github.com/cortes-ciriano-lab/savana/archive/1.3.3.tar.gz
 test:
   commands:
   - savana --version

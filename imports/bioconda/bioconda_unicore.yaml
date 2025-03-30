@@ -19,7 +19,7 @@ extra:
   - pskvins
 package:
   name: unicore
-  version: 1.0.1
+  version: 1.1.0
 requirements:
   build:
   - None
@@ -27,19 +27,15 @@ requirements:
   host:
   - openssl
   run:
-  - pytorch
-  - transformers
-  - sentencepiece
-  - protobuf
-  - foldseek >=9.427df8a
+  - foldseek >=10.941cd33
   - foldmason
   - mafft
   - iqtree
   - fasttree
   - raxml
 source:
-  sha256: 68d8c24b8752215e9149cf988ab993e8f88f19bdaad463286ec60ee2b2dce363
-  url: https://github.com/steineggerlab/unicore/archive/v1.0.1.tar.gz
+  sha256: 703bbdd4270176a2ed9524a3de1641da6978fc94c75dc672d4f49f6d0dc6dc3c
+  url: https://github.com/steineggerlab/unicore/archive/v1.1.0.tar.gz
 test:
   commands:
   - unicore help

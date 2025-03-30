@@ -19,7 +19,7 @@ extra:
   - qwx9
 package:
   name: strangepg
-  version: 0.8.16
+  version: 0.8.18.1
 requirements:
   build:
   - None
@@ -30,8 +30,10 @@ requirements:
   - None
   - None
   - None
+  - None
   host:
   - libegl-devel
+  - libgles-devel
   - xorg-libx11
   - xorg-libxcursor
   - xorg-libxi
@@ -47,8 +49,8 @@ requirements:
   - xorg-libxi
   - xorg-libxrandr
 source:
-  sha256: bd331051a496aa93deaca170a77c7a69bf0459fb53a2e577a84ac17236ef894d
-  url: https://github.com/qwx9/strangepg/archive/refs/tags/0.8.16.tar.gz
+  sha256: b39049a09d6a21319ebb2b32550071715a70f30c718eab2086e862d77ac4c2c2
+  url: https://github.com/qwx9/strangepg/archive/refs/tags/0.8.18.1.tar.gz
 test:
   source_files:
   - test/frag10.gfa

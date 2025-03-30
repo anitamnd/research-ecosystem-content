@@ -14,7 +14,7 @@ extra:
   - SebastianDall
 package:
   name: pymethylation_utils
-  version: 0.4.1
+  version: 0.5.3
 requirements:
   host:
   - python
@@ -22,8 +22,8 @@ requirements:
   run:
   - python
 source:
-  sha256: 310e976c5abf7b555b1525a3e25ed89193af0a04fea0d02c93dc85c4a252f8b7
-  url: https://pypi.org/packages/source/p/pymethylation_utils/pymethylation_utils-0.4.1.tar.gz
+  sha256: 8276c3bc87406a0fafd415e01bd697590a59098f4c6cd5a4ded7bf192dc91585
+  url: https://pypi.org/packages/source/p/pymethylation_utils/pymethylation_utils-0.5.3.tar.gz
 test:
   commands:
   - python -c "import pymethylation_utils; print(pymethylation_utils.__version__)"

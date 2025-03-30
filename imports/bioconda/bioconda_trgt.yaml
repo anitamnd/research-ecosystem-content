@@ -21,10 +21,10 @@ extra:
   - should_be_noarch_generic
 package:
   name: trgt
-  version: 1.4.1
+  version: 1.5.1
 source:
-- sha256: 7b73ba422147bca06de80f987c69c703f4d36b6e6c47d744a8075af073b0b0fd
-  url: https://github.com/PacificBiosciences/trgt/releases/download/v1.4.1/trgt-v1.4.1-x86_64-unknown-linux-gnu.tar.gz
+- sha256: e503c879bb6ed374ed754aff1eda40b7f6c5d5ad89aaef5e93c13c0d555c3221
+  url: https://github.com/PacificBiosciences/trgt/releases/download/v1.5.1/trgt-v1.5.1-x86_64-unknown-linux-gnu.tar.gz
 test:
   commands:
   - trgt --version

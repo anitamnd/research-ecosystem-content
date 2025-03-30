@@ -16,12 +16,12 @@ extra:
   - goshng
 package:
   name: polap
-  version: 0.4.1.1
+  version: 0.4.3.7.3
 requirements:
   run:
   - python
-  - flye >=2.9.2
-  - minimap2 >=2.24
+  - flye >=2.9.5
+  - minimap2
   - seqkit
   - bedtools
   - seqtk
@@ -33,9 +33,12 @@ requirements:
   - samtools
   - orthofinder
   - bioconductor-ggtree
+  - bioconductor-biostrings
   - networkx
   - pandas
   - gfatools
+  - mafft
+  - getorganelle
   - r-optparse
   - r-dplyr
   - r-readr
@@ -55,9 +58,10 @@ requirements:
   - icu
   - libxml2
   - perl
+  - pandoc
 source:
-  sha256: 127f493b40994364c58e892c63c18d63d3359a31908ea6a2ffdfc1295e62db9b
-  url: https://github.com/goshng/polap/archive/refs/tags/0.4.1.1.tar.gz
+  sha256: 7f01467fb5c152ab3ecd4510feebe6713187e1ca0f5341c0691b0af9c3f49839
+  url: https://github.com/goshng/polap/archive/refs/tags/0.4.3.7.3.tar.gz
 test:
   commands:
   - polap

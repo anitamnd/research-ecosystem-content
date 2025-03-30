@@ -5,8 +5,7 @@ about:
   summary: OpenMS is an open-source software C++ library for LC-MS data management
     and analyses
 build:
-  number: 5
-  skip: true
+  number: 8
 extra:
   identifiers:
   - biotools:openms
@@ -28,7 +27,7 @@ outputs:
     - None
     - None
     - None
-    - libopenms 3.2.0
+    - libopenms 3.3.0
   name: libopenms
   requirements:
     build:
@@ -49,7 +48,7 @@ outputs:
     - sysroot_linux-64 =2.17
     - yaml-cpp
   script: package_libopenms.sh
-  version: 3.2.0
+  version: 3.3.0
 - name: openms
   requirements:
     build:
@@ -87,7 +86,7 @@ outputs:
     commands:
     - OPENMS_DATA_PATH=${PREFIX}/share/OpenMS/ ${PREFIX}/bin/OpenMSInfo
     - OPENMS_DATA_PATH=${PREFIX}/share/OpenMS/ ${PREFIX}/bin/FileMerger --help
-  version: 3.2.0
+  version: 3.3.0
 - build:
     skip: true
   name: openms-thirdparty
@@ -101,16 +100,16 @@ outputs:
     - sirius-ms ==5.8.2
     - thermorawfileparser ==1.4.3
     - xtandem ==15.12.15.2
-    - sage-proteomics ==0.14.4
+    - sage-proteomics ==0.14.7
     - gnuplot
     - r-gplots
   test:
     commands:
     - OPENMS_DATA_PATH=${PREFIX}/share/OpenMS/ ${PREFIX}/bin/OpenMSInfo
-  version: 3.2.0
+  version: 3.3.0
 package:
   name: openms-meta
-  version: 3.2.0
+  version: 3.3.0
 requirements:
   build:
   - None
@@ -134,8 +133,8 @@ requirements:
   - sysroot_linux-64 =2.17
   - yaml-cpp
 source:
-  md5: e15b34a4ccaf7070d186fd01a6d57f3e
-  url: https://github.com/OpenMS/OpenMS/releases/download/release%2F3.2.0/OpenMS-3.2.tar.gz
+  md5: 7a5839e307801a7c9a02258f9da61357
+  url: https://github.com/OpenMS/OpenMS/releases/download/release%2F3.3.0/OpenMS-3.3.tar.gz
 test:
   commands:
   - conda inspect linkages -p $PREFIX $PKG_NAME

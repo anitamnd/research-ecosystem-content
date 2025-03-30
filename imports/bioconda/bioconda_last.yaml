@@ -28,7 +28,7 @@ extra:
   - usegalaxy-eu:last_split
 package:
   name: last
-  version: 1607
+  version: 1615
 requirements:
   build:
   - None
@@ -41,8 +41,8 @@ requirements:
   - pillow
   - parallel
 source:
-  sha256: 6d6b369399445cc7498e35ab518755418200a7d0fc5191a3ae2162057aa2e453
-  url: https://gitlab.com/mcfrith/last/-/archive/1607/last-1607.tar.gz
+  sha256: abe2176bda4fca1e53395cfaead3324afcf0cacc4e534bbd097132bded0dcd69
+  url: https://gitlab.com/mcfrith/last/-/archive/1615/last-1615.tar.gz
 test:
   commands:
   - lastal -h
