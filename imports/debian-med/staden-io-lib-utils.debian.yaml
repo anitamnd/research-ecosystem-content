@@ -22,9 +22,9 @@ tags:
 - tag: scope::utility
 - tag: use::analysing
 popcon:
-- insts: 48
-  olde: 41
-  recent: 4
+- insts: 53
+  olde: 39
+  recent: 11
   vote: 3
 descr:
 - package: staden-io-lib-utils

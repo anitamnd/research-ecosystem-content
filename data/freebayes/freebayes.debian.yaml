@@ -2,7 +2,7 @@ package: freebayes
 distribution: debian
 release: sid
 component: main
-version: 1.3.7
+version: 1.3.9
 source: freebayes
 homepage: https://github.com/ekg/freebayes
 license: unknown
@@ -21,8 +21,9 @@ bib:
 - key: doi
   value: arXiv:1207.3907
 popcon:
-- insts: 40
-  olde: 39
+- insts: 46
+  olde: 34
+  recent: 11
   vote: 1
 descr:
 - package: freebayes

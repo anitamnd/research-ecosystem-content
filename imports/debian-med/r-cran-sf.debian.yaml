@@ -2,18 +2,18 @@ package: r-cran-sf
 distribution: debian
 release: sid
 component: main
-version: 1.0-17
+version: 1.0-19
 source: r-cran-sf
 homepage: https://cran.r-project.org/package=sf
 license: unknown
 blend: debian-med
 description_md5: 9ab2056a03176ae485da026b01b86beb
 popcon:
-- insts: 1220
-  nofiles: 4
-  olde: 999
-  recent: 78
-  vote: 139
+- insts: 1357
+  nofiles: 3
+  olde: 965
+  recent: 202
+  vote: 187
 descr:
 - package: r-cran-sf
   description: Simple Features for R

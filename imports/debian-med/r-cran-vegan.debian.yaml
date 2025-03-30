@@ -2,7 +2,7 @@ package: r-cran-vegan
 distribution: debian
 release: sid
 component: main
-version: 2.6-8
+version: 2.6-10
 source: r-cran-vegan
 homepage: https://cran.r-project.org/package=vegan
 license: unknown
@@ -16,11 +16,10 @@ registries:
 - entry: r-vegan
   name: conda:conda-forge
 popcon:
-- insts: 1178
-  nofiles: 1
-  olde: 1027
-  recent: 37
-  vote: 113
+- insts: 1303
+  olde: 1031
+  recent: 112
+  vote: 160
 descr:
 - package: r-cran-vegan
   description: pacchetto per ecologia delle comunità per R

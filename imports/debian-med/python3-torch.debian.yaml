@@ -2,7 +2,7 @@ package: python3-torch
 distribution: debian
 release: sid
 component: main
-version: 2.5.1
+version: 2.6.0
 source: pytorch
 homepage: https://pytorch.org/
 license: unknown
@@ -14,11 +14,11 @@ registries:
 - entry: pytorch-cpu
   name: conda:conda-forge
 popcon:
-- insts: 504
-  nofiles: 2
-  olde: 342
-  recent: 17
-  vote: 143
+- insts: 588
+  nofiles: 1
+  olde: 223
+  recent: 50
+  vote: 314
 descr:
 - package: python3-torch
   description: Tensors and Dynamic neural networks in Python (Python Interface)

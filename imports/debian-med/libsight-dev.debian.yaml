@@ -2,15 +2,16 @@ package: libsight-dev
 distribution: debian
 release: sid
 component: main
-version: 24.1.0
+version: 25.0.0
 source: sight
 homepage: https://git.ircad.fr/Sight/sight
 license: unknown
 blend: debian-med
 description_md5: 5c8c66562eaa9901e7a0d492014b954c
 popcon:
-- insts: 2
+- insts: 3
   olde: 2
+  recent: 1
 descr:
 - package: libsight-dev
   description: file header di Sight

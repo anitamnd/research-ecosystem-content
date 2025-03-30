@@ -14,8 +14,9 @@ registries:
 - entry: q2-sample-classifier
   name: conda:qiime2
 popcon:
-- insts: 79
-  olde: 62
+- insts: 94
+  olde: 73
+  recent: 4
   vote: 17
 descr:
 - package: q2-sample-classifier

@@ -9,8 +9,9 @@ license: unknown
 blend: debian-med
 description_md5: 7b1649a94bd76814078c247c136b4f5e
 popcon:
-- insts: 78
-  olde: 61
+- insts: 93
+  olde: 72
+  recent: 4
   vote: 17
 descr:
 - package: q2-phylogeny

@@ -2,7 +2,7 @@ package: jalview
 distribution: debian
 release: sid
 component: main
-version: 2.11.4.0
+version: 2.11.4.1
 source: jalview
 homepage: https://www.jalview.org
 license: unknown
@@ -24,10 +24,10 @@ bib:
   rank: 1
   value: 10.1093/bioinformatics/btr304
 popcon:
-- insts: 39
-  olde: 34
-  recent: 2
-  vote: 3
+- insts: 47
+  olde: 35
+  recent: 11
+  vote: 1
 descr:
 - package: jalview
   description: editor per allineamenti multipli

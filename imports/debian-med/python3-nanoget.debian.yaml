@@ -9,9 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: b717656953ba87a065e49966061c1863
 popcon:
-- insts: 32
-  olde: 31
-  recent: 1
+- insts: 37
+  olde: 27
+  recent: 9
+  vote: 1
 descr:
 - package: python3-nanoget
   description: extract information from Oxford Nanopore sequencing data and alignments

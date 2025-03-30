@@ -29,10 +29,10 @@ tags:
 - tag: role::app-data
 - tag: suite::gnu
 popcon:
-- insts: 167
-  olde: 148
-  recent: 8
-  vote: 11
+- insts: 177
+  olde: 143
+  recent: 14
+  vote: 20
 descr:
 - package: r-cran-qtl
   description: pacchetto GNU R per analisi di linkage dei marcatori genetici

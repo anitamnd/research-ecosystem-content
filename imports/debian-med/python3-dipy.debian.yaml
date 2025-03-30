@@ -2,17 +2,17 @@ package: python3-dipy
 distribution: debian
 release: sid
 component: main
-version: 1.10.0
+version: 1.11.0
 source: dipy
 homepage: https://dipy.org
 license: unknown
 blend: debian-med
 description_md5: e620bab38cf0e2e257daf48cb72578d2
 popcon:
-- insts: 150
-  olde: 113
-  recent: 20
-  vote: 17
+- insts: 167
+  olde: 145
+  recent: 7
+  vote: 15
 descr:
 - package: python3-dipy
   description: Python library for the analysis of diffusion MRI datasets

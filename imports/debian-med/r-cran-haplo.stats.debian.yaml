@@ -2,7 +2,7 @@ package: r-cran-haplo.stats
 distribution: debian
 release: sid
 component: main
-version: 1.9.5.1
+version: 1.9.7
 source: r-cran-haplo.stats
 homepage: https://cran.r-project.org/package=haplo.stats
 license: unknown
@@ -15,9 +15,10 @@ tags:
 - tag: implemented-in::r
 - tag: use::analysing
 popcon:
-- insts: 40
-  olde: 39
-  vote: 1
+- insts: 48
+  olde: 36
+  recent: 8
+  vote: 4
 descr:
 - package: r-cran-haplo.stats
   description: ハプロタイプ分析用 GNU R パッケージ

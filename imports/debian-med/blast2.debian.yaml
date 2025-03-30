@@ -30,9 +30,9 @@ tags:
 - tag: use::searching
 - tag: works-with::biological-sequence
 popcon:
-- insts: 115
-  nofiles: 93
-  olde: 22
+- insts: 108
+  nofiles: 88
+  olde: 20
 descr:
 - package: blast2
   description: transitional dummy package to ncbi-blast+-legacy

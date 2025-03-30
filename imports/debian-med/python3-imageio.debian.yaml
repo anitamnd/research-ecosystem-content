@@ -2,17 +2,17 @@ package: python3-imageio
 distribution: debian
 release: sid
 component: main
-version: 2.36.1
+version: 2.37.0
 source: python-imageio
 homepage: https://imageio.github.io/
 license: unknown
 blend: debian-med
 description_md5: 75ff5eb88d8663e92e4685e27c8e1187
 popcon:
-- insts: 1283
-  olde: 1065
-  recent: 103
-  vote: 115
+- insts: 1316
+  olde: 1077
+  recent: 99
+  vote: 140
 descr:
 - package: python3-imageio
   description: libreria per leggere e scrivere dati di immagini (Python 3)

@@ -2,7 +2,7 @@ package: r-bioc-geneplotter
 distribution: debian
 release: sid
 component: main
-version: 1.82.0
+version: 1.84.0
 source: r-bioc-geneplotter
 homepage: https://bioconductor.org/packages/geneplotter/
 license: unknown
@@ -16,10 +16,10 @@ registries:
 - entry: bioconductor-geneplotter
   name: conda:bioconda
 popcon:
-- insts: 156
-  olde: 141
-  recent: 4
-  vote: 11
+- insts: 176
+  olde: 147
+  recent: 17
+  vote: 12
 descr:
 - package: r-bioc-geneplotter
   description: paquet de R de fonctions de tracé de données génomiques

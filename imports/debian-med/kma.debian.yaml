@@ -2,7 +2,7 @@ package: kma
 distribution: debian
 release: sid
 component: main
-version: 1.4.15
+version: 1.4.21
 source: kma
 homepage: https://bitbucket.org/genomicepidemiology/kma
 license: unknown
@@ -17,9 +17,9 @@ bib:
 - key: doi
   value: 10.1186/s12859-018-2336-6
 popcon:
-- insts: 34
-  olde: 32
-  recent: 1
+- insts: 40
+  olde: 23
+  recent: 16
   vote: 1
 descr:
 - package: kma

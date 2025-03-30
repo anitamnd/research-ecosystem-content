@@ -34,10 +34,10 @@ tags:
 - tag: use::comparing
 - tag: works-with::biological-sequence
 popcon:
-- insts: 185
-  olde: 157
-  recent: 16
-  vote: 12
+- insts: 191
+  olde: 155
+  recent: 19
+  vote: 17
 descr:
 - package: phyml
   description: stime filogenetiche usando il metodo della massima verosimiglianza

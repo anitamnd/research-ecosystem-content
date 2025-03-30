@@ -32,9 +32,9 @@ tags:
 - tag: implemented-in::perl
 - tag: role::program
 popcon:
-- insts: 40
-  olde: 38
-  recent: 1
+- insts: 45
+  olde: 35
+  recent: 9
   vote: 1
 descr:
 - package: abacas

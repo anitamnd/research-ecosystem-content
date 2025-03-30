@@ -2,7 +2,7 @@ package: ont-fast5-api
 distribution: debian
 release: sid
 component: main
-version: 4.1.1
+version: 4.1.3
 source: ont-fast5-api
 homepage: https://github.com/nanoporetech/ont_fast5_api/
 license: unknown
@@ -14,8 +14,9 @@ registries:
 - entry: python-ont-fast5-api
   name: guix
 popcon:
-- insts: 7
-  olde: 7
+- insts: 13
+  olde: 8
+  recent: 5
 descr:
 - package: ont-fast5-api
   description: simple interface to HDF5 files of the Oxford Nanopore .fast5 file format

@@ -14,10 +14,9 @@ registries:
 - entry: pyensembl
   name: conda:bioconda
 popcon:
-- insts: 20
-  olde: 18
-  recent: 1
-  vote: 1
+- insts: 26
+  olde: 15
+  recent: 11
 descr:
 - package: pyensembl
   description: installs data from the Ensembl genome database

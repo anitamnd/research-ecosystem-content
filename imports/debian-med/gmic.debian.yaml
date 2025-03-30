@@ -14,11 +14,10 @@ tags:
 - tag: role::program
 - tag: works-with::image
 popcon:
-- insts: 1152
-  nofiles: 1
-  olde: 851
-  recent: 169
-  vote: 131
+- insts: 1173
+  olde: 893
+  recent: 128
+  vote: 152
 descr:
 - package: gmic
   description: GREYC 的图像计算魔法

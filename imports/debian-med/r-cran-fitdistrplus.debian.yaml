@@ -2,7 +2,7 @@ package: r-cran-fitdistrplus
 distribution: debian
 release: sid
 component: main
-version: 1.2-1
+version: 1.2-2
 source: r-cran-fitdistrplus
 homepage: https://cran.r-project.org/package=fitdistrplus
 license: unknown
@@ -12,10 +12,10 @@ registries:
 - entry: r-fitdistrplus
   name: conda:conda-forge
 popcon:
-- insts: 78
-  olde: 71
-  recent: 1
-  vote: 6
+- insts: 87
+  olde: 70
+  recent: 12
+  vote: 5
 descr:
 - package: r-cran-fitdistrplus
   description: support fit of parametric distribution

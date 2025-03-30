@@ -19,9 +19,10 @@ bib:
 - key: doi
   value: 10.1093/nar/gkp998
 popcon:
-- insts: 14
-  olde: 8
-  vote: 6
+- insts: 19
+  olde: 7
+  recent: 7
+  vote: 5
 descr:
 - package: python3-ngs
   description: collegamenti a linguaggio per sequenziamento di prossima generazione

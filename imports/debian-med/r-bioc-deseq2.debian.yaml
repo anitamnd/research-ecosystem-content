@@ -2,7 +2,7 @@ package: r-bioc-deseq2
 distribution: debian
 release: sid
 component: main
-version: 1.44.0
+version: 1.46.0
 source: r-bioc-deseq2
 homepage: https://bioconductor.org/packages/DESeq2/
 license: unknown
@@ -21,10 +21,10 @@ bib:
 - key: doi
   value: 10.1186/s13059-014-0550-8
 popcon:
-- insts: 157
-  olde: 142
-  recent: 5
-  vote: 10
+- insts: 178
+  olde: 148
+  recent: 19
+  vote: 11
 descr:
 - package: r-bioc-deseq2
   description: pacchetto R per analisi RNA-Seq di espressione differenziale

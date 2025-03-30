@@ -2,7 +2,7 @@ package: cnvkit
 distribution: debian
 release: sid
 component: main
-version: 0.9.10
+version: 0.9.12
 source: cnvkit
 homepage: https://cnvkit.readthedocs.org
 license: unknown
@@ -19,9 +19,9 @@ bib:
 - key: doi
   value: 10.1371/journal.pcbi.1004873
 popcon:
-- insts: 33
-  olde: 27
-  recent: 2
+- insts: 36
+  olde: 21
+  recent: 11
   vote: 4
 descr:
 - package: cnvkit

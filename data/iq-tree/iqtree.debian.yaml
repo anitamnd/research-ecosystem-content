@@ -19,9 +19,9 @@ bib:
 - key: doi
   value: 10.1093/molbev/msu300
 popcon:
-- insts: 129
-  olde: 119
-  recent: 4
+- insts: 151
+  olde: 130
+  recent: 15
   vote: 6
 descr:
 - package: iqtree

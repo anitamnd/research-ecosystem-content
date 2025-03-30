@@ -28,9 +28,9 @@ tags:
 - tag: use::comparing
 - tag: works-with::TODO
 popcon:
-- insts: 538
-  olde: 517
-  recent: 10
+- insts: 476
+  olde: 447
+  recent: 18
   vote: 11
 descr:
 - package: wise

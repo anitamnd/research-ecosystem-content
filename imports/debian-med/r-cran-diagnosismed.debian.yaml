@@ -16,9 +16,10 @@ tags:
 - tag: role::program
 - tag: use::analysing
 popcon:
-- insts: 41
-  olde: 40
-  vote: 1
+- insts: 45
+  olde: 39
+  recent: 1
+  vote: 5
 descr:
 - package: r-cran-diagnosismed
   description: Werkzeugsatz zur Genauigkeitsanalyse diagnostischer Tests

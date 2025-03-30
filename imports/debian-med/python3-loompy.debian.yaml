@@ -14,9 +14,8 @@ registries:
 - entry: loompy
   name: conda:conda-forge
 popcon:
-- insts: 8
-  olde: 7
-  recent: 1
+- insts: 6
+  olde: 6
 descr:
 - package: python3-loompy
   description: access loom formatted files for bioinformatics

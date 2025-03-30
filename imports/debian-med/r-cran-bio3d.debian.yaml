@@ -2,7 +2,7 @@ package: r-cran-bio3d
 distribution: debian
 release: sid
 component: main
-version: 2.4-4
+version: 2.4-5
 source: r-cran-bio3d
 homepage: https://cran.r-project.org/package=bio3d
 license: unknown
@@ -17,10 +17,10 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btl461
 popcon:
-- insts: 61
-  olde: 57
-  recent: 1
-  vote: 3
+- insts: 68
+  olde: 49
+  recent: 14
+  vote: 5
 descr:
 - package: r-cran-bio3d
   description: GNU R -paketti biologiseen rakenneanalyysiin

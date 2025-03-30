@@ -2,7 +2,7 @@ package: praat
 distribution: debian
 release: sid
 component: main
-version: 6.4.25
+version: 6.4.27
 source: praat
 homepage: https://www.praat.org
 license: unknown
@@ -20,11 +20,11 @@ tags:
 - tag: works-with::audio
 - tag: x11::application
 popcon:
-- insts: 181
+- insts: 194
   nofiles: 1
-  olde: 146
-  recent: 16
-  vote: 18
+  olde: 163
+  recent: 10
+  vote: 20
 descr:
 - package: praat
   description: puheanalyysi- ja puhesynteesiohjelma

@@ -2,7 +2,7 @@ package: r-cran-cmprsk
 distribution: debian
 release: sid
 component: main
-version: 2.2-11
+version: 2.2-12
 source: r-cran-cmprsk
 homepage: https://cran.r-project.org/package=cmprsk
 license: unknown
@@ -12,11 +12,10 @@ bib:
 - key: doi
   value: 10.2307/2670170
 popcon:
-- insts: 259
-  nofiles: 1
-  olde: 217
-  recent: 16
-  vote: 25
+- insts: 283
+  olde: 191
+  recent: 49
+  vote: 43
 descr:
 - package: r-cran-cmprsk
   description: GNU R subdistribution analysis of competing risks

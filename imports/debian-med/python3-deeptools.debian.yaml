@@ -2,7 +2,7 @@ package: python3-deeptools
 distribution: debian
 release: sid
 component: main
-version: 3.5.5
+version: 3.5.6
 source: python-deeptools
 homepage: https://github.com/deeptools/deepTools
 license: unknown
@@ -22,9 +22,9 @@ bib:
   rank: 1
   value: 10.1093/nar/gku365
 popcon:
-- insts: 31
+- insts: 40
   olde: 27
-  recent: 1
+  recent: 10
   vote: 3
 descr:
 - package: python3-deeptools

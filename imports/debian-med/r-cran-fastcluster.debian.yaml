@@ -4,16 +4,16 @@ release: sid
 component: main
 version: 1.2.6
 source: r-cran-fastcluster
-homepage: https://cran.r-project.org/package=fastcluster
+homepage: https://danifold.net/fastcluster.html
 license: unknown
 blend: debian-med
 description_md5: 2db457eebec7bb41db0f6f450fef99f6
 popcon:
-- insts: 192
+- insts: 203
   nofiles: 1
-  olde: 168
-  recent: 9
-  vote: 14
+  olde: 152
+  recent: 27
+  vote: 23
 descr:
 - package: r-cran-fastcluster
   description: funzioni veloci di raggruppamento in cluster gerarchico per GNU R

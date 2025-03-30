@@ -2,18 +2,17 @@ package: r-bioc-graph
 distribution: debian
 release: sid
 component: main
-version: 1.82.0
+version: 1.84.1
 source: r-bioc-graph
 homepage: https://bioconductor.org/packages/graph/
 license: unknown
 blend: debian-med
 description_md5: 1671232f2d6fe8ad6805b6365405c4d2
 popcon:
-- insts: 268
-  nofiles: 1
-  olde: 225
-  recent: 16
-  vote: 26
+- insts: 292
+  olde: 215
+  recent: 33
+  vote: 44
 descr:
 - package: r-bioc-graph
   description: gestisce strutture di dati di grafi per BioConductor

@@ -36,9 +36,9 @@ tags:
 - tag: works-with-format::plaintext
 - tag: works-with::TODO
 popcon:
-- insts: 41
-  olde: 39
-  recent: 1
+- insts: 47
+  olde: 35
+  recent: 11
   vote: 1
 descr:
 - package: glam2

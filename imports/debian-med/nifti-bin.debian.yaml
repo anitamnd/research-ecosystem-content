@@ -22,10 +22,10 @@ tags:
 - tag: works-with-format::TODO
 - tag: works-with::TODO
 popcon:
-- insts: 178
-  olde: 160
-  recent: 4
-  vote: 14
+- insts: 180
+  olde: 167
+  recent: 3
+  vote: 10
 descr:
 - package: nifti-bin
   description: NIfTI ライブラリに同梱されているツール

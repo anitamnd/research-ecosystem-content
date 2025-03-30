@@ -2,7 +2,7 @@ package: ivar
 distribution: debian
 release: sid
 component: main
-version: 1.4.3
+version: 1.4.4
 source: ivar
 homepage: https://github.com/andersen-lab/ivar
 license: unknown
@@ -14,6 +14,9 @@ registries:
 bib:
 - key: doi
   value: 10.1186/s13059-018-1618-7
+popcon:
+- insts: 1
+  olde: 1
 descr:
 - package: ivar
   description: funzioni largamente utili per sequenziamento di virus basato su ampliconi

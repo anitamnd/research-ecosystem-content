@@ -24,10 +24,10 @@ tags:
 - tag: uitoolkit::wxwidgets
 - tag: x11::application
 popcon:
-- insts: 111
+- insts: 116
   olde: 96
-  recent: 6
-  vote: 9
+  recent: 10
+  vote: 10
 descr:
 - package: qutemol
   description: Visualização interativa de macromoléculas

@@ -2,7 +2,7 @@ package: r-bioc-biobase
 distribution: debian
 release: sid
 component: main
-version: 2.64.0
+version: 2.66.0
 source: r-bioc-biobase
 homepage: https://bioconductor.org/packages/Biobase/
 license: unknown
@@ -17,11 +17,10 @@ bib:
 - key: doi
   value: 10.1186/gb-2004-5-10-r80
 popcon:
-- insts: 1217
-  nofiles: 1
-  olde: 1056
-  recent: 40
-  vote: 120
+- insts: 1345
+  olde: 1068
+  recent: 108
+  vote: 169
 descr:
 - package: r-bioc-biobase
   description: funzioni base per Bioconductor

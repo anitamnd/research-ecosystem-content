@@ -16,8 +16,8 @@ tags:
 - tag: use::timekeeping
 popcon:
 - insts: 14
-  olde: 6
-  vote: 8
+  olde: 7
+  vote: 7
 descr:
 - package: cycle
   description: Cycle — жіночій календар
