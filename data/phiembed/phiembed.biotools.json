@@ -103,7 +103,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2024-11-24T13:57:34.709891Z",
+    "lastUpdate": "2025-01-14T09:13:55.932761Z",
     "license": "MIT",
     "link": [
         {
@@ -111,6 +111,12 @@
                 "Repository"
             ],
             "url": "https://github.com/bioinfodlsu/phage-host-prediction"
+        },
+        {
+            "type": [
+                "Service"
+            ],
+            "url": "http://phiembed.bioinfodlsu.com/"
         }
     ],
     "maturity": "Emerging",
