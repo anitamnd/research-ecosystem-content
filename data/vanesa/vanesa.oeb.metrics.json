@@ -28,8 +28,13 @@
                             ],
                             "doi": "10.2390/biecoll-jib-2014-239",
                             "pmid": "24953454",
-                            "ref_count": 0,
-                            "refs": [],
+                            "ref_count": 1,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "2008"
+                                }
+                            ],
                             "title": "VANESA - a software application for the visualization and analysis of networks in system biology applications.",
                             "year": 2014
                         }
@@ -42,9 +47,9 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
@@ -55,7 +60,7 @@
                         "url": "https://cbrinkrolf.github.io/VANESA/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         },
@@ -78,9 +83,9 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
@@ -91,7 +96,7 @@
                         "url": "https://cbrinkrolf.github.io/VANESA/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         }

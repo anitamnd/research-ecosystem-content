@@ -20,7 +20,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 66,
+                            "cit_count": 67,
                             "citations": [
                                 {
                                     "count": 1,
@@ -71,12 +71,12 @@
                                     "year": "2000"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2013"
+                                    "count": 3,
+                                    "year": "2011"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2011"
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 3,
@@ -115,7 +115,7 @@
                                     "year": "2006"
                                 }
                             ],
-                            "doi": "10.1002/GEPI.1370100402",
+                            "doi": "10.1002/gepi.1370100402",
                             "pmid": "8224802",
                             "ref_count": 9,
                             "refs": [
@@ -148,7 +148,7 @@
                                     "year": "1991"
                                 }
                             ],
-                            "title": "Chromosome-based method for rapid computer simulation in human genetic linkage analysis",
+                            "title": "Chromosome-based method for rapid computer simulation in human genetic linkage analysis.",
                             "year": 1993
                         }
                     ]

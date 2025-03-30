@@ -67,15 +67,11 @@
                             ],
                             "doi": "10.1016/j.molcel.2014.07.009",
                             "pmid": "25132176",
-                            "ref_count": 6,
+                            "ref_count": 5,
                             "refs": [
                                 {
                                     "count": 1,
                                     "year": "1727"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1994"
                                 },
                                 {
                                     "count": 1,
@@ -108,12 +104,12 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://www.botinst.uzh.ch/en/research/development/grossnik/HiCat.html"
+                        "status": 301,
+                        "url": "https://www.botinst.uzh.ch/research/development/grossnik/HiCat.html"
                     },
                     {
                         "status": 302,
-                        "url": "https://www.botinst.uzh.ch/research/development/grossnik/HiCat.html"
+                        "url": "https://www.botinst.uzh.ch/en/research/development/grossnik/HiCat.html"
                     }
                 ],
                 "ssl": true,
@@ -148,12 +144,12 @@
                 "operational": 200,
                 "redirects": [
                     {
-                        "status": 302,
-                        "url": "https://www.botinst.uzh.ch/en/research/development/grossnik/HiCat.html"
+                        "status": 301,
+                        "url": "https://www.botinst.uzh.ch/research/development/grossnik/HiCat.html"
                     },
                     {
                         "status": 302,
-                        "url": "https://www.botinst.uzh.ch/research/development/grossnik/HiCat.html"
+                        "url": "https://www.botinst.uzh.ch/en/research/development/grossnik/HiCat.html"
                     }
                 ],
                 "ssl": true,

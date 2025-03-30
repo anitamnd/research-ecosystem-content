@@ -15,26 +15,22 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 175,
+                            "cit_count": 169,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 4,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2021"
                                 },
                                 {
@@ -69,12 +65,8 @@
                             "doi": "10.1016/j.ajhg.2013.06.020",
                             "pmcid": "PMC3738819",
                             "pmid": "23910464",
-                            "ref_count": 33,
+                            "ref_count": 29,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "0"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2002"
@@ -82,10 +74,6 @@
                                 {
                                     "count": 1,
                                     "year": "2013"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2001"
                                 },
                                 {
                                     "count": 2,
@@ -109,11 +97,11 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2010"
+                                    "year": "2009"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2009"
+                                    "count": 3,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 4,
@@ -142,19 +130,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/&osid=1&passive=1209600&ifkv=AeZLP996wUOGfY-wUPfX4ddREPLV3XacjdN6akoveP-jJluiSE_3iCJ2iwqcFmHlEh1J9EKScRnWow"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/rfmixlocalancestryinference/&followup=https://sites.google.com/site/rfmixlocalancestryinference/&osid=1&passive=1209600&ifkv=AXH0vVsBi7RVYf57k8UyXkKayprDMgLLr8D5Gdky9IRMdspflhan52bDlnTT2VVT1y1aAaOqHB1Yow"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/rfmixlocalancestryinference/&followup=https://sites.google.com/site/rfmixlocalancestryinference/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Frfmixlocalancestryinference%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Frfmixlocalancestryinference%2F&ifkv=AeZLP987NMjNOfulwQv1jsgx9rTagfAqnIuzo5f0RqEJM41GwvAjnPncU4VxS9mKTYveWzMcHlZmeQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S288366406%3A1735998428891254&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Frfmixlocalancestryinference%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Frfmixlocalancestryinference%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Frfmixlocalancestryinference%2F&ifkv=AXH0vVuodnB0dlSAWVZGdR_Mxr2QTKjLYvYknezmWpsig9UeJ4Giek5MWrGTSlI0N-jcDVAEt93F8g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2067529178%3A1743297287406180"
                     }
                 ],
                 "ssl": true,
@@ -200,26 +184,22 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 175,
+                            "cit_count": 169,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 4,
+                                    "count": 2,
                                     "year": "2024"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2021"
                                 },
                                 {
@@ -254,12 +234,8 @@
                             "doi": "10.1016/j.ajhg.2013.06.020",
                             "pmcid": "PMC3738819",
                             "pmid": "23910464",
-                            "ref_count": 33,
+                            "ref_count": 29,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "0"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2002"
@@ -267,10 +243,6 @@
                                 {
                                     "count": 1,
                                     "year": "2013"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2001"
                                 },
                                 {
                                     "count": 2,
@@ -294,11 +266,11 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2010"
+                                    "year": "2009"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2009"
+                                    "count": 3,
+                                    "year": "2010"
                                 },
                                 {
                                     "count": 4,
@@ -387,7 +359,7 @@
                 "description": true
             },
             "website": {
-                "bioschemas": true,
+                "bioschemas": false,
                 "copyright": false,
                 "https": true,
                 "license": false,
@@ -395,19 +367,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/&passive=1209600&service=jotspot&ifkv=ARZ0qKJZ9HVy23O4rD6A9ALkzhFDJlYjeFped5dg5ET6C1Z9_x6Tt0B0wSguIAmzVF6L8OD2SioILA"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/rfmixlocalancestryinference/&followup=https://sites.google.com/site/rfmixlocalancestryinference/&osid=1&passive=1209600&ifkv=AXH0vVvRDq35rp4fte-S99GSK4jvFn9VZ3XXA7WmlfH5xYL9Vo3w2q7gedXILNynWxEwvqRnTVOh8A"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?service=jotspot&passive=1209600&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/rfmixlocalancestryinference/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/rfmixlocalancestryinference/&followup=https://sites.google.com/site/rfmixlocalancestryinference/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Frfmixlocalancestryinference%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Frfmixlocalancestryinference%2F&ifkv=ARZ0qKKPGV1vsVhUEgJa2jthDL5mALfcznKMD4pjRiOTI8EvozxvizyO_nF7qJ8-UHJm5hZKT5JqFQ&passive=1209600&service=jotspot&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1694136237%3A1712557782492219&theme=mn&ddm=0"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Frfmixlocalancestryinference%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Frfmixlocalancestryinference%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Frfmixlocalancestryinference%2F&ifkv=AXH0vVtVJAppZbQKhhsA1BQsF2rOCBh0Xkq6rFXuiEx88PlWYXYerWDqrXZ5Q2NUo3GAxchcpNRnmA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1724619952%3A1743297287602103"
                     }
                 ],
                 "ssl": true,

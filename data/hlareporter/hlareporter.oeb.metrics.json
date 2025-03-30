@@ -42,7 +42,7 @@
                             "doi": "10.1186/s13073-015-0145-3",
                             "pmcid": "PMC4407542",
                             "pmid": "25908942",
-                            "ref_count": 23,
+                            "ref_count": 14,
                             "refs": [
                                 {
                                     "count": 1,
@@ -55,6 +55,10 @@
                                 {
                                     "count": 1,
                                     "year": "2009"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 1,
@@ -73,16 +77,8 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 3,
                                     "year": "2012"
-                                },
-                                {
-                                    "count": 8,
-                                    "year": "0"
                                 }
                             ],
                             "title": "HLAreporter: a tool for HLA typing from next generation sequencing data.",

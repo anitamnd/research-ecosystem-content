@@ -32,6 +32,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://github.com/FerielRamdhane/Denoising-CEST-MRI/tree/main/NLmCED_Filter"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -55,6 +61,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "https://github.com/FerielRamdhane/Denoising-CEST-MRI/tree/main/NLmCED_Filter"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }

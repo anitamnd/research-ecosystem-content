@@ -99,11 +99,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww25.ccrxp.netasa.org/?subid1=20241218-1944-38a4-8efa-ff532ef2300f"
+                        "url": "http://ww25.ccrxp.netasa.org/?subid1=20250329-2108-138a-9279-c6c6d934b95a"
                     }
                 ],
                 "ssl": null,
@@ -131,11 +131,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww25.ccrxp.netasa.org/?subid1=20241218-1944-38b3-a639-75f208a42c37"
+                        "url": "http://ww25.ccrxp.netasa.org/?subid1=20250329-2108-1315-b310-7e99e1b304ba"
                     }
                 ],
                 "ssl": null,

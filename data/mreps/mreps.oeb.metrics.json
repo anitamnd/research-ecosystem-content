@@ -22,7 +22,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 139,
+                            "cit_count": 141,
                             "citations": [
                                 {
                                     "count": 1,
@@ -97,14 +97,14 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 23,
+                                    "count": 25,
                                     "year": "2012"
                                 }
                             ],
                             "doi": "10.1093/nar/gkg617",
                             "pmcid": "PMC169196",
                             "pmid": "12824391",
-                            "ref_count": 30,
+                            "ref_count": 22,
                             "refs": [
                                 {
                                     "count": 1,
@@ -153,10 +153,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 8,
-                                    "year": "0"
                                 }
                             ],
                             "title": "mreps: Efficient and flexible detection of tandem repeats in DNA.",
@@ -288,7 +284,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 301,

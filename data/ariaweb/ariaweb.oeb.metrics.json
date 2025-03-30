@@ -25,7 +25,7 @@
                             "doi": "10.1093/nar/gkaa362",
                             "pmcid": "PMC7319541",
                             "pmid": "32383755",
-                            "ref_count": 14,
+                            "ref_count": 10,
                             "refs": [
                                 {
                                     "count": 1,
@@ -45,7 +45,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2005"
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 1,
@@ -61,10 +61,6 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 4,
                                     "year": "2015"
                                 }
                             ],
@@ -76,7 +72,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 236,
+                            "cit_count": 243,
                             "citations": [
                                 {
                                     "count": 1,
@@ -92,11 +88,11 @@
                                 },
                                 {
                                     "count": 14,
-                                    "year": "2019"
+                                    "year": "2020"
                                 },
                                 {
-                                    "count": 14,
-                                    "year": "2020"
+                                    "count": 15,
+                                    "year": "2019"
                                 },
                                 {
                                     "count": 16,
@@ -111,24 +107,24 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 18,
-                                    "year": "2011"
-                                },
-                                {
                                     "count": 19,
-                                    "year": "2013"
+                                    "year": "2011"
                                 },
                                 {
                                     "count": 19,
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 26,
-                                    "year": "2012"
+                                    "count": 22,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 26,
                                     "year": "2016"
+                                },
+                                {
+                                    "count": 28,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 28,
@@ -137,7 +133,7 @@
                             ],
                             "doi": "10.1093/bioinformatics/btl589",
                             "pmid": "17121777",
-                            "ref_count": 5,
+                            "ref_count": 3,
                             "refs": [
                                 {
                                     "count": 1,
@@ -149,10 +145,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2005"
                                 }
                             ],

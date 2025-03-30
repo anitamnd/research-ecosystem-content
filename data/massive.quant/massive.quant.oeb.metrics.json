@@ -12,11 +12,15 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 9,
                             "citations": [
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2021"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -24,10 +28,6 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 6,
                                     "year": "2023"
                                 }
                             ],
@@ -92,6 +92,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 302,
+                        "url": "https://massive.ucsd.edu/index.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -110,11 +116,15 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 9,
                             "citations": [
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2021"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 2,
@@ -122,10 +132,6 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 6,
                                     "year": "2023"
                                 }
                             ],
@@ -190,6 +196,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 302,
+                        "url": "https://massive.ucsd.edu/index.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -213,6 +225,12 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 302,
+                        "url": "https://massive.ucsd.edu/index.html"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }

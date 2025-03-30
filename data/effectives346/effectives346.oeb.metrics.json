@@ -15,12 +15,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 53,
+                            "cit_count": 52,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2021"
-                                },
                                 {
                                     "count": 2,
                                     "year": "2011"
@@ -100,16 +96,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 404,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://www.effectivedb.org/method/effectives346"
+                        "url": "https://cube.univie.ac.at/research/software-databases/effectivedb/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         },
@@ -133,12 +129,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 53,
+                            "cit_count": 52,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2021"
-                                },
                                 {
                                     "count": 2,
                                     "year": "2011"
@@ -218,16 +210,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 404,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://www.effectivedb.org/method/effectives346"
+                        "url": "https://cube.univie.ac.at/research/software-databases/effectivedb/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         },
@@ -250,16 +242,16 @@
             "website": {
                 "bioschemas": false,
                 "copyright": false,
-                "https": true,
+                "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 404,
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://www.effectivedb.org/method/effectives346"
+                        "url": "https://cube.univie.ac.at/research/software-databases/effectivedb/"
                     }
                 ],
-                "ssl": true,
+                "ssl": null,
                 "ssl_err": null
             }
         }

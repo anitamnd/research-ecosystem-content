@@ -24,7 +24,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 420,
+                            "cit_count": 427,
                             "citations": [
                                 {
                                     "count": 1,
@@ -64,19 +64,19 @@
                                 },
                                 {
                                     "count": 20,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 20,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 25,
-                                    "year": "2012"
+                                    "count": 22,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 30,
                                     "year": "2009"
+                                },
+                                {
+                                    "count": 30,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 38,
@@ -186,7 +186,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 420,
+                            "cit_count": 427,
                             "citations": [
                                 {
                                     "count": 1,
@@ -226,19 +226,19 @@
                                 },
                                 {
                                     "count": 20,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 20,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 25,
-                                    "year": "2012"
+                                    "count": 22,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 30,
                                     "year": "2009"
+                                },
+                                {
+                                    "count": 30,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 38,

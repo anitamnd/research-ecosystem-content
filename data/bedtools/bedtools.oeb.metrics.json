@@ -38,30 +38,30 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 6278,
+                            "cit_count": 5936,
                             "citations": [
                                 {
                                     "count": 8,
                                     "year": "2010"
                                 },
                                 {
+                                    "count": 9,
+                                    "year": "2024"
+                                },
+                                {
+                                    "count": 14,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 26,
+                                    "year": "2022"
+                                },
+                                {
                                     "count": 40,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 65,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 88,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 102,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 126,
+                                    "count": 50,
                                     "year": "2021"
                                 },
                                 {
@@ -69,50 +69,46 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 290,
+                                    "count": 292,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 475,
+                                    "count": 474,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 586,
+                                    "count": 583,
                                     "year": "2015"
+                                },
+                                {
+                                    "count": 685,
+                                    "year": "2020"
                                 },
                                 {
                                     "count": 697,
                                     "year": "2016"
                                 },
                                 {
-                                    "count": 721,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 946,
+                                    "count": 943,
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 976,
+                                    "count": 960,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 1013,
+                                    "count": 1010,
                                     "year": "2018"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/btq033",
                             "pmcid": "PMC2832824",
                             "pmid": "20110278",
-                            "ref_count": 5,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
                                     "year": "1988"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1996"
                                 },
                                 {
                                     "count": 1,
@@ -143,6 +139,20 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://bedtools.readthedocs.io/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://bedtools.readthedocs.io/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://bedtools.readthedocs.io/en/latest/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }
@@ -193,30 +203,30 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 6278,
+                            "cit_count": 5936,
                             "citations": [
                                 {
                                     "count": 8,
                                     "year": "2010"
                                 },
                                 {
+                                    "count": 9,
+                                    "year": "2024"
+                                },
+                                {
+                                    "count": 14,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 26,
+                                    "year": "2022"
+                                },
+                                {
                                     "count": 40,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 65,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 88,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 102,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 126,
+                                    "count": 50,
                                     "year": "2021"
                                 },
                                 {
@@ -224,50 +234,46 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 290,
+                                    "count": 292,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 475,
+                                    "count": 474,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 586,
+                                    "count": 583,
                                     "year": "2015"
+                                },
+                                {
+                                    "count": 685,
+                                    "year": "2020"
                                 },
                                 {
                                     "count": 697,
                                     "year": "2016"
                                 },
                                 {
-                                    "count": 721,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 946,
+                                    "count": 943,
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 976,
+                                    "count": 960,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 1013,
+                                    "count": 1010,
                                     "year": "2018"
                                 }
                             ],
                             "doi": "10.1093/bioinformatics/btq033",
                             "pmcid": "PMC2832824",
                             "pmid": "20110278",
-                            "ref_count": 5,
+                            "ref_count": 4,
                             "refs": [
                                 {
                                     "count": 1,
                                     "year": "1988"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1996"
                                 },
                                 {
                                     "count": 1,
@@ -298,6 +304,20 @@
                 "https": true,
                 "license": false,
                 "operational": 200,
+                "redirects": [
+                    {
+                        "status": 301,
+                        "url": "http://bedtools.readthedocs.io/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://bedtools.readthedocs.io/"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://bedtools.readthedocs.io/en/latest/"
+                    }
+                ],
                 "ssl": true,
                 "ssl_err": null
             }

@@ -72,7 +72,7 @@
                             ],
                             "doi": "10.1002/prot.20665",
                             "pmid": "16294339",
-                            "ref_count": 12,
+                            "ref_count": 11,
                             "refs": [
                                 {
                                     "count": 1,
@@ -104,10 +104,6 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2004"
                                 },
                                 {
@@ -129,7 +125,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 503,
+                "operational": 200,
                 "ssl": null,
                 "ssl_err": null
             }
@@ -155,7 +151,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 503,
+                "operational": 200,
                 "ssl": null,
                 "ssl_err": null
             }

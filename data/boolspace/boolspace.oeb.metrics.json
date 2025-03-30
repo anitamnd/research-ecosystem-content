@@ -36,19 +36,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/&osid=1&passive=1209600&ifkv=AeZLP99IgF7C3BJz2QCw1KCUZ2WhkGuBd4lkZtf7bLeKo4yTDPE51bOfaSyoaImJJFvBTDT_0rYxJA"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/boolspace/&followup=https://sites.google.com/site/boolspace/&osid=1&passive=1209600&ifkv=AXH0vVug97S4ipBSqHiEQMbE3QufhZU9ExmuBbT6br2RHN-CPrxJQUWKUjrqdMACprPqhOIlcO_1"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/boolspace/&followup=https://sites.google.com/site/boolspace/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fboolspace%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fboolspace%2F&ifkv=AeZLP9-udtJTS0nJEVpNJ2cGKE0E6NNvRRahKs9HXwTPl2OD3tyuDlaMSgZ2Oqa9tvz2g10GoBD1oA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1056633615%3A1735997837365165&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fboolspace%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fboolspace%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fboolspace%2F&ifkv=AXH0vVuhJV3zrtZqYFiwPek_MN4jzstf36268ATNcf4XAohEm62nkjEJJkktR6c_nyg-WPQMl_icSA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S87325259%3A1743240721315279"
                     }
                 ],
                 "ssl": true,
@@ -80,19 +76,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/&osid=1&passive=1209600&ifkv=AeZLP99wvIK-pvjgA8UACspluGGuyuL77QL793xvExwYmdMgljej5IlpG8axQyUFhnfsO81V1zbh"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/boolspace/&followup=https://sites.google.com/site/boolspace/&osid=1&passive=1209600&ifkv=AXH0vVsSd-ehRQ1dM3r4Fmo5Kw_qhX5l56bXe8Z5cdulx5r14Sy9rNqtLTRjESs-tB7JDoD4gwIk"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/boolspace/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/boolspace/&followup=https://sites.google.com/site/boolspace/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fboolspace%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fboolspace%2F&ifkv=AeZLP99F5W4x9TSxDaejRRElawGB__B4c3vXl6WSSPY-g6NaU92OoOiU8UqeBl8gg_3CAPY0JEam&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S674597166%3A1735882817233607&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fboolspace%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fboolspace%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fboolspace%2F&ifkv=AXH0vVsP5NUnntnN3GYGJcM8qNbRtg9D1cIG-I-Kg2g8sS4zQR4MeWg691buANYPGP3vx5glYwmQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-452007058%3A1743241570211369"
                     }
                 ],
                 "ssl": true,

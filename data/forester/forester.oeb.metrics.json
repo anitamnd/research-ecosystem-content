@@ -34,7 +34,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 99,
+                            "cit_count": 100,
                             "citations": [
                                 {
                                     "count": 1,
@@ -93,16 +93,16 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 7,
-                                    "year": "2012"
-                                },
-                                {
                                     "count": 8,
                                     "year": "2008"
                                 },
                                 {
                                     "count": 8,
                                     "year": "2009"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 9,
@@ -136,19 +136,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester&osid=1&passive=1209600&ifkv=AeZLP99HBSIbm-n7qbd3-teVUvsnwtrLW3qx6fbLv08UQV1SyeJUwoOD_zDbJ5Tii-4fvnFvqLhZeg"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/cmzmasek/home/software/forester&followup=https://sites.google.com/site/cmzmasek/home/software/forester&osid=1&passive=1209600&ifkv=AXH0vVvc_P2JfwHK6Y_04ZnzNMoBC6KTdUQeiHWyw5N4knnAxvUGGPr5RaTlAOwtGtfPjJ0qI9-Brw"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/cmzmasek/home/software/forester&followup=https://sites.google.com/site/cmzmasek/home/software/forester"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&ifkv=AeZLP9_EghCyEas7S0oRlXyzNppvp6bcB1HAGCZjo1aK0htFWWvCAv0zTBrghejgn-3j9iHJMJ9ekg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1356260669%3A1735884431845302&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&ifkv=AXH0vVuRZwlLS87MRUexUSVbvTg_83eNIqmUfOOpvqqbJgJiAGiaO5DwhUxEVYBfSgW-9Z2c8_Px&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-533108063%3A1743242119027585"
                     }
                 ],
                 "ssl": true,
@@ -184,19 +180,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester&osid=1&passive=1209600&ifkv=AeZLP984pNZl6XhUB2OYBQ8r9dmKjHuEhLlf0NqFT5sTD_d9awsCrdmO31MEZiC1OiPFoEA26WwUFw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/cmzmasek/home/software/forester&followup=https://sites.google.com/site/cmzmasek/home/software/forester&osid=1&passive=1209600&ifkv=AXH0vVt8PuKF79HrBYt15C4gNdppCX77kjf7B029UKOvQQRecdfzGfopRVJjzuR57sybBC3MLKCdIw"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/cmzmasek/home/software/forester"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/cmzmasek/home/software/forester&followup=https://sites.google.com/site/cmzmasek/home/software/forester"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&ifkv=AeZLP987vK2EVuasotWA7Oi2-9grST3vGSVeIFxVUOXbccsOXnoJwEp_JWcEphPQIr91gkM76mcL9g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1579255428%3A1735884431687282&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fcmzmasek%2Fhome%2Fsoftware%2Fforester&ifkv=AXH0vVu0fBXhlWt7T0XHAQ9zkdBamwe3ehdaxnCX8ZFAZOcy4mUglgG-syIVeYKDJDWentmtq1iPDw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2017094728%3A1743242118385340"
                     }
                 ],
                 "ssl": true,

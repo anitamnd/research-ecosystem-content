@@ -38,18 +38,103 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 18,
+                            "cit_count": 15,
                             "citations": [
                                 {
-                                    "count": 1,
+                                    "count": 2,
                                     "year": "2021"
                                 },
+                                {
+                                    "count": 2,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2019"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2020"
+                                }
+                            ],
+                            "doi": "10.1007/978-1-4939-9173-0_5",
+                            "pmcid": "PMC6635606",
+                            "pmid": "31020555",
+                            "ref_count": 38,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2003"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2004"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2010"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2014"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2011"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2018"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2016"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2005"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2006"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 8,
+                                    "year": "2008"
+                                }
+                            ],
+                            "title": "Whole-Genome Annotation with BRAKER.",
+                            "year": 2019
+                        }
+                    ]
+                },
+                {
+                    "entries": [
+                        {
+                            "cit_count": 16,
+                            "citations": [
                                 {
                                     "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2020"
                                 },
                                 {
@@ -64,7 +149,7 @@
                             "doi": "10.1093/bioinformatics/btw494",
                             "pmcid": "PMC5860283",
                             "pmid": "27466621",
-                            "ref_count": 20,
+                            "ref_count": 19,
                             "refs": [
                                 {
                                     "count": 1,
@@ -92,6 +177,10 @@
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2016"
                                 },
                                 {
@@ -101,10 +190,6 @@
                                 {
                                     "count": 2,
                                     "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2013"
                                 },
                                 {
                                     "count": 3,
@@ -123,100 +208,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 19,
-                            "citations": [
-                                {
-                                    "count": 3,
-                                    "year": "2019"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 8,
-                                    "year": "2020"
-                                }
-                            ],
-                            "doi": "10.1007/978-1-4939-9173-0_5",
-                            "pmcid": "PMC6635606",
-                            "pmid": "31020555",
-                            "ref_count": 43,
-                            "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1990"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2003"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2018"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2012"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2016"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2006"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 9,
-                                    "year": "2008"
-                                }
-                            ],
-                            "title": "Whole-Genome Annotation with BRAKER.",
-                            "year": 2019
-                        }
-                    ]
-                },
-                {
-                    "entries": [
-                        {
-                            "cit_count": 127,
+                            "cit_count": 126,
                             "citations": [
                                 {
                                     "count": 1,
@@ -229,14 +221,14 @@
                                 {
                                     "count": 1,
                                     "year": "2010"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 4,
@@ -286,7 +278,7 @@
                             "doi": "10.1186/gb-2006-7-s1-s11",
                             "pmcid": "PMC1810548",
                             "pmid": "16925833",
-                            "ref_count": 28,
+                            "ref_count": 20,
                             "refs": [
                                 {
                                     "count": 1,
@@ -295,6 +287,10 @@
                                 {
                                     "count": 1,
                                     "year": "1997"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1998"
                                 },
                                 {
                                     "count": 1,
@@ -313,12 +309,12 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1998"
+                                    "count": 3,
+                                    "year": "2003"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "0"
+                                    "year": "2005"
                                 },
                                 {
                                     "count": 3,
@@ -327,14 +323,6 @@
                                 {
                                     "count": 4,
                                     "year": "2000"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2003"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2005"
                                 }
                             ],
                             "title": "AUGUSTUS at EGASP: using EST, protein and genomic alignments for improved gene prediction in the human genome.",
@@ -345,18 +333,18 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 335,
+                            "cit_count": 332,
                             "citations": [
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 3,
+                                    "count": 1,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 1,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
@@ -388,7 +376,7 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 19,
+                                    "count": 21,
                                     "year": "2013"
                                 },
                                 {
@@ -400,7 +388,7 @@
                                     "year": "2016"
                                 },
                                 {
-                                    "count": 31,
+                                    "count": 30,
                                     "year": "2020"
                                 },
                                 {
@@ -423,7 +411,7 @@
                             "doi": "10.1186/1471-2105-7-62",
                             "pmcid": "PMC1409804",
                             "pmid": "16469098",
-                            "ref_count": 32,
+                            "ref_count": 21,
                             "refs": [
                                 {
                                     "count": 1,
@@ -431,38 +419,34 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
+                                    "year": "1997"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "1997"
+                                    "count": 2,
+                                    "year": "2001"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2000"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2003"
                                 }
                             ],
@@ -488,14 +472,10 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 6,
+                            "cit_count": 4,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2019"
                                 },
                                 {
@@ -505,7 +485,7 @@
                             ],
                             "doi": "10.1002/cpbi.57",
                             "pmid": "30466165",
-                            "ref_count": 27,
+                            "ref_count": 21,
                             "refs": [
                                 {
                                     "count": 1,
@@ -517,15 +497,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2014"
                                 },
                                 {
                                     "count": 1,
@@ -545,27 +517,27 @@
                                 },
                                 {
                                     "count": 2,
+                                    "year": "2005"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2006"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2008"
+                                    "count": 2,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2012"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2013"
                                 }
                             ],
                             "title": "Predicting Genes in Single Genomes with AUGUSTUS.",
@@ -576,7 +548,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 136,
+                            "cit_count": 130,
                             "citations": [
                                 {
                                     "count": 1,
@@ -584,18 +556,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2022"
                                 },
                                 {
@@ -603,7 +567,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2015"
                                 },
                                 {
@@ -700,8 +664,24 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 461,
+                            "cit_count": 444,
                             "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2024"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2023"
+                                },
                                 {
                                     "count": 3,
                                     "year": "2008"
@@ -711,31 +691,15 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 4,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 6,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 6,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 7,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 15,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 26,
+                                    "count": 28,
                                     "year": "2012"
                                 },
                                 {
@@ -755,7 +719,7 @@
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 47,
+                                    "count": 45,
                                     "year": "2014"
                                 },
                                 {
@@ -763,7 +727,7 @@
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 71,
+                                    "count": 70,
                                     "year": "2019"
                                 },
                                 {
@@ -773,7 +737,7 @@
                             ],
                             "doi": "10.1093/bioinformatics/btn013",
                             "pmid": "18218656",
-                            "ref_count": 13,
+                            "ref_count": 9,
                             "refs": [
                                 {
                                     "count": 1,
@@ -781,18 +745,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2003"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2004"
                                 },
                                 {
@@ -800,7 +756,7 @@
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2006"
                                 }
                             ],
@@ -812,7 +768,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 503,
+                            "cit_count": 496,
                             "citations": [
                                 {
                                     "count": 1,
@@ -820,19 +776,15 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2024"
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 4,
                                     "year": "2005"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 6,
@@ -863,31 +815,31 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 23,
+                                    "count": 25,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 35,
+                                    "count": 36,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 40,
+                                    "count": 39,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 41,
+                                    "count": 42,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 45,
+                                    "count": 44,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 52,
+                                    "count": 51,
                                     "year": "2017"
                                 },
                                 {
-                                    "count": 56,
+                                    "count": 55,
                                     "year": "2019"
                                 },
                                 {
@@ -976,18 +928,18 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 335,
+                            "cit_count": 332,
                             "citations": [
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 3,
+                                    "count": 1,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 1,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
@@ -1019,7 +971,7 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 19,
+                                    "count": 21,
                                     "year": "2013"
                                 },
                                 {
@@ -1031,7 +983,7 @@
                                     "year": "2016"
                                 },
                                 {
-                                    "count": 31,
+                                    "count": 30,
                                     "year": "2020"
                                 },
                                 {
@@ -1054,7 +1006,7 @@
                             "doi": "10.1186/1471-2105-7-62",
                             "pmcid": "PMC1409804",
                             "pmid": "16469098",
-                            "ref_count": 32,
+                            "ref_count": 21,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1062,38 +1014,34 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
+                                    "year": "1997"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "1997"
+                                    "count": 2,
+                                    "year": "2001"
                                 },
                                 {
                                     "count": 3,
                                     "year": "2000"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2003"
                                 }
                             ],
@@ -1105,140 +1053,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 393,
-                            "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2006"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 7,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 10,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 17,
-                                    "year": "2012"
-                                },
-                                {
-                                    "count": 17,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 29,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 34,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 35,
-                                    "year": "2015"
-                                },
-                                {
-                                    "count": 38,
-                                    "year": "2016"
-                                },
-                                {
-                                    "count": 52,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 53,
-                                    "year": "2019"
-                                },
-                                {
-                                    "count": 75,
-                                    "year": "2018"
-                                }
-                            ],
-                            "doi": "10.1093/nar/gkh379",
-                            "pmcid": "PMC441517",
-                            "pmid": "15215400",
-                            "ref_count": 25,
-                            "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1997"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1999"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2002"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2003"
-                                },
-                                {
-                                    "count": 7,
-                                    "year": "2000"
-                                }
-                            ],
-                            "title": "AUGUSTUS: a web server for gene finding in eukaryotes.",
-                            "year": 2004
-                        }
-                    ]
-                },
-                {
-                    "entries": [
-                        {
-                            "cit_count": 394,
+                            "cit_count": 387,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2006"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2024"
                                 },
                                 {
                                     "count": 2,
@@ -1249,16 +1068,16 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2022"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2023"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 5,
@@ -1297,7 +1116,7 @@
                                     "year": "2016"
                                 },
                                 {
-                                    "count": 46,
+                                    "count": 44,
                                     "year": "2020"
                                 },
                                 {
@@ -1305,21 +1124,21 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 82,
+                                    "count": 80,
                                     "year": "2019"
                                 }
                             ],
                             "doi": "10.1093/nar/gki458",
                             "pmcid": "PMC1160219",
                             "pmid": "15980513",
-                            "ref_count": 12,
+                            "ref_count": 9,
                             "refs": [
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "1997"
                                 },
                                 {
@@ -1327,7 +1146,7 @@
                                     "year": "2000"
                                 },
                                 {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2004"
                                 }
                             ],
@@ -1339,7 +1158,120 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 446,
+                            "cit_count": 389,
+                            "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2005"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2007"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2006"
+                                },
+                                {
+                                    "count": 5,
+                                    "year": "2008"
+                                },
+                                {
+                                    "count": 5,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 5,
+                                    "year": "2010"
+                                },
+                                {
+                                    "count": 10,
+                                    "year": "2011"
+                                },
+                                {
+                                    "count": 19,
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 20,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 29,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 34,
+                                    "year": "2014"
+                                },
+                                {
+                                    "count": 35,
+                                    "year": "2015"
+                                },
+                                {
+                                    "count": 38,
+                                    "year": "2016"
+                                },
+                                {
+                                    "count": 52,
+                                    "year": "2017"
+                                },
+                                {
+                                    "count": 52,
+                                    "year": "2019"
+                                },
+                                {
+                                    "count": 75,
+                                    "year": "2018"
+                                }
+                            ],
+                            "doi": "10.1093/nar/gkh379",
+                            "pmcid": "PMC441517",
+                            "pmid": "15215400",
+                            "ref_count": 20,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1997"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1999"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2001"
+                                },
+                                {
+                                    "count": 3,
+                                    "year": "2002"
+                                },
+                                {
+                                    "count": 5,
+                                    "year": "2003"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2000"
+                                }
+                            ],
+                            "title": "AUGUSTUS: a web server for gene finding in eukaryotes.",
+                            "year": 2004
+                        }
+                    ]
+                },
+                {
+                    "entries": [
+                        {
+                            "cit_count": 437,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1351,11 +1283,15 @@
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2023"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2024"
+                                    "count": 3,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 4,
@@ -1370,19 +1306,11 @@
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 6,
-                                    "year": "2022"
-                                },
-                                {
                                     "count": 9,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 10,
                                     "year": "2012"
                                 },
                                 {
@@ -1421,12 +1349,8 @@
                             "doi": "10.1093/nar/gkl200",
                             "pmcid": "PMC1538822",
                             "pmid": "16845043",
-                            "ref_count": 26,
+                            "ref_count": 20,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1967"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1990"
@@ -1452,20 +1376,20 @@
                                     "year": "2002"
                                 },
                                 {
+                                    "count": 2,
+                                    "year": "2005"
+                                },
+                                {
                                     "count": 3,
                                     "year": "2000"
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2005"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 6,
                                     "year": "2003"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2004"
                                 }
                             ],
                             "title": "AUGUSTUS: ab initio prediction of alternative transcripts.",
@@ -1635,7 +1559,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 136,
+                            "cit_count": 130,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1643,18 +1567,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2022"
                                 },
                                 {
@@ -1662,7 +1578,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2015"
                                 },
                                 {
@@ -1797,7 +1713,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 136,
+                            "cit_count": 130,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1805,18 +1721,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2022"
                                 },
                                 {
@@ -1824,7 +1732,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2015"
                                 },
                                 {
@@ -1959,7 +1867,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 136,
+                            "cit_count": 130,
                             "citations": [
                                 {
                                     "count": 1,
@@ -1967,18 +1875,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2022"
                                 },
                                 {
@@ -1986,7 +1886,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2015"
                                 },
                                 {
@@ -2136,7 +2036,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 136,
+                            "cit_count": 130,
                             "citations": [
                                 {
                                     "count": 1,
@@ -2144,18 +2044,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2022"
                                 },
                                 {
@@ -2163,7 +2055,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2015"
                                 },
                                 {
@@ -2320,7 +2212,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 136,
+                            "cit_count": 130,
                             "citations": [
                                 {
                                     "count": 1,
@@ -2328,18 +2220,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2022"
                                 },
                                 {
@@ -2347,7 +2231,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2015"
                                 },
                                 {
@@ -2504,7 +2388,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 136,
+                            "cit_count": 130,
                             "citations": [
                                 {
                                     "count": 1,
@@ -2512,18 +2396,10 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2023"
-                                },
-                                {
-                                    "count": 4,
+                                    "count": 3,
                                     "year": "2022"
                                 },
                                 {
@@ -2531,7 +2407,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2015"
                                 },
                                 {

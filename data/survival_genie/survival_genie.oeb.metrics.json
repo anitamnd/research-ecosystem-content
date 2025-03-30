@@ -24,8 +24,21 @@
                             "cit_count": 0,
                             "citations": [],
                             "doi": "10.1101/2021.09.28.462224",
-                            "ref_count": 0,
-                            "refs": [],
+                            "ref_count": 9,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "0"
+                                }
+                            ],
                             "title": "Survival Genie, a web platform for survival analysis across pediatric and adult cancers",
                             "year": 2021
                         }
@@ -42,6 +55,10 @@
                 "license": false,
                 "operational": 200,
                 "redirects": [
+                    {
+                        "status": 302,
+                        "url": "https://bhasinlab.bmi.emory.edu/SurvivalGenie2/"
+                    },
                     {
                         "status": 302,
                         "url": "https://bhasinlab.bmi.emory.edu:443/SurvivalGenie/"
@@ -71,6 +88,10 @@
                 "license": false,
                 "operational": 200,
                 "redirects": [
+                    {
+                        "status": 302,
+                        "url": "https://bhasinlab.bmi.emory.edu/SurvivalGenie2/"
+                    },
                     {
                         "status": 302,
                         "url": "https://bhasinlab.bmi.emory.edu:443/SurvivalGenie/"

@@ -15,7 +15,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 497,
+                            "cit_count": 499,
                             "citations": [
                                 {
                                     "count": 1,
@@ -50,7 +50,7 @@
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 23,
+                                    "count": 22,
                                     "year": "2009"
                                 },
                                 {
@@ -78,15 +78,15 @@
                                     "year": "2016"
                                 },
                                 {
-                                    "count": 47,
+                                    "count": 46,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 56,
+                                    "count": 59,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 64,
+                                    "count": 65,
                                     "year": "2013"
                                 }
                             ],

@@ -17,17 +17,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 2,
-                            "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2023"
-                                }
-                            ],
+                            "cit_count": 0,
+                            "citations": [],
                             "doi": "10.1021/acs.analchem.1c01309",
                             "pmid": "34455775",
                             "ref_count": 4,
@@ -63,11 +54,19 @@
                 "copyright": false,
                 "https": true,
                 "license": false,
-                "operational": 404,
+                "operational": 410,
                 "redirects": [
                     {
+                        "status": 301,
+                        "url": "https://apps.microsoft.com/detail/9p9l8mdr08v2?hl=en-US&gl=US"
+                    },
+                    {
                         "status": 302,
-                        "url": "https://www.microsoft.com/library/errorpages/smarterror.aspx?correlationId=Zc+fFu2LqUepPtPl.0.2"
+                        "url": "https://apps.microsoft.com/404/product?errorCode=ProductNotFound&id=9p9l8mdr08v2&name=&redirectedFrom=%2Fdetail%2F9p9l8mdr08v2%3Fhl%3Den-US%26gl%3DUS"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://apps.microsoft.com/store/detail/9p9l8mdr08v2?hl=en-us&gl=us"
                     }
                 ],
                 "ssl": true,
@@ -92,11 +91,19 @@
                 "copyright": false,
                 "https": true,
                 "license": false,
-                "operational": 404,
+                "operational": 410,
                 "redirects": [
                     {
+                        "status": 301,
+                        "url": "https://apps.microsoft.com/detail/9p9l8mdr08v2?hl=en-US&gl=US"
+                    },
+                    {
                         "status": 302,
-                        "url": "https://www.microsoft.com/library/errorpages/smarterror.aspx?correlationId=bymn/FaiJUmgiD0n.0.3"
+                        "url": "https://apps.microsoft.com/404/product?errorCode=ProductNotFound&id=9p9l8mdr08v2&name=&redirectedFrom=%2Fdetail%2F9p9l8mdr08v2%3Fhl%3Den-US%26gl%3DUS"
+                    },
+                    {
+                        "status": 302,
+                        "url": "https://apps.microsoft.com/store/detail/9p9l8mdr08v2?hl=en-us&gl=us"
                     }
                 ],
                 "ssl": true,

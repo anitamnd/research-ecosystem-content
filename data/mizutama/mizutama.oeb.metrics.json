@@ -20,8 +20,17 @@
                             "citations": [],
                             "doi": "10.1086/702666",
                             "pmid": "30730249",
-                            "ref_count": 0,
-                            "refs": [],
+                            "ref_count": 3,
+                            "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "2000"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "0"
+                                }
+                            ],
                             "title": "Mizutama: A Quick, Easy, and Accurate Method for Counting Erythrocytes.",
                             "year": 2019
                         }
@@ -40,7 +49,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://datadryad.org/stash/dataset/doi:10.5061/dryad.bk2690n"
+                        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.bk2690n"
                     }
                 ],
                 "ssl": true,
@@ -100,7 +109,7 @@
                 "redirects": [
                     {
                         "status": 301,
-                        "url": "https://datadryad.org/stash/dataset/doi:10.5061/dryad.bk2690n"
+                        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.bk2690n"
                     }
                 ],
                 "ssl": true,

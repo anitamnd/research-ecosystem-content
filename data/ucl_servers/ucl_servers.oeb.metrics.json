@@ -15,7 +15,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 217,
+                            "cit_count": 225,
                             "citations": [
                                 {
                                     "count": 2,
@@ -46,7 +46,7 @@
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 37,
+                                    "count": 39,
                                     "year": "2012"
                                 },
                                 {
@@ -54,11 +54,11 @@
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 79,
+                                    "count": 85,
                                     "year": "2013"
                                 }
                             ],
-                            "doi": "10.1093/NAR/GKQ427",
+                            "doi": "10.1093/nar/gkq427",
                             "pmcid": "PMC2896093",
                             "pmid": "20507913",
                             "ref_count": 18,
@@ -100,7 +100,7 @@
                                     "year": "2009"
                                 }
                             ],
-                            "title": "Protein annotation and modelling servers at University College London",
+                            "title": "Protein annotation and modelling servers at University College London.",
                             "year": 2010
                         }
                     ]
@@ -108,7 +108,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 395,
+                            "cit_count": 400,
                             "citations": [
                                 {
                                     "count": 1,
@@ -131,7 +131,7 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2017"
                                 },
                                 {
@@ -151,7 +151,7 @@
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 36,
+                                    "count": 37,
                                     "year": "2013"
                                 },
                                 {
@@ -171,11 +171,11 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 73,
+                                    "count": 78,
                                     "year": "2012"
                                 }
                             ],
-                            "doi": "10.1093/NAR/GKI410",
+                            "doi": "10.1093/nar/gki410",
                             "pmcid": "PMC1160171",
                             "pmid": "15980489",
                             "ref_count": 14,
@@ -225,7 +225,7 @@
                                     "year": "2003"
                                 }
                             ],
-                            "title": "Protein structure prediction servers at University College London",
+                            "title": "Protein structure prediction servers at University College London.",
                             "year": 2005
                         }
                     ]

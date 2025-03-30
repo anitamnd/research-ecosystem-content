@@ -58,10 +58,10 @@
                                     "year": "2014"
                                 }
                             ],
-                            "doi": "10.1093/BIOINFORMATICS/BTS677",
+                            "doi": "10.1093/bioinformatics/bts677",
                             "pmcid": "PMC3562066",
                             "pmid": "23172864",
-                            "ref_count": 20,
+                            "ref_count": 17,
                             "refs": [
                                 {
                                     "count": 1,
@@ -84,16 +84,16 @@
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 5,
+                                    "count": 4,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 5,
                                     "year": "2011"
                                 }
                             ],
-                            "title": "Scribl: an HTML5 Canvas-based graphics library for visualizing genomic data over the web",
-                            "year": 2012
+                            "title": "Scribl: an HTML5 Canvas-based graphics library for visualizing genomic data over the web.",
+                            "year": 2013
                         }
                     ]
                 }
@@ -107,7 +107,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 404,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
@@ -143,7 +143,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 404,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,

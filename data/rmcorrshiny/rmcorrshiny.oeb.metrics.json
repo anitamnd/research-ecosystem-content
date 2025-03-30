@@ -31,14 +31,22 @@
                             "doi": "10.12688/f1000research.55027.2",
                             "pmcid": "PMC8456376",
                             "pmid": "34621514",
-                            "ref_count": 2,
+                            "ref_count": 6,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "2018"
+                                    "year": "0"
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2018"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2021"
                                 }
                             ],
@@ -94,14 +102,22 @@
                             "doi": "10.12688/f1000research.55027.2",
                             "pmcid": "PMC8456376",
                             "pmid": "34621514",
-                            "ref_count": 2,
+                            "ref_count": 6,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "2018"
+                                    "year": "0"
                                 },
                                 {
                                     "count": 1,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2018"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2021"
                                 }
                             ],

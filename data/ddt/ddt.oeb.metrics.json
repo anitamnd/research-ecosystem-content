@@ -69,19 +69,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads&osid=1&passive=1209600&ifkv=AeZLP9-PuDaZOaV7qeG_6ITGRqL1FfLvCM9WhVYRovQA-SpDU_lcWo2zEg9KRASfE_rwVi7OgOBnvg"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/vittoriolimongelli/downloads&followup=https://sites.google.com/site/vittoriolimongelli/downloads&osid=1&passive=1209600&ifkv=AXH0vVuBkUd2nIevOuj6VTDFAdq9CBPl0F-kJUaGEeRGx8wsZB-GogaJjJpeDOBL5EhaTNwNX4LW"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/vittoriolimongelli/downloads&followup=https://sites.google.com/site/vittoriolimongelli/downloads"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fvittoriolimongelli%2Fdownloads&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fvittoriolimongelli%2Fdownloads&ifkv=AeZLP99JFfZlxO8TWnZwMw96iuJmEWE2D4g4kjGm4r6D6FH8IOSCQAamvC_uqKPa_WK8scbVDRab&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-718648765%3A1735883914007240&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fvittoriolimongelli%2Fdownloads"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fvittoriolimongelli%2Fdownloads&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fvittoriolimongelli%2Fdownloads&ifkv=AXH0vVshT0UgTmOq9uZf1Xx2hLF_kT0CiZLcvAvtXWqcQPS1MFNdq9CfutB3HKtOONbszJNesy9s&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1644789286%3A1743242006050967"
                     }
                 ],
                 "ssl": true,
@@ -116,19 +112,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads&osid=1&passive=1209600&ifkv=AeZLP99S398LWtOoev6JJpq86HjFPw1xkz_-qPId7qNTpnIPUtHTgTDM1qjBrcfoDH5zHXTxc4EI"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/vittoriolimongelli/downloads&followup=https://sites.google.com/site/vittoriolimongelli/downloads&osid=1&passive=1209600&ifkv=AXH0vVvL9HOF8P1Cq7MwPCkN_sa6Us6BFlXO7e2JTolCFtusyA89UKB2qHr2sXnK-ElFyW5vKR-dTQ"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/vittoriolimongelli/downloads"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/vittoriolimongelli/downloads&followup=https://sites.google.com/site/vittoriolimongelli/downloads"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fvittoriolimongelli%2Fdownloads&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fvittoriolimongelli%2Fdownloads&ifkv=AeZLP9_qMVSnovzh8gznJmhWeWNcTNNzf4Nb7_BeumxVKVHRxp2-V3siOkpkGy5Jef4_Oj1eFFQw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1512796552%3A1735883823265774&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fvittoriolimongelli%2Fdownloads"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fvittoriolimongelli%2Fdownloads&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fvittoriolimongelli%2Fdownloads&ifkv=AXH0vVuC01kQJDQL8exJKMs-UQcZ7h-59f9acseJ5P_YmT07xukfFnYzqIbqzd2Kj_iZCY5CcwP_hw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1310020968%3A1743242006830837"
                     }
                 ],
                 "ssl": true,

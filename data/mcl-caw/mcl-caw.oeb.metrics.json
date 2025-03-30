@@ -15,7 +15,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 28,
+                            "cit_count": 29,
                             "citations": [
                                 {
                                     "count": 1,
@@ -31,10 +31,6 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 3,
                                     "year": "2016"
                                 },
                                 {
@@ -44,6 +40,10 @@
                                 {
                                     "count": 4,
                                     "year": "2012"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 4,
@@ -57,12 +57,8 @@
                             "doi": "10.1186/1471-2105-11-504",
                             "pmcid": "PMC2965181",
                             "pmid": "20939868",
-                            "ref_count": 65,
+                            "ref_count": 55,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "0"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1997"
@@ -80,15 +76,15 @@
                                     "year": "2003"
                                 },
                                 {
+                                    "count": 2,
+                                    "year": "2010"
+                                },
+                                {
                                     "count": 3,
                                     "year": "1999"
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 4,
                                     "year": "2000"
                                 },
                                 {
@@ -104,19 +100,19 @@
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 7,
-                                    "year": "2006"
+                                    "count": 4,
+                                    "year": "2008"
                                 },
                                 {
-                                    "count": 8,
-                                    "year": "2008"
+                                    "count": 6,
+                                    "year": "2006"
                                 },
                                 {
                                     "count": 9,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 12,
+                                    "count": 10,
                                     "year": "2009"
                                 }
                             ],
@@ -138,19 +134,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/&osid=1&passive=1209600&ifkv=AeZLP98TKoYDy-oyZUkCXfMQhjaRu1cJlOQE7CLdMK7t293VcPXWmvEdVrf6d5FiQGPIlVLolfCQjg"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/mclcaw/&followup=https://sites.google.com/site/mclcaw/&osid=1&passive=1209600&ifkv=AXH0vVsbzQPmeGC5Av2RYdaoqBq4lmSb2GAbdJnZ0zQo8rpngYy_LSt0NUKGNyRT-xmXm6Z_mEKy"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/mclcaw/&followup=https://sites.google.com/site/mclcaw/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmclcaw%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmclcaw%2F&ifkv=AeZLP9_e5hlmbpMJWPsVxEW_7z1pRFz51ux5VPzvJQdmtx1FZ9Ekwd9Qj0gcQMOJzbvfT41sBbCsdA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-217076948%3A1735956567924389&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fmclcaw%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fmclcaw%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fmclcaw%2F&ifkv=AXH0vVubd2cY9XjAT9hwoNL51NTbj-JsEtdNi3jGU0NbZ-g_aLd6XkMup3IhPruHilgsjjlYzlfT&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2060025295%3A1743244942117835"
                     }
                 ],
                 "ssl": true,
@@ -182,19 +174,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/&osid=1&passive=1209600&ifkv=AeZLP9_ujePIxpKRYbZNqe8QoSOsgyjTqS2d4WEm-yfuKk8_62XAw1CAMXqDkpoQzSm887lD36DyKA"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/mclcaw/&followup=https://sites.google.com/site/mclcaw/&osid=1&passive=1209600&ifkv=AXH0vVsxWY7_CkGjGyaAOkVV6gwN3u7jNF_Y5pCNx51RW__q8wF2p97QVouGUsD1AjVkJEDZFzL09w"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/mclcaw/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/mclcaw/&followup=https://sites.google.com/site/mclcaw/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmclcaw%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fmclcaw%2F&ifkv=AeZLP9_PRwXkQK-N7ZjkZOPpT4j7zJ5I_wDV-HoYHU68HWOojI3Xbsl8Cjnb_jJ9Idsv-DsRsQd3ig&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-719324374%3A1735956568416319&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fmclcaw%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fmclcaw%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fmclcaw%2F&ifkv=AXH0vVuVyW6Y3kkyqsiaI_wlSRkq3EKgRNOy2vjov1L58uaTB-c-19PkDQ3E80PIvlmnc2f_AVbBKw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1406234264%3A1743244942830897"
                     }
                 ],
                 "ssl": true,

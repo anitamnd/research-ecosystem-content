@@ -17,12 +17,8 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 19,
+                            "cit_count": 18,
                             "citations": [
-                                {
-                                    "count": 1,
-                                    "year": "2023"
-                                },
                                 {
                                     "count": 1,
                                     "year": "2024"
@@ -135,11 +131,11 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41592-018-0009-z&code=327432c2-0570-4c02-842f-5eba1360b444"
+                        "url": "https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41592-018-0009-z&code=5f8cc298-d0b1-4b4a-9e91-9caff1e5d2df"
                     },
                     {
                         "status": 302,
-                        "url": "https://www.nature.com/articles/s41592-018-0009-z?error=cookies_not_supported&code=327432c2-0570-4c02-842f-5eba1360b444"
+                        "url": "https://www.nature.com/articles/s41592-018-0009-z?error=cookies_not_supported&code=5f8cc298-d0b1-4b4a-9e91-9caff1e5d2df"
                     },
                     {
                         "status": 303,
@@ -175,11 +171,11 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41592-018-0009-z&code=26b98767-662d-469f-878b-0bb2a534f99f"
+                        "url": "https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41592-018-0009-z&code=8ffce2e4-e912-489d-9581-6e5a4af1686d"
                     },
                     {
                         "status": 302,
-                        "url": "https://www.nature.com/articles/s41592-018-0009-z?error=cookies_not_supported&code=26b98767-662d-469f-878b-0bb2a534f99f"
+                        "url": "https://www.nature.com/articles/s41592-018-0009-z?error=cookies_not_supported&code=8ffce2e4-e912-489d-9581-6e5a4af1686d"
                     },
                     {
                         "status": 303,

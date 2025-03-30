@@ -121,19 +121,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/&osid=1&passive=1209600&ifkv=AeZLP99_HGXF01dodxzL3TA-GhL4u3BgoX9nBEJbFpMHn2DohrSUtiI6iLdseNxbTLRJcPDhqIpu6A"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/netstratv1/&followup=https://sites.google.com/site/netstratv1/&osid=1&passive=1209600&ifkv=AXH0vVsYvPuQdtNl7lfZzw42fDZv7xrx9B4QPcohgrQLi1RECDyrVZkK-3MpL6qQWkEKwYfhCVgg3w"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/netstratv1/&followup=https://sites.google.com/site/netstratv1/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fnetstratv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fnetstratv1%2F&ifkv=AeZLP9_UbvXd_spWRkQa7E-qPDRk7Cp_OKIbqffD9wENuJbkelLh-8L6uZmfHJBCNqEnfJ6x_qrCLA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1527812417%3A1735957751524426&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fnetstratv1%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fnetstratv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fnetstratv1%2F&ifkv=AXH0vVt-1ypC-yVRE3zRBcRGJU7FeD_vxgqlcahJxl5NfhIntL88PsNk_Cae8pT00hsuG_vjE5LWuA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2129966948%3A1743245521758820"
                     }
                 ],
                 "ssl": true,
@@ -165,19 +161,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/&osid=1&passive=1209600&ifkv=AeZLP9-KWTWHlT9qcsbgte23u4AYOLlSvdGejw9I8JdbsvyREeRDoiJDaBT4wmVoosF3AoOOq-WF"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/netstratv1/&followup=https://sites.google.com/site/netstratv1/&osid=1&passive=1209600&ifkv=AXH0vVvJuMuAXvP7LZs71WEFSDv4VKOLgUluctxmKCPBSRRY7YJWoZdzNlK2eeIP6Jm9ADefBRww"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/netstratv1/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/netstratv1/&followup=https://sites.google.com/site/netstratv1/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fnetstratv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fnetstratv1%2F&ifkv=AeZLP98QbwmhkX_ay8ruK7ufWHoGMfeXCpCFpj46cmSB2Tj5ubPzOIyUYyi8f_a3eZDw4mkFJuDb&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S421129187%3A1735957777214174&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fnetstratv1%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fnetstratv1%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fnetstratv1%2F&ifkv=AXH0vVupZzadWXuVPd7x0sb4R11SF1a1VSTIW4UkpplSic3_4-3Qdy-XevUeGZHVRKRoDU7PpK0b&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2081583955%3A1743245550079809"
                     }
                 ],
                 "ssl": true,

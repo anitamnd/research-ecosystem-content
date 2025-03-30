@@ -24,14 +24,10 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 110,
+                            "cit_count": 108,
                             "citations": [
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2020"
                                 },
                                 {
@@ -85,7 +81,7 @@
                             ],
                             "doi": "10.1002/cyto.a.20531",
                             "pmid": "18307272",
-                            "ref_count": 65,
+                            "ref_count": 64,
                             "refs": [
                                 {
                                     "count": 1,
@@ -160,6 +156,10 @@
                                     "year": "2006"
                                 },
                                 {
+                                    "count": 2,
+                                    "year": "2007"
+                                },
+                                {
                                     "count": 3,
                                     "year": "1988"
                                 },
@@ -170,10 +170,6 @@
                                 {
                                     "count": 3,
                                     "year": "1998"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2007"
                                 },
                                 {
                                     "count": 4,
@@ -250,14 +246,10 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 110,
+                            "cit_count": 108,
                             "citations": [
                                 {
-                                    "count": 1,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2020"
                                 },
                                 {
@@ -311,7 +303,7 @@
                             ],
                             "doi": "10.1002/cyto.a.20531",
                             "pmid": "18307272",
-                            "ref_count": 65,
+                            "ref_count": 64,
                             "refs": [
                                 {
                                     "count": 1,
@@ -386,6 +378,10 @@
                                     "year": "2006"
                                 },
                                 {
+                                    "count": 2,
+                                    "year": "2007"
+                                },
+                                {
                                     "count": 3,
                                     "year": "1988"
                                 },
@@ -396,10 +392,6 @@
                                 {
                                     "count": 3,
                                     "year": "1998"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2007"
                                 },
                                 {
                                     "count": 4,

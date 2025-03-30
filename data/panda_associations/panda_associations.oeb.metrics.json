@@ -29,7 +29,7 @@
                             "doi": "10.1093/nar/gkv607",
                             "pmcid": "PMC4627061",
                             "pmid": "26089389",
-                            "ref_count": 51,
+                            "ref_count": 46,
                             "refs": [
                                 {
                                     "count": 1,
@@ -72,7 +72,7 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2011"
                                 },
                                 {
@@ -80,11 +80,11 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 11,
+                                    "count": 8,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 12,
+                                    "count": 11,
                                     "year": "2014"
                                 }
                             ],
@@ -106,7 +106,7 @@
                 "redirects": [
                     {
                         "status": 303,
-                        "url": "http://s.tartaglialab.com/update_submission/922816/9104b56ae2"
+                        "url": "http://s.tartaglialab.com/update_submission/952810/c23eb727d4"
                     }
                 ],
                 "ssl": null,
@@ -135,7 +135,7 @@
                 "redirects": [
                     {
                         "status": 303,
-                        "url": "http://s.tartaglialab.com/update_submission/922815/6bfccc0716"
+                        "url": "http://s.tartaglialab.com/update_submission/952809/9d95225692"
                     }
                 ],
                 "ssl": null,

@@ -42,15 +42,11 @@
                             "doi": "10.1093/bioinformatics/btv517",
                             "pmcid": "PMC4757968",
                             "pmid": "26382192",
-                            "ref_count": 54,
+                            "ref_count": 26,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1984"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1990"
+                                    "year": "1992"
                                 },
                                 {
                                     "count": 1,
@@ -58,19 +54,23 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1999"
+                                    "year": "2007"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2000"
+                                    "year": "2008"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2002"
+                                    "year": "2009"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2006"
+                                    "year": "2010"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 1,
@@ -82,58 +82,26 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "1992"
+                                    "year": "2001"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "1995"
+                                    "year": "2003"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "1996"
+                                    "year": "2004"
                                 },
                                 {
                                     "count": 2,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2007"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2009"
-                                },
-                                {
                                     "count": 3,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2003"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "2004"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "2001"
-                                },
-                                {
-                                    "count": 5,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2011"
                                 }
                             ],
@@ -155,19 +123,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues&osid=1&passive=1209600&ifkv=AeZLP9-9zT6ZE8uIuiJ906MVVqFLxymIZOp7ZKmLYK6txET_4U0X2g4zRuynMMZFlaPdbu_GRDELTQ"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/bestumich/issues&followup=https://sites.google.com/site/bestumich/issues&osid=1&passive=1209600&ifkv=AXH0vVvn6OeEM6dcpEi7i2JTY15vavreVNTFZyZrHmGKVLJidrO6cDM-n6XL9wcbC5LYIdCsuG-y3w"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/bestumich/issues&followup=https://sites.google.com/site/bestumich/issues"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbestumich%2Fissues&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbestumich%2Fissues&ifkv=AeZLP9_Qs0T2jS1RN6lrhFPhSVUcASQNd9NQmW52ej-qp_Q8kRoZKhgGvZy1afp0zIZ-0jgF0CzreA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S673451961%3A1735884431854074&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fbestumich%2Fissues"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fbestumich%2Fissues&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fbestumich%2Fissues&ifkv=AXH0vVsTyEls1U7gMqR5XR2dsBmZl8dy0A8c0CoVxRrEFMgip4k8AFyf29HCd23w2fegWpnZeiD8_A&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-551199021%3A1743242118924050"
                     }
                 ],
                 "ssl": true,
@@ -199,19 +163,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues&osid=1&passive=1209600&ifkv=AeZLP9-ta2HhmUMY2xb3M0EfGVd3btq62FSDh_kvF6ia8vPDkQ4TJ2Y9pdUJKTqN-3yInYyvbdUS"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/bestumich/issues&followup=https://sites.google.com/site/bestumich/issues&osid=1&passive=1209600&ifkv=AXH0vVs5ZoFgSuq6RSKo09NSyct-2_KGf4kPViJ36nzPcOpPpIdux0HRy2LeRG3qYHZtCPaeGPNOxg"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/bestumich/issues"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/bestumich/issues&followup=https://sites.google.com/site/bestumich/issues"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbestumich%2Fissues&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fbestumich%2Fissues&ifkv=AeZLP9-HE_0VWu09B7JcBIQiQfMB5qnEW8zLu6kWg4jv-HgGdXuB_icMZkIW0x-zgKhcegvH-z7r&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1493004269%3A1735885131176765&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fbestumich%2Fissues"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fbestumich%2Fissues&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fbestumich%2Fissues&ifkv=AXH0vVsmX2Dp7OFH_3baDy2z7U3RiREP5NJvzjwBX8LLYmOZuonAQ47pBfEqAKiicZ-wckb8CAcI&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-365265308%3A1743242395036345"
                     }
                 ],
                 "ssl": true,

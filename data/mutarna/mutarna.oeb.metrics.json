@@ -17,7 +17,7 @@
                             "doi": "10.1093/nar/gkaa331",
                             "pmcid": "PMC7319544",
                             "pmid": "32392303",
-                            "ref_count": 5,
+                            "ref_count": 3,
                             "refs": [
                                 {
                                     "count": 1,
@@ -26,14 +26,6 @@
                                 {
                                     "count": 1,
                                     "year": "2011"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2012"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2013"
                                 },
                                 {
                                     "count": 1,
@@ -62,7 +54,7 @@
                     },
                     {
                         "status": 302,
-                        "url": "http://rna.informatik.uni-freiburg.de/MutaRNA/Input.jsp;jsessionid=40C25AFF4ABA1DB40126D598F48C5ACF"
+                        "url": "http://rna.informatik.uni-freiburg.de/MutaRNA/Input.jsp;jsessionid=D825B30092F5B9E9A2FE1B8CC7CC858C"
                     }
                 ],
                 "ssl": null,
@@ -95,7 +87,7 @@
                     },
                     {
                         "status": 302,
-                        "url": "http://rna.informatik.uni-freiburg.de/MutaRNA/Input.jsp;jsessionid=6767A57D6D89365C0C836588E3E73C9D"
+                        "url": "http://rna.informatik.uni-freiburg.de/MutaRNA/Input.jsp;jsessionid=AB8D3425DAFA00164CDB2AE20F64CC38"
                     }
                 ],
                 "ssl": null,

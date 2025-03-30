@@ -40,19 +40,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document&osid=1&passive=1209600&ifkv=AeZLP9-rWIQzNO6fer3d1RCrwn9gHA6yFv5JVodGBXvYakbgMeFsGvP93tEap5tE2BEfGZvPj7bsnw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/guofeics/ppms-online-document&followup=https://sites.google.com/site/guofeics/ppms-online-document&osid=1&passive=1209600&ifkv=AXH0vVuyhD4GOpVrpg4q2loxE3MX_AoCHnJW8XsM0jomjWdrxG2izZ7Fz6edfiNNu2lZ-CGSYtuOsw"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/guofeics/ppms-online-document&followup=https://sites.google.com/site/guofeics/ppms-online-document"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fppms-online-document&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fppms-online-document&ifkv=AeZLP99RPIttJzZvSKAyPwYd6q8HUPmVed1bcUMTPKOLAlU7eYsSjs59EapKKFGNg3K-T5ZvhwrOlw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S151007257%3A1735959697655867&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fguofeics%2Fppms-online-document"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fppms-online-document&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fppms-online-document&ifkv=AXH0vVvgDUtePMkqsbLFm-Oao2kaBpXNDhJRXc_aMt46sz2HS6GHVcl_NI2f_tPEZYlOpRatzkoqkw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1608246567%3A1743246260337332"
                     }
                 ],
                 "ssl": true,
@@ -84,19 +80,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document&osid=1&passive=1209600&ifkv=AeZLP992TrD_mOH5B1UeJwD7NlB1O29M7N02H7Kt9pCEaQ7Q47taBzp2IgstSGTwYPhydXGgEUzxkw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/guofeics/ppms-online-document&followup=https://sites.google.com/site/guofeics/ppms-online-document&osid=1&passive=1209600&ifkv=AXH0vVsYk3zo1Spu4Mw1HZQYZ_5_zi9f0HOGdKlXo_ziD2QGwsLOClFGxzOIIiW2xl4vqYLBnXnbkg"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/ppms-online-document"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/guofeics/ppms-online-document&followup=https://sites.google.com/site/guofeics/ppms-online-document"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fppms-online-document&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fppms-online-document&ifkv=AeZLP9-8xu-wx_hqL_YD547Kryn87HZCWfJ3eiFD5f3eKBE8lfAuhnI8aLEchBZizWcZ2GmPwgec8A&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1423040004%3A1735959849684918&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fguofeics%2Fppms-online-document"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fppms-online-document&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fppms-online-document&ifkv=AXH0vVvLifcnnGHtL-5RQFloaghCUKKEdgYU2kHTt7ydO9Ep4lHXUge2dUWgp2ijW_eTAOheQ4brTw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S554497542%3A1743246343406065"
                     }
                 ],
                 "ssl": true,

@@ -28,11 +28,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 404,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww7.marksgeneticsoftware.net/CIST.HTM?usid=27&utid=10277781113"
+                        "url": "http://ww12.marksgeneticsoftware.net/CIST.HTM?usid=24&utid=10496303973"
                     }
                 ],
                 "ssl": null,
@@ -60,11 +60,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 404,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww7.marksgeneticsoftware.net/CIST.HTM?usid=27&utid=10277781055"
+                        "url": "http://ww12.marksgeneticsoftware.net/CIST.HTM?usid=24&utid=10496303973"
                     }
                 ],
                 "ssl": null,

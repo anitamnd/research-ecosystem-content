@@ -34,12 +34,8 @@
                             "doi": "10.3389/fninf.2017.00060",
                             "pmcid": "PMC5613192",
                             "pmid": "28983246",
-                            "ref_count": 26,
+                            "ref_count": 20,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1968"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1996"
@@ -50,18 +46,18 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 2,
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
+                                    "year": "2009"
+                                },
+                                {
+                                    "count": 1,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2012"
                                 },
                                 {
@@ -70,14 +66,14 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 4,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 3,
+                                    "year": "2017"
+                                },
+                                {
+                                    "count": 5,
                                     "year": "2015"
                                 }
                             ],
@@ -99,7 +95,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww25.visbrain.org/sleep?subid1=20250104-1705-00a3-acd0-79c9e5f41523"
+                        "url": "http://ww25.visbrain.org/sleep?subid1=20250329-1447-2620-a05f-d1ad73c73d4a"
                     }
                 ],
                 "ssl": null,
@@ -131,7 +127,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww25.visbrain.org/sleep?subid1=20250104-1705-001d-a616-597dc238b161"
+                        "url": "http://ww25.visbrain.org/sleep?subid1=20250329-1447-2616-8185-e507597872e3"
                     }
                 ],
                 "ssl": null,

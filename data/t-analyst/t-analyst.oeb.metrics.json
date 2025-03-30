@@ -20,15 +20,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 14,
+                            "cit_count": 16,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2012"
                                 },
                                 {
                                     "count": 1,
@@ -56,18 +52,18 @@
                                 },
                                 {
                                     "count": 3,
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 3,
                                     "year": "2018"
                                 }
                             ],
                             "doi": "10.1007/s10822-010-9376-y",
                             "pmcid": "PMC2940022",
                             "pmid": "20689979",
-                            "ref_count": 47,
+                            "ref_count": 33,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1984"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1996"
@@ -78,6 +74,10 @@
                                 },
                                 {
                                     "count": 2,
+                                    "year": "2000"
+                                },
+                                {
+                                    "count": 2,
                                     "year": "2002"
                                 },
                                 {
@@ -85,11 +85,7 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2000"
-                                },
-                                {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2007"
                                 },
                                 {
@@ -101,15 +97,11 @@
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 7,
+                                    "count": 6,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 9,
-                                    "year": "0"
-                                },
-                                {
-                                    "count": 9,
+                                    "count": 8,
                                     "year": "2008"
                                 }
                             ],
@@ -131,19 +123,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/&osid=1&passive=1209600&ifkv=AeZLP9_OUBd2vyAQGw-QXZGENZaqyVSP8mhw6eSRI-dLgNch3D0H6zlNLEfYNmbnOkfDYNWypQMuGw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/tanalystprogram/&followup=https://sites.google.com/site/tanalystprogram/&osid=1&passive=1209600&ifkv=AXH0vVtGyEmKgmrtghyBPglzI6QjOESWUPZMHc_NUCkTDteSAz5tubjO_2hH-1SUd2YbGWK6y-g99w"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/tanalystprogram/&followup=https://sites.google.com/site/tanalystprogram/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftanalystprogram%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftanalystprogram%2F&ifkv=AeZLP9-UaI0UKQ9nQuZCGytVI08L4VamQ-O9qJvR7RQKwKyUMao8rD554a1ncJ1nJLiys3Eb_c-hSA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1963225874%3A1735998463378700&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Ftanalystprogram%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Ftanalystprogram%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Ftanalystprogram%2F&ifkv=AXH0vVt8moOkdWY1op1FKRxtxR_KiCB72qmyGmbTbhCZDEZGLSf5td6xLH1YMa2z5Tm2rqCSyH6eHA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1188140320%3A1743241073488473"
                     }
                 ],
                 "ssl": true,
@@ -175,19 +163,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/&osid=1&passive=1209600&ifkv=AeZLP9-q8aXLQL8z-yDnqrR4hOXbndlaNfpYCr2w6DlOmnNExV9XhwAfGX2Fmg2lzvT6k_fjyxX1"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/tanalystprogram/&followup=https://sites.google.com/site/tanalystprogram/&osid=1&passive=1209600&ifkv=AXH0vVvDtJQq1hwc-UdN-qgHM5NkU0-JC6KIn6gXw0L2mOQqcnbkg32uKeVijoOIt7Oe3D6rpQSp"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/tanalystprogram/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/tanalystprogram/&followup=https://sites.google.com/site/tanalystprogram/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftanalystprogram%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftanalystprogram%2F&ifkv=AeZLP9-V49HTBREwKQo-dF7nC6Y80rKjPmz9J_o27G8532pzcbZgaPP8LaJlJKPt0ssnPE-UNcke&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-465950872%3A1735998485157401&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Ftanalystprogram%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Ftanalystprogram%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Ftanalystprogram%2F&ifkv=AXH0vVvZk8MMRIrDCp46nCRBJBEQqUIf9WJC6uMNET6OrLVpMd0x80IiZ2f4U4vCCK1Cbtyhga8o&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2059968110%3A1743241077219225"
                     }
                 ],
                 "ssl": true,

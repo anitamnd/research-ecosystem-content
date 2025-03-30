@@ -61,7 +61,7 @@
                             "doi": "10.1093/nar/gkg592",
                             "pmcid": "PMC168998",
                             "pmid": "12824399",
-                            "ref_count": 16,
+                            "ref_count": 12,
                             "refs": [
                                 {
                                     "count": 1,
@@ -86,10 +86,6 @@
                                 {
                                     "count": 3,
                                     "year": "2002"
-                                },
-                                {
-                                    "count": 4,
-                                    "year": "0"
                                 }
                             ],
                             "title": "iSPOT: A web tool to infer the interaction specificity of families of protein modules.",
@@ -100,11 +96,15 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 48,
+                            "cit_count": 51,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2000"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 1,
@@ -113,10 +113,6 @@
                                 {
                                     "count": 1,
                                     "year": "2016"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2013"
                                 },
                                 {
                                     "count": 2,
@@ -147,6 +143,10 @@
                                     "year": "2010"
                                 },
                                 {
+                                    "count": 3,
+                                    "year": "2013"
+                                },
+                                {
                                     "count": 4,
                                     "year": "2002"
                                 },
@@ -163,7 +163,7 @@
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 7,
                                     "year": "2009"
                                 }
                             ],
@@ -206,7 +206,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "ssl": null,
                 "ssl_err": null
             }
@@ -232,7 +232,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 200,
+                "operational": 408,
                 "ssl": null,
                 "ssl_err": null
             }

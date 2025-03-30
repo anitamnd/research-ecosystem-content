@@ -34,7 +34,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 35,
+                            "cit_count": 37,
                             "citations": [
                                 {
                                     "count": 1,
@@ -65,17 +65,17 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 7,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 8,
                                     "year": "2011"
+                                },
+                                {
+                                    "count": 9,
+                                    "year": "2013"
                                 }
                             ],
                             "doi": "10.1002/pmic.200900326",
                             "pmid": "19743429",
-                            "ref_count": 8,
+                            "ref_count": 7,
                             "refs": [
                                 {
                                     "count": 1,
@@ -91,11 +91,11 @@
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2008"
+                                    "year": "2004"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2004"
+                                    "count": 2,
+                                    "year": "2008"
                                 }
                             ],
                             "title": "When less can yield more - Computational preprocessing of MS/MS spectra for peptide identification.",
@@ -113,7 +113,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 404,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,
@@ -153,7 +153,7 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 404,
+                "operational": 408,
                 "redirects": [
                     {
                         "status": 301,

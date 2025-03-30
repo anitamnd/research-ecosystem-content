@@ -38,7 +38,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 236,
+                            "cit_count": 235,
                             "citations": [
                                 {
                                     "count": 1,
@@ -57,7 +57,7 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 13,
+                                    "count": 12,
                                     "year": "2020"
                                 },
                                 {
@@ -182,19 +182,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&osid=1&passive=1209600&ifkv=AeZLP99SkNdF78m0taxjR6sPxGP8nTDuJOMrjbpVhu7U6p3wffkVxzefQZBdnZKkU_66ZszejEM9"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/anshulkundaje/projects/wiggler&osid=1&passive=1209600&ifkv=AXH0vVsByEU5DHdXD3-qxlYzCumlOvx4wlOprWe1CWMDAOwUIS5D0Czr3XHo3E6ZZBpyTgXBTwd5"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/anshulkundaje/projects/wiggler"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fanshulkundaje%2Fprojects%2Fwiggler&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fanshulkundaje%2Fprojects%2Fwiggler&ifkv=AeZLP9-_erIvxxkq0Ph4ZUju9l96eLlbBm0xc_xf9VyLfP-fwz3qrECmdH-sBe_NCJoYf1EpejpV&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S943549140%3A1735998462212001&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fanshulkundaje%2Fprojects%2Fwiggler"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fanshulkundaje%2Fprojects%2Fwiggler&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fanshulkundaje%2Fprojects%2Fwiggler&ifkv=AXH0vVtPdorAdV63wYyIJwcsmWtiFOSwaMwyV8wwAUUt8xKw4QLGgMKEiQ5wb0XiZ4MnQD-i0PF0&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1305718381%3A1743241074139313"
                     }
                 ],
                 "ssl": true,
@@ -247,7 +243,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 236,
+                            "cit_count": 235,
                             "citations": [
                                 {
                                     "count": 1,
@@ -266,7 +262,7 @@
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 13,
+                                    "count": 12,
                                     "year": "2020"
                                 },
                                 {
@@ -391,19 +387,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&osid=1&passive=1209600&ifkv=AeZLP99exYiU3P_M7tGjHErnA0e894GT7de9YnGQfTCIkAAoepGQzetRegjbaWnZkS-xS9YVcdFm"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/anshulkundaje/projects/wiggler&osid=1&passive=1209600&ifkv=AXH0vVtN4oovK6Q3FCfUHNU5aYSGYtyDN7xcIvqniGEDjFeM5U919EubLlWTUUCkXrVZPRhJdLRp0A"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/anshulkundaje/projects/wiggler"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fanshulkundaje%2Fprojects%2Fwiggler&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fanshulkundaje%2Fprojects%2Fwiggler&ifkv=AeZLP99VhXDFnIimNVDgNtu3Zt4NZxq2x9d0qnKzoulWLcRW_ABJh9cjZfp_ekGMyNm9045SS63Z&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-48578598%3A1735998535198960&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fanshulkundaje%2Fprojects%2Fwiggler"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fanshulkundaje%2Fprojects%2Fwiggler&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fanshulkundaje%2Fprojects%2Fwiggler&ifkv=AXH0vVsEZqSHRMNn2pKlHGuPx_ECmFWir8MZIIqv39fPdyzBhG2OypBKh0IurUCsyfwd0XmIzUZvRQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1305718381%3A1743241083723885"
                     }
                 ],
                 "ssl": true,
@@ -439,19 +431,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&osid=1&passive=1209600&ifkv=AeZLP9-_Xd93nC6ZrTnHnyC2kxUABwxl0M5FQx3Zw7Uts6KwJq81fcuMzGgojIV5NmYnU_yGmgjd"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/anshulkundaje/projects/wiggler&osid=1&passive=1209600&ifkv=AXH0vVu-e8WD_kPbqtOkD7haOkOW0S5wu98NtqGjddHYdZNjE2Qr8BSoJ7wLJ-IMgy4PNyO6zGOpNA"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/anshulkundaje/projects/wiggler"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/anshulkundaje/projects/wiggler&followup=https://sites.google.com/site/anshulkundaje/projects/wiggler"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fanshulkundaje%2Fprojects%2Fwiggler&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fanshulkundaje%2Fprojects%2Fwiggler&ifkv=AeZLP9-ExX-K5FRt2DnvNtD7QikTjH-rBNIpkRXXOIEEpX0d3hpI9sSXSn4kDQo2DsHqtYFxGo2w&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1374986742%3A1735998485061609&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fanshulkundaje%2Fprojects%2Fwiggler"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fanshulkundaje%2Fprojects%2Fwiggler&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fanshulkundaje%2Fprojects%2Fwiggler&ifkv=AXH0vVvhhkp5s_n7ZJ1BdPDeYOUi0TVsUaJCU529LnShFKTxprIZ3FJhyacuo8jPns9894Ztbry5bA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1876153858%3A1743241079410432"
                     }
                 ],
                 "ssl": true,

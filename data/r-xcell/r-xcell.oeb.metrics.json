@@ -34,26 +34,46 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 157,
+                            "cit_count": 203,
                             "citations": [
+                                {
+                                    "count": 2,
+                                    "year": "2025"
+                                },
                                 {
                                     "count": 3,
                                     "year": "2017"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2024"
+                                },
+                                {
+                                    "count": 9,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 11,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 14,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 61,
+                                    "count": 66,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 70,
+                                    "count": 71,
                                     "year": "2019"
                                 }
                             ],
-                            "doi": "10.1186/S13059-017-1349-1",
+                            "doi": "10.1186/s13059-017-1349-1",
                             "pmcid": "PMC5688663",
                             "pmid": "29141660",
                             "ref_count": 34,
@@ -103,7 +123,7 @@
                                     "year": "2016"
                                 }
                             ],
-                            "title": "xCell: digitally portraying the tissue cellular heterogeneity landscape",
+                            "title": "xCell: digitally portraying the tissue cellular heterogeneity landscape.",
                             "year": 2017
                         }
                     ]
@@ -165,26 +185,46 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 157,
+                            "cit_count": 203,
                             "citations": [
+                                {
+                                    "count": 2,
+                                    "year": "2025"
+                                },
                                 {
                                     "count": 3,
                                     "year": "2017"
+                                },
+                                {
+                                    "count": 4,
+                                    "year": "2024"
+                                },
+                                {
+                                    "count": 9,
+                                    "year": "2023"
+                                },
+                                {
+                                    "count": 11,
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 14,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 23,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 61,
+                                    "count": 66,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 70,
+                                    "count": 71,
                                     "year": "2019"
                                 }
                             ],
-                            "doi": "10.1186/S13059-017-1349-1",
+                            "doi": "10.1186/s13059-017-1349-1",
                             "pmcid": "PMC5688663",
                             "pmid": "29141660",
                             "ref_count": 34,
@@ -234,7 +274,7 @@
                                     "year": "2016"
                                 }
                             ],
-                            "title": "xCell: digitally portraying the tissue cellular heterogeneity landscape",
+                            "title": "xCell: digitally portraying the tissue cellular heterogeneity landscape.",
                             "year": 2017
                         }
                     ]

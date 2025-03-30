@@ -17,17 +17,8 @@
                             "doi": "10.1186/s12906-019-2731-1",
                             "pmcid": "PMC6881993",
                             "pmid": "31775730",
-                            "ref_count": 6,
-                            "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 5,
-                                    "year": "0"
-                                }
-                            ],
+                            "ref_count": 0,
+                            "refs": [],
                             "title": "Constructing a bilingual website with validated database for Herb and Western medicine interactions using Ginseng, Ginkgo and Dong Quai as examples.",
                             "year": 2019
                         }

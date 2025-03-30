@@ -52,8 +52,16 @@
                             "doi": "10.1186/s12864-016-2797-9",
                             "pmcid": "PMC5001241",
                             "pmid": "27535360",
-                            "ref_count": 61,
+                            "ref_count": 33,
                             "refs": [
+                                {
+                                    "count": 1,
+                                    "year": "1976"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "1979"
+                                },
                                 {
                                     "count": 1,
                                     "year": "2003"
@@ -67,12 +75,8 @@
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "1976"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1979"
+                                    "count": 1,
+                                    "year": "2013"
                                 },
                                 {
                                     "count": 2,
@@ -83,12 +87,8 @@
                                     "year": "2007"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "2013"
+                                    "count": 3,
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 4,
@@ -100,23 +100,15 @@
                                 },
                                 {
                                     "count": 4,
-                                    "year": "2012"
-                                },
-                                {
-                                    "count": 5,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 6,
-                                    "year": "2015"
-                                },
-                                {
-                                    "count": 7,
+                                    "count": 4,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 16,
-                                    "year": "0"
+                                    "count": 4,
+                                    "year": "2015"
                                 }
                             ],
                             "title": "The biorepository portal toolkit: an honest brokered, modular service oriented software tool set for biospecimen-driven translational research.",
@@ -138,11 +130,11 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/o/oauth2/v2/auth?response_type=code&scope=openid%20email%20profile&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&state=ZNRVgbCu5QpQO2a_yHE6FOXNAMk&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&nonce=hHUKZHWiCXUi1MHuNS5VLhMr2AuD3wcYQFIRW4q8Mqg"
+                        "url": "https://accounts.google.com/o/oauth2/v2/auth?response_type=code&scope=openid%20email%20profile&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&state=l5sGV2wM4-5o8eMfRtd0dSD4U7Q&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&nonce=6onFkEkFmQTKB1ExQXGAowRwTdhaPSYg9OJHDOkhaJY"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1630939812%3A1735882697362850&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&ddm=1&nonce=hHUKZHWiCXUi1MHuNS5VLhMr2AuD3wcYQFIRW4q8Mqg&o2v=2&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&response_type=code&scope=openid+email+profile&service=lso&state=ZNRVgbCu5QpQO2a_yHE6FOXNAMk&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPZ341Tf7DCJMJxvanLo_qTpMUKq67i_K0oMb8ue1k5uI7-jaxGAk6Dwfy-o54svvy-tqRje5L1hXoFrUzFbeFBir152IeCieXEdcsViY7T-Er-mlOdSC2yjC_JSc9otdIwmdgVgJAs8klukQkW8Mq4MXfdVD9V9ltGQY43bWroB1XPA76gZzKDnRB64E_oV2Cu_kE-TbzUi5VgpQ32GB0vLy6OSQJp52ukSZqhsbi-unQ90-d0UlsO5kVrBO9J5o2RBd3z0D9ONf7bLQhJkpJdvvV6lM5E1Og3m8ZU0TdLMXeggAJYS81e87vDXfHLJvdvaTFnleZho76dGzKChWMr54Ot-06SEaoViefFOX5GFj8V5iEBVJMMexlBSsmynbdnkIQnDKXMVaV6MnuTK4toX5dgVZZyjBu2zWBMCYqJRRjWPaEDj9-FxxnRrzPKmP-GM6-NIaH7cqobQDX5weE5Fwfvz2SHeumGOgIitY9uJhiKAmY%26flowName%3DGeneralOAuthFlow%26as%3DS1630939812%253A1735882697362850%26client_id%3D239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Feig.research.chop.edu&rart=ANgoxcfX4aPUqRdlHvB5xYepzN6VGdZJcpexp0_XYrpNZ-I9f2K2R43zC-J2Gpjl9IFm9L_DWFbn2Jg4vqI6cgT95gLeSzazwHCV-UrUliTfVsKp4hbrSDk"
+                        "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-551199022%3A1743241562061934&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&ddm=1&nonce=6onFkEkFmQTKB1ExQXGAowRwTdhaPSYg9OJHDOkhaJY&o2v=2&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&response_type=code&scope=openid+email+profile&service=lso&state=l5sGV2wM4-5o8eMfRtd0dSD4U7Q&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANciMhF0bW_hhQW5ryUUiPKZpRUQwohzCNBKtQOaNv9JOKvHQxTc9G9MMctWTITKWrqFx9ahwKB7IyVJMRMKy1eBD1N6SyWy_J0vcozKxiLoo-lOwowBhcAzoaSh5WL-vDqhWLqQcZHaNfU-cX72vP5znnWNPj00d9stn5HLA3geTC7mXvvmXfrf6kCdqDql_UJFWkf4DIWHbuNuXs5J0QlLmOdJm7ckbYK2lTO2f5NyHCaop3CwKaoH-A70tJa3btIOXgdFxRL_RmcIx7nGo9DSW9S-u-C0jbhCXW_n6CY8PuynjEvuY_a_OADxQ_bMXxJven7EgV2rexrz6qfKgpA_kK5aCBbmp1K7GBeb50Xbw45PPaKR8yp-VPmNBMepcZs6R3UZ6Ohqy2DVUl6E0L46SrCXiHtUu_XXS0lbvnaAjo1otVeIKy0Xgh67E5BgWc1BD1fTSqbGMMzg2-SPHkQN3dw41be97bzuZmts_yIbqI9ObE%26flowName%3DGeneralOAuthFlow%26as%3DS-551199022%253A1743241562061934%26client_id%3D239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Feig.research.chop.edu&rart=ANgoxccT0MTuzmuDu4nSJwcNpDjf2jamt2dmkrJEt0JEiAE1jCA5qpzo_rLPex3iQNfSXrQtMmaaNFND8PB9r-xImUODJbNyop9jakY1T8SLzejqUbBds0E"
                     }
                 ],
                 "ssl": true,
@@ -178,11 +170,11 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/o/oauth2/v2/auth?response_type=code&scope=openid%20email%20profile&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&state=cmszQ88n7rntYd3CvM_xPPthdiM&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&nonce=vcyT0Wri9mnz-cIANpfAWXfWgkAA9YRWbPkq0Q9jPQc"
+                        "url": "https://accounts.google.com/o/oauth2/v2/auth?response_type=code&scope=openid%20email%20profile&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&state=G6xM7DM0Ph44g0yvPPUdq9hhqqk&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&nonce=zJR6Dfgtp5_C-gCycxQhZXq5fcLRBHsApQEgcT6Keao"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S891807400%3A1735882697397403&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&ddm=1&nonce=vcyT0Wri9mnz-cIANpfAWXfWgkAA9YRWbPkq0Q9jPQc&o2v=2&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&response_type=code&scope=openid+email+profile&service=lso&state=cmszQ88n7rntYd3CvM_xPPthdiM&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOPSGQbliQ5FEPwQaPnkk1UHnweqS3AUUqeCSseXbSmDnxfYj_IyazhshrH-vA2qbUM936qYYtjs0mxT30Pb97elDy7gbkgWlA-8Hi9ql-Yii7m3L96b0mlsI6khmlOheX0qBcI0F4Ad54alLjeG5P2utMgrx8B5piT7dibhhhuzrUTvmjKaTXozNlUTBn7kxuhMtduhV-qWeKSK_mEXkjL9DNwjFjtkHWxfJ9CRqb-Y3i0sEHd3ekLDvIKqn-ewmvXPCFs39k0JjRy06WeFksgTFpnLRJlqOFYsmvtzagmckJpSmov5xdwZ9aANiIaHGUVk3ivK_9oFJkT5UTV21V0H38CRvMxgw5LGX2yZHlrlgSSBompWoCtXcyEWOdhnoKddDmsMtz10ve59YruLBQAtojUniwJi6oRuN7tRQA__-ajUEZp8170dUPDhaUcNILdPv0Or03Ii02AX0bcCNRnmX4fGVGIBHO7Nj25zJ9wtmCxt7U%26flowName%3DGeneralOAuthFlow%26as%3DS891807400%253A1735882697397403%26client_id%3D239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Feig.research.chop.edu&rart=ANgoxcfxlcBjYyKSeeFruz5DNXJipvAuXxdzmPQx5HqVa0NP4gCNLIaDaSecs47Ms9FKxLtga9ncsETBG0qm6RUxEzu9uOWHT34c1aaC8Lru0Qt18OkjRXg"
+                        "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S523126541%3A1743241562052544&client_id=239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com&ddm=1&nonce=zJR6Dfgtp5_C-gCycxQhZXq5fcLRBHsApQEgcT6Keao&o2v=2&redirect_uri=https%3A%2F%2Feig.research.chop.edu%2Fredirect_uri&response_type=code&scope=openid+email+profile&service=lso&state=G6xM7DM0Ph44g0yvPPUdq9hhqqk&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPQzzNaRW6ckrUZLZ458VBPqlJkKITXUPJwCTBjCUgkirscOO7DANr0l5wvivOpWyQQaWOn-_3p0QKHcfS2Ut2CfioOhd80qWhGKiSIKyYWuQP5mUhEalh4Tut-LU78u5Kg2bDq_N14dJkY9YrW4qAOW-jkjjZr9hHC1Ke0cheVhXsuTS7N7N9qEphFcH_f6IiZ0W3QVPKmWpca0HF68jPanZgdcSuBaVsPvKO4HZNgzu7Gs7pwsABA6VSauYwuKDi5uZ_ut2og3Nqu_RmEJX20Mskzf0VKEHgbueXMa4HOMEyWNnmCqql315dZUnhsV8r4XOqhKOye5PNCdmM8H686x8S9D9XoKTJcajr56mPMPfnoOi4jQ0d8oalICJFAaK1uEgGh0LkjBeSbEatbchBlTDoNp2L0odJdge97ke5jt_AsmdjGcGf8Lrg_6K1XQvOIVs-iTP3uMvTk5N6tjnC-M1PpePJY0jDfWaD3VcsnKbJVfDg%26flowName%3DGeneralOAuthFlow%26as%3DS523126541%253A1743241562052544%26client_id%3D239629350134-692b3i7ncrcjp13u98096ha85o9somnb.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Feig.research.chop.edu&rart=ANgoxcf-iM7h7vRvJvdEic7wl71aFzSZ_IvP1Nmo-eemTQSB4AmRFnWPmt9RHuSqYleHCkFOIp8NuwaTiolPcUnjHfa2JOfRv4nd931u9emYrVIOQc4xyUE"
                     }
                 ],
                 "ssl": true,

@@ -20,27 +20,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 140,
+                            "cit_count": 139,
                             "citations": [
                                 {
-                                    "count": 2,
-                                    "year": "2021"
+                                    "count": 1,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 2,
-                                    "year": "2024"
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 5,
                                     "year": "2020"
                                 },
                                 {
-                                    "count": 12,
-                                    "year": "2012"
+                                    "count": 11,
+                                    "year": "2019"
                                 },
                                 {
                                     "count": 12,
-                                    "year": "2019"
+                                    "year": "2012"
                                 },
                                 {
                                     "count": 13,
@@ -55,7 +55,7 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 19,
+                                    "count": 20,
                                     "year": "2014"
                                 },
                                 {
@@ -70,12 +70,8 @@
                             "doi": "10.1371/journal.pgen.1002397",
                             "pmcid": "PMC3257290",
                             "pmid": "22253600",
-                            "ref_count": 52,
+                            "ref_count": 44,
                             "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1987"
-                                },
                                 {
                                     "count": 1,
                                     "year": "1994"
@@ -114,18 +110,18 @@
                                 },
                                 {
                                     "count": 5,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 7,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 11,
+                                    "count": 5,
+                                    "year": "2011"
+                                },
+                                {
+                                    "count": 9,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 15,
+                                    "count": 12,
                                     "year": "2010"
                                 }
                             ],
@@ -147,19 +143,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home&osid=1&passive=1209600&ifkv=AeZLP9-PSfXII3Iag84bfjtcbICGaGEnsbg58IVolM67O0OzTYd7mJ808OF1Ckn2jDdyY6Knu0bpsQ"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/pcadmix/home&followup=https://sites.google.com/site/pcadmix/home&osid=1&passive=1209600&ifkv=AXH0vVtbxIAQfvsFgv7aCnv5sHx3Vcm_ijBeUxYFnezUlR3roIbgTKt6iOLopsO7ZzyESI95sbKqXg"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/pcadmix/home&followup=https://sites.google.com/site/pcadmix/home"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fpcadmix%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fpcadmix%2Fhome&ifkv=AeZLP98KPX9NaIM1H5N7sDnKoMbXhBUZuQOvpHI041jPyRxkaggBEpnA39OOTBJKcm1n6yzd8n2K3g&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1226657236%3A1735958753449258&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fpcadmix%2Fhome"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fpcadmix%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fpcadmix%2Fhome&ifkv=AXH0vVugvEBCtp0-336YI5hAHkz4DqwhBHhFzd2Ey7II05j-5lccwr-noU91N_FtPjy5XXnD4nQdlw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-284093681%3A1743245784372315"
                     }
                 ],
                 "ssl": true,
@@ -191,19 +183,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home&osid=1&passive=1209600&ifkv=AeZLP98Pfjuksz178rcD4I9WOOzQJdRH-eX0GnNbR1VjaZW4yOL0-DfbMJn_eHSliaAar4L8H2CR"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/pcadmix/home&followup=https://sites.google.com/site/pcadmix/home&osid=1&passive=1209600&ifkv=AXH0vVsnDo0teXq03b866_rjJGT-Dxmdzryw4KeFRE6Mm-l7ACr_IXVmyRnN-rZSZSkTMl9m_aLH"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/pcadmix/home"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/pcadmix/home&followup=https://sites.google.com/site/pcadmix/home"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fpcadmix%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fpcadmix%2Fhome&ifkv=AeZLP99TB6uMch2zaOIIOKXf01sUIqHqfEHEP69cDoNz2sAbDLbzid5oK9GjpfX3dPWtoClFCvqw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S738663376%3A1735959358130282&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fpcadmix%2Fhome"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fpcadmix%2Fhome&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fpcadmix%2Fhome&ifkv=AXH0vVtQUeOePeQCwuRFSoL-SdcoKinWDrVWTV6uC2cPzCclIMrYbCxTlU7PUCg4x3VnEl1Yc3GC&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S755717672%3A1743246133131749"
                     }
                 ],
                 "ssl": true,

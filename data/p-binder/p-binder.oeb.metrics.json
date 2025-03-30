@@ -49,19 +49,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder&osid=1&passive=1209600&ifkv=AeZLP9-aic8lQk9kljIf5by2bCUh3mvio6rH-uhljJHNElzl22brUHZJ2npzVaUP93wmBCIfWILfSA"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/guofeics/p-binder&followup=https://sites.google.com/site/guofeics/p-binder&osid=1&passive=1209600&ifkv=AXH0vVs8tMSr9m09teZSWZzB1wV-88C8SEvnQtgm4fCzPwys9f_GqgmC41zn_otWgomPSAzM-C0v"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/guofeics/p-binder&followup=https://sites.google.com/site/guofeics/p-binder"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fp-binder&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fp-binder&ifkv=AeZLP9-5ns3TN8tVuKwBDeY8zXu_f0322fsO4wgXRqG42SaowvaY3GJND5vpF03L1lAjlwgOqZLtgQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S422381365%3A1735959100468382&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fguofeics%2Fp-binder"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fp-binder&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fp-binder&ifkv=AXH0vVsAFze0gCD0eNNhS_ql6RXLOHyf31Qm-vSEyQoME3JupMKFu1EMDWx6VMkevTxdrZ9Q0-WR&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1526172745%3A1743245951103294"
                     }
                 ],
                 "ssl": true,
@@ -93,19 +89,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder&osid=1&passive=1209600&ifkv=AeZLP99_FXMCZ5h-8f_DVeMakyqa6LbaUTLuujYpjP3dmyY19D57ox_Qxf60IAswOxcYFq763A6y"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/guofeics/p-binder&followup=https://sites.google.com/site/guofeics/p-binder&osid=1&passive=1209600&ifkv=AXH0vVuN8_THUB3QBer_jdZcRf5VFRjtxqeH9ACqebgnID75NZp5dup7rkLx-3AGr7FAJPAhiwQY5A"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/guofeics/p-binder"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/guofeics/p-binder&followup=https://sites.google.com/site/guofeics/p-binder"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fp-binder&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Fguofeics%2Fp-binder&ifkv=AeZLP99Z4n3TPVmwZtmbPOmITEQZ7bydPDp4TDXGV-JeFw0tWeozxPgu7G1O-iB6O8Hr_-zCH0e6&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S806424080%3A1735959155266683&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fguofeics%2Fp-binder"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fp-binder&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fguofeics%2Fp-binder&ifkv=AXH0vVv2xFwOZr1l5j2hiA_5EnJfX1FOQ56Jm_v-wnGO1qiefZiZANkQXkOODidfGmmCC4E5Nuth9Q&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-299261782%3A1743245992477930"
                     }
                 ],
                 "ssl": true,

@@ -16,15 +16,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 4,
+                            "cit_count": 3,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2018"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 2,
@@ -137,34 +133,30 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 276,
+                            "cit_count": 263,
                             "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2023"
+                                },
                                 {
                                     "count": 2,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 6,
+                                    "count": 4,
                                     "year": "2021"
-                                },
-                                {
-                                    "count": 7,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 16,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 25,
+                                    "count": 24,
                                     "year": "2020"
                                 },
                                 {
@@ -230,31 +222,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 871,
+                            "cit_count": 864,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2024"
+                                    "count": 4,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 8,
-                                    "year": "2023"
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 11,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 13,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 24,
@@ -265,31 +253,31 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 54,
-                                    "year": "2012"
-                                },
-                                {
-                                    "count": 57,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 58,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 74,
-                                    "year": "2014"
+                                    "count": 59,
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 62,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 73,
+                                    "year": "2020"
                                 },
                                 {
                                     "count": 75,
-                                    "year": "2020"
+                                    "year": "2014"
                                 },
                                 {
                                     "count": 102,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 103,
+                                    "count": 104,
                                     "year": "2016"
                                 },
                                 {
@@ -304,7 +292,7 @@
                             "doi": "10.1093/nar/gkn201",
                             "pmcid": "PMC2447716",
                             "pmid": "18440982",
-                            "ref_count": 9,
+                            "ref_count": 7,
                             "refs": [
                                 {
                                     "count": 1,
@@ -312,11 +300,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1997"
+                                    "year": "1991"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
+                                    "year": "1997"
                                 },
                                 {
                                     "count": 1,
@@ -325,10 +313,6 @@
                                 {
                                     "count": 1,
                                     "year": "2006"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1991"
                                 },
                                 {
                                     "count": 2,
@@ -343,66 +327,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -410,23 +390,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -434,51 +418,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -610,15 +590,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 4,
+                            "cit_count": 3,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2018"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 2,
@@ -731,34 +707,30 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 276,
+                            "cit_count": 263,
                             "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2023"
+                                },
                                 {
                                     "count": 2,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 6,
+                                    "count": 4,
                                     "year": "2021"
-                                },
-                                {
-                                    "count": 7,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 16,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 25,
+                                    "count": 24,
                                     "year": "2020"
                                 },
                                 {
@@ -824,31 +796,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 871,
+                            "cit_count": 864,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2024"
+                                    "count": 4,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 8,
-                                    "year": "2023"
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 11,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 13,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 24,
@@ -859,31 +827,31 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 54,
-                                    "year": "2012"
-                                },
-                                {
-                                    "count": 57,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 58,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 74,
-                                    "year": "2014"
+                                    "count": 59,
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 62,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 73,
+                                    "year": "2020"
                                 },
                                 {
                                     "count": 75,
-                                    "year": "2020"
+                                    "year": "2014"
                                 },
                                 {
                                     "count": 102,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 103,
+                                    "count": 104,
                                     "year": "2016"
                                 },
                                 {
@@ -898,7 +866,7 @@
                             "doi": "10.1093/nar/gkn201",
                             "pmcid": "PMC2447716",
                             "pmid": "18440982",
-                            "ref_count": 9,
+                            "ref_count": 7,
                             "refs": [
                                 {
                                     "count": 1,
@@ -906,11 +874,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1997"
+                                    "year": "1991"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
+                                    "year": "1997"
                                 },
                                 {
                                     "count": 1,
@@ -919,10 +887,6 @@
                                 {
                                     "count": 1,
                                     "year": "2006"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1991"
                                 },
                                 {
                                     "count": 2,
@@ -937,66 +901,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -1004,23 +964,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -1028,51 +992,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -1205,15 +1165,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 4,
+                            "cit_count": 3,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2018"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 2,
@@ -1326,34 +1282,30 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 276,
+                            "cit_count": 263,
                             "citations": [
+                                {
+                                    "count": 1,
+                                    "year": "2022"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2023"
+                                },
                                 {
                                     "count": 2,
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 3,
-                                    "year": "2024"
-                                },
-                                {
-                                    "count": 6,
+                                    "count": 4,
                                     "year": "2021"
-                                },
-                                {
-                                    "count": 7,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 16,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 25,
+                                    "count": 24,
                                     "year": "2020"
                                 },
                                 {
@@ -1419,31 +1371,27 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 871,
+                            "cit_count": 864,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 3,
-                                    "year": "2024"
+                                    "count": 4,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 8,
-                                    "year": "2023"
+                                    "year": "2021"
+                                },
+                                {
+                                    "count": 11,
+                                    "year": "2022"
                                 },
                                 {
                                     "count": 12,
                                     "year": "2009"
-                                },
-                                {
-                                    "count": 13,
-                                    "year": "2021"
-                                },
-                                {
-                                    "count": 16,
-                                    "year": "2022"
                                 },
                                 {
                                     "count": 24,
@@ -1454,31 +1402,31 @@
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 54,
-                                    "year": "2012"
-                                },
-                                {
-                                    "count": 57,
-                                    "year": "2013"
-                                },
-                                {
                                     "count": 58,
                                     "year": "2015"
                                 },
                                 {
-                                    "count": 74,
-                                    "year": "2014"
+                                    "count": 59,
+                                    "year": "2012"
+                                },
+                                {
+                                    "count": 62,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 73,
+                                    "year": "2020"
                                 },
                                 {
                                     "count": 75,
-                                    "year": "2020"
+                                    "year": "2014"
                                 },
                                 {
                                     "count": 102,
                                     "year": "2018"
                                 },
                                 {
-                                    "count": 103,
+                                    "count": 104,
                                     "year": "2016"
                                 },
                                 {
@@ -1493,7 +1441,7 @@
                             "doi": "10.1093/nar/gkn201",
                             "pmcid": "PMC2447716",
                             "pmid": "18440982",
-                            "ref_count": 9,
+                            "ref_count": 7,
                             "refs": [
                                 {
                                     "count": 1,
@@ -1501,11 +1449,11 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "1997"
+                                    "year": "1991"
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2003"
+                                    "year": "1997"
                                 },
                                 {
                                     "count": 1,
@@ -1514,10 +1462,6 @@
                                 {
                                     "count": 1,
                                     "year": "2006"
-                                },
-                                {
-                                    "count": 2,
-                                    "year": "1991"
                                 },
                                 {
                                     "count": 2,
@@ -1532,66 +1476,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -1599,23 +1539,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -1623,51 +1567,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -1802,15 +1742,11 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 4,
+                            "cit_count": 3,
                             "citations": [
                                 {
                                     "count": 1,
                                     "year": "2018"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2023"
                                 },
                                 {
                                     "count": 2,
@@ -1923,66 +1859,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -1990,23 +1922,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -2014,51 +1950,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -2201,41 +2133,8 @@
                             "doi": "10.1186/s12859-023-05245-9",
                             "pmcid": "PMC10040096",
                             "pmid": "36967390",
-                            "ref_count": 8,
-                            "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1997"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2019"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
-                                }
-                            ],
+                            "ref_count": 0,
+                            "refs": [],
                             "title": "ElasticBLAST: accelerating sequence search via cloud computing.",
                             "year": 2023
                         }
@@ -2281,41 +2180,8 @@
                             "doi": "10.1186/s12859-023-05245-9",
                             "pmcid": "PMC10040096",
                             "pmid": "36967390",
-                            "ref_count": 8,
-                            "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1997"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2019"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
-                                }
-                            ],
+                            "ref_count": 0,
+                            "refs": [],
                             "title": "ElasticBLAST: accelerating sequence search via cloud computing.",
                             "year": 2023
                         }
@@ -2361,41 +2227,8 @@
                             "doi": "10.1186/s12859-023-05245-9",
                             "pmcid": "PMC10040096",
                             "pmid": "36967390",
-                            "ref_count": 8,
-                            "refs": [
-                                {
-                                    "count": 1,
-                                    "year": "1997"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2008"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2009"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2010"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2014"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2017"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2019"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
-                                }
-                            ],
+                            "ref_count": 0,
+                            "refs": [],
                             "title": "ElasticBLAST: accelerating sequence search via cloud computing.",
                             "year": 2023
                         }
@@ -2435,66 +2268,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -2502,23 +2331,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -2526,51 +2359,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -2700,66 +2529,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -2767,23 +2592,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -2791,51 +2620,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -2965,66 +2790,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -3032,23 +2853,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -3056,51 +2881,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -3230,66 +3051,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -3297,23 +3114,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -3321,51 +3142,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -3495,66 +3312,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -3562,23 +3375,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -3586,51 +3403,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -3760,66 +3573,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -3827,23 +3636,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -3851,51 +3664,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -4025,66 +3834,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -4092,23 +3897,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -4116,51 +3925,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -4290,66 +4095,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -4357,23 +4158,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -4381,51 +4186,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -4630,66 +4431,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -4697,23 +4494,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -4721,51 +4522,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -4933,66 +4730,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -5000,23 +4793,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -5024,51 +4821,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {
@@ -5199,66 +4992,62 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 37559,
+                            "cit_count": 37506,
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "1881"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1896"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "1990"
+                                },
+                                {
+                                    "count": 1,
+                                    "year": "2025"
+                                },
+                                {
+                                    "count": 7,
+                                    "year": "2024"
                                 },
                                 {
                                     "count": 18,
                                     "year": "1991"
                                 },
                                 {
-                                    "count": 59,
-                                    "year": "2024"
+                                    "count": 48,
+                                    "year": "2023"
                                 },
                                 {
                                     "count": 79,
                                     "year": "1992"
                                 },
                                 {
-                                    "count": 107,
-                                    "year": "2023"
+                                    "count": 97,
+                                    "year": "2022"
                                 },
                                 {
-                                    "count": 184,
-                                    "year": "2022"
+                                    "count": 136,
+                                    "year": "2021"
                                 },
                                 {
                                     "count": 216,
                                     "year": "1993"
                                 },
                                 {
-                                    "count": 229,
-                                    "year": "2021"
-                                },
-                                {
                                     "count": 423,
                                     "year": "1994"
                                 },
                                 {
-                                    "count": 650,
+                                    "count": 649,
                                     "year": "1995"
                                 },
                                 {
-                                    "count": 880,
+                                    "count": 905,
                                     "year": "2001"
                                 },
                                 {
-                                    "count": 916,
+                                    "count": 918,
                                     "year": "1996"
                                 },
                                 {
-                                    "count": 938,
+                                    "count": 937,
                                     "year": "2000"
                                 },
                                 {
@@ -5266,23 +5055,27 @@
                                     "year": "2004"
                                 },
                                 {
-                                    "count": 986,
+                                    "count": 993,
                                     "year": "2002"
                                 },
                                 {
-                                    "count": 1007,
+                                    "count": 1006,
                                     "year": "2006"
                                 },
                                 {
-                                    "count": 1039,
+                                    "count": 1034,
                                     "year": "1999"
                                 },
                                 {
-                                    "count": 1071,
+                                    "count": 1065,
                                     "year": "2005"
                                 },
                                 {
-                                    "count": 1103,
+                                    "count": 1079,
+                                    "year": "2020"
+                                },
+                                {
+                                    "count": 1099,
                                     "year": "2007"
                                 },
                                 {
@@ -5290,51 +5083,47 @@
                                     "year": "2003"
                                 },
                                 {
-                                    "count": 1121,
-                                    "year": "2020"
-                                },
-                                {
-                                    "count": 1208,
+                                    "count": 1206,
                                     "year": "2008"
                                 },
                                 {
-                                    "count": 1294,
+                                    "count": 1287,
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 1316,
+                                    "count": 1315,
                                     "year": "1997"
                                 },
                                 {
-                                    "count": 1377,
-                                    "year": "1998"
-                                },
-                                {
-                                    "count": 1407,
+                                    "count": 1406,
                                     "year": "2010"
                                 },
                                 {
-                                    "count": 1674,
+                                    "count": 1459,
+                                    "year": "1998"
+                                },
+                                {
+                                    "count": 1673,
                                     "year": "2011"
                                 },
                                 {
-                                    "count": 1837,
+                                    "count": 1912,
                                     "year": "2012"
                                 },
                                 {
-                                    "count": 1860,
-                                    "year": "2013"
-                                },
-                                {
-                                    "count": 1939,
+                                    "count": 1927,
                                     "year": "2019"
                                 },
                                 {
-                                    "count": 2055,
+                                    "count": 1997,
+                                    "year": "2013"
+                                },
+                                {
+                                    "count": 2053,
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2093,
+                                    "count": 2090,
                                     "year": "2018"
                                 },
                                 {

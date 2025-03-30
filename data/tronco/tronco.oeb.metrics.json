@@ -85,15 +85,11 @@
                             "citations": [
                                 {
                                     "count": 1,
-                                    "year": "2015"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2023"
+                                },
+                                {
+                                    "count": 2,
+                                    "year": "2015"
                                 },
                                 {
                                     "count": 3,
@@ -115,27 +111,15 @@
                             "doi": "10.1371/journal.pone.0108358",
                             "pmcid": "PMC4191986",
                             "pmid": "25299648",
-                            "ref_count": 48,
+                            "ref_count": 29,
                             "refs": [
                                 {
                                     "count": 1,
-                                    "year": "1967"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1973"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1979"
+                                    "year": "1950"
                                 },
                                 {
                                     "count": 1,
                                     "year": "1988"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "1989"
                                 },
                                 {
                                     "count": 1,
@@ -162,12 +146,8 @@
                                     "year": "2013"
                                 },
                                 {
-                                    "count": 1,
-                                    "year": "2014"
-                                },
-                                {
                                     "count": 2,
-                                    "year": "1950"
+                                    "year": "2000"
                                 },
                                 {
                                     "count": 2,
@@ -187,10 +167,6 @@
                                 },
                                 {
                                     "count": 3,
-                                    "year": "2000"
-                                },
-                                {
-                                    "count": 3,
                                     "year": "2005"
                                 },
                                 {
@@ -198,12 +174,8 @@
                                     "year": "2009"
                                 },
                                 {
-                                    "count": 6,
+                                    "count": 5,
                                     "year": "2012"
-                                },
-                                {
-                                    "count": 11,
-                                    "year": "0"
                                 }
                             ],
                             "title": "Inferring tree causal models of cancer progression with probability raising.",
@@ -214,7 +186,7 @@
                 {
                     "entries": [
                         {
-                            "cit_count": 20,
+                            "cit_count": 18,
                             "citations": [
                                 {
                                     "count": 1,
@@ -226,15 +198,7 @@
                                 },
                                 {
                                     "count": 1,
-                                    "year": "2022"
-                                },
-                                {
-                                    "count": 1,
                                     "year": "2023"
-                                },
-                                {
-                                    "count": 1,
-                                    "year": "2024"
                                 },
                                 {
                                     "count": 3,
@@ -348,19 +312,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/&osid=1&passive=1209600&ifkv=AeZLP98QEuGlk6BHg5EcHcYC2NtpZV1FFBYazvDUoBgsX0edNtS8ZJ-b1sa7k0dwYbGGU3a5HUl3"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/troncopackage/&followup=https://sites.google.com/site/troncopackage/&osid=1&passive=1209600&ifkv=AXH0vVuwaCfy8pyXbbFhdgX-3pyg1n8R--tmqJX8h-ki5IyPLhklJ7Th2w8hKwTW4dgTIOMPMH-CCA"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/troncopackage/&followup=https://sites.google.com/site/troncopackage/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftroncopackage%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftroncopackage%2F&ifkv=AeZLP9_SSSuuZBTcTv7ImFxLfL42m2VL2jv31d0GnbACrqypsAphamvXDH7kqAeF88Y8kr1XcKvZ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1626928092%3A1735998463053733&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Ftroncopackage%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Ftroncopackage%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Ftroncopackage%2F&ifkv=AXH0vVtyesW3UOa7QwJxvGrJNI4T1aBgdwWMrh1yZfKBBK7gaVMTD13aRKIfLreCy4D7Mj9eDYIwYQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-115113910%3A1743241079830203"
                     }
                 ],
                 "ssl": true,
@@ -392,19 +352,15 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/&osid=1&passive=1209600&ifkv=AeZLP9-NAoCvKVfIxYMFIS2dJrhsZD4GlJ2I-p4sas4mZl0_nkPJdUa5PUrbz9jSII-e2TW4j1pvAw"
+                        "url": "https://accounts.google.com/InteractiveLogin?continue=https://sites.google.com/site/troncopackage/&followup=https://sites.google.com/site/troncopackage/&osid=1&passive=1209600&ifkv=AXH0vVvJM9liBUpas_ZPzUXWYNuPw6Cq662vhMbmq7k-3JPQLkm8y2v5lNuugXsnpTXIA0M5yr1YyA"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/&followup=https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path%3D/troncopackage/"
+                        "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/site/troncopackage/&followup=https://sites.google.com/site/troncopackage/"
                     },
                     {
                         "status": 302,
-                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftroncopackage%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Fsites%2Fsystem%2Ferrors%2FWebspaceNotFound%3Fpath%3D%2Ftroncopackage%2F&ifkv=AeZLP98ossOJP10VGyPd_65ulT8R83jNOSE4abuldtx9v84BTJM0NOY2jZzVeGeUiwhnej1462y_dw&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1947277783%3A1735998468982241&ddm=1"
-                    },
-                    {
-                        "status": 302,
-                        "url": "https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Ftroncopackage%2F"
+                        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fsite%2Ftroncopackage%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2Ftroncopackage%2F&ifkv=AXH0vVt3PAnqpU5jksv2ak6dSZOUlcJYIwn44GJH8NAB6fFlLktb7QuPV45nUORnofSqa52-EOdZtA&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2016540244%3A1743241075636399"
                     }
                 ],
                 "ssl": true,

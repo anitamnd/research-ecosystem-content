@@ -27,7 +27,7 @@
                             "doi": "10.1093/nar/gkab456",
                             "pmcid": "PMC8265192",
                             "pmid": "34133710",
-                            "ref_count": 9,
+                            "ref_count": 5,
                             "refs": [
                                 {
                                     "count": 1,
@@ -38,15 +38,11 @@
                                     "year": "2014"
                                 },
                                 {
-                                    "count": 2,
-                                    "year": "2011"
-                                },
-                                {
-                                    "count": 2,
+                                    "count": 1,
                                     "year": "2021"
                                 },
                                 {
-                                    "count": 3,
+                                    "count": 2,
                                     "year": "2018"
                                 }
                             ],
@@ -64,11 +60,11 @@
                 "copyright": false,
                 "https": true,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://rna.informatik.uni-freiburg.de/CRISPRloci/Input.jsp;jsessionid=BE626E020897D75CE55965FF46E94F88"
+                        "url": "https://rna.informatik.uni-freiburg.de/CRISPRloci/Input.jsp;jsessionid=97A805C012E46CE17BDA88501977C4CB"
                     }
                 ],
                 "ssl": true,
@@ -93,11 +89,11 @@
                 "copyright": false,
                 "https": true,
                 "license": false,
-                "operational": 408,
+                "operational": 200,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://rna.informatik.uni-freiburg.de/CRISPRloci/Input.jsp;jsessionid=EAC5B42DBDE30E383AC51ABFBAFDE1DE"
+                        "url": "https://rna.informatik.uni-freiburg.de/CRISPRloci/Input.jsp;jsessionid=6EA5BF2521B231A0A353079CD41BA76B"
                     }
                 ],
                 "ssl": true,
