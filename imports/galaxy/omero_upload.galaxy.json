@@ -5,6 +5,7 @@
     "EDAM_reduced_topics": "Imaging, Data visualisation",
     "EDAM_topics": "Imaging, Data visualisation",
     "Homepage": "https://github.com/ome/omero-py/",
+    "Number_of_tools_on_UseGalaxy.eu": 3,
     "Suite_ID": "omero_upload",
     "Suite_first_commit_date": "2024-02-07",
     "Suite_owner": "ufz",
@@ -13,7 +14,7 @@
     "Suite_version": "5.18.0",
     "Suite_version_status": "To update",
     "ToolShed_categories": "Imaging",
-    "Tool_IDs": "omero_filter, omero_get_id, omero_get_value, omero_import, omero_metadata_import, omero_roi_import",
+    "Tool_IDs": "omero_dataset_to_plate, omero_filter, omero_get_id, omero_get_value, omero_import, omero_metadata_import, omero_roi_import",
     "bio.tool_ID": "omero",
     "bio.tool_description": "Client-server Java software for visualisation, management and analysis of biological microscope images.",
     "bio.tool_name": "OMERO"
