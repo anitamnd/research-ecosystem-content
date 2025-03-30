@@ -1,7 +1,7 @@
 {
     "Author": "Robert Castelo [aut, cre], Justin Guinney [aut], Alexey Sergushichev [ctb], Pablo Sebastian Rodriguez [ctb], Axel Klenk [ctb]",
     "BugReports": "https://github.com/rcastelo/GSVA/issues",
-    "Date/Publication": "2024-12-19",
+    "Date/Publication": "2025-03-24",
     "Depends": [
         "R (>= 3.5.0)"
     ],
@@ -32,11 +32,11 @@
     "LinkingTo": [
         "cli"
     ],
-    "MD5sum": "21cec49eb30108412c8dc2238d08bd03",
+    "MD5sum": "cea42d1a52c16a99b865cfedf38430ac",
     "Maintainer": "Robert Castelo <robert.castelo@upf.edu>",
     "NeedsCompilation": "yes",
     "Package": "GSVA",
-    "Rank": 74,
+    "Rank": 72,
     "Rfiles": [
         "vignettes/GSVA/inst/doc/GSVA.R"
     ],
@@ -64,7 +64,7 @@
     ],
     "Title": "Gene Set Variation Analysis for Microarray and RNA-Seq Data",
     "URL": "https://github.com/rcastelo/GSVA",
-    "Version": "2.0.4",
+    "Version": "2.0.7",
     "VignetteBuilder": "knitr",
     "biocViews": [
         "FunctionalGenomics",
@@ -79,8 +79,8 @@
         "SMDIC"
     ],
     "git_branch": "RELEASE_3_20",
-    "git_last_commit": "c34771b",
-    "git_last_commit_date": "2024-12-17",
+    "git_last_commit": "b63c3a0",
+    "git_last_commit_date": "2025-03-21",
     "git_url": "https://git.bioconductor.org/packages/GSVA",
     "hasINSTALL": false,
     "hasLICENSE": false,
@@ -91,6 +91,7 @@
         "EGSEA",
         "GSEMA",
         "SIGN",
+        "autoGO",
         "clustermole",
         "escape",
         "octad",
@@ -102,9 +103,9 @@
         "singleCellTK",
         "ssdGSA"
     ],
-    "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/GSVA_2.0.4.tgz",
-    "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/GSVA_2.0.4.tgz",
-    "source.ver": "src/contrib/GSVA_2.0.4.tar.gz",
+    "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/GSVA_2.0.7.tgz",
+    "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/GSVA_2.0.7.tgz",
+    "source.ver": "src/contrib/GSVA_2.0.7.tar.gz",
     "suggestsMe": [
         "MCbiclust",
         "ReporterScore",
@@ -118,5 +119,5 @@
     "vignettes": [
         "vignettes/GSVA/inst/doc/GSVA.html"
     ],
-    "win.binary.ver": "bin/windows/contrib/4.4/GSVA_2.0.4.zip"
+    "win.binary.ver": "bin/windows/contrib/4.4/GSVA_2.0.7.zip"
 }

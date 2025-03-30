@@ -26,7 +26,7 @@
     "Maintainer": "Leo Lahti <leo.lahti@iki.fi>",
     "NeedsCompilation": "no",
     "Package": "microbiome",
-    "Rank": 162,
+    "Rank": 161,
     "Rfiles": [
         "vignettes/microbiome/inst/doc/vignette.R"
     ],
@@ -59,13 +59,15 @@
     "hasNEWS": true,
     "hasREADME": false,
     "importsMe": [
-        "MicrobiomeSurv"
+        "MicrobiomeSurv",
+        "benchdamic"
     ],
     "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/microbiome_1.28.0.tgz",
     "source.ver": "src/contrib/microbiome_1.28.0.tar.gz",
     "suggestsMe": [
         "ANCOMBC",
         "dar",
+        "microbiomeMarker",
         "zitools"
     ],
     "vignetteTitles": [

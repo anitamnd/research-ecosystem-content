@@ -48,7 +48,7 @@
     "Maintainer": "Cole Trapnell <coletrap@uw.edu>",
     "NeedsCompilation": "yes",
     "Package": "monocle",
-    "Rank": 113,
+    "Rank": 111,
     "Rfiles": [
         "vignettes/monocle/inst/doc/monocle-vignette.R"
     ],
@@ -97,6 +97,7 @@
     "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/monocle_2.34.0.tgz",
     "source.ver": "src/contrib/monocle_2.34.0.tar.gz",
     "suggestsMe": [
+        "ClusterGVis",
         "Seurat",
         "grandR",
         "sincell"

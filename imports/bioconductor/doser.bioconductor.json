@@ -23,7 +23,7 @@
     "Maintainer": "ake.vastermark <ake.vastermark@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "doseR",
-    "Rank": 1808,
+    "Rank": 1689,
     "Rfiles": [
         "vignettes/doseR/inst/doc/doseR.R"
     ],
@@ -44,7 +44,7 @@
         "Software",
         "SystemsBiology"
     ],
-    "dependencyCount": "53",
+    "dependencyCount": "56",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "106fc8d",
     "git_last_commit_date": "2024-10-29",

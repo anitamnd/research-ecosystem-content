@@ -35,7 +35,7 @@
     "Maintainer": "Sarah Ennis <ennissarah94@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "CCPlotR",
-    "Rank": 1631,
+    "Rank": 1689,
     "Rfiles": [
         "vignettes/CCPlotR/inst/doc/CCPlotR_visualisations.R"
     ],
@@ -57,7 +57,7 @@
         "SystemsBiology",
         "Visualization"
     ],
-    "dependencyCount": "99",
+    "dependencyCount": "101",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "8196f7b",
     "git_last_commit_date": "2024-10-29",

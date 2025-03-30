@@ -51,7 +51,7 @@
     "Maintainer": "Richard Heery <richardheery@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "methodical",
-    "Rank": 2232,
+    "Rank": 2225,
     "Rfiles": [
         "vignettes/methodical/inst/doc/calculating_methylation_transcription_correlations.R",
         "vignettes/methodical/inst/doc/working_with_meth_rses.R"
@@ -74,7 +74,7 @@
         "Software",
         "Transcription"
     ],
-    "dependencyCount": "213",
+    "dependencyCount": "231",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "815decd",
     "git_last_commit_date": "2024-12-26",
@@ -83,7 +83,8 @@
     "hasLICENSE": true,
     "hasNEWS": true,
     "hasREADME": false,
-    "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/methodical_1.1.0.tgz",
+    "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/methodical_1.2.0.tgz",
+    "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/methodical_1.2.0.tgz",
     "source.ver": "src/contrib/methodical_1.2.0.tar.gz",
     "vignetteTitles": [
         "calculating_methylation_transcription_correlations",

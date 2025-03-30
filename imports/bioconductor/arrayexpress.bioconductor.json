@@ -21,7 +21,7 @@
     "Maintainer": "Jose Marugan <jcmarca@ebi.ac.uk>",
     "NeedsCompilation": "no",
     "Package": "ArrayExpress",
-    "Rank": 333,
+    "Rank": 336,
     "Rfiles": [
         "vignettes/ArrayExpress/inst/doc/ArrayExpress.R"
     ],
@@ -55,8 +55,7 @@
     "source.ver": "src/contrib/ArrayExpress_1.66.0.tar.gz",
     "suggestsMe": [
         "Hiiragi2013",
-        "bapred",
-        "seeker"
+        "bapred"
     ],
     "vignetteTitles": [
         "ArrayExpress: Import and convert ArrayExpress data sets into R object"

@@ -34,7 +34,7 @@
     "Maintainer": "Michael Lawrence <michafla@gene.com>",
     "NeedsCompilation": "yes",
     "Package": "rtracklayer",
-    "Rank": 30,
+    "Rank": 32,
     "Rfiles": [
         "vignettes/rtracklayer/inst/doc/rtracklayer.R"
     ],
@@ -141,7 +141,6 @@
         "ORFik",
         "PAST",
         "PlasmaMutationDetector",
-        "PlasmaMutationDetector2",
         "PureCN",
         "QuasR",
         "RCAS",
@@ -255,7 +254,6 @@
         "transcriptR",
         "txcutr",
         "txdbmaker",
-        "valr",
         "wavClusteR",
         "wiggleplotr"
     ],
@@ -282,7 +280,6 @@
         "HiCExperiment",
         "HiContacts",
         "InPAS",
-        "MOCHA",
         "MutationalPatterns",
         "NanoMethViz",
         "OrganismDbi",

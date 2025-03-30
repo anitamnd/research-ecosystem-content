@@ -42,7 +42,7 @@
     "Maintainer": "Thomas Naake <thomasnaake@googlemail.com>",
     "NeedsCompilation": "no",
     "Package": "MatrixQCvis",
-    "Rank": 542,
+    "Rank": 612,
     "Rfiles": [
         "vignettes/MatrixQCvis/inst/doc/MatrixQCvis.R"
     ],
@@ -70,7 +70,7 @@
         "Transcriptomics",
         "Visualization"
     ],
-    "dependencyCount": "189",
+    "dependencyCount": "190",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "ca66ef6",
     "git_last_commit_date": "2024-10-29",

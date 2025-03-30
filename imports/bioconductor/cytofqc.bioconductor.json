@@ -27,7 +27,7 @@
     "Maintainer": "Jill Lundell <jflundell@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "cytofQC",
-    "Rank": 1669,
+    "Rank": 1689,
     "Rfiles": [
         "vignettes/cytofQC/inst/doc/cytofQC.R"
     ],
@@ -47,7 +47,7 @@
         "SingleCell",
         "Software"
     ],
-    "dependencyCount": "228",
+    "dependencyCount": "231",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "b0619f4",
     "git_last_commit_date": "2024-10-29",

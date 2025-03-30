@@ -24,7 +24,7 @@
     "Maintainer": "VJ Carey <stvjc@channing.harvard.edu>",
     "NeedsCompilation": "no",
     "Package": "ivygapSE",
-    "Rank": 1697,
+    "Rank": 1597,
     "Rfiles": [
         "vignettes/ivygapSE/inst/doc/ivygapSE.R"
     ],
@@ -54,7 +54,7 @@
         "Transcription",
         "Visualization"
     ],
-    "dependencyCount": "150",
+    "dependencyCount": "154",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "15ca03f",
     "git_last_commit_date": "2024-10-29",

@@ -30,7 +30,7 @@
     "Maintainer": "Mike Jiang <mike@ozette.com>",
     "NeedsCompilation": "yes",
     "Package": "flowCore",
-    "Rank": 122,
+    "Rank": 128,
     "Rfiles": [
         "vignettes/flowCore/inst/doc/HowTo-flowCore.R"
     ],
@@ -127,6 +127,7 @@
     "source.ver": "src/contrib/flowCore_2.18.0.tar.gz",
     "suggestsMe": [
         "COMPASS",
+        "MuPETFlow",
         "flowPeaks",
         "flowPloidyData",
         "hypergate",

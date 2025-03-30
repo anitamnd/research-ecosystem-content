@@ -31,7 +31,7 @@
     "Maintainer": "Mauro Castro <mauro.a.castro@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "RTN",
-    "Rank": 555,
+    "Rank": 527,
     "Rfiles": [
         "vignettes/RTN/inst/doc/RTN.R"
     ],
@@ -58,7 +58,7 @@
         "Software",
         "Transcription"
     ],
-    "dependencyCount": "137",
+    "dependencyCount": "140",
     "dependsOnMe": [
         "Fletcher2013b",
         "RTNduals",

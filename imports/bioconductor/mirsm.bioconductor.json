@@ -47,7 +47,7 @@
     "Maintainer": "Junpeng Zhang <zjp@dali.edu.cn>",
     "NeedsCompilation": "yes",
     "Package": "miRSM",
-    "Rank": 1878,
+    "Rank": 1714,
     "Rfiles": [
         "vignettes/miRSM/inst/doc/miRSM.R"
     ],
@@ -71,7 +71,7 @@
         "Microarray",
         "Software"
     ],
-    "dependencyCount": "262",
+    "dependencyCount": "263",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "91bc3ea",
     "git_last_commit_date": "2024-10-29",

@@ -32,7 +32,7 @@
     "Maintainer": "Xavier Escribà Montagut <xavier.escriba@isglobal.org>",
     "NeedsCompilation": "no",
     "Package": "omicRexposome",
-    "Rank": 1387,
+    "Rank": 1352,
     "Rfiles": [
         "vignettes/omicRexposome/inst/doc/exposome_omic_integration.R"
     ],
@@ -62,7 +62,7 @@
         "Visualization",
         "WorkflowStep"
     ],
-    "dependencyCount": "226",
+    "dependencyCount": "229",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "36221e2",
     "git_last_commit_date": "2024-10-29",

@@ -1,5 +1,4 @@
 {
-    "Archs": "x64",
     "Author": "Koki Tsuyuzaki [aut, cre]",
     "Date/Publication": "2024-10-29",
     "Depends": [
@@ -36,7 +35,7 @@
     "Maintainer": "Koki Tsuyuzaki <k.t.the-answer@hotmail.co.jp>",
     "NeedsCompilation": "no",
     "Package": "scTGIF",
-    "Rank": 494,
+    "Rank": 589,
     "Rfiles": [
         "vignettes/scTGIF/inst/doc/scTGIF.R"
     ],
@@ -53,7 +52,7 @@
         "SingleCell",
         "Software"
     ],
-    "dependencyCount": "149",
+    "dependencyCount": "150",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "78129bd",
     "git_last_commit_date": "2024-10-29",

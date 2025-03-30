@@ -32,7 +32,7 @@
     "Maintainer": "Job van Riet <jobvriet@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "ProteoDisco",
-    "Rank": 1855,
+    "Rank": 1866,
     "Rfiles": [
         "vignettes/ProteoDisco/inst/doc/Overview_ProteoDisco.R"
     ],
@@ -73,7 +73,7 @@
         "Software",
         "VariantAnnotation"
     ],
-    "dependencyCount": "99",
+    "dependencyCount": "100",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "89c9e43",
     "git_last_commit_date": "2024-10-29",

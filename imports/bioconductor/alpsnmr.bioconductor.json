@@ -43,7 +43,7 @@
     "Maintainer": "Sergio Oller Moreno <sergioller@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "AlpsNMR",
-    "Rank": 1447,
+    "Rank": 1241,
     "Rfiles": [
         "vignettes/AlpsNMR/inst/doc/Vig01-introduction-to-alpsnmr.R",
         "vignettes/AlpsNMR/inst/doc/Vig01b-introduction-to-alpsnmr-old-api.R",
@@ -82,7 +82,7 @@
         "Software",
         "Visualization"
     ],
-    "dependencyCount": "132",
+    "dependencyCount": "131",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "ab34115",
     "git_last_commit_date": "2024-10-29",

@@ -21,7 +21,7 @@
     "Maintainer": "Holger Schwender <holger.schw@gmx.de>",
     "NeedsCompilation": "no",
     "Package": "siggenes",
-    "Rank": 109,
+    "Rank": 115,
     "Rfiles": [
         "vignettes/siggenes/inst/doc/siggenes.R"
     ],
@@ -56,7 +56,6 @@
     "hasREADME": false,
     "importsMe": [
         "DeSousa2013",
-        "INCATome",
         "NPFD",
         "XDE",
         "minfi",

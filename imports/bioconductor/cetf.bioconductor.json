@@ -39,7 +39,7 @@
     "Maintainer": "Carlos Alberto Oliveira de Biagi Junior <cbiagijr@gmail.com>",
     "NeedsCompilation": "yes",
     "Package": "CeTF",
-    "Rank": 1116,
+    "Rank": 1276,
     "Rfiles": [
         "vignettes/CeTF/inst/doc/CeTF.R"
     ],
@@ -71,7 +71,7 @@
         "Software",
         "Transcription"
     ],
-    "dependencyCount": "205",
+    "dependencyCount": "208",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "49ec9bf",
     "git_last_commit_date": "2024-10-29",

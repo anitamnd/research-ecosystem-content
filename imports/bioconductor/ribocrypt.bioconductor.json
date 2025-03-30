@@ -40,7 +40,7 @@
     "Maintainer": "Michal Swirski <michal.swirski@uw.edu.pl>",
     "NeedsCompilation": "no",
     "Package": "RiboCrypt",
-    "Rank": 1855,
+    "Rank": 1888,
     "Rfiles": [
         "vignettes/RiboCrypt/inst/doc/RiboCrypt_app_tutorial.R",
         "vignettes/RiboCrypt/inst/doc/RiboCrypt_overview.R"
@@ -62,7 +62,7 @@
         "Sequencing",
         "Software"
     ],
-    "dependencyCount": "168",
+    "dependencyCount": "169",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "58dbf65",
     "git_last_commit_date": "2024-10-29",

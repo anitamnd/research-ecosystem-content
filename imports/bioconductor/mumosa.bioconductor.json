@@ -35,7 +35,7 @@
     "Maintainer": "Aaron Lun <infinite.monkeys.with.keyboards@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "mumosa",
-    "Rank": 1365,
+    "Rank": 1458,
     "Rfiles": [
         "vignettes/mumosa/inst/doc/overview.R"
     ],
@@ -60,6 +60,9 @@
         "Software"
     ],
     "dependencyCount": "84",
+    "dependsOnMe": [
+        "OSCA.advanced"
+    ],
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "deaae6a",
     "git_last_commit_date": "2024-10-29",

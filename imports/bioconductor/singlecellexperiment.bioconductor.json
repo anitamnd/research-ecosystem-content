@@ -20,7 +20,7 @@
     "Maintainer": "Davide Risso <risso.davide@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "SingleCellExperiment",
-    "Rank": 47,
+    "Rank": 44,
     "Rfiles": [
         "vignettes/SingleCellExperiment/inst/doc/apply.R",
         "vignettes/SingleCellExperiment/inst/doc/devel.R",
@@ -279,6 +279,7 @@
         "CytoSimplex",
         "DEsingle",
         "DuoClustering2018",
+        "FLASHMM",
         "FuseSOM",
         "GSE103322",
         "HDF5Array",

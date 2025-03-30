@@ -26,7 +26,7 @@
     "Maintainer": "Kevin Rue-Albrecht <kevinrue67@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "iSEEindex",
-    "Rank": 1950,
+    "Rank": 1968,
     "Rfiles": [
         "vignettes/iSEEindex/inst/doc/header.R",
         "vignettes/iSEEindex/inst/doc/iSEEindex.R",
@@ -52,7 +52,7 @@
         "Infrastructure",
         "Software"
     ],
-    "dependencyCount": "142",
+    "dependencyCount": "143",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "52cec33",
     "git_last_commit_date": "2024-10-29",

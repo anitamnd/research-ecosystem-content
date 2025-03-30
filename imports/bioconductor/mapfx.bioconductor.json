@@ -37,7 +37,7 @@
     "Maintainer": "Hsiao-Chi Liao <chelsea.acad@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "MAPFX",
-    "Rank": 2190,
+    "Rank": 2173,
     "Rfiles": [
         "vignettes/MAPFX/inst/doc/MAPFX_Vignette.R"
     ],
@@ -59,7 +59,7 @@
         "SingleCell",
         "Software"
     ],
-    "dependencyCount": "186",
+    "dependencyCount": "188",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "3a93e18",
     "git_last_commit_date": "2024-10-29",

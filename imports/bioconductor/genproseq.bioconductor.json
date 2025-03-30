@@ -21,7 +21,7 @@
     "Maintainer": "Dongmin Jung <dmdmjung@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "GenProSeq",
-    "Rank": 2099,
+    "Rank": 2106,
     "Rfiles": [
         "vignettes/GenProSeq/inst/doc/GenProSeq.R"
     ],
@@ -56,5 +56,6 @@
     ],
     "vignettes": [
         "vignettes/GenProSeq/inst/doc/GenProSeq.html"
-    ]
+    ],
+    "win.binary.ver": "bin/windows/contrib/4.4/GenProSeq_1.10.0.zip"
 }

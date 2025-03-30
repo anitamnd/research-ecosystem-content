@@ -31,7 +31,7 @@
     "Maintainer": "Ludwig Geistlinger <ludwig.geistlinger@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "EnrichmentBrowser",
-    "Rank": 283,
+    "Rank": 297,
     "Rfiles": [
         "vignettes/EnrichmentBrowser/inst/doc/EnrichmentBrowser.R"
     ],
@@ -87,7 +87,6 @@
     "suggestsMe": [
         "GenomicSuperSignature",
         "bugphyzz",
-        "epiregulon.extra",
         "roastgsa"
     ],
     "vignetteTitles": [

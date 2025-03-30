@@ -29,7 +29,7 @@
     "Maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
     "NeedsCompilation": "no",
     "Package": "CytoMDS",
-    "Rank": 2213,
+    "Rank": 2179,
     "Rfiles": [
         "vignettes/CytoMDS/inst/doc/CytoMDS.R"
     ],
@@ -54,7 +54,7 @@
         "Software",
         "Visualization"
     ],
-    "dependencyCount": "192",
+    "dependencyCount": "195",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "66f50ab",
     "git_last_commit_date": "2024-10-29",

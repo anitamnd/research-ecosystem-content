@@ -1,5 +1,4 @@
 {
-    "Archs": "x64",
     "Author": "Muhammad Ahmer Jamil with Contribution of Prof. Holger Frohlich and Priv.-Doz. Dr. Osman El-Maarri",
     "Date/Publication": "2024-10-29",
     "Depends": [
@@ -21,7 +20,7 @@
     "Maintainer": "Muhammad Ahmer Jamil <engr.ahmerjamil@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "MethTargetedNGS",
-    "Rank": 1697,
+    "Rank": 1393,
     "Rfiles": [
         "vignettes/MethTargetedNGS/inst/doc/MethTargetedNGS.R"
     ],

@@ -95,6 +95,8 @@
         "GenomicScores",
         "LoomExperiment",
         "MOFA2",
+        "Macarron",
+        "MethReg",
         "MuData",
         "MultiAssayExperiment",
         "NetActivity",

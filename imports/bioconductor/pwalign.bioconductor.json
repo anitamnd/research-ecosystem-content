@@ -27,7 +27,7 @@
     "Maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "NeedsCompilation": "yes",
     "Package": "pwalign",
-    "Rank": 111,
+    "Rank": 87,
     "Rfiles": [
         "vignettes/pwalign/inst/doc/PairwiseAlignments.R"
     ],
@@ -64,6 +64,7 @@
     "hasNEWS": true,
     "hasREADME": false,
     "importsMe": [
+        "AntibodyForests",
         "CNEr",
         "ChIPpeakAnno",
         "ClustIRR",
@@ -82,7 +83,6 @@
         "enhancerHomologSearch",
         "ggseqalign",
         "girafe",
-        "kmeRs",
         "methylscaper",
         "motifbreakR",
         "openPrimeR",
@@ -97,6 +97,7 @@
         "Biostrings",
         "RSVSim",
         "dowser",
+        "geneviewer",
         "idpr",
         "msa",
         "seqtrie"

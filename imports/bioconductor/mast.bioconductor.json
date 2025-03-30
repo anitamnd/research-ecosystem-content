@@ -32,7 +32,7 @@
     "Maintainer": "Andrew McDavid <Andrew_McDavid@urmc.rochester.edu>",
     "NeedsCompilation": "no",
     "Package": "MAST",
-    "Rank": 141,
+    "Rank": 146,
     "Rfiles": [
         "vignettes/MAST/inst/doc/MAITAnalysis.R",
         "vignettes/MAST/inst/doc/MAST-Intro.R",
@@ -90,6 +90,7 @@
     "hasREADME": false,
     "importsMe": [
         "DWLS",
+        "benchdamic",
         "celaref",
         "singleCellTK"
     ],
@@ -99,6 +100,7 @@
         "EWCE",
         "MARVEL",
         "Seurat",
+        "SeuratExplorer",
         "clusterExperiment"
     ],
     "vignetteTitles": [

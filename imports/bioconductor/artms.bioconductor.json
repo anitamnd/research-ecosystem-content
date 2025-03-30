@@ -45,7 +45,7 @@
     "Maintainer": "David Jimenez-Morales <biodavidjm@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "artMS",
-    "Rank": 1155,
+    "Rank": 1192,
     "Rfiles": [
         "vignettes/artMS/inst/doc/artMS_vignette.R"
     ],
@@ -80,7 +80,7 @@
         "Software",
         "SystemsBiology"
     ],
-    "dependencyCount": "146",
+    "dependencyCount": "149",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "1f43032",
     "git_last_commit_date": "2024-10-29",

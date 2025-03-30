@@ -37,7 +37,7 @@
     "Maintainer": "Jens Georg <jens.georg@biologie.uni-freiburg.de>",
     "NeedsCompilation": "no",
     "Package": "rifi",
-    "Rank": 1971,
+    "Rank": 2017,
     "Rfiles": [
         "vignettes/rifi/inst/doc/vignette.R"
     ],
@@ -60,7 +60,7 @@
         "Software",
         "Transcriptomics"
     ],
-    "dependencyCount": "123",
+    "dependencyCount": "126",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "3101e35",
     "git_last_commit_date": "2024-10-29",

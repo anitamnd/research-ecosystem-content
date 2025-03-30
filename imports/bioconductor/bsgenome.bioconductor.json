@@ -27,7 +27,7 @@
     "Maintainer": "Hervé Pagès <hpages.on.github@gmail.com>",
     "NeedsCompilation": "no",
     "Package": "BSgenome",
-    "Rank": 44,
+    "Rank": 47,
     "Rfiles": [
         "vignettes/BSgenome/inst/doc/GenomeSearching.R"
     ],
@@ -331,7 +331,6 @@
         "IsoformSwitchAnalyzeR",
         "MADSEQ",
         "MMDiff2",
-        "MOCHA",
         "MafDb.1Kgenomes.phase1.GRCh38",
         "MafDb.1Kgenomes.phase1.hs37d5",
         "MafDb.1Kgenomes.phase3.GRCh38",

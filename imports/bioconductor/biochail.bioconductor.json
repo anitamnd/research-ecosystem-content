@@ -19,7 +19,7 @@
     "License": "Artistic-2.0",
     "Maintainer": "Vincent Carey <stvjc@channing.harvard.edu>",
     "Package": "BiocHail",
-    "Rank": 2180,
+    "Rank": 2227,
     "Suggests": [
         "BiocStyle",
         "DT",
@@ -29,7 +29,7 @@
     ],
     "Title": "basilisk and hail",
     "URL": "https://github.com/vjcitn/BiocHail",
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "VignetteBuilder": "knitr",
     "biocViews": [
         "Infrastructure",

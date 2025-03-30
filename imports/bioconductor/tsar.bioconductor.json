@@ -29,7 +29,7 @@
     "Maintainer": "Xinlin Gao <candygao2015@outlook.com>",
     "NeedsCompilation": "no",
     "Package": "TSAR",
-    "Rank": 2163,
+    "Rank": 2167,
     "Rfiles": [
         "vignettes/TSAR/inst/doc/FAQ_assistance.R",
         "vignettes/TSAR/inst/doc/TSAR_Package_Structure.R",
@@ -50,7 +50,7 @@
         "Visualization",
         "qPCR"
     ],
-    "dependencyCount": "128",
+    "dependencyCount": "131",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "5d98ac1",
     "git_last_commit_date": "2024-10-29",

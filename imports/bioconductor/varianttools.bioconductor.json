@@ -1,5 +1,4 @@
 {
-    "Archs": "x64",
     "Author": "Michael Lawrence, Jeremiah Degenhardt, Robert Gentleman",
     "Date/Publication": "2024-10-29",
     "Depends": [
@@ -29,7 +28,7 @@
     "Maintainer": "Michael Lawrence <michafla@gene.com>",
     "NeedsCompilation": "no",
     "Package": "VariantTools",
-    "Rank": 608,
+    "Rank": 630,
     "Rfiles": [
         "vignettes/VariantTools/inst/doc/VariantTools.R"
     ],

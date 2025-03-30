@@ -57,7 +57,7 @@
     "Maintainer": "Nuno Saraiva-Agostinho <nunodanielagostinho@gmail.com>",
     "NeedsCompilation": "yes",
     "Package": "psichomics",
-    "Rank": 1256,
+    "Rank": 1352,
     "Rfiles": [
         "vignettes/psichomics/inst/doc/AS_events_preparation.R",
         "vignettes/psichomics/inst/doc/CLI_tutorial.R",
@@ -98,7 +98,7 @@
         "Transcriptomics",
         "Visualization"
     ],
-    "dependencyCount": "210",
+    "dependencyCount": "209",
     "git_branch": "RELEASE_3_20",
     "git_last_commit": "e9a5f73",
     "git_last_commit_date": "2024-10-29",
@@ -108,6 +108,7 @@
     "hasNEWS": true,
     "hasREADME": false,
     "mac.binary.big-sur-arm64.ver": "bin/macosx/big-sur-arm64/contrib/4.4/psichomics_1.32.0.tgz",
+    "mac.binary.big-sur-x86_64.ver": "bin/macosx/big-sur-x86_64/contrib/4.4/psichomics_1.32.0.tgz",
     "source.ver": "src/contrib/psichomics_1.32.0.tar.gz",
     "vignetteTitles": [
         "Case study: command-line interface (CLI) tutorial",
