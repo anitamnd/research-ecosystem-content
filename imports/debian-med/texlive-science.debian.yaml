@@ -2,12 +2,12 @@ package: texlive-science
 distribution: debian
 release: sid
 component: main
-version: '2024.20241115'
+version: '2024.20250309'
 source: texlive-extra
 homepage: http://www.tug.org/texlive/
 license: unknown
 blend: debian-med
-description_md5: 12580a4625130622e49022b717705383
+description_md5: 11b7d0244a92f54486d14de1ffe7109f
 tags:
 - tag: field::TODO
 - tag: field::biology
@@ -23,8 +23,8 @@ tags:
 - tag: works-with::graphs
 - tag: works-with::text
 popcon:
-- insts: 8613
-  nofiles: 5
-  olde: 5453
-  recent: 895
-  vote: 2260
+- insts: 8812
+  nofiles: 3
+  olde: 5004
+  recent: 953
+  vote: 2852

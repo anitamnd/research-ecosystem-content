@@ -34,10 +34,10 @@ tags:
 - tag: use::comparing
 - tag: works-with-format::plaintext
 popcon:
-- insts: 581
-  olde: 558
+- insts: 519
+  olde: 495
   recent: 14
-  vote: 9
+  vote: 10
 descr:
 - package: dialign
   description: 分段多重序列比对

@@ -20,9 +20,9 @@ bib:
   rank: 1
   value: 10.1093/bioinformatics/btr527
 popcon:
-- insts: 6
-  olde: 5
-  recent: 1
+- insts: 4
+  olde: 3
+  vote: 1
 descr:
 - package: python3-seqcluster
   description: analysis of small RNA in NGS data

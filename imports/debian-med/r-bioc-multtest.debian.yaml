@@ -2,17 +2,17 @@ package: r-bioc-multtest
 distribution: debian
 release: sid
 component: main
-version: 2.60.0
+version: 2.62.0
 source: r-bioc-multtest
 homepage: https://bioconductor.org/packages/multtest/
 license: unknown
 blend: debian-med
 description_md5: c4112391aa6882e8925f94048452c84f
 popcon:
-- insts: 67
-  olde: 61
-  recent: 1
-  vote: 5
+- insts: 73
+  olde: 54
+  recent: 13
+  vote: 6
 descr:
 - package: r-bioc-multtest
   description: Bioconductor resampling-based multiple hypothesis testing

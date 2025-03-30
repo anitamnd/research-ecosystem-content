@@ -2,7 +2,7 @@ package: diamond-aligner
 distribution: debian
 release: sid
 component: main
-version: 2.1.9
+version: 2.1.11
 source: diamond-aligner
 homepage: https://github.com/bbuchfink/diamond
 license: unknown
@@ -21,10 +21,10 @@ bib:
 - key: doi
   value: 10.1038/nmeth.3176
 popcon:
-- insts: 58
-  olde: 51
-  recent: 4
-  vote: 3
+- insts: 66
+  olde: 44
+  recent: 18
+  vote: 4
 descr:
 - package: diamond-aligner
   description: allineatore di sequenze locali accelerato compatibile con BLAST

@@ -15,9 +15,9 @@ bib:
 - key: doi
   value: https://doi.org/10.7717/peerj.1165
 popcon:
-- insts: 32
-  olde: 30
-  recent: 1
+- insts: 35
+  olde: 25
+  recent: 9
   vote: 1
 descr:
 - package: metabat

@@ -2,7 +2,7 @@ package: python3-mne
 distribution: debian
 release: sid
 component: main
-version: 1.8.0
+version: 1.9.0
 source: python-mne
 homepage: https://martinos.org/mne
 license: unknown
@@ -10,9 +10,9 @@ blend: debian-med
 description_md5: 71529dec1903b376b2a8e21e9f88f8bf
 popcon:
 - insts: 17
-  olde: 15
+  olde: 12
   recent: 1
-  vote: 1
+  vote: 4
 descr:
 - package: python3-mne
   description: moduli Python per analisi di dati MEG e EEG

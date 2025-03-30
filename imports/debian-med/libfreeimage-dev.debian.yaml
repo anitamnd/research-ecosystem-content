@@ -12,11 +12,11 @@ tags:
 - tag: devel::library
 - tag: role::devel-lib
 popcon:
-- insts: 1116
+- insts: 1161
   nofiles: 1
-  olde: 879
-  recent: 197
-  vote: 39
+  olde: 1057
+  recent: 56
+  vote: 47
 descr:
 - package: libfreeimage-dev
   description: libreria di supporto per i formati di immagini grafiche (file di sviluppo)

@@ -19,10 +19,9 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btr011
 popcon:
-- insts: 41
-  olde: 36
-  recent: 2
-  vote: 3
+- insts: 51
+  olde: 39
+  recent: 12
 descr:
 - package: jellyfish1
   description: conta i k-meri in sequenze di DNA

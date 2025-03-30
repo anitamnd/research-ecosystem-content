@@ -2,7 +2,7 @@ package: r-bioc-shortread
 distribution: debian
 release: sid
 component: main
-version: 1.62.0
+version: 1.64.0
 source: r-bioc-shortread
 homepage: https://bioconductor.org/packages/ShortRead/
 license: unknown
@@ -21,9 +21,10 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btp450
 popcon:
-- insts: 163
-  olde: 152
-  vote: 11
+- insts: 182
+  olde: 161
+  recent: 8
+  vote: 13
 descr:
 - package: r-bioc-shortread
   description: classi e metodi GNU R per grosse moli di dati di sequenziamento short-read

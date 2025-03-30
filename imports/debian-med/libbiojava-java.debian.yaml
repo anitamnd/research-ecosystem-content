@@ -23,11 +23,11 @@ tags:
 - tag: field::biology:bioinformatics
 - tag: role::devel-lib
 popcon:
-- insts: 67
-  nofiles: 6
+- insts: 74
+  nofiles: 5
   olde: 52
-  recent: 2
-  vote: 7
+  recent: 9
+  vote: 8
 descr:
 - package: libbiojava-java
   description: API Java per applicazioni e dati biologici (versione predefinita)

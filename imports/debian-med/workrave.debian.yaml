@@ -2,7 +2,7 @@ package: workrave
 distribution: debian
 release: sid
 component: main
-version: 1.10.52
+version: 1.10.53
 source: workrave
 homepage: https://workrave.org/
 license: unknown
@@ -21,10 +21,10 @@ tags:
 - tag: x11::applet
 - tag: x11::application
 popcon:
-- insts: 635
-  olde: 440
-  recent: 27
-  vote: 168
+- insts: 578
+  olde: 363
+  recent: 10
+  vote: 205
 descr:
 - package: workrave
   description: 반복성 긴장 부상 예방 도구

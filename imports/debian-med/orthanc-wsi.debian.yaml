@@ -2,7 +2,7 @@ package: orthanc-wsi
 distribution: debian
 release: sid
 component: main
-version: '3.0'
+version: '3.1'
 source: orthanc-wsi
 homepage: https://orthanc.uclouvain.be/book/plugins/wsi.html
 license: unknown
@@ -12,9 +12,9 @@ bib:
 - key: doi
   value: 10.1007/s10278-018-0082-y
 popcon:
-- insts: 89
-  olde: 20
-  recent: 1
+- insts: 91
+  olde: 18
+  recent: 5
   vote: 68
 descr:
 - package: orthanc-wsi

@@ -17,10 +17,9 @@ tags:
 - tag: scope::utility
 - tag: use::analysing
 popcon:
-- insts: 36
-  olde: 34
-  recent: 1
-  vote: 1
+- insts: 41
+  olde: 32
+  recent: 9
 descr:
 - package: embassy-domsearch
   description: comandi EMBOSS extra per cercare domini proteici

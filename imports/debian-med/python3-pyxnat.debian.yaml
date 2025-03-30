@@ -2,16 +2,17 @@ package: python3-pyxnat
 distribution: debian
 release: sid
 component: main
-version: 1.6.2
+version: 1.6.3
 source: pyxnat
 homepage: https://github.com/pyxnat/pyxnat
 license: unknown
 blend: debian-med
 description_md5: 6700018ec37482ecde5982ae291df5e9
 popcon:
-- insts: 33
-  olde: 28
+- insts: 34
+  olde: 26
   recent: 5
+  vote: 3
 descr:
 - package: python3-pyxnat
   description: interfaccia per accedere a dati di neuroimmagini su server XNAT

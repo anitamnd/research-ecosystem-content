@@ -29,8 +29,8 @@ tags:
 popcon:
 - insts: 155
   nofiles: 1
-  olde: 134
-  recent: 10
+  olde: 132
+  recent: 12
   vote: 10
 descr:
 - package: infernal

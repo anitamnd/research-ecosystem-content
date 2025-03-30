@@ -24,10 +24,10 @@ tags:
 - tag: role::program
 - tag: scope::utility
 popcon:
-- insts: 39
+- insts: 47
   nofiles: 1
   olde: 35
-  recent: 1
+  recent: 9
   vote: 2
 descr:
 - package: chimeraslayer

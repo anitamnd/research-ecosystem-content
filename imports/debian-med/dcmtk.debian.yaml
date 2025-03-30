@@ -2,7 +2,7 @@ package: dcmtk
 distribution: debian
 release: sid
 component: main
-version: 3.6.8
+version: 3.6.9
 source: dcmtk
 homepage: https://dicom.offis.de/dcmtk
 license: unknown
@@ -21,9 +21,9 @@ tags:
 - tag: works-with::image
 - tag: works-with::image:raster
 popcon:
-- insts: 909
-  olde: 779
-  recent: 34
+- insts: 944
+  olde: 474
+  recent: 374
   vote: 96
 descr:
 - package: dcmtk

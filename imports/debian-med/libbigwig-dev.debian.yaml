@@ -12,8 +12,9 @@ registries:
 - entry: libbigwig
   name: conda:bioconda
 popcon:
-- insts: 11
+- insts: 16
   olde: 11
+  recent: 5
 descr:
 - package: libbigwig-dev
   description: libreria C per gestire file bigWig - file header

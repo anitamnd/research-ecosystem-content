@@ -19,10 +19,10 @@ tags:
 - tag: implemented-in::c
 - tag: role::program
 popcon:
-- insts: 207
-  olde: 191
-  recent: 5
-  vote: 11
+- insts: 214
+  olde: 184
+  recent: 20
+  vote: 10
 descr:
 - package: mcl
   description: 마르코프 클러스터 알고리즘

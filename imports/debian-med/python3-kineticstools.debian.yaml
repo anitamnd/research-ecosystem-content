@@ -12,9 +12,10 @@ registries:
 - entry: OMICS_18309
   name: OMICtools
 popcon:
-- insts: 27
-  olde: 24
-  recent: 3
+- insts: 31
+  olde: 20
+  recent: 10
+  vote: 1
 descr:
 - package: python3-kineticstools
   description: rilevazione di modifiche al DNA (libreria Python 3)

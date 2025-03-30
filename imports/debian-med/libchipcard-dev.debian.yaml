@@ -14,8 +14,9 @@ tags:
 - tag: implemented-in::c
 - tag: role::devel-lib
 popcon:
-- insts: 6
-  olde: 5
+- insts: 8
+  olde: 6
+  recent: 1
   vote: 1
 descr:
 - package: libchipcard-dev

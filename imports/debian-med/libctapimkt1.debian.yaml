@@ -13,8 +13,7 @@ tags:
 popcon:
 - insts: 9
   nofiles: 6
-  olde: 1
-  recent: 1
+  olde: 2
   vote: 1
 descr:
 - package: libctapimkt1

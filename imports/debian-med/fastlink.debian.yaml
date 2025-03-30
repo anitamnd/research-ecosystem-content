@@ -25,9 +25,9 @@ tags:
 - tag: works-with-format::TODO
 - tag: works-with::TODO
 popcon:
-- insts: 39
-  olde: 37
-  recent: 1
+- insts: 45
+  olde: 35
+  recent: 9
   vote: 1
 descr:
 - package: fastlink

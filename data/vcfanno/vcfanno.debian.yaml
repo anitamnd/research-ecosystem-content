@@ -19,9 +19,9 @@ bib:
 - key: doi
   value: 10.1186/s13059-016-0973-5
 popcon:
-- insts: 37
-  olde: 34
-  recent: 2
+- insts: 41
+  olde: 26
+  recent: 14
   vote: 1
 descr:
 - package: vcfanno

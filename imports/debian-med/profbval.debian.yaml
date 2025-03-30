@@ -12,9 +12,9 @@ registries:
 - entry: OMICS_09791
   name: OMICtools
 popcon:
-- insts: 38
-  olde: 36
-  recent: 1
+- insts: 45
+  olde: 35
+  recent: 9
   vote: 1
 descr:
 - package: profbval

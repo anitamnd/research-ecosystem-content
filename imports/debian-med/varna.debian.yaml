@@ -17,11 +17,11 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btp250
 popcon:
-- insts: 42
-  nofiles: 3
-  olde: 34
-  recent: 2
-  vote: 3
+- insts: 50
+  nofiles: 2
+  olde: 35
+  recent: 12
+  vote: 1
 descr:
 - package: varna
   description: applet per visualizzazione di RNA

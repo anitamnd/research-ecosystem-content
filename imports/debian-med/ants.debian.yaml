@@ -2,7 +2,7 @@ package: ants
 distribution: debian
 release: sid
 component: main
-version: 2.4.3
+version: 2.5.4
 source: ants
 homepage: http://www.picsl.upenn.edu/ANTS/
 license: unknown
@@ -20,10 +20,10 @@ tags:
 - tag: works-with::image
 - tag: works-with::image:raster
 popcon:
-- insts: 29
-  olde: 18
-  recent: 10
-  vote: 1
+- insts: 36
+  olde: 32
+  recent: 2
+  vote: 2
 descr:
 - package: ants
   description: strumento avanzato di normalizzazione per analisi mentali e di immagini

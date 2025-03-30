@@ -2,7 +2,7 @@ package: r-cran-corrplot
 distribution: debian
 release: sid
 component: main
-version: '0.94'
+version: '0.95'
 source: r-cran-corrplot
 homepage: https://cran.r-project.org/package=corrplot
 license: unknown
@@ -12,11 +12,11 @@ registries:
 - entry: r-corrplot
   name: conda:conda-forge
 popcon:
-- insts: 303
-  nofiles: 2
-  olde: 250
-  recent: 17
-  vote: 34
+- insts: 337
+  nofiles: 1
+  olde: 240
+  recent: 36
+  vote: 60
 descr:
 - package: r-cran-corrplot
   description: visualisation d’une matrice de corrélation

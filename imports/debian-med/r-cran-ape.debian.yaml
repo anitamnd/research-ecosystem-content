@@ -2,7 +2,7 @@ package: r-cran-ape
 distribution: debian
 release: sid
 component: main
-version: '5.8'
+version: 5.8-1
 source: r-cran-ape
 homepage: https://cran.r-project.org/package=ape
 license: unknown
@@ -23,11 +23,10 @@ bib:
   rank: 8
   value: 10.1093/bioinformatics/bts184
 popcon:
-- insts: 441
-  nofiles: 1
-  olde: 374
-  recent: 22
-  vote: 44
+- insts: 489
+  olde: 331
+  recent: 87
+  vote: 71
 descr:
 - package: r-cran-ape
   description: pacchetto GNU R per analisi su filogenesi ed evoluzione

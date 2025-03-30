@@ -2,7 +2,7 @@ package: orthanc-python
 distribution: debian
 release: sid
 component: main
-version: 4.3+ds
+version: 5.0+ds
 source: orthanc-python
 homepage: https://orthanc.uclouvain.be/book/plugins/python.html
 license: unknown
@@ -12,9 +12,9 @@ bib:
 - key: doi
   value: 10.1007/s10278-018-0082-y
 popcon:
-- insts: 8
+- insts: 10
   olde: 1
-  vote: 7
+  vote: 9
 descr:
 - package: orthanc-python
   description: sviluppo di plugin per Orthanc usando il linguaggio di programmazione

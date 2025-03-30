@@ -20,9 +20,9 @@ bib:
   rank: 1
   value: 10.1093/bioinformatics/btu280
 popcon:
-- insts: 30
-  olde: 28
-  recent: 1
+- insts: 34
+  olde: 24
+  recent: 9
   vote: 1
 descr:
 - package: ragout

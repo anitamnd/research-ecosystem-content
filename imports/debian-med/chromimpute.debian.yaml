@@ -15,9 +15,9 @@ bib:
 - key: doi
   value: 10.1038/nbt.3157
 popcon:
-- insts: 49
-  olde: 47
-  recent: 1
+- insts: 52
+  olde: 42
+  recent: 9
   vote: 1
 descr:
 - package: chromimpute

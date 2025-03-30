@@ -32,9 +32,9 @@ tags:
 - tag: use::comparing
 - tag: works-with-format::plaintext
 popcon:
-- insts: 38
-  olde: 33
-  recent: 1
+- insts: 41
+  olde: 28
+  recent: 9
   vote: 4
 descr:
 - package: theseus

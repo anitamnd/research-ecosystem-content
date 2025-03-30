@@ -2,7 +2,7 @@ package: python3-py2bit
 distribution: debian
 release: sid
 component: main
-version: 0.3.2
+version: 0.3.3
 source: python-py2bit
 homepage: https://github.com/deeptools/py2bit/
 license: unknown
@@ -12,10 +12,10 @@ registries:
 - entry: py2bit
   name: conda:bioconda
 popcon:
-- insts: 38
-  olde: 34
-  recent: 1
-  vote: 3
+- insts: 49
+  olde: 32
+  recent: 12
+  vote: 5
 descr:
 - package: python3-py2bit
   description: access to 2bit files

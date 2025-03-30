@@ -2,18 +2,17 @@ package: r-cran-psychotree
 distribution: debian
 release: sid
 component: main
-version: 0.16-0
+version: 0.16-1
 source: r-cran-psychotree
 homepage: https://cran.r-project.org/package=psychotree
 license: unknown
 blend: debian-med
 description_md5: e1c7df461c53929a2d8ff035530ad354
 popcon:
-- insts: 204
-  nofiles: 1
-  olde: 163
-  recent: 17
-  vote: 23
+- insts: 243
+  olde: 161
+  recent: 41
+  vote: 41
 descr:
 - package: r-cran-psychotree
   description: GNU R recursive partitioning based on psychometric models

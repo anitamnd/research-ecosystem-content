@@ -17,9 +17,9 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/bty191
 popcon:
-- insts: 140
-  olde: 130
-  recent: 4
+- insts: 155
+  olde: 132
+  recent: 17
   vote: 6
 descr:
 - package: minimap2

@@ -16,10 +16,10 @@ registries:
 - entry: bioconductor-savr
   name: conda:bioconda
 popcon:
-- insts: 45
-  olde: 43
-  recent: 1
-  vote: 1
+- insts: 52
+  olde: 39
+  recent: 11
+  vote: 2
 descr:
 - package: r-bioc-savr
   description: analisi di file SAV di Illumina per GNU R

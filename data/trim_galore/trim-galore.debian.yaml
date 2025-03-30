@@ -18,10 +18,10 @@ registries:
 - entry: trim-galore
   name: guix
 popcon:
-- insts: 112
-  olde: 106
-  recent: 1
-  vote: 5
+- insts: 133
+  olde: 118
+  recent: 11
+  vote: 4
 descr:
 - package: trim-galore
   description: automate quality and adapter trimming for DNA sequencing

@@ -2,7 +2,7 @@ package: subread
 distribution: debian
 release: sid
 component: main
-version: 2.0.7
+version: 2.0.8
 source: subread
 homepage: http://sourceforge.net/projects/subread/
 license: unknown
@@ -30,10 +30,10 @@ bib:
   rank: 3
   value: 10.1186/s12859-022-04644-8
 popcon:
-- insts: 131
-  olde: 121
-  recent: 2
-  vote: 8
+- insts: 153
+  olde: 129
+  recent: 18
+  vote: 6
 descr:
 - package: subread
   description: toolkit per elaborare dati di sequenziamento di nuova generazione

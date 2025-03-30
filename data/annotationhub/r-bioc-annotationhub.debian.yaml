@@ -2,7 +2,7 @@ package: r-bioc-annotationhub
 distribution: debian
 release: sid
 component: main
-version: 3.12.0
+version: 3.14.0
 source: r-bioc-annotationhub
 homepage: https://bioconductor.org/packages/AnnotationHub/
 license: unknown
@@ -14,9 +14,10 @@ registries:
 - entry: annotationhub
   name: bio.tools
 popcon:
-- insts: 115
-  olde: 107
-  vote: 8
+- insts: 133
+  olde: 116
+  recent: 8
+  vote: 9
 descr:
 - package: r-bioc-annotationhub
   description: client GNU R per accedere a risorse AnnotationHug

@@ -28,11 +28,10 @@ tags:
 - tag: works-with::image
 - tag: works-with::image:raster
 popcon:
-- insts: 812
-  nofiles: 1
-  olde: 723
-  recent: 17
-  vote: 71
+- insts: 917
+  olde: 763
+  recent: 63
+  vote: 91
 descr:
 - package: imagej
   description: programma di elaborazione delle immagini pensato per immagini di microscopia

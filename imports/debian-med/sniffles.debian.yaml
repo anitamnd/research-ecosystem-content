@@ -2,7 +2,7 @@ package: sniffles
 distribution: debian
 release: sid
 component: main
-version: '2.2'
+version: 2.6.0
 source: sniffles
 homepage: https://github.com/fritzsedlazeck/Sniffles
 license: unknown
@@ -19,9 +19,9 @@ bib:
 - key: doi
   value: 10.1101/169557
 popcon:
-- insts: 33
-  olde: 30
-  recent: 2
+- insts: 39
+  olde: 26
+  recent: 12
   vote: 1
 descr:
 - package: sniffles

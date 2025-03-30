@@ -30,10 +30,9 @@ tags:
 - tag: role::program
 - tag: use::analysing
 popcon:
-- insts: 128
-  olde: 125
-  recent: 1
-  vote: 2
+- insts: 135
+  olde: 116
+  recent: 19
 descr:
 - package: gmap
   description: allineamento tollerante agli SNP e con splicing per mRNA e letture

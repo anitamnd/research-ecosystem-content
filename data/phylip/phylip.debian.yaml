@@ -29,10 +29,10 @@ tags:
 - tag: works-with-format::plaintext
 - tag: works-with::TODO
 popcon:
-- insts: 529
-  olde: 504
-  recent: 9
-  vote: 16
+- insts: 466
+  olde: 430
+  recent: 12
+  vote: 24
 descr:
 - package: phylip
   description: pacchetto di programmi per inferire alberi filogenetici

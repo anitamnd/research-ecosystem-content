@@ -22,10 +22,10 @@ tags:
 - tag: works-with::image
 - tag: works-with::image:raster
 popcon:
-- insts: 170
-  olde: 139
-  recent: 3
-  vote: 28
+- insts: 177
+  olde: 127
+  recent: 26
+  vote: 24
 descr:
 - package: libgdcm-tools
   description: strumenti e utilità per Grassroots DiCoM

@@ -14,10 +14,10 @@ registries:
 - entry: r-sdmtools
   name: conda:conda-forge
 popcon:
-- insts: 54
-  olde: 51
-  recent: 1
-  vote: 2
+- insts: 64
+  olde: 50
+  recent: 10
+  vote: 4
 descr:
 - package: r-cran-sdmtools
   description: Species Distribution Modelling Tools

@@ -93,11 +93,11 @@ tags:
 - tag: use::comparing
 - tag: works-with::biological-sequence
 popcon:
-- insts: 248
+- insts: 277
   nofiles: 1
-  olde: 206
+  olde: 234
   recent: 14
-  vote: 27
+  vote: 28
 descr:
 - package: bowtie
   description: 초고속 메모리 효율적인 짧은 읽기 정렬기

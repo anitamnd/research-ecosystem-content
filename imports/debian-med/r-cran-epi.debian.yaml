@@ -2,7 +2,7 @@ package: r-cran-epi
 distribution: debian
 release: sid
 component: main
-version: '2.53'
+version: '2.59'
 source: r-cran-epi
 homepage: https://cran.r-project.org/package=Epi
 license: unknown
@@ -14,11 +14,10 @@ tags:
 - tag: interface::commandline
 - tag: role::program
 popcon:
-- insts: 246
-  nofiles: 1
-  olde: 206
-  recent: 16
-  vote: 23
+- insts: 270
+  olde: 188
+  recent: 41
+  vote: 41
 descr:
 - package: r-cran-epi
   description: 'GNU R: epidemiologische Analyse'

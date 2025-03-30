@@ -23,10 +23,9 @@ tags:
 - tag: works-with-format::plaintext
 - tag: works-with::TODO
 popcon:
-- insts: 36
-  olde: 34
-  recent: 1
-  vote: 1
+- insts: 41
+  olde: 32
+  recent: 9
 descr:
 - package: embassy-domalign
   description: comandi EMBOSS extra per allineamento di domini di proteine

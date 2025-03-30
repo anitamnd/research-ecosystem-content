@@ -2,18 +2,18 @@ package: r-cran-ade4
 distribution: debian
 release: sid
 component: main
-version: 1.7-22
+version: 1.7-23
 source: r-cran-ade4
 homepage: https://cran.r-project.org/package=ade4
 license: unknown
 blend: debian-med
 description_md5: bb6c17aa8dd9d04d751d65dcd0dc0c03
 popcon:
-- insts: 121
+- insts: 305
   nofiles: 2
-  olde: 106
-  recent: 3
-  vote: 10
+  olde: 180
+  recent: 66
+  vote: 57
 descr:
 - package: r-cran-ade4
   description: GNU R 環境データ解析

@@ -19,9 +19,9 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/bty630
 popcon:
-- insts: 26
-  olde: 24
-  recent: 1
+- insts: 31
+  olde: 21
+  recent: 9
   vote: 1
 descr:
 - package: insilicoseq
