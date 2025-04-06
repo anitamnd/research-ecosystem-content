@@ -28,7 +28,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://projects.pages.mia.inra.fr/auth?domain=http://mulcyber.toulouse.inra.fr&state=soLNPJp2F_PHOqJXCOvaVg=="
+                        "url": "https://projects.pages.mia.inra.fr/auth?domain=http://mulcyber.toulouse.inra.fr&state=9M-CL0R-47KMksY9eqHX5w=="
                     }
                 ],
                 "ssl": true,
@@ -57,7 +57,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "https://projects.pages.mia.inra.fr/auth?domain=http://mulcyber.toulouse.inra.fr&state=WQJTAn9QCbQDIQwhOqb2XA=="
+                        "url": "https://projects.pages.mia.inra.fr/auth?domain=http://mulcyber.toulouse.inra.fr&state=SYSK0Z3pNSzVLQsOs6EFhg=="
                     }
                 ],
                 "ssl": true,
