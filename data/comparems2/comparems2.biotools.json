@@ -3,7 +3,7 @@
     "biotoolsCURIE": "biotools:comparems2",
     "biotoolsID": "comparems2",
     "collectionID": [
-        "Proteomics",
+        "Proteomics"
     ],
     "cost": "Free of charge",
     "credit": [
@@ -48,7 +48,6 @@
         },
         {
             "type": [
-                "Command-line options",
                 "General",
                 "Installation instructions",
                 "User manual"
