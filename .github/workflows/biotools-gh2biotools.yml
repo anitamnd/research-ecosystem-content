@@ -54,7 +54,6 @@ jobs:
 
 
       - name: Checkout utils repo
-        if: steps.check_changes.outputs.changed == 'true' && steps.check_author.outputs.allowed == 'true'
         uses: actions/checkout@v3
         with:
           repository: anitamnd/research-software-ecosystem-utils
@@ -69,5 +68,7 @@ jobs:
 
       - name: Run gh2biotools.py script on changed files
         if: steps.check_changes.outputs.changed == 'true' && steps.check_author.outputs.allowed == 'true'
+        env:
+          BIOTOOLS_API_TOKEN: ${{ secrets.BIOTOOLS_API_TOKEN }}
         run: |
-          python external-utils/scripts/runbiotools/gh2biotools.py --files ${{ steps.changed_files.outputs.files }}
+          python external-utils/scripts/runbiotools/gh2biotools.py --token ${{ steps.check_changes.outputs.files }} --files ${{ steps.changed_files.outputs.files }}
