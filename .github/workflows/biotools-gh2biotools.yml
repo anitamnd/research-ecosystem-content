@@ -5,7 +5,7 @@ on:
     branches:
       - 'develop'
     paths:
-      - 'content/data/**/**/*.biotools.json'
+      - 'data/**/**/*.biotools.json'
 
 jobs:
   run-gh2biotools:
