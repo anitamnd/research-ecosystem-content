@@ -163,7 +163,8 @@
     "homepage": "https://github.com/524D/compareMS2",
     "language": [
         "C",
-        "JavaScript"
+        "JavaScript",
+        "Rust"
     ],
     "lastUpdate": "2025-02-28T16:15:29.918624Z",
     "license": "MIT",
