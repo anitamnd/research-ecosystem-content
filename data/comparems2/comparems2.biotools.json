@@ -1,5 +1,5 @@
 {
-    "additionDate": "2016-04-15T11:52:42Z",
+    "additionDate": "2025-04-15T15:03:08.044477Z",    
     "biotoolsCURIE": "biotools:comparems2",
     "biotoolsID": "comparems2",
     "collectionID": [
@@ -195,7 +195,7 @@
         "Mac",
         "Windows"
     ],
-    "owner": "n.m.palmblad@lumc.nl",
+    "owner": "curation",
     "publication": [
         {
             "doi": "10.1021/acs.jproteome.1c00528",
