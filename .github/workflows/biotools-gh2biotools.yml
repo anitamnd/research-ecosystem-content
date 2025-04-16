@@ -59,6 +59,8 @@ jobs:
           repository: anitamnd/research-software-ecosystem-utils
           path: content-ecosystem-utils
 
+      - name: Debug folder structure
+        run: ls -R
 
       - name: Install dependencies
         working-directory: content-ecosystem-utils/scripts/runbiotools
