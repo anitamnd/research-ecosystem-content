@@ -41,7 +41,7 @@ jobs:
         run: |
           git diff --no-commit-id --name-only ${{ github.sha }} -r 
           
-          files=$(git diff --no-commit-id --name-only ${{ github.sha }} -r | grep './data/.*/.*\.biotools\.json$' || true)
+          files=$(git diff --no-commit-id --name-only ${{ github.sha }} | grep './data/.*/.*\.biotools\.json$' || true)
 
           if [ -z "$files" ]; then
             echo "No relevant biotools.json files changed."
