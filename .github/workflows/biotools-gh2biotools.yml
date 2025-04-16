@@ -39,7 +39,7 @@ jobs:
       - name: diff
         run: |
           echo "Changed files:"
-          git diff --no-commit-id --name-only ${{ github.sha }}
+          git diff --name-only ${{ github.sha }}
 
       - name: Check if any .biotools.json files were changed
         id: check_changes
