@@ -14,8 +14,7 @@
             "typeEntity": "Person",
             "typeRole": [
                 "Developer",
-                "Documentor",
-                "Primary contact"
+                "Documentor"
             ],
             "url": "https://github.com/magnuspalmblad"
         },
