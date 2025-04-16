@@ -15,7 +15,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
+          sparse-checkout: 'data'
+          sparse-checkout-cone-mode: false
           fetch-depth: 0
+
+      - name: Move data files to root
+        run: |
+          ls -lah
+          shopt -s dotglob
+          mv data/* .
+          rm -rf data
+          ls -lah
 
       - name: Set up Python
         uses: actions/setup-python@v4
