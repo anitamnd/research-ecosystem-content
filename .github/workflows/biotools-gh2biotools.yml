@@ -39,7 +39,7 @@ jobs:
       - name: Check if any .biotools.json files were changed
         id: check_changes
         run: |
-          files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^content/data/.*/.*\.biotools\.json$' || true)
+          files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'data/.*/.*\.biotools\.json$' || true)
 
           if [ -z "$files" ]; then
             echo "No relevant biotools.json files changed."
