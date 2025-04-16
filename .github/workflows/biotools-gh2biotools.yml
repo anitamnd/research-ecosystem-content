@@ -76,5 +76,7 @@ jobs:
 
       - name: Run gh2biotools.py script on changed files
         if: steps.check_changes.outputs.changed == 'true' && steps.check_author.outputs.allowed == 'true'
+        env:
+          BIOTOOLS_API_TOKEN: ${{ secrets.BIOTOOLS_API_TOKEN }}
         run: |
-          python content-ecosystem-utils/scripts/runbiotools/gh2biotools.py --files ${{ steps.check_changes.outputs.files }}
+          python content-ecosystem-utils/scripts/runbiotools/gh2biotools.py --token "$BIOTOOLS_API_TOKEN" --files ${{ steps.check_changes.outputs.files }}
