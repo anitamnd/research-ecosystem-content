@@ -81,4 +81,4 @@ jobs:
         env:
           BIOTOOLS_API_TOKEN: ${{ secrets.BIOTOOLS_API_TOKEN }}
         run: |
-          python content-ecosystem-utils/scripts/runbiotools/gh2biotools.py --token "$BIOTOOLS_API_TOKEN" --files ${{ steps.check_changes.outputs.files }}
+          python content-ecosystem-utils/scripts/runbiotools/gh2biotools2.py --token "$BIOTOOLS_API_TOKEN" --files ${{ steps.check_changes.outputs.files }}
