@@ -47,7 +47,7 @@ jobs:
       - name: Check if any .biotools.json files were changed
         id: check_changes
         run: |
-          files=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep '\.biotools\.json$' || true)
+          files=$(git diff-tree --no-commit-id --name-only -diff-filter=d -r ${{ github.sha }} | grep '\.biotools\.json$' || true)
 
           if [ -z "$files" ]; then
             echo "No relevant biotools.json files changed."
@@ -61,14 +61,32 @@ jobs:
           fi
 
 
+      - name: Get list of deleted files
+        id: deleted_files
+        run: |
+          deleted_files=$(git diff-tree --no-commit-id --name-only -diff-filter=D -r ${{ github.sha }} | grep '\.biotools\.json$' || true)
+
+          if [[ -n "$deleted_files" ]]; then
+            echo "deleted=true" >> $GITHUB_OUTPUT
+            echo "Deleted files: $deleted_files"
+          else
+            echo "deleted=false" >> $GITHUB_OUTPUT
+            echo "No files were deleted in this commit."
+          fi
+
+      - name: Do something if files were deleted
+        if: steps.deleted_files.outputs.deleted == 'true'
+        run: |
+          echo "Some files were deleted in this commit. Performing additional actions..."
+          # Add your actions here (e.g., send a notification, trigger another process)
+
+
       - name: Checkout utils repo
         uses: actions/checkout@v3
         with:
           repository: anitamnd/research-software-ecosystem-utils
           path: content-ecosystem-utils
 
-      - name: Debug folder structure
-        run: ls -R
 
       - name: Install dependencies
         working-directory: content-ecosystem-utils/scripts/runbiotools
@@ -76,9 +94,23 @@ jobs:
           pip3 install -r requirements.txt
 
 
-      - name: Run gh2biotools.py script on changed files
-        if: steps.check_changes.outputs.changed == 'true' && steps.check_author.outputs.allowed == 'true'
+      - name: Run gh2biotools.py script
+        if: (steps.check_changes.outputs.changed == 'true' || steps.check_deleted.outputs.deleted == 'true')  && steps.check_author.outputs.allowed == 'true'
         env:
           BIOTOOLS_API_TOKEN: ${{ secrets.BIOTOOLS_API_TOKEN }}
         run: |
-          python content-ecosystem-utils/scripts/runbiotools/gh2biotools2.py --token "$BIOTOOLS_API_TOKEN" --files ${{ steps.check_changes.outputs.files }}
+          changed_files="${{ steps.check_changes.outputs.files }}"
+          deleted_files="${{ steps.check_deleted.outputs.deleted_files }}"
+
+          command="python content-ecosystem-utils/scripts/runbiotools/gh2biotools2.py --token \"$BIOTOOLS_API_TOKEN\""
+
+          if [[ -n "$changed_files" ]]; then
+            command="$command --files \"$changed_files\""
+          fi
+
+          if [[ -n "$deleted_files" ]]; then
+            command="$command --deleted \"$deleted_files\""
+          fi
+
+          echo "Running command: $command"
+          eval "$command"
