@@ -96,7 +96,7 @@ jobs:
           changed_files="${{ steps.check_changes.outputs.files }}"
           deleted_files="${{ steps.deleted_files.outputs.deleted_files }}"
 
-          command="python content-ecosystem-utils/scripts/runbiotools/gh2biotools3.py --token \"$BIOTOOLS_API_TOKEN\""
+          command="python content-ecosystem-utils/scripts/runbiotools/gh2biotools2.py --token \"$BIOTOOLS_API_TOKEN\""
 
           if [[ -n "$changed_files" ]]; then
             command="$command --files \"$changed_files\""
