@@ -69,6 +69,7 @@ jobs:
           if [[ -n "$deleted_files" ]]; then
             echo "deleted=true" >> $GITHUB_OUTPUT
             echo "Deleted files: $deleted_files"
+            echo "deleted_files=${deleted_files}" >> $GITHUB_OUTPUT
           else
             echo "deleted=false" >> $GITHUB_OUTPUT
             echo "No files were deleted in this commit."
