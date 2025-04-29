@@ -47,7 +47,7 @@ jobs:
       - name: Check if any .biotools.json files were changed
         id: check_changes
         run: |
-          files=$(git diff-tree --no-commit-id --name-only -diff-filter=d -r ${{ github.sha }} | grep '\.biotools\.json$' || true)
+          files=$(git diff-tree --no-commit-id --name-only --diff-filter=d -r ${{ github.sha }} | grep '\.biotools\.json$' || true)
 
           if [ -z "$files" ]; then
             echo "No relevant biotools.json files changed."
@@ -64,7 +64,7 @@ jobs:
       - name: Get list of deleted files
         id: deleted_files
         run: |
-          deleted_files=$(git diff-tree --no-commit-id --name-only -diff-filter D -r ${{ github.sha }} | grep '\.biotools\.json$' || true)
+          deleted_files=$(git diff-tree --no-commit-id --name-only --diff-filter D -r ${{ github.sha }} | grep '\.biotools\.json$' || true)
 
           if [[ -n "$deleted_files" ]]; then
             echo "deleted=true" >> $GITHUB_OUTPUT
