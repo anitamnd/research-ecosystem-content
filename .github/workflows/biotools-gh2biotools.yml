@@ -108,3 +108,18 @@ jobs:
 
           echo "Running command: $command"
           eval "$command"
+
+      - name: Create GitHub Issue if tools failed
+        if: always()
+        run: |
+          if [ -f upload_failure_report.txt ]; then
+            echo "Creating issue..."
+            gh issue create \
+              --title "🚨 Failed bio.tools sync for some tools" \
+              --body "$(cat upload_failure_report.txt)" \
+              --label "automated"
+          else
+            echo "No failures detected, no issue created."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
