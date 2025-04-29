@@ -93,7 +93,7 @@ jobs:
           BIOTOOLS_API_TOKEN: ${{ secrets.BIOTOOLS_API_TOKEN }}
         run: |
           changed_files="${{ steps.check_changes.outputs.files }}"
-          deleted_files="${{ steps.check_deleted.outputs.deleted_files }}"
+          deleted_files="${{ steps.deleted_files.outputs.deleted_files }}"
 
           command="python content-ecosystem-utils/scripts/runbiotools/gh2biotools2.py --token \"$BIOTOOLS_API_TOKEN\""
 
