@@ -2,5 +2,8 @@
   "biotoolsID": "lorem_ipsum",
   "name": "Lorem Ipsum",
   "description": "Lorem iipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt turpis a elit consequat, convallis faucibus leo viverra.",
-  "homepage": "https://www.lipsum.com/feed/html"
+  "homepage": "https://www.lipsum.com/feed/html",
+  "topic": [
+    {}
+  ]
 }
