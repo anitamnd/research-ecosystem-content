@@ -46,7 +46,7 @@
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww16.interva.net/?sub1=20250412-1248-43d6-99f6-ec7ae7d74958"
+                        "url": "http://ww16.interva.net/?sub1=20250409-1300-24f7-ad6f-01426468f274"
                     }
                 ],
                 "ssl": null,
@@ -71,11 +71,11 @@
                 "copyright": false,
                 "https": false,
                 "license": false,
-                "operational": 403,
+                "operational": 302,
                 "redirects": [
                     {
                         "status": 302,
-                        "url": "http://ww16.interva.net/?sub1=20250412-1248-43a3-abbc-4cb07350b833"
+                        "url": "http://ww16.interva.net/?sub1=20250409-1300-24e8-9bef-3e8d70bd9a86"
                     }
                 ],
                 "ssl": null,
