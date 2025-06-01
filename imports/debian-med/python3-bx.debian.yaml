@@ -14,30 +14,11 @@ registries:
 - entry: bx-python
   name: conda:bioconda
 popcon:
-- insts: 23
-  olde: 15
-  recent: 7
+- insts: 24
+  olde: 14
+  recent: 9
   vote: 1
 descr:
-- package: python3-bx
-  description: library to manage genomic data and its alignment
-  long_description: " The bx-python project is a Python3 library and associated set
-    of scripts to\n allow for rapid implementation of genome scale analyses. The library
-    contains\n a variety of useful modules, but the particular strengths are:\n  *
-    Classes for reading and working with genome-scale multiple local\n    alignments
-    (in MAF, AXT, and LAV formats)\n  * Generic data structure for indexing on disk
-    files that contain blocks of\n    data associated with intervals on various sequences
-    (used, for example, to\n    provide random access to individual alignments in
-    huge files; optimized\n    for use over network filesystems)\n  * Data structures
-    for working with intervals on sequences\n  * \"Binned bitsets\" which act just
-    like chromosome sized bit arrays, but\n    lazily allocate regions and allow large
-    blocks of all set or all unset\n    bits to be stored compactly\n  * \"Intersecter\"\
-    \ for performing fast intersection tests that preserve both\n    query and target
-    intervals and associated annotation\n"
-  release: sid
-  description_md5: 67d503eba4b89cb2b658656d4c7560a1
-  license: unknown
-  blend: debian-med
 - package: python3-bx
   description: Bibliotek til at håndtere genomiske data og deres sammenligning
   long_description: " Projektet bx-python er et Python 3-bibliotek og associeret sæt
@@ -53,6 +34,25 @@ descr:
     regioner og tillader store blokke for alle sæt\n    eller alle ikke satte bit
     for kompakt lagring\n  * »Intersecter« for udførelse af hurtig intersektionstest,
     der bevarer\n    både forespørgsel og målintervaller og associeret annotation\n"
+  release: sid
+  description_md5: 67d503eba4b89cb2b658656d4c7560a1
+  license: unknown
+  blend: debian-med
+- package: python3-bx
+  description: library to manage genomic data and its alignment
+  long_description: " The bx-python project is a Python3 library and associated set
+    of scripts to\n allow for rapid implementation of genome scale analyses. The library
+    contains\n a variety of useful modules, but the particular strengths are:\n  *
+    Classes for reading and working with genome-scale multiple local\n    alignments
+    (in MAF, AXT, and LAV formats)\n  * Generic data structure for indexing on disk
+    files that contain blocks of\n    data associated with intervals on various sequences
+    (used, for example, to\n    provide random access to individual alignments in
+    huge files; optimized\n    for use over network filesystems)\n  * Data structures
+    for working with intervals on sequences\n  * \"Binned bitsets\" which act just
+    like chromosome sized bit arrays, but\n    lazily allocate regions and allow large
+    blocks of all set or all unset\n    bits to be stored compactly\n  * \"Intersecter\"\
+    \ for performing fast intersection tests that preserve both\n    query and target
+    intervals and associated annotation\n"
   release: sid
   description_md5: 67d503eba4b89cb2b658656d4c7560a1
   license: unknown

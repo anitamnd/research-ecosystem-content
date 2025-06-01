@@ -17,19 +17,17 @@ registries:
   name: conda:conda-forge
 popcon:
 - insts: 1297
-  olde: 989
-  recent: 176
-  vote: 132
+  olde: 1044
+  recent: 117
+  vote: 136
 descr:
 - package: r-cran-vegan
-  description: pacchetto per ecologia delle comunità per R
-  long_description: " Pacchetto R per i ricercatori nel campo dell'ecologia delle
-    comunità.\n Contiene la maggior parte delle analisi multivariate necessarie per\n
-    analizzare comunità ecologiche, e strumenti per analisi della diversità. La\n
-    maggior parte dei metodi delle diversità hanno come assunto che i dati\n siano
-    conteggi di individui.\n .\n Questi strumenti sono a volte usati al di fuori del
-    campo dell'ecologia, ad\n esempio per studiare popolazioni di globuli bianchi
-    o di molecole di RNA.\n"
+  description: Fællesskabsøkologi for R
+  long_description: " R-pakke for fællesskabsøkologer. Den indeholder flest multivariat
+    analyse krævet i analysering af økologiske fællesskaber. Samt værktøjer til mangfoldighedsanalyse.
+    De fleste mangfoldighedsmetoder antager at data er individantal.\n .\n Disse værktøjer
+    bruges nogle gange uden for økologi, for eksempel til at studere populationer
+    af hvide blodceller eller RNA-molekyler.\n"
   release: sid
   description_md5: 64aa244f1143da53b09d8adb5e4c2c65
   license: unknown
@@ -38,20 +36,22 @@ descr:
   description: Community Ecology Package for R
   long_description: " R package for community ecologists. It contains most multivariate
     analysis\n needed in analysing ecological communities, and tools for diversity
-    analysis.\n Most diversity methods assume that data are counts of individuals.\n
-    .\n These tools are sometimes used outside the field of ecology, for instance
+    analysis.\n Most diversity methods assume that data are counts of individuals.\n\
+    \ .\n These tools are sometimes used outside the field of ecology, for instance
     to\n study populations of white blood cells or RNA molecules.\n"
   release: sid
   description_md5: 64aa244f1143da53b09d8adb5e4c2c65
   license: unknown
   blend: debian-med
 - package: r-cran-vegan
-  description: Fællesskabsøkologi for R
-  long_description: " R-pakke for fællesskabsøkologer. Den indeholder flest multivariat
-    analyse krævet i analysering af økologiske fællesskaber. Samt værktøjer til mangfoldighedsanalyse.
-    De fleste mangfoldighedsmetoder antager at data er individantal.\n .\n Disse værktøjer
-    bruges nogle gange uden for økologi, for eksempel til at studere populationer
-    af hvide blodceller eller RNA-molekyler.\n"
+  description: pacchetto per ecologia delle comunità per R
+  long_description: " Pacchetto R per i ricercatori nel campo dell'ecologia delle
+    comunità.\n Contiene la maggior parte delle analisi multivariate necessarie per\n\
+    \ analizzare comunità ecologiche, e strumenti per analisi della diversità. La\n\
+    \ maggior parte dei metodi delle diversità hanno come assunto che i dati\n siano
+    conteggi di individui.\n .\n Questi strumenti sono a volte usati al di fuori del
+    campo dell'ecologia, ad\n esempio per studiare popolazioni di globuli bianchi
+    o di molecole di RNA.\n"
   release: sid
   description_md5: 64aa244f1143da53b09d8adb5e4c2c65
   license: unknown

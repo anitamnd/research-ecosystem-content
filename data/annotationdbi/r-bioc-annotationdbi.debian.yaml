@@ -9,33 +9,16 @@ license: unknown
 blend: debian-med
 description_md5: 29920944b8c672389180962cf8487b7a
 registries:
-- entry: annotationdbi
-  name: bio.tools
 - entry: bioconductor-annotationdbi
   name: conda:bioconda
+- entry: annotationdbi
+  name: bio.tools
 popcon:
-- insts: 218
-  olde: 185
+- insts: 221
+  olde: 187
   recent: 15
-  vote: 18
+  vote: 19
 descr:
-- package: r-bioc-annotationdbi
-  description: GNU R Annotation Database Interface per BioConductor
-  long_description: " Questo modulo di BioConductor fornisce codice per l'interfaccia
-    utente e la\n connessione al database per i pacchetti con dati di annotazioni
-    che usano\n l'archiviazione dati SQLite.\n"
-  release: sid
-  description_md5: 29920944b8c672389180962cf8487b7a
-  license: unknown
-  blend: debian-med
-- package: r-bioc-annotationdbi
-  description: GNU R Annotation Database Interface for BioConductor
-  long_description: " This BioConductor module provides user interface and database\n
-    connection code for annotation data packages using SQLite data\n storage.\n"
-  release: sid
-  description_md5: 29920944b8c672389180962cf8487b7a
-  license: unknown
-  blend: debian-med
 - package: r-bioc-annotationdbi
   description: GNU R Annotation Database-grænseflade for BioConductor
   long_description: " Dette BioConductor-modul tilbyder brugergrænseflade og\n dataforbindelsesknude
@@ -45,10 +28,27 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-annotationdbi
+  description: GNU R Annotation Database Interface for BioConductor
+  long_description: " This BioConductor module provides user interface and database\n\
+    \ connection code for annotation data packages using SQLite data\n storage.\n"
+  release: sid
+  description_md5: 29920944b8c672389180962cf8487b7a
+  license: unknown
+  blend: debian-med
+- package: r-bioc-annotationdbi
   description: GNU R Annotation Database Interface pour BioConductor
   long_description: " Ce module de BioConductor fournit une interface utilisateur
     et le code de connexion aux bases de données pour les paquets de données d'annotation
     utilisant SQLite pour le stockage de données.\n"
+  release: sid
+  description_md5: 29920944b8c672389180962cf8487b7a
+  license: unknown
+  blend: debian-med
+- package: r-bioc-annotationdbi
+  description: GNU R Annotation Database Interface per BioConductor
+  long_description: " Questo modulo di BioConductor fornisce codice per l'interfaccia
+    utente e la\n connessione al database per i pacchetti con dati di annotazioni
+    che usano\n l'archiviazione dati SQLite.\n"
   release: sid
   description_md5: 29920944b8c672389180962cf8487b7a
   license: unknown

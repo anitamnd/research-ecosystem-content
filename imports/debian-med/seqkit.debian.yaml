@@ -10,27 +10,27 @@ blend: debian-med
 description_md5: cbf53322980bad60a2f766bd99556176
 registries:
 - entry: seqkit
-  name: bio.tools
-- entry: seqkit
   name: conda:bioconda
+- entry: seqkit
+  name: bio.tools
 bib:
 - key: doi
   value: 10.1371/journal.pone.0163962
 popcon:
-- insts: 60
-  olde: 47
+- insts: 59
+  olde: 46
   recent: 10
   vote: 3
 descr:
 - package: seqkit
-  description: toolkit multipiattaforma e ultraveloce per manipolazione di file FASTA/Q
-  long_description: " SeqKit descrive un toolkit completo, multipiattaforma e ultraveloce
-    per\n elaborazione di FASTA/Q. SeqKit fornisce file binari eseguibili per tutti\n
-    i principali sistemi operativi, inclusi Windows, Linux e Mac OS X, e può\n essere
-    usato direttamente senza alcuna dipendenza o pre-configurazione.\n SeqKit dimostra
-    prestazioni competitive in tempo di esecuzione e uso di\n memoria in confronto
-    a strumenti simili. L'efficienza e l'usabilità di\n SeqKit permettono ai ricercatori
-    di compiere rapidamente manipolazioni\n comuni su file FASTA/Q.\n"
+  description: Ultrahurtig værktøjssæt for flere platforme til FASTA/Q-filmanipulering
+  long_description: " SeqKit beskriver et ultrahurtigt omfattende værktøjssæt for
+    flere platforme til FASTA/Q-behandling. SeqKit tilbyder kørbare binære filer for
+    alle væsentlige operativsystemer, inklusive Windows, Linux og Mac OS X, og kan
+    bruges direkte uden nogen afhængigheder eller forhåndskonfiguration. SeqKit demonstrerer
+    kompetitiv ydelse for afviklingstiden og hukommelsesbrug sammenlignet med lignende
+    værktøjer. Effektiviteten og brugbarheden af SeqKit gør det muligt for forskere
+    hurtigt at opnå gængse FASTA/Q-filmanipuleringer.\n"
   release: sid
   description_md5: cbf53322980bad60a2f766bd99556176
   license: unknown
@@ -49,14 +49,14 @@ descr:
   license: unknown
   blend: debian-med
 - package: seqkit
-  description: Ultrahurtig værktøjssæt for flere platforme til FASTA/Q-filmanipulering
-  long_description: " SeqKit beskriver et ultrahurtigt omfattende værktøjssæt for
-    flere platforme til FASTA/Q-behandling. SeqKit tilbyder kørbare binære filer for
-    alle væsentlige operativsystemer, inklusive Windows, Linux og Mac OS X, og kan
-    bruges direkte uden nogen afhængigheder eller forhåndskonfiguration. SeqKit demonstrerer
-    kompetitiv ydelse for afviklingstiden og hukommelsesbrug sammenlignet med lignende
-    værktøjer. Effektiviteten og brugbarheden af SeqKit gør det muligt for forskere
-    hurtigt at opnå gængse FASTA/Q-filmanipuleringer.\n"
+  description: toolkit multipiattaforma e ultraveloce per manipolazione di file FASTA/Q
+  long_description: " SeqKit descrive un toolkit completo, multipiattaforma e ultraveloce
+    per\n elaborazione di FASTA/Q. SeqKit fornisce file binari eseguibili per tutti\n\
+    \ i principali sistemi operativi, inclusi Windows, Linux e Mac OS X, e può\n essere
+    usato direttamente senza alcuna dipendenza o pre-configurazione.\n SeqKit dimostra
+    prestazioni competitive in tempo di esecuzione e uso di\n memoria in confronto
+    a strumenti simili. L'efficienza e l'usabilità di\n SeqKit permettono ai ricercatori
+    di compiere rapidamente manipolazioni\n comuni su file FASTA/Q.\n"
   release: sid
   description_md5: cbf53322980bad60a2f766bd99556176
   license: unknown

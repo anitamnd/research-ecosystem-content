@@ -11,10 +11,10 @@ description_md5: 1d7608760070557080119ec03dfbc075
 registries:
 - entry: '{OMICS_23183,OMICS_23184,OMICS_15828}'
   name: OMICtools
-- entry: '{SCR_015989,SCR_015994,NA}'
-  name: SciCrunch
 - entry: '{belvu,blixem,dotter}'
   name: bio.tools
+- entry: '{SCR_015989,SCR_015994,NA}'
+  name: SciCrunch
 bib:
 - key: doi
   value: 10.1186/s13104-016-1847-3
@@ -29,36 +29,9 @@ bib:
   value: 10.1016/0378-1119(95)00714-8
 popcon:
 - insts: 47
-  olde: 41
-  recent: 6
+  olde: 39
+  recent: 8
 descr:
-- package: dotter
-  description: confronto dettagliato tra due sequenze genomiche
-  long_description: " Dotter è un programma a matrice di punti grafico per confronto
-    dettagliato\n di due sequenze.\n .\n  * Ciascun residuo in una sequenza è confrontato
-    con ciascun residuo\n    nell'altra e viene calcolata una matrice di punteggi.\n\
-    \  * Una sequenza è disegnata sull'asse x e l'altra sull'asse y.\n  * Il rumore
-    viene filtrato in modo che gli allineamenti appaiano come\n    linee diagonali.\n\
-    \  * I punteggi delle coppie sono mediati con una finestra mobile per rendere\n\
-    \    la matrice dei punteggi più intelligibile.\n  * La matrice dei punteggi mediati
-    forma un paesaggio tridimensionale, con\n    le due sequenze in due dimensioni
-    e l'altezza dei picchi sulla terza.\n    Questo paesaggio è proiettato in due
-    dimensioni usando un'immagine a\n    scala di grigi, più scuro è un picco, più
-    alto è il punteggio.\n  * Il contrasto e la soglia dell'immagine a scala di grigi
-    possono essere\n    regolati interattivamente, senza dover ricalcolare la matrice
-    dei\n    punteggi.\n  * È fornito uno strumento di allineamento per esaminare
-    l'allineamento\n    delle sequenze che l'immagine a scala di grigi rappresenta.\n\
-    \  * Le coppie conosciute con punteggi alti possono essere caricate da un\n  \
-    \  file GFF e sovrapposte al grafico.\n  * I modelli dei geni possono essere caricati
-    da GFF e visualizzati accanto\n    all'asse relativo.\n  * Confrontare una sequenza
-    con sé stessa per trovare ripetizioni interne.\n  * Trovare sovrapposizioni tra
-    sequenze multiple facendo un grafico a punti\n    di tutte le sequenze verso loro
-    stesse.\n  * Eseguire Dotter in modalità non interattiva come processo sullo sfondo\n\
-    \    per creare grafici a punti grandi, che richiedono molto tempo.\n"
-  release: sid
-  description_md5: 1d7608760070557080119ec03dfbc075
-  license: unknown
-  blend: debian-med
 - package: dotter
   description: Detaljeret sammenligning af to genomsekvenser
   long_description: " Dotter er et grafisk punkt-matrix program til detaljeret sammenligning
@@ -133,6 +106,33 @@ descr:
     \    un graphique de ressemblance (dot-plot) de toutes les séquences sur\n   \
     \ elles-mêmes ;\n  –⋅fonctionnement de Dotter en mode automatique (batch) pour
     créer\n    en tâche de fond des graphiques de ressemblance grands et\n    chronophages.\n"
+  release: sid
+  description_md5: 1d7608760070557080119ec03dfbc075
+  license: unknown
+  blend: debian-med
+- package: dotter
+  description: confronto dettagliato tra due sequenze genomiche
+  long_description: " Dotter è un programma a matrice di punti grafico per confronto
+    dettagliato\n di due sequenze.\n .\n  * Ciascun residuo in una sequenza è confrontato
+    con ciascun residuo\n    nell'altra e viene calcolata una matrice di punteggi.\n\
+    \  * Una sequenza è disegnata sull'asse x e l'altra sull'asse y.\n  * Il rumore
+    viene filtrato in modo che gli allineamenti appaiano come\n    linee diagonali.\n\
+    \  * I punteggi delle coppie sono mediati con una finestra mobile per rendere\n\
+    \    la matrice dei punteggi più intelligibile.\n  * La matrice dei punteggi mediati
+    forma un paesaggio tridimensionale, con\n    le due sequenze in due dimensioni
+    e l'altezza dei picchi sulla terza.\n    Questo paesaggio è proiettato in due
+    dimensioni usando un'immagine a\n    scala di grigi, più scuro è un picco, più
+    alto è il punteggio.\n  * Il contrasto e la soglia dell'immagine a scala di grigi
+    possono essere\n    regolati interattivamente, senza dover ricalcolare la matrice
+    dei\n    punteggi.\n  * È fornito uno strumento di allineamento per esaminare
+    l'allineamento\n    delle sequenze che l'immagine a scala di grigi rappresenta.\n\
+    \  * Le coppie conosciute con punteggi alti possono essere caricate da un\n  \
+    \  file GFF e sovrapposte al grafico.\n  * I modelli dei geni possono essere caricati
+    da GFF e visualizzati accanto\n    all'asse relativo.\n  * Confrontare una sequenza
+    con sé stessa per trovare ripetizioni interne.\n  * Trovare sovrapposizioni tra
+    sequenze multiple facendo un grafico a punti\n    di tutte le sequenze verso loro
+    stesse.\n  * Eseguire Dotter in modalità non interattiva come processo sullo sfondo\n\
+    \    per creare grafici a punti grandi, che richiedono molto tempo.\n"
   release: sid
   description_md5: 1d7608760070557080119ec03dfbc075
   license: unknown

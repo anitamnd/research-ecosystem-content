@@ -16,16 +16,16 @@ registries:
 - entry: bioconductor-genefilter
   name: conda:bioconda
 popcon:
-- insts: 97
+- insts: 98
   olde: 80
-  recent: 9
-  vote: 8
+  recent: 11
+  vote: 7
 descr:
 - package: r-bioc-genefilter
-  description: metodi per filtrare geni da esperimenti con microarray
-  long_description: " Questo modulo per BioConductor fornisce metodi per filtrare
-    geni da\n esperimenti con microarray. Contiene alcune funzioni di base per filtrare
-    geni.\n"
+  description: Metoder for filtrering af gener fra microarray-eksperimenter
+  long_description: " Dette BioConductor-modul tilbyder metoder for filtrering af
+    gener fra\n microarray-eksperimenter. Det indeholder nogle grundlæggende funktioner
+    for\n filtrering af gener.\n"
   release: sid
   description_md5: 8fcbb6913e1350878fb76edac9142ff5
   license: unknown
@@ -40,10 +40,10 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-genefilter
-  description: Metoder for filtrering af gener fra microarray-eksperimenter
-  long_description: " Dette BioConductor-modul tilbyder metoder for filtrering af
-    gener fra\n microarray-eksperimenter. Det indeholder nogle grundlæggende funktioner
-    for\n filtrering af gener.\n"
+  description: metodi per filtrare geni da esperimenti con microarray
+  long_description: " Questo modulo per BioConductor fornisce metodi per filtrare
+    geni da\n esperimenti con microarray. Contiene alcune funzioni di base per filtrare
+    geni.\n"
   release: sid
   description_md5: 8fcbb6913e1350878fb76edac9142ff5
   license: unknown

@@ -9,12 +9,12 @@ license: unknown
 blend: debian-med
 description_md5: 02b651f9ebc5a1909ba5cf4f6d4b6c08
 registries:
-- entry: OMICS_13947
-  name: OMICtools
-- entry: SCR_001893
-  name: SciCrunch
 - entry: vmtk-vascular-modeling-toolkit
   name: biii
+- entry: SCR_001893
+  name: SciCrunch
+- entry: OMICS_13947
+  name: OMICtools
 bib:
 - key: doi
   value: 10.1109/TMI.2009.2021652

@@ -9,15 +9,15 @@ license: unknown
 blend: debian-med
 description_md5: 9201dfa0922e9d00c0e7a7f6c91c84ac
 popcon:
-- insts: 12
-  olde: 9
+- insts: 10
+  olde: 7
   recent: 3
 descr:
 - package: python3-fitbit
-  description: implémentation de client pour l’API REST de FitBit – Python 3
-  long_description: " Il s’agit d’un module de Python fournissant une implémentation
-    de client\n pour l’API REST de FitBit. Il utilise OAuth pour l’authentification
-    et\n prend en charge les unités US et SI.\n .\n Ce paquet fournit le module Python 3.\n"
+  description: FitBit REST API-klientimplementering - Python 3
+  long_description: " Et Pythonmodul der indeholder en implementering af en klient
+    for FitBit\n REST API'en. Den bruger OAuth for godkendelse, modulet understøtter
+    både\n US- og SI-enheder.\n .\n Denne pakke indeholder Python 3-modulet.\n"
   release: sid
   description_md5: 9201dfa0922e9d00c0e7a7f6c91c84ac
   license: unknown
@@ -33,16 +33,6 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-fitbit
-  description: implementazione di un client per l'API REST di FitBit - Python 3
-  long_description: " Un modulo Python che contiene un'implementazione di un client
-    per l'API REST\n di FitBit. Usa OAuth per l'autenticazione, gestisce sia le unità
-    del sistema\n americano sia quelle internazionali.\n .\n Questo pacchetto contiene
-    il modulo per Python 3.\n"
-  release: sid
-  description_md5: 9201dfa0922e9d00c0e7a7f6c91c84ac
-  license: unknown
-  blend: debian-med
-- package: python3-fitbit
   description: FitBit REST API Client Implementation - Python 3
   long_description: " A Python module containing an implementation of a client for
     the FitBit\n REST API. It uses OAuth for authentication, it supports both US and
@@ -52,10 +42,20 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-fitbit
-  description: FitBit REST API-klientimplementering - Python 3
-  long_description: " Et Pythonmodul der indeholder en implementering af en klient
-    for FitBit\n REST API'en. Den bruger OAuth for godkendelse, modulet understøtter
-    både\n US- og SI-enheder.\n .\n Denne pakke indeholder Python 3-modulet.\n"
+  description: implémentation de client pour l’API REST de FitBit – Python 3
+  long_description: " Il s’agit d’un module de Python fournissant une implémentation
+    de client\n pour l’API REST de FitBit. Il utilise OAuth pour l’authentification
+    et\n prend en charge les unités US et SI.\n .\n Ce paquet fournit le module Python 3.\n"
+  release: sid
+  description_md5: 9201dfa0922e9d00c0e7a7f6c91c84ac
+  license: unknown
+  blend: debian-med
+- package: python3-fitbit
+  description: implementazione di un client per l'API REST di FitBit - Python 3
+  long_description: " Un modulo Python che contiene un'implementazione di un client
+    per l'API REST\n di FitBit. Usa OAuth per l'autenticazione, gestisce sia le unità
+    del sistema\n americano sia quelle internazionali.\n .\n Questo pacchetto contiene
+    il modulo per Python 3.\n"
   release: sid
   description_md5: 9201dfa0922e9d00c0e7a7f6c91c84ac
   license: unknown
