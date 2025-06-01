@@ -15,18 +15,17 @@ bib:
   rank: 1
   value: 10.1021/ct100578z
 popcon:
-- insts: 86
-  olde: 65
-  recent: 9
-  vote: 12
+- insts: 83
+  olde: 62
+  recent: 11
+  vote: 10
 descr:
 - package: python3-propka
-  description: calcoli euristici di pKa con ligandi (Python 3)
-  long_description: " PROPKA predice i valori di pKa dei gruppi ionizzabili in proteine
-    (versione\n 3.0) e complessi proteina-ligando (versione 3.1 e successive) sulla
-    base\n della struttura 3D.\n .\n Per le proteine senza ligandi entrambe le versioni
-    dovrebbero produrre lo\n stesso risultato.\n .\n Questo pacchetto installa la
-    libreria per Python 3.\n"
+  description: Heuristiske pKa-beregninger med ligander - Python 3
+  long_description: " PROPKA forudsiger pKa-værdier for ioniserbar grupper i proteiner
+    (version 3.0) og protein-ligand komplekser (version 3.1 og senere) baseret på
+    3D-strukturen.\n .\n For proteiner uden ligander bør begge versioner fremstille
+    det samme resultat.\n .\n Denne pakke installerer biblioteket for Python 3.\n"
   release: sid
   description_md5: 144cf93e262b50ccb1109e1f5c200557
   license: unknown
@@ -42,11 +41,12 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-propka
-  description: Heuristiske pKa-beregninger med ligander - Python 3
-  long_description: " PROPKA forudsiger pKa-værdier for ioniserbar grupper i proteiner
-    (version 3.0) og protein-ligand komplekser (version 3.1 og senere) baseret på
-    3D-strukturen.\n .\n For proteiner uden ligander bør begge versioner fremstille
-    det samme resultat.\n .\n Denne pakke installerer biblioteket for Python 3.\n"
+  description: calcoli euristici di pKa con ligandi (Python 3)
+  long_description: " PROPKA predice i valori di pKa dei gruppi ionizzabili in proteine
+    (versione\n 3.0) e complessi proteina-ligando (versione 3.1 e successive) sulla
+    base\n della struttura 3D.\n .\n Per le proteine senza ligandi entrambe le versioni
+    dovrebbero produrre lo\n stesso risultato.\n .\n Questo pacchetto installa la
+    libreria per Python 3.\n"
   release: sid
   description_md5: 144cf93e262b50ccb1109e1f5c200557
   license: unknown

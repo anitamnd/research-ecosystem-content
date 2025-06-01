@@ -11,34 +11,18 @@ description_md5: 3fa0d6dceb2f30972ee5a7c11349bf26
 registries:
 - entry: OMICS_30805
   name: OMICtools
-- entry: dada2
-  name: bio.tools
 - entry: bioconductor-dada2
   name: conda:bioconda
+- entry: dada2
+  name: bio.tools
 bib:
 - key: doi
   value: 10.1038/nmeth.3869
 popcon:
-- insts: 101
-  olde: 97
-  recent: 1
-  vote: 3
+- insts: 100
+  olde: 96
+  vote: 4
 descr:
-- package: r-bioc-dada2
-  description: sample inference from amplicon sequencing data
-  long_description: " The dada2 package contributes to software workflows to interpret\n
-    sequencing data from microbiota - the relative abundance of\n bacterial and/or
-    yeast, typically measured in the gut.\n It infers exact amplicon sequence\n variants
-    (ASVs) from high-throughput amplicon sequencing data,\n replacing the coarser
-    and less accurate OTU clustering approach.\n The dada2 pipeline takes as input
-    demultiplexed fastq files, and\n outputs the sequence variants and their sample-wise
-    abundances\n after removing substitution and chimera errors. Taxonomic\n classification
-    is available via a native implementation of the RDP\n naive Bayesian classifier,
-    and species-level assignment to 16S\n rRNA gene fragments by exact matching.\n"
-  release: sid
-  description_md5: 3fa0d6dceb2f30972ee5a7c11349bf26
-  license: unknown
-  blend: debian-med
 - package: r-bioc-dada2
   description: Prøveslutning fra amplicon-sekventeringsdata
   long_description: " Pakken dada2 bidrager til programarbejdsforløb for at fortolke
@@ -50,6 +34,21 @@ descr:
     at have fjernet substitution og kimære fejl. Taksonomisk klassificering er tilgængelig
     via en indbygget implementering af RDP-naiv bayesiansk klassifikator og tildeling
     på artsniveau til 16S rRNA-genfragmenter ved nøjagtig matchning.\n"
+  release: sid
+  description_md5: 3fa0d6dceb2f30972ee5a7c11349bf26
+  license: unknown
+  blend: debian-med
+- package: r-bioc-dada2
+  description: sample inference from amplicon sequencing data
+  long_description: " The dada2 package contributes to software workflows to interpret\n\
+    \ sequencing data from microbiota - the relative abundance of\n bacterial and/or
+    yeast, typically measured in the gut.\n It infers exact amplicon sequence\n variants
+    (ASVs) from high-throughput amplicon sequencing data,\n replacing the coarser
+    and less accurate OTU clustering approach.\n The dada2 pipeline takes as input
+    demultiplexed fastq files, and\n outputs the sequence variants and their sample-wise
+    abundances\n after removing substitution and chimera errors. Taxonomic\n classification
+    is available via a native implementation of the RDP\n naive Bayesian classifier,
+    and species-level assignment to 16S\n rRNA gene fragments by exact matching.\n"
   release: sid
   description_md5: 3fa0d6dceb2f30972ee5a7c11349bf26
   license: unknown

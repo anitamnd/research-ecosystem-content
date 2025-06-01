@@ -10,14 +10,14 @@ blend: debian-med
 description_md5: 59d884372434761902c588e95fb86a45
 popcon:
 - insts: 31
-  olde: 20
-  recent: 8
+  olde: 18
+  recent: 10
   vote: 3
 descr:
 - package: python3-bel-resources
-  description: utilità Python 3 per file di risorse BEL
-  long_description: " Questo pacchetto fornisce un'interfaccia e utilità Python 3
-    per file di\n risorse BEL.\n"
+  description: Python 3-redskaber for BEL-ressourcefiler
+  long_description: " Denne pakke tilbyder en Python 3-grænseflade og redskaber for
+    BEL-ressourcefiler.\n"
   release: sid
   description_md5: 59d884372434761902c588e95fb86a45
   license: unknown
@@ -31,9 +31,9 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-bel-resources
-  description: Python 3-redskaber for BEL-ressourcefiler
-  long_description: " Denne pakke tilbyder en Python 3-grænseflade og redskaber for
-    BEL-ressourcefiler.\n"
+  description: utilità Python 3 per file di risorse BEL
+  long_description: " Questo pacchetto fornisce un'interfaccia e utilità Python 3
+    per file di\n risorse BEL.\n"
   release: sid
   description_md5: 59d884372434761902c588e95fb86a45
   license: unknown

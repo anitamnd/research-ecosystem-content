@@ -21,10 +21,22 @@ tags:
 - tag: use::viewing
 popcon:
 - insts: 167
-  olde: 130
-  recent: 21
-  vote: 16
+  olde: 131
+  recent: 22
+  vote: 14
 descr:
+- package: r-cran-psy
+  description: GNU R-procedurer for psykometri
+  long_description: " Denne pakke inkluderer flere procedurer brugt i psykometri og
+    skalering,\n inklusive:\n .\n  * Cohens Kappa og vægtet Kappa (two-rater agreement
+    tests)\n  * Cronbachs Alfa (en element-troværdighed test)\n  * Focused Principal
+    Components Analysis\n  * Intraclass correlation coefficients\n  * Lights Kappa
+    (en N-rater aftaletest)\n  * Screeplots og grafiske repræsentationer af principielle
+    komponenter\n"
+  release: sid
+  description_md5: 69298c93d172ae11351d45f755244135
+  license: unknown
+  blend: debian-med
 - package: r-cran-psy
   description: GNU-R-Prozeduren für die Psychometrie
   long_description: " Dieses Paket enthält etliche Prozeduren, die in der Psychometrie
@@ -34,6 +46,18 @@ descr:
     Hauptkomponentenanalyse\n  * Intra-Klassen-Korrelationskoeffizienten\n  * Lights
     Kappa (Test der Übereinstimmung von Einschätzungen von n\n    Beurteilern)\n \
     \ * Screeplots und grafische Darstellungen von Hauptkomponenten\n"
+  release: sid
+  description_md5: 69298c93d172ae11351d45f755244135
+  license: unknown
+  blend: debian-med
+- package: r-cran-psy
+  description: GNU R procedures for psychometrics
+  long_description: " This package includes several procedures used in psychometrics
+    and\n scaling, including:\n .\n  * Cohen's Kappa and weighted Kappa (two-rater
+    agreement tests)\n  * Cronbach's Alpha (an item-reliability test)\n  * Focused
+    Principal Components Analysis\n  * Intraclass correlation coefficients\n  * Light's
+    Kappa (an N-rater agreement test)\n  * Screeplots and graphical representations
+    of principal components\n"
   release: sid
   description_md5: 69298c93d172ae11351d45f755244135
   license: unknown
@@ -64,18 +88,6 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-psy
-  description: GNU R procedures for psychometrics
-  long_description: " This package includes several procedures used in psychometrics
-    and\n scaling, including:\n .\n  * Cohen's Kappa and weighted Kappa (two-rater
-    agreement tests)\n  * Cronbach's Alpha (an item-reliability test)\n  * Focused
-    Principal Components Analysis\n  * Intraclass correlation coefficients\n  * Light's
-    Kappa (an N-rater agreement test)\n  * Screeplots and graphical representations
-    of principal components\n"
-  release: sid
-  description_md5: 69298c93d172ae11351d45f755244135
-  license: unknown
-  blend: debian-med
-- package: r-cran-psy
   description: Procedury GNU R używane w psychometrii
   long_description: " Pakiet zawiera szereg procedur stosowanych w psychometrii i
     skalowaniu:\n .\n  * Kappa Cohena i Kappa ważona (testy zgodności dwóch osób);\n\
@@ -83,18 +95,6 @@ descr:
     Analysis (Skoncentrowana analiza\n    głównych komponentów);\n  * Współczynniki
     korelacji wewnątrzklasowej;\n  * Kappa Lighta (test zgodności N-rater);\n  * Wykresy
     ekranowe i graficzne reprezentacje głównych komponentów.\n"
-  release: sid
-  description_md5: 69298c93d172ae11351d45f755244135
-  license: unknown
-  blend: debian-med
-- package: r-cran-psy
-  description: GNU R-procedurer for psykometri
-  long_description: " Denne pakke inkluderer flere procedurer brugt i psykometri og
-    skalering,\n inklusive:\n .\n  * Cohens Kappa og vægtet Kappa (two-rater agreement
-    tests)\n  * Cronbachs Alfa (en element-troværdighed test)\n  * Focused Principal
-    Components Analysis\n  * Intraclass correlation coefficients\n  * Lights Kappa
-    (en N-rater aftaletest)\n  * Screeplots og grafiske repræsentationer af principielle
-    komponenter\n"
   release: sid
   description_md5: 69298c93d172ae11351d45f755244135
   license: unknown

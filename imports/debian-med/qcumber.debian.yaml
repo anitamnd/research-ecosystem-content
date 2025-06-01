@@ -14,17 +14,17 @@ registries:
 - entry: qcumber
   name: conda:bioconda
 popcon:
-- insts: 36
-  olde: 30
-  recent: 6
+- insts: 35
+  olde: 28
+  recent: 7
 descr:
 - package: qcumber
-  description: controllo di qualità di sequenze genomiche
-  long_description: " QCPipeline è uno strumento per controllo di qualità. Il flusso
-    di lavoro è\n il seguente:\n .\n  1. controllo di qualità con FastQC\n  2. taglio
-    delle letture con Trimmomatic\n  3. controllo di qualità delle letture tagliate
-    con FastQC\n  4. mappatura delle letture sui riferimenti usando bowtie2\n  5.
-    classificazione delle letture con Kraken\n"
+  description: Kvalitetskontrol af genomsekvenser
+  long_description: " QCPipeline er et værktøj til kvalitetskontrol. Arbejdsforløbet
+    er som i det\n følgende:\n .\n  1. Kvalitetskontrol med FastQC\n  2. Ryd op i
+    læsninger med Trimmomatic\n  3. Kvalitetskontrol af læsningerne med FastQC\n \
+    \ 4. Oversæt læsninger mod reference via bowtie2\n  5. Klassificer læsninger med
+    Kraken\n"
   release: sid
   description_md5: 380ba80499911de0a248a18cb1009872
   license: unknown
@@ -40,12 +40,12 @@ descr:
   license: unknown
   blend: debian-med
 - package: qcumber
-  description: Kvalitetskontrol af genomsekvenser
-  long_description: " QCPipeline er et værktøj til kvalitetskontrol. Arbejdsforløbet
-    er som i det\n følgende:\n .\n  1. Kvalitetskontrol med FastQC\n  2. Ryd op i
-    læsninger med Trimmomatic\n  3. Kvalitetskontrol af læsningerne med FastQC\n \
-    \ 4. Oversæt læsninger mod reference via bowtie2\n  5. Klassificer læsninger med
-    Kraken\n"
+  description: controllo di qualità di sequenze genomiche
+  long_description: " QCPipeline è uno strumento per controllo di qualità. Il flusso
+    di lavoro è\n il seguente:\n .\n  1. controllo di qualità con FastQC\n  2. taglio
+    delle letture con Trimmomatic\n  3. controllo di qualità delle letture tagliate
+    con FastQC\n  4. mappatura delle letture sui riferimenti usando bowtie2\n  5.
+    classificazione delle letture con Kraken\n"
   release: sid
   description_md5: 380ba80499911de0a248a18cb1009872
   license: unknown

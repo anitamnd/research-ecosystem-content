@@ -9,7 +9,7 @@ license: unknown
 blend: debian-med
 description_md5: e5c1764a4b977570ef18127f6208c383
 registries:
-- entry: mofa2
-  name: bio.tools
 - entry: bioconductor-mofa2
   name: conda:bioconda
+- entry: mofa2
+  name: bio.tools

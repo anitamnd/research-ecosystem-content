@@ -9,15 +9,15 @@ license: unknown
 blend: debian-med
 description_md5: c0d49db205974fd7399c21266ae83919
 popcon:
-- insts: 4
-  olde: 3
+- insts: 3
+  olde: 2
   recent: 1
 descr:
 - package: python3-bids-validator
-  description: validatore per insiemi di dati BIDS (Brain Imaging Data Structure)
-  long_description: " Questo pacchetto contiene un modulo Python per validare insiemi
-    di dati\n BIDS (Brain Imaging Data Structure). Non contiene lo strumento a riga
-    di\n comando originale bids-validator (scritto in JS).\n"
+  description: Validator for Brain Imaging Data Structure-datasæt (BIDS)
+  long_description: " Denne pakke indeholder et Pythonmodul til at validere BIDS-datasæt
+    (Brain Imaging Data Structure). Det indeholder ikke det originale bids-validator-kommandolinjeværktøj
+    (skrevet i JS).\n"
   release: sid
   description_md5: c0d49db205974fd7399c21266ae83919
   license: unknown
@@ -25,17 +25,17 @@ descr:
 - package: python3-bids-validator
   description: validator for the Brain Imaging Data Structure (BIDS) datasets
   long_description: " This package contains a Python module to validate BIDS (Brain
-    Imaging\n Data Structure) datasets.  It does not contain original bids-validator\n
-    command line tool (written in JS).\n"
+    Imaging\n Data Structure) datasets.  It does not contain original bids-validator\n\
+    \ command line tool (written in JS).\n"
   release: sid
   description_md5: c0d49db205974fd7399c21266ae83919
   license: unknown
   blend: debian-med
 - package: python3-bids-validator
-  description: Validator for Brain Imaging Data Structure-datasæt (BIDS)
-  long_description: " Denne pakke indeholder et Pythonmodul til at validere BIDS-datasæt
-    (Brain Imaging Data Structure). Det indeholder ikke det originale bids-validator-kommandolinjeværktøj
-    (skrevet i JS).\n"
+  description: validatore per insiemi di dati BIDS (Brain Imaging Data Structure)
+  long_description: " Questo pacchetto contiene un modulo Python per validare insiemi
+    di dati\n BIDS (Brain Imaging Data Structure). Non contiene lo strumento a riga
+    di\n comando originale bids-validator (scritto in JS).\n"
   release: sid
   description_md5: c0d49db205974fd7399c21266ae83919
   license: unknown

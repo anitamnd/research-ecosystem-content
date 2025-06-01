@@ -13,10 +13,34 @@ bib:
   value: 10.1093/molbev/msw046
 popcon:
 - insts: 24
-  olde: 17
-  recent: 6
-  vote: 1
+  olde: 14
+  recent: 8
+  vote: 2
 descr:
+- package: python3-ete3
+  description: Pythonmiljø for (fylogenetisk) træudforskning - Python 3.x
+  long_description: " Environment for Tree Exploration (ETE) er et Pythonprogrammeringsværktøjssæt,
+    der assisterer i genkonstruktionen, manipulation, analyse og visualisering af
+    fylogenetiske træer (selvom klyngetræer eller enhver anden trælignende datastruktur
+    også er understøttet).\n .\n ETE er i øjeblikket udviklet som et værktøj for forskere
+    indenfor fylogenetik og genomik. Hvis du bruger ETE for et udgivet arbejde, så
+    citer venligst:\n .\n Se http://etetoolkit.org for yderligere information.\n"
+  release: sid
+  description_md5: 62fa80cd1d7a708098c4e11beda86263
+  license: unknown
+  blend: debian-med
+- package: python3-ete3
+  description: Python Environment for (phylogenetic) Tree Exploration - Python 3.X
+  long_description: " The Environment for Tree Exploration (ETE) is a Python programming\n\
+    \ toolkit that assists in the recontruction, manipulation, analysis and\n visualization
+    of phylogenetic trees (although clustering trees or any\n other tree-like data
+    structure are also supported).\n .\n ETE is currently developed as a tool for
+    researchers working in\n phylogenetics and genomics. If you use ETE for a published
+    work,\n please cite:\n .\n Visit http://etetoolkit.org for more info.\n"
+  release: sid
+  description_md5: 62fa80cd1d7a708098c4e11beda86263
+  license: unknown
+  blend: debian-med
 - package: python3-ete3
   description: ambiente Python per esplorazione di alberi (filogenetici) - Python
     3.X
@@ -27,30 +51,6 @@ descr:
     sviluppato come strumento per i ricercatori che\n lavorano nella filogenetica
     e nella genomica. Se si sta utilizzando ETE per\n una pubblicazione, si prega
     di citarlo.\n .\n Visitare http://etetoolkit.org per maggiori informazioni.\n"
-  release: sid
-  description_md5: 62fa80cd1d7a708098c4e11beda86263
-  license: unknown
-  blend: debian-med
-- package: python3-ete3
-  description: Python Environment for (phylogenetic) Tree Exploration - Python 3.X
-  long_description: " The Environment for Tree Exploration (ETE) is a Python programming\n
-    toolkit that assists in the recontruction, manipulation, analysis and\n visualization
-    of phylogenetic trees (although clustering trees or any\n other tree-like data
-    structure are also supported).\n .\n ETE is currently developed as a tool for
-    researchers working in\n phylogenetics and genomics. If you use ETE for a published
-    work,\n please cite:\n .\n Visit http://etetoolkit.org for more info.\n"
-  release: sid
-  description_md5: 62fa80cd1d7a708098c4e11beda86263
-  license: unknown
-  blend: debian-med
-- package: python3-ete3
-  description: Pythonmiljø for (fylogenetisk) træudforskning - Python 3.x
-  long_description: " Environment for Tree Exploration (ETE) er et Pythonprogrammeringsværktøjssæt,
-    der assisterer i genkonstruktionen, manipulation, analyse og visualisering af
-    fylogenetiske træer (selvom klyngetræer eller enhver anden trælignende datastruktur
-    også er understøttet).\n .\n ETE er i øjeblikket udviklet som et værktøj for forskere
-    indenfor fylogenetik og genomik. Hvis du bruger ETE for et udgivet arbejde, så
-    citer venligst:\n .\n Se http://etetoolkit.org for yderligere information.\n"
   release: sid
   description_md5: 62fa80cd1d7a708098c4e11beda86263
   license: unknown

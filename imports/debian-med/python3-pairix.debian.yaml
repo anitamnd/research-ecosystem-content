@@ -12,28 +12,11 @@ registries:
 - entry: pairix
   name: conda:bioconda
 popcon:
-- insts: 21
-  olde: 15
-  recent: 5
+- insts: 20
+  olde: 13
+  recent: 6
   vote: 1
 descr:
-- package: python3-pairix
-  description: 1D/2D indexing and querying with a pair of genomic coordinates
-  long_description: " Pairix is a tool for indexing and querying on a block-compressed
-    text\n file containing pairs of genomic coordinates.\n .\n Pairix is a stand-alone
-    C program that was written on top of tabix as a\n tool for the 4DN-standard pairs
-    file format describing Hi-C data:\n pairs_format_specification.md\n .\n However,
-    Pairix can be used as a generic tool for indexing and querying\n any bgzipped
-    text file containing genomic coordinates, for either 2D- or\n 1D- indexing and
-    querying.\n .\n For example: given the custom text file below, you want to extract\n
-    specific lines from the Pairs file further below. An awk command would\n read
-    the Pairs file from beginning to end. Pairix creates an index and\n uses it to
-    access the file from a relevant position by taking advantage\n of bgzf compression,
-    allowing for a fast query on large files.\n"
-  release: sid
-  description_md5: f90d0b5d526e819b782841938acb11e8
-  license: unknown
-  blend: debian-med
 - package: python3-pairix
   description: 1D/2D-indeksering og forespørgsler med et par af genomkoordinater
   long_description: " Pairix er et værktøj til at indeksere og forespørge på en blokkomprimeret
@@ -43,6 +26,23 @@ descr:
     dog bruges som et generisk værktøj til at indeksere og forespørge\n enhver bgzippet
     tekstfil indeholdende genomkoordinater, for enten 2D- eller\n 1D-indeksering og
     forespørgsel.\n"
+  release: sid
+  description_md5: f90d0b5d526e819b782841938acb11e8
+  license: unknown
+  blend: debian-med
+- package: python3-pairix
+  description: 1D/2D indexing and querying with a pair of genomic coordinates
+  long_description: " Pairix is a tool for indexing and querying on a block-compressed
+    text\n file containing pairs of genomic coordinates.\n .\n Pairix is a stand-alone
+    C program that was written on top of tabix as a\n tool for the 4DN-standard pairs
+    file format describing Hi-C data:\n pairs_format_specification.md\n .\n However,
+    Pairix can be used as a generic tool for indexing and querying\n any bgzipped
+    text file containing genomic coordinates, for either 2D- or\n 1D- indexing and
+    querying.\n .\n For example: given the custom text file below, you want to extract\n\
+    \ specific lines from the Pairs file further below. An awk command would\n read
+    the Pairs file from beginning to end. Pairix creates an index and\n uses it to
+    access the file from a relevant position by taking advantage\n of bgzf compression,
+    allowing for a fast query on large files.\n"
   release: sid
   description_md5: f90d0b5d526e819b782841938acb11e8
   license: unknown

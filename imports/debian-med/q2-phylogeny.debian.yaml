@@ -9,14 +9,14 @@ license: unknown
 blend: debian-med
 description_md5: 7b1649a94bd76814078c247c136b4f5e
 popcon:
-- insts: 86
-  olde: 82
-  vote: 4
+- insts: 85
+  olde: 79
+  vote: 6
 descr:
 - package: q2-phylogeny
-  description: plugin QIIME 2 per filogenia
-  long_description: " Plugin QIIME 2 per ricostruzione filogenetica e operazioni su
-    alberi\n filogenetici.\n"
+  description: QIIME 2-udvidelsesmodul for phylogeny
+  long_description: " QIIME 2-udvidelsesmodul for fylogenetisk rekonstruktion og operationer
+    på fylogenetiske træer.\n"
   release: sid
   description_md5: 7b1649a94bd76814078c247c136b4f5e
   license: unknown
@@ -30,9 +30,9 @@ descr:
   license: unknown
   blend: debian-med
 - package: q2-phylogeny
-  description: QIIME 2-udvidelsesmodul for phylogeny
-  long_description: " QIIME 2-udvidelsesmodul for fylogenetisk rekonstruktion og operationer
-    på fylogenetiske træer.\n"
+  description: plugin QIIME 2 per filogenia
+  long_description: " Plugin QIIME 2 per ricostruzione filogenetica e operazioni su
+    alberi\n filogenetici.\n"
   release: sid
   description_md5: 7b1649a94bd76814078c247c136b4f5e
   license: unknown
