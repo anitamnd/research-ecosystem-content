@@ -14,22 +14,11 @@ registries:
 - entry: SCR_013019
   name: SciCrunch
 popcon:
-- insts: 41
-  olde: 32
-  recent: 8
-  vote: 1
+- insts: 39
+  olde: 30
+  recent: 7
+  vote: 2
 descr:
-- package: tracetuner
-  description: Fortolkning af DNA Sanger-sekventeringsdata
-  long_description: " Tracetunner er et værktøj for »base and quality«-kald af trace-filer
-    fra\n DNS-sekventeringsinstrumenter.\n Traditionel DNA-sekventering giver kurver
-    fra fire forskellige kanaler\n eller lette frekvenser, som et menneske eller (mere
-    sandsynligt) en maskine\n kan fortolke for at bestemme den faktiske base (A,C,G
-    eller T) og konfidens\n som dette er bestemt med.\n"
-  release: sid
-  description_md5: d56c7829d7a5945daa1a24f69d80ca62
-  license: unknown
-  blend: debian-med
 - package: tracetuner
   description: interpretation of DNA Sanger sequencing data
   long_description: " Tracetuner is a tool for base and quality calling of trace files
@@ -59,6 +48,17 @@ descr:
     software, which has been used by J. Craig\n Venter Institute's DNA Sequencing
     and Resequencing pipelines.\n .\n This package prepares an important piece of
     human history to be used\n with new data on new machines or to revisit older observations..\n"
+  release: sid
+  description_md5: d56c7829d7a5945daa1a24f69d80ca62
+  license: unknown
+  blend: debian-med
+- package: tracetuner
+  description: Fortolkning af DNA Sanger-sekventeringsdata
+  long_description: " Tracetunner er et værktøj for »base and quality«-kald af trace-filer
+    fra\n DNS-sekventeringsinstrumenter.\n Traditionel DNA-sekventering giver kurver
+    fra fire forskellige kanaler\n eller lette frekvenser, som et menneske eller (mere
+    sandsynligt) en maskine\n kan fortolke for at bestemme den faktiske base (A,C,G
+    eller T) og konfidens\n som dette er bestemt med.\n"
   release: sid
   description_md5: d56c7829d7a5945daa1a24f69d80ca62
   license: unknown

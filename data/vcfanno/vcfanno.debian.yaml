@@ -9,37 +9,20 @@ license: unknown
 blend: debian-med
 description_md5: e762099ab07ec0feedacd5a15d3514cf
 registries:
+- entry: OMICS_11863
+  name: OMICtools
 - entry: vcfanno
   name: bio.tools
 - entry: vcfanno
   name: conda:bioconda
-- entry: OMICS_11863
-  name: OMICtools
 bib:
 - key: doi
   value: 10.1186/s13059-016-0973-5
 popcon:
-- insts: 45
-  olde: 32
-  recent: 13
+- insts: 44
+  olde: 33
+  recent: 11
 descr:
-- package: vcfanno
-  description: Kommenter en VCF med andre VCF'er/BED'er/tabixed-filer
-  long_description: " Vcfanno gør, at du hurtigt kan kommentere din VCF med ethvert
-    antal INFO-felter fra ethvert antal VCF'er eller BED-filer. Bruger en simpel konfigurationsfil,
-    så brugeren kan angive kildekommenteringsfiler og felter og hvordan de vil blive
-    tilføjet til infoen for forespørgelses-VCF'en.\n .\n  * For VCF hentes værdier
-    efter navn fra INFO-feltet med specielle\n    tilfælde for ID og FILTER til at
-    hente fra disse VCF-kolonner\n  * For BED hentes værdier fra (1-basede) kolonnenummer\n\
-    \  * For BAM, dybde (antal) er »mapq« og »seq« i øjeblikket understøttet\n .\n\
-    \ Vcfanno er skrevet i Go og det understøtter tilpassede brugerskripter skrevet
-    i Lua. Programmet kan kommentere mere end 8.000 varianter per sekund med 34 kommenteringer
-    fra 9 filer på en anstændig bærbar og over 30 tusinde varianter per sekund via
-    12 processer på en server.\n"
-  release: sid
-  description_md5: e762099ab07ec0feedacd5a15d3514cf
-  license: unknown
-  blend: debian-med
 - package: vcfanno
   description: annotate a VCF with other VCFs/BEDs/tabixed files
   long_description: " Vcfanno allows you to quickly annotate your VCF with any number
@@ -53,6 +36,23 @@ descr:
     \ Lua. It can annotate more than 8000 variants per second with 34\n annotations
     from 9 files on a modest laptop and over 30K variants per\n second using 12 processes
     on a server.\n"
+  release: sid
+  description_md5: e762099ab07ec0feedacd5a15d3514cf
+  license: unknown
+  blend: debian-med
+- package: vcfanno
+  description: Kommenter en VCF med andre VCF'er/BED'er/tabixed-filer
+  long_description: " Vcfanno gør, at du hurtigt kan kommentere din VCF med ethvert
+    antal INFO-felter fra ethvert antal VCF'er eller BED-filer. Bruger en simpel konfigurationsfil,
+    så brugeren kan angive kildekommenteringsfiler og felter og hvordan de vil blive
+    tilføjet til infoen for forespørgelses-VCF'en.\n .\n  * For VCF hentes værdier
+    efter navn fra INFO-feltet med specielle\n    tilfælde for ID og FILTER til at
+    hente fra disse VCF-kolonner\n  * For BED hentes værdier fra (1-basede) kolonnenummer\n\
+    \  * For BAM, dybde (antal) er »mapq« og »seq« i øjeblikket understøttet\n .\n\
+    \ Vcfanno er skrevet i Go og det understøtter tilpassede brugerskripter skrevet
+    i Lua. Programmet kan kommentere mere end 8.000 varianter per sekund med 34 kommenteringer
+    fra 9 filer på en anstændig bærbar og over 30 tusinde varianter per sekund via
+    12 processer på en server.\n"
   release: sid
   description_md5: e762099ab07ec0feedacd5a15d3514cf
   license: unknown

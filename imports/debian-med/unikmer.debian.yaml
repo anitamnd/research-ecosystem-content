@@ -9,23 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: ae93c55c549e164962d5c9d4f0df42b0
 popcon:
-- insts: 30
-  olde: 21
-  recent: 9
+- insts: 28
+  olde: 20
+  recent: 8
 descr:
-- package: unikmer
-  description: Værktøjssæt for nukleinsyre k-mer-analyse
-  long_description: " Unikmer er en Golangpakke og et værktøjssæt for nukleinsyre
-    k-mer-analyse, der tilbyder funktioner inklusive set-operation k-mer'er valgfrit
-    med TaxID'er men uden antalsinformation.\n .\n K-mer'er er enten kodet (k<=32)
-    eller hashede (arbitrær k) i uint64 og serialiseret i binær fil med endelsen .unik.\n\
-    \ .\n TaxID'er kan tildeles når k-mer'er tælles fra genomsekvenser og LCA (Lowest
-    Common Ancestor) er beregnet via set-operationer inklusive beregning af fællesmængde,
-    kryds, set-forskel, unikke og gentagede k-mer'er.\n"
-  release: sid
-  description_md5: ae93c55c549e164962d5c9d4f0df42b0
-  license: unknown
-  blend: debian-med
 - package: unikmer
   description: Toolkit for nucleic acid k-mer analysis
   long_description: " unikmer is a golang package and a toolkit for nucleic acid k-mer\n\
@@ -35,6 +22,19 @@ descr:
     .unik.\n .\n TaxIDs can be assigned when counting k-mers from genome\n sequences,
     and LCA (Lowest Common Ancestor) is computed during set\n opertions including
     computing union, intersecton, set difference,\n unique and repeated k-mers.\n"
+  release: sid
+  description_md5: ae93c55c549e164962d5c9d4f0df42b0
+  license: unknown
+  blend: debian-med
+- package: unikmer
+  description: Værktøjssæt for nukleinsyre k-mer-analyse
+  long_description: " Unikmer er en Golangpakke og et værktøjssæt for nukleinsyre
+    k-mer-analyse, der tilbyder funktioner inklusive set-operation k-mer'er valgfrit
+    med TaxID'er men uden antalsinformation.\n .\n K-mer'er er enten kodet (k<=32)
+    eller hashede (arbitrær k) i uint64 og serialiseret i binær fil med endelsen .unik.\n\
+    \ .\n TaxID'er kan tildeles når k-mer'er tælles fra genomsekvenser og LCA (Lowest
+    Common Ancestor) er beregnet via set-operationer inklusive beregning af fællesmængde,
+    kryds, set-forskel, unikke og gentagede k-mer'er.\n"
   release: sid
   description_md5: ae93c55c549e164962d5c9d4f0df42b0
   license: unknown

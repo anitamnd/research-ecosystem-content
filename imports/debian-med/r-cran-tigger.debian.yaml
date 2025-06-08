@@ -18,20 +18,10 @@ bib:
   value: 10.1093/bioinformatics/btv359
 popcon:
 - insts: 55
-  olde: 44
-  recent: 8
+  olde: 43
+  recent: 9
   vote: 3
 descr:
-- package: r-cran-tigger
-  description: Udleder nye immunoglobulin-alleler fra Rep-Seq-data
-  long_description: " Sammenfatning: Udleder V-genotypen af et individ fra immunglobulin
-    (Ig)\n repertoire-sekventeringsdata (Rep-Seq), herunder påvisning af enhver begyndende
-    allel. Denne information bruges derefter til at rette eksisterende V-allelkald
-    blandt prøvesekvenserne.\n"
-  release: sid
-  description_md5: 7bedf1181b6cce84d2b1c1d9dac6be75
-  license: unknown
-  blend: debian-med
 - package: r-cran-tigger
   description: Infers new Immunoglobulin alleles from Rep-Seq Data
   long_description: " Summary: Infers the V genotype of an individual from immunoglobulin
@@ -59,6 +49,16 @@ descr:
     of the junction region\n  * Germline Ig sequences in IMGT-gapped fasta format
     (e.g., as those\n    downloaded from IMGT/GENE-DB)\n .\n The former can be created
     through the use of IMGT/HighV-QUEST and\n Change-O.\n"
+  release: sid
+  description_md5: 7bedf1181b6cce84d2b1c1d9dac6be75
+  license: unknown
+  blend: debian-med
+- package: r-cran-tigger
+  description: Udleder nye immunoglobulin-alleler fra Rep-Seq-data
+  long_description: " Sammenfatning: Udleder V-genotypen af et individ fra immunglobulin
+    (Ig)\n repertoire-sekventeringsdata (Rep-Seq), herunder påvisning af enhver begyndende
+    allel. Denne information bruges derefter til at rette eksisterende V-allelkald
+    blandt prøvesekvenserne.\n"
   release: sid
   description_md5: 7bedf1181b6cce84d2b1c1d9dac6be75
   license: unknown

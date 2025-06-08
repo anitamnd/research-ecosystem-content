@@ -11,10 +11,10 @@ description_md5: 9a10717d68a69dfaff1354fa2282b503
 registries:
 - entry: OMICS_01022
   name: OMICtools
-- entry: ugene
-  name: bio.tools
 - entry: SCR_005579
   name: SciCrunch
+- entry: ugene
+  name: bio.tools
 bib:
 - key: doi
   value: 10.1093/bioinformatics/bts091
@@ -27,16 +27,17 @@ bib:
 tags:
 - tag: uitoolkit::qt
 popcon:
-- insts: 16
-  olde: 10
-  recent: 6
+- insts: 14
+  olde: 9
+  recent: 5
 descr:
 - package: ugene
-  description: Integreret værktøjssæt for bioinformatik
-  long_description: " Unipro UGENE er et visuel miljø for DNA- og proteinsekvensanalyse
-    til flere platforme. UGENE integrerer de vigtigste beregningsmæssige bioinformatik-algoritmer
-    og tilbyder en nem brugerflade til at udføre kompleks analyse af genomdata. En
-    af hovedfunktionerne i UGENE er en designer af egne arbejdsforløb indenfor bioinformatik.\n"
+  description: toolkit integrato per bioinformatica
+  long_description: " Unipro UGENE è un ambiente visuale multipiattaforma per analisi
+    di sequenze\n di DNA e proteine. UGENE integra i più importanti algoritmi di calcolo
+    per\n bioinformatica e fornisce una GUI facile da usare per effettuare analisi\n\
+    \ complesse dei dati genomici. Una delle funzionalità principali di UGENE è\n\
+    \ uno strumento di progettazione per flussi di lavoro personalizzati per\n bioinformatica.\n"
   release: sid
   description_md5: 9a10717d68a69dfaff1354fa2282b503
   license: unknown
@@ -53,12 +54,11 @@ descr:
   license: unknown
   blend: debian-med
 - package: ugene
-  description: toolkit integrato per bioinformatica
-  long_description: " Unipro UGENE è un ambiente visuale multipiattaforma per analisi
-    di sequenze\n di DNA e proteine. UGENE integra i più importanti algoritmi di calcolo
-    per\n bioinformatica e fornisce una GUI facile da usare per effettuare analisi\n\
-    \ complesse dei dati genomici. Una delle funzionalità principali di UGENE è\n\
-    \ uno strumento di progettazione per flussi di lavoro personalizzati per\n bioinformatica.\n"
+  description: Integreret værktøjssæt for bioinformatik
+  long_description: " Unipro UGENE er et visuel miljø for DNA- og proteinsekvensanalyse
+    til flere platforme. UGENE integrerer de vigtigste beregningsmæssige bioinformatik-algoritmer
+    og tilbyder en nem brugerflade til at udføre kompleks analyse af genomdata. En
+    af hovedfunktionerne i UGENE er en designer af egne arbejdsforløb indenfor bioinformatik.\n"
   release: sid
   description_md5: 9a10717d68a69dfaff1354fa2282b503
   license: unknown

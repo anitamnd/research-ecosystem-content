@@ -14,16 +14,17 @@ registries:
 - entry: r-seqinr
   name: conda:conda-forge
 popcon:
-- insts: 311
-  olde: 235
-  recent: 30
-  vote: 46
+- insts: 322
+  nofiles: 1
+  olde: 241
+  recent: 33
+  vote: 47
 descr:
 - package: r-cran-seqinr
-  description: GNU R-biologiske sekvenser - indhentelse og analyse
-  long_description: " Undersøgende dataanalyse og datavisualisering for biologiske
-    sekvensdata (DNA og protein). Indeholder også redskaber for sekvensdatahåndtering
-    under ACNUC-systemet.\n"
+  description: recupero e analisi di sequenze biologiche per GNU R
+  long_description: " Analisi esplorativa e visualizzazione dei dati per dati di sequenze\n\
+    \ biologiche (DNA e proteine). Include anche utilità per gestione di dati di\n\
+    \ sequenze nel sistema ACNUC.\n"
   release: sid
   description_md5: 789b7410478a6d5a82b2022848198c03
   license: unknown
@@ -38,10 +39,10 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-seqinr
-  description: recupero e analisi di sequenze biologiche per GNU R
-  long_description: " Analisi esplorativa e visualizzazione dei dati per dati di sequenze\n\
-    \ biologiche (DNA e proteine). Include anche utilità per gestione di dati di\n\
-    \ sequenze nel sistema ACNUC.\n"
+  description: GNU R-biologiske sekvenser - indhentelse og analyse
+  long_description: " Undersøgende dataanalyse og datavisualisering for biologiske
+    sekvensdata (DNA og protein). Indeholder også redskaber for sekvensdatahåndtering
+    under ACNUC-systemet.\n"
   release: sid
   description_md5: 789b7410478a6d5a82b2022848198c03
   license: unknown

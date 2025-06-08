@@ -12,21 +12,10 @@ registries:
 - entry: cigar
   name: conda:bioconda
 popcon:
-- insts: 38
-  olde: 29
-  recent: 9
+- insts: 35
+  olde: 28
+  recent: 7
 descr:
-- package: python3-cigar
-  description: Manipuler SAM cigar-strenge
-  long_description: " Cigar er et simpelt Python 3-bibliotek til at håndtere cigar-strenge.
-    Den mest nyttige funktion nu er soft-masking fra venstre eller højre. Dette gør
-    det muligt at justere en SAM-post ved kun at ændre cigar-strengen til soft-mask
-    et antal af baser, så at resten af SAM-posten (pos, tlen, etc.) forbliver gyldig,
-    men nedstrømsværktøjer vil ikke medtage de soft-maskede baser i fremtidige analyser.\n"
-  release: sid
-  description_md5: b4182d74f6679e8a23e9a2c0583b79f2
-  license: unknown
-  blend: debian-med
 - package: python3-cigar
   description: manipulate SAM cigar strings
   long_description: " Cigar is a simple Python3 library for dealing with cigar strings.
@@ -35,6 +24,17 @@ descr:
     number\n of bases such that the rest of the SAM record (pos, tlen, etc.) remain
     valid,\n but downstream tools will not consider the soft-masked bases in further\n\
     \ analysis.\n"
+  release: sid
+  description_md5: b4182d74f6679e8a23e9a2c0583b79f2
+  license: unknown
+  blend: debian-med
+- package: python3-cigar
+  description: Manipuler SAM cigar-strenge
+  long_description: " Cigar er et simpelt Python 3-bibliotek til at håndtere cigar-strenge.
+    Den mest nyttige funktion nu er soft-masking fra venstre eller højre. Dette gør
+    det muligt at justere en SAM-post ved kun at ændre cigar-strengen til soft-mask
+    et antal af baser, så at resten af SAM-posten (pos, tlen, etc.) forbliver gyldig,
+    men nedstrømsværktøjer vil ikke medtage de soft-maskede baser i fremtidige analyser.\n"
   release: sid
   description_md5: b4182d74f6679e8a23e9a2c0583b79f2
   license: unknown

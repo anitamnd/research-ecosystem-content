@@ -11,9 +11,9 @@ registries:
 - entry: OMICS_01438
   name: OMICtools
 - entry: sina
-  name: conda:bioconda
-- entry: sina
   name: bio.tools
+- entry: sina
+  name: conda:bioconda
 bib:
 - key: doi
   value: 10.1093/bioinformatics/bts252

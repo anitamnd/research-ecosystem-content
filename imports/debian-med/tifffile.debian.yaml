@@ -9,28 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: bf0f1bc4c5d063a8ffc9875415f64dd2
 popcon:
-- insts: 11
-  olde: 10
+- insts: 12
+  olde: 11
   vote: 1
 descr:
-- package: tifffile
-  description: Læs og skriv billeddata fra og til TIFF-filer
-  long_description: " Billede og metadata kan læses fra filtyperne TIFF, BigTIFF,
-    OME-TIFF,\n STK, LSM, NIH, ImageJ, MicroManager, FluoView, SEQ og GEL.\n .\n Kun
-    et undersæt af TIFF-specifikationen er understøttet, hovedsagelig\n uden komprimering
-    og komprimeret med kvalitetstab 2** (0´til 6) bit-\n heltal, 16-, 32- og 64-bit
-    kommatal, gråskala og RGB(A)-billeder, som\n ofte bruges i biovidenskabelige billeder.
-    Specifikt er læsning af\n JPEG/CCITT-komprimerede billeddata eller EXIF/IPTC/GPS/XMP-metadata
-    ikke\n implementeret. Kun primære informationsposter læses for STK-, FluoView-,\n\
-    \ MicroManager- og NIH-billedformaterne.\n .\n TIFF, Tagged Image File Format,
-    er under kontrol af Adobe Systems. BigTiff\n tillader filer større end 4 GB. STK,
-    LSM, FluoView, SEQ, GEL og OME-TIFF er\n tilpassede udvidelser defineret af MetaMorph,
-    Carl Zeiss MicroImaging,\n Olympus, Media Cybernetics, Melecular Dynamics og Open
-    Microscopy\n Environment-konsortiet respektivt.\n"
-  release: buster
-  description_md5: bf0f1bc4c5d063a8ffc9875415f64dd2
-  license: unknown
-  blend: debian-med
 - package: tifffile
   description: Read and write image data from and to TIFF files
   long_description: " Image and meta-data can be read from TIFF, BigTIFF, OME-TIFF,
@@ -65,6 +47,24 @@ descr:
     estensioni personalizzate definite,\n rispettivamente, da MetaMorph, Carl Zeiss
     MicroImaging, Olympus, Media\n Cybernetics, Molecular Dynamics e il consorzio
     Open Microscopy Environment.\n"
+  release: buster
+  description_md5: bf0f1bc4c5d063a8ffc9875415f64dd2
+  license: unknown
+  blend: debian-med
+- package: tifffile
+  description: Læs og skriv billeddata fra og til TIFF-filer
+  long_description: " Billede og metadata kan læses fra filtyperne TIFF, BigTIFF,
+    OME-TIFF,\n STK, LSM, NIH, ImageJ, MicroManager, FluoView, SEQ og GEL.\n .\n Kun
+    et undersæt af TIFF-specifikationen er understøttet, hovedsagelig\n uden komprimering
+    og komprimeret med kvalitetstab 2** (0´til 6) bit-\n heltal, 16-, 32- og 64-bit
+    kommatal, gråskala og RGB(A)-billeder, som\n ofte bruges i biovidenskabelige billeder.
+    Specifikt er læsning af\n JPEG/CCITT-komprimerede billeddata eller EXIF/IPTC/GPS/XMP-metadata
+    ikke\n implementeret. Kun primære informationsposter læses for STK-, FluoView-,\n\
+    \ MicroManager- og NIH-billedformaterne.\n .\n TIFF, Tagged Image File Format,
+    er under kontrol af Adobe Systems. BigTiff\n tillader filer større end 4 GB. STK,
+    LSM, FluoView, SEQ, GEL og OME-TIFF er\n tilpassede udvidelser defineret af MetaMorph,
+    Carl Zeiss MicroImaging,\n Olympus, Media Cybernetics, Melecular Dynamics og Open
+    Microscopy\n Environment-konsortiet respektivt.\n"
   release: buster
   description_md5: bf0f1bc4c5d063a8ffc9875415f64dd2
   license: unknown

@@ -9,23 +9,38 @@ license: unknown
 blend: debian-med
 description_md5: 40e1f89c9bcba93a95bbe2a22558da25
 registries:
-- entry: bioconductor-iranges
-  name: conda:bioconda
 - entry: iranges
   name: bio.tools
+- entry: bioconductor-iranges
+  name: conda:bioconda
 popcon:
-- insts: 439
-  olde: 284
-  recent: 97
-  vote: 58
+- insts: 447
+  nofiles: 1
+  olde: 321
+  recent: 64
+  vote: 61
 descr:
 - package: r-bioc-iranges
-  description: GNU R - containere på lavt niveau til at lagre sæt af heltalsintervaller
-  long_description: " IRanges-klassen og dens udvidelser er containere på lavt niveau
-    for lagring af sæt af heltalsintervaller. Typisk brug af disse containere i biologi
-    er til at repræsentere et sæt af kromosomregioner. Mere specifikt vil udvidelser
-    for IRanges-klassen typisk tillage lagringen af yderligere information tilføjet
-    til hver kromosomregion samt en hierarkisk relation mellem disse regioner.\n"
+  description: conteneurs de bas niveau de GNU R de stockage de plages d’entiers
+  long_description: " La classe IRanges et ses extensions sont des conteneurs de bas
+    niveau pour\n stocker des ensembles de plages d’entiers. Une utilisation courante
+    de ces\n conteneurs en biologie est la représentation d’un ensemble de régions
+    de\n chromosome. Des extensions plus particulières de la classe IRanges\n permettent
+    le stockage d’informations supplémentaires pour chaque région\n de chromosome
+    ainsi que les relations hiérarchiques entre ces régions.\n"
+  release: sid
+  description_md5: 40e1f89c9bcba93a95bbe2a22558da25
+  license: unknown
+  blend: debian-med
+- package: r-bioc-iranges
+  description: contenitori a basso livello per memorizzare insiemi di intervalli
+    di interi per GNU R
+  long_description: " La classe IRanges e le sue estensioni sono contenitori a basso
+    livello per\n memorizzare insiemi di intervalli di interi. Un uso tipico di questi\n\
+    \ contenitori in biologia è per rappresentare un insieme di regioni di\n cromosomi.
+    Estensioni più specifiche della classe IRanges permetteranno\n tipicamente la
+    memorizzazione di informazioni aggiuntive allegate a\n ciascuna regione di cromosoma
+    e una relazione gerarchica tra tali regioni.\n"
   release: sid
   description_md5: 40e1f89c9bcba93a95bbe2a22558da25
   license: unknown
@@ -43,26 +58,13 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-iranges
-  description: conteneurs de bas niveau de GNU R de stockage de plages d’entiers
-  long_description: " La classe IRanges et ses extensions sont des conteneurs de bas
-    niveau pour\n stocker des ensembles de plages d’entiers. Une utilisation courante
-    de ces\n conteneurs en biologie est la représentation d’un ensemble de régions
-    de\n chromosome. Des extensions plus particulières de la classe IRanges\n permettent
-    le stockage d’informations supplémentaires pour chaque région\n de chromosome
-    ainsi que les relations hiérarchiques entre ces régions.\n"
-  release: sid
-  description_md5: 40e1f89c9bcba93a95bbe2a22558da25
-  license: unknown
-  blend: debian-med
-- package: r-bioc-iranges
-  description: contenitori a basso livello per memorizzare insiemi di intervalli di
-    interi per GNU R
-  long_description: " La classe IRanges e le sue estensioni sono contenitori a basso
-    livello per\n memorizzare insiemi di intervalli di interi. Un uso tipico di questi\n\
-    \ contenitori in biologia è per rappresentare un insieme di regioni di\n cromosomi.
-    Estensioni più specifiche della classe IRanges permetteranno\n tipicamente la
-    memorizzazione di informazioni aggiuntive allegate a\n ciascuna regione di cromosoma
-    e una relazione gerarchica tra tali regioni.\n"
+  description: GNU R - containere på lavt niveau til at lagre sæt af 
+    heltalsintervaller
+  long_description: " IRanges-klassen og dens udvidelser er containere på lavt niveau
+    for lagring af sæt af heltalsintervaller. Typisk brug af disse containere i biologi
+    er til at repræsentere et sæt af kromosomregioner. Mere specifikt vil udvidelser
+    for IRanges-klassen typisk tillage lagringen af yderligere information tilføjet
+    til hver kromosomregion samt en hierarkisk relation mellem disse regioner.\n"
   release: sid
   description_md5: 40e1f89c9bcba93a95bbe2a22558da25
   license: unknown

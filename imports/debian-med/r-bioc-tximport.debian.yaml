@@ -19,22 +19,11 @@ bib:
 - key: doi
   value: 10.12688/f1000research.7563.1
 popcon:
-- insts: 79
+- insts: 80
   olde: 66
   recent: 10
-  vote: 3
+  vote: 4
 descr:
-- package: r-bioc-tximport
-  description: Estimater på transkriptniveau for biologisk sekventering
-  long_description: " Importerer overflod på transkriptniveau, estimeret antal og
-    transkriptlængder og summerer i matricer for brug med nedstrøms gen-niveau analysepakker.
-    Gennemsnitlig transkriptlængde, vægtet med eksempel-specifik transkriptoverflodsestimater,
-    tilbydes som en matrix, der kan bruges som en forskydning for forskellige udtryk
-    for tællinger på genniveau.\n"
-  release: sid
-  description_md5: 67ddfa5cda9faa1c977a2033e259c7d1
-  license: unknown
-  blend: debian-med
 - package: r-bioc-tximport
   description: transcript-level estimates for biological sequencing
   long_description: " Imports transcript-level abundance, estimated counts and\n transcript
@@ -42,6 +31,17 @@ descr:
     packages. Average transcript\n length, weighted by sample-specific transcript
     abundance\n estimates, is provided as a matrix which can be used as an\n offset
     for different expression of gene-level counts.\n"
+  release: sid
+  description_md5: 67ddfa5cda9faa1c977a2033e259c7d1
+  license: unknown
+  blend: debian-med
+- package: r-bioc-tximport
+  description: Estimater på transkriptniveau for biologisk sekventering
+  long_description: " Importerer overflod på transkriptniveau, estimeret antal og
+    transkriptlængder og summerer i matricer for brug med nedstrøms gen-niveau analysepakker.
+    Gennemsnitlig transkriptlængde, vægtet med eksempel-specifik transkriptoverflodsestimater,
+    tilbydes som en matrix, der kan bruges som en forskydning for forskellige udtryk
+    for tællinger på genniveau.\n"
   release: sid
   description_md5: 67ddfa5cda9faa1c977a2033e259c7d1
   license: unknown

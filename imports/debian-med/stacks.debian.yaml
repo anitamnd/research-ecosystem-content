@@ -14,18 +14,30 @@ registries:
 - entry: SCR_003184
   name: SciCrunch
 - entry: stacks
-  name: conda:bioconda
-- entry: stacks
   name: bio.tools
+- entry: stacks
+  name: conda:bioconda
 bib:
 - key: doi
   value: 10.1111/mec.12354
 popcon:
-- insts: 54
-  olde: 44
-  recent: 9
-  vote: 1
+- insts: 52
+  olde: 42
+  recent: 8
+  vote: 2
 descr:
+- package: stacks
+  description: pipeline for building loci from short-read DNA sequences
+  long_description: " Stacks is a software pipeline for building loci from short-read
+    sequences,\n such as those generated on the Illumina platform. Stacks was developed
+    to work\n with restriction enzyme-based data, such as RAD-seq, for the purpose
+    of\n building genetic maps and conducting population genomics and phylogeography.\n\
+    \ .\n Note that this package installs Stacks such that all commands must be run
+    as:\n $ stacks <cmdname> <args>\n"
+  release: sid
+  description_md5: 34654ddbf6119f78f131bb33b98f2f93
+  license: unknown
+  blend: debian-med
 - package: stacks
   description: Datakanal for bygning af loci fra kort-læs DNA-sekvenser
   long_description: " Stacks er en programdatakanal for bygning af loci (specifik
@@ -35,18 +47,6 @@ descr:
     \ indenfor befolkningsgener og fylogeografi.\n .\n Bemærk at denne pakke installerer
     Stacks på en måde der gør, at alle\n kommandoer skal køres som: $ stacks <kommandonavn>
     <parametre>\n"
-  release: sid
-  description_md5: 34654ddbf6119f78f131bb33b98f2f93
-  license: unknown
-  blend: debian-med
-- package: stacks
-  description: pipeline for building loci from short-read DNA sequences
-  long_description: " Stacks is a software pipeline for building loci from short-read
-    sequences,\n such as those generated on the Illumina platform. Stacks was developed
-    to work\n with restriction enzyme-based data, such as RAD-seq, for the purpose
-    of\n building genetic maps and conducting population genomics and phylogeography.\n\
-    \ .\n Note that this package installs Stacks such that all commands must be run
-    as:\n $ stacks <cmdname> <args>\n"
   release: sid
   description_md5: 34654ddbf6119f78f131bb33b98f2f93
   license: unknown

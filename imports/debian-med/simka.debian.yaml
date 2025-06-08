@@ -9,23 +9,23 @@ license: unknown
 blend: debian-med
 description_md5: e593cd47edbd69eccd4d3534a75a5191
 registries:
-- entry: simka
-  name: conda:bioconda
 - entry: OMICS_19218
   name: OMICtools
+- entry: simka
+  name: conda:bioconda
 bib:
 - key: doi
   value: 10.7717/peerj-cs.94
 popcon:
-- insts: 35
-  olde: 27
+- insts: 34
+  olde: 26
   recent: 8
 descr:
 - package: simka
-  description: Komparativ metagenomikmetode dedikeret til NGS-datasæt
-  long_description: " Simka er et de nove-komparativt metagenom-værktøj. Simka repræsenterer
-    hvert datasæt som et k-mer-spektrum og beregner flere klassiske økologiske afstande
-    mellem dem.\n"
+  description: metodo metagenomico comparativo dedicato a insiemi di dati NGS
+  long_description: " Simka è uno strumento metagenomico comparativo de novo. Simka
+    rappresenta\n ciascun insieme di dati come spettro di k-meri e calcola svariate
+    distanze\n ecologiche classiche tra essi.\n"
   release: sid
   description_md5: e593cd47edbd69eccd4d3534a75a5191
   license: unknown
@@ -40,19 +40,19 @@ descr:
   license: unknown
   blend: debian-med
 - package: simka
-  description: metodo metagenomico comparativo dedicato a insiemi di dati NGS
-  long_description: " Simka è uno strumento metagenomico comparativo de novo. Simka
-    rappresenta\n ciascun insieme di dati come spettro di k-meri e calcola svariate
-    distanze\n ecologiche classiche tra essi.\n"
+  description: Porównawcza metoda metagenomiki dedykowana zbiorom danych NGS
+  long_description: " Simka jest nowym narzędziem do metagenomiki porównawczej. Simka\n\
+    \ przedstawia każdy zbiór danych jako widmo k-merowe i oblicza kilka\n klasycznych
+    odległości ekologicznych między nimi.\n"
   release: sid
   description_md5: e593cd47edbd69eccd4d3534a75a5191
   license: unknown
   blend: debian-med
 - package: simka
-  description: Porównawcza metoda metagenomiki dedykowana zbiorom danych NGS
-  long_description: " Simka jest nowym narzędziem do metagenomiki porównawczej. Simka\n\
-    \ przedstawia każdy zbiór danych jako widmo k-merowe i oblicza kilka\n klasycznych
-    odległości ekologicznych między nimi.\n"
+  description: Komparativ metagenomikmetode dedikeret til NGS-datasæt
+  long_description: " Simka er et de nove-komparativt metagenom-værktøj. Simka repræsenterer
+    hvert datasæt som et k-mer-spektrum og beregner flere klassiske økologiske afstande
+    mellem dem.\n"
   release: sid
   description_md5: e593cd47edbd69eccd4d3534a75a5191
   license: unknown

@@ -15,23 +15,10 @@ registries:
   name: conda:conda-forge
 popcon:
 - insts: 66
-  olde: 48
-  recent: 12
+  olde: 50
+  recent: 10
   vote: 6
 descr:
-- package: r-cran-sdmtools
-  description: Species Distribution Modelling Tools
-  long_description: " Denne pakke tilbyder et sæt af værktøjer til efterbehandling
-    af resultatet\n af artdistributionsmodelopbygningsøvelser. Det inkluderer nye
-    metoder til\n at sammenligne modeller og registrere ændringer i distributioner
-    over tid.\n Derudover er der metoder til visualisering af resultatet, valg af
-    tærskler,\n beregningsmetoder for præcision og landskabsfragmentationsstatistik
-    etc.\n .\n Denne pakke blev gjort muligt delvist med finansiel støtte fra Australian\n\
-    \ Research Council & ARC Research Network for Earth System Science.\n"
-  release: sid
-  description_md5: 275b49f177f2d98142f9c42bcde5f564
-  license: unknown
-  blend: debian-med
 - package: r-cran-sdmtools
   description: Species Distribution Modelling Tools
   long_description: " This package provides a set of tools for post processing the\n\
@@ -41,6 +28,19 @@ descr:
     measures of accuracy and landscape fragmentation\n statistics, etc.\n .\n This
     package was made possible in part by financial\n support from the Australian Research
     Council & ARC Research Network for\n Earth System Science.\n"
+  release: sid
+  description_md5: 275b49f177f2d98142f9c42bcde5f564
+  license: unknown
+  blend: debian-med
+- package: r-cran-sdmtools
+  description: Species Distribution Modelling Tools
+  long_description: " Denne pakke tilbyder et sæt af værktøjer til efterbehandling
+    af resultatet\n af artdistributionsmodelopbygningsøvelser. Det inkluderer nye
+    metoder til\n at sammenligne modeller og registrere ændringer i distributioner
+    over tid.\n Derudover er der metoder til visualisering af resultatet, valg af
+    tærskler,\n beregningsmetoder for præcision og landskabsfragmentationsstatistik
+    etc.\n .\n Denne pakke blev gjort muligt delvist med finansiel støtte fra Australian\n\
+    \ Research Council & ARC Research Network for Earth System Science.\n"
   release: sid
   description_md5: 275b49f177f2d98142f9c42bcde5f564
   license: unknown

@@ -15,25 +15,11 @@ bib:
   rank: 1
   value: 10.1093/bioinformatics/btl647
 popcon:
-- insts: 22
-  olde: 13
-  recent: 8
+- insts: 21
+  olde: 11
+  recent: 9
   vote: 1
 descr:
-- package: python3-ncls
-  description: Datastruktur for forespørgsler for intervaloverlap
-  long_description: " Nested Containment List er en datastruktur for forespørgsler
-    for intervaloverlap, som intervaltræet. Det er normalt væsentlig hurtigere end
-    intervaltræet både for bygning og opslag.\n .\n Implementeringen her er en revideret
-    version af den brugt i det nu ikke længere funktionsdygtige PyGr-bibliotek, der
-    døde af datafald. Det er nu gjort mindre hukommelsesforbrugende og omslagsfunktioner
-    tillader jobforespørgsler til NCLS'en for yderligere hastighedsforbedringer.\n\
-    \ .\n Denne pakke blev implementeret til at være hjørnestenen i PyRanges-projektet,
-    men blev gjort tilgængelig for Pythons fællesskab som et uafhængigt bibliotek.\n"
-  release: sid
-  description_md5: f83ff25bd91a8faf650911a9f2c77527
-  license: unknown
-  blend: debian-med
 - package: python3-ncls
   description: datastructure for interval overlap queries
   long_description: " The Nested Containment List is a datastructure for interval
@@ -44,6 +30,20 @@ descr:
     wrapper functions allow batch-querying\n the NCLS for further speed gains.\n .\n\
     \ This package was implemented to be the cornerstone of the PyRanges project,\n\
     \ but was made available to the Python community as a stand-alone library.\n"
+  release: sid
+  description_md5: f83ff25bd91a8faf650911a9f2c77527
+  license: unknown
+  blend: debian-med
+- package: python3-ncls
+  description: Datastruktur for forespørgsler for intervaloverlap
+  long_description: " Nested Containment List er en datastruktur for forespørgsler
+    for intervaloverlap, som intervaltræet. Det er normalt væsentlig hurtigere end
+    intervaltræet både for bygning og opslag.\n .\n Implementeringen her er en revideret
+    version af den brugt i det nu ikke længere funktionsdygtige PyGr-bibliotek, der
+    døde af datafald. Det er nu gjort mindre hukommelsesforbrugende og omslagsfunktioner
+    tillader jobforespørgsler til NCLS'en for yderligere hastighedsforbedringer.\n\
+    \ .\n Denne pakke blev implementeret til at være hjørnestenen i PyRanges-projektet,
+    men blev gjort tilgængelig for Pythons fællesskab som et uafhængigt bibliotek.\n"
   release: sid
   description_md5: f83ff25bd91a8faf650911a9f2c77527
   license: unknown

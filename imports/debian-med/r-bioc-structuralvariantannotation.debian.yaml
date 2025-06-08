@@ -9,30 +9,31 @@ license: unknown
 blend: debian-med
 description_md5: da0d30e1c2fddfc05ec9f7a5a97d4001
 registries:
-- entry: bioconductor-structuralvariantannotation
-  name: conda:bioconda
 - entry: structuralvariantannotation
   name: bio.tools
+- entry: bioconductor-structuralvariantannotation
+  name: conda:bioconda
 popcon:
-- insts: 11
-  olde: 11
+- insts: 13
+  olde: 12
+  recent: 1
 descr:
-- package: r-bioc-structuralvariantannotation
-  description: Variantannotationer for strukturelle varianter
-  long_description: " StructuralVariantAnnotation indeholder nyttige hjælpefunktioner
-    for håndtering af strukturelle varianter i VCF-format. Pakkerne indeholder funktioner
-    til at fortolke VCF'er fra et antal populære kaldere samt funktioner til at håndtere
-    stoppunkter involverende to separate genomiske loci kodet som GRange-objekter.\n"
-  release: sid
-  description_md5: da0d30e1c2fddfc05ec9f7a5a97d4001
-  license: unknown
-  blend: debian-med
 - package: r-bioc-structuralvariantannotation
   description: Variant annotations for structural variants
   long_description: " StructuralVariantAnnotation contains useful helper\n functions
     for dealing with structural variants in VCF format.\n The packages contains functions
     for parsing VCFs from a number\n of popular callers as well as functions for dealing
     with\n breakpoints involving two separate genomic loci encoded as\n GRanges objects.\n"
+  release: sid
+  description_md5: da0d30e1c2fddfc05ec9f7a5a97d4001
+  license: unknown
+  blend: debian-med
+- package: r-bioc-structuralvariantannotation
+  description: Variantannotationer for strukturelle varianter
+  long_description: " StructuralVariantAnnotation indeholder nyttige hjælpefunktioner
+    for håndtering af strukturelle varianter i VCF-format. Pakkerne indeholder funktioner
+    til at fortolke VCF'er fra et antal populære kaldere samt funktioner til at håndtere
+    stoppunkter involverende to separate genomiske loci kodet som GRange-objekter.\n"
   release: sid
   description_md5: da0d30e1c2fddfc05ec9f7a5a97d4001
   license: unknown

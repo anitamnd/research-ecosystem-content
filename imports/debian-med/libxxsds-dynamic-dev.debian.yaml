@@ -9,30 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: c1a74b0a7b1fefea57cc9fb1b04f6006
 popcon:
-- insts: 3
-  olde: 2
+- insts: 4
+  olde: 3
   recent: 1
 descr:
-- package: libxxsds-dynamic-dev
-  description: Succinct og komprimerede fuldt dynamiske datastrukturer - bibliotek
-  long_description: " Dette bibliotek tilbyder plads- og tidseffektive implementeringer
-    af nogle grundlæggende succinct/komprimerede dynamic-datastrukturer. Biblioteket
-    har kun teksthovedfiler, dvs. er kun inklusion.\n .\n DYNAMIC har:\n .\n  * En
-    succinct Searchable Partial Sums med Indels (SPSI)\n  * En Succinct dynamic-bitvektor\n\
-    \  * En gap-komprimeret dynamic-bitvektor\n  * En dynamic-tynd vektor (med heltal)\n\
-    \  * En dynamic-streng\n  * En run-length kodet dynamic-streng\n  * Et dynamic
-    (kun venstre-udvidet) entropy/run-length komprimeret BWT\n  * Et dynamic (kun
-    venstre-udvidet) entropy/run-length komprimeret\n    FM-indeks.\n .\n Algoritmer\n\
-    \ .\n  * To algoritmer til build LZ77 i gentagelsesopmærksomme RAM-arbejdsrum\n\
-    \  * En algoritme til build the BWT i run-compressed plads\n  * En algoritme til
-    build LZ77 i nH0(2+o(1)) plads og n * log n *\n    H0-tid\n  * En algoritme til
-    build BWT i high-order komprimeret plads\n .\n SPSI-strukturen er byggeblokken
-    hvorpå alle andre strukturer er baseret. denne struktur er implementeret med cache-effektive
-    B-træer.\n"
-  release: sid
-  description_md5: c1a74b0a7b1fefea57cc9fb1b04f6006
-  license: unknown
-  blend: debian-med
 - package: libxxsds-dynamic-dev
   description: succinct and compressed fully-dynamic data structures library
   long_description: " This library offers space- and time-efficient implementations
@@ -75,6 +55,27 @@ descr:
     2015 (the paper discusses a theoretically faster variant)\n .\n The SPSI structure
     is the building block on which all other structures\n are based. This structure
     is implemented with cache-efficient B-trees.\n"
+  release: sid
+  description_md5: c1a74b0a7b1fefea57cc9fb1b04f6006
+  license: unknown
+  blend: debian-med
+- package: libxxsds-dynamic-dev
+  description: Succinct og komprimerede fuldt dynamiske datastrukturer - 
+    bibliotek
+  long_description: " Dette bibliotek tilbyder plads- og tidseffektive implementeringer
+    af nogle grundlæggende succinct/komprimerede dynamic-datastrukturer. Biblioteket
+    har kun teksthovedfiler, dvs. er kun inklusion.\n .\n DYNAMIC har:\n .\n  * En
+    succinct Searchable Partial Sums med Indels (SPSI)\n  * En Succinct dynamic-bitvektor\n\
+    \  * En gap-komprimeret dynamic-bitvektor\n  * En dynamic-tynd vektor (med heltal)\n\
+    \  * En dynamic-streng\n  * En run-length kodet dynamic-streng\n  * Et dynamic
+    (kun venstre-udvidet) entropy/run-length komprimeret BWT\n  * Et dynamic (kun
+    venstre-udvidet) entropy/run-length komprimeret\n    FM-indeks.\n .\n Algoritmer\n\
+    \ .\n  * To algoritmer til build LZ77 i gentagelsesopmærksomme RAM-arbejdsrum\n\
+    \  * En algoritme til build the BWT i run-compressed plads\n  * En algoritme til
+    build LZ77 i nH0(2+o(1)) plads og n * log n *\n    H0-tid\n  * En algoritme til
+    build BWT i high-order komprimeret plads\n .\n SPSI-strukturen er byggeblokken
+    hvorpå alle andre strukturer er baseret. denne struktur er implementeret med cache-effektive
+    B-træer.\n"
   release: sid
   description_md5: c1a74b0a7b1fefea57cc9fb1b04f6006
   license: unknown

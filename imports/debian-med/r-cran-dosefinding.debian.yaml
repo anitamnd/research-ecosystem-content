@@ -12,17 +12,20 @@ bib:
 - key: doi
   value: 10.1080/10543400600860428
 popcon:
-- insts: 35
-  olde: 31
+- insts: 39
+  olde: 34
+  recent: 1
   vote: 4
 descr:
 - package: r-cran-dosefinding
-  description: Planlægge og analysere Dose Finding-eksperimenter
-  long_description: " DoseFinding GNU R-pakken tilbyder funktioner for design og analyse
-    af dose-finding-eksperimenter (med fokus på farmaceutiske fase II-kliniske forsøg).
-    Tilbyder funktioner for: flerkontrasttest, tilpasning af ikkelineære dosis-svar
-    modeller (via bayesiansk og ikkebayesiansk estimering), beregning af optimale
-    design og en implementering af MCPMod-metoden.\n"
+  description: pianificazione e analisi di esperimenti di determinazione della 
+    dose
+  long_description: " Il pacchetto GNU R DoseFinding fornisce funzioni per la progettazione
+    e\n l'analisi di esperimenti di determinazione della dose (con attenzione agli\n\
+    \ studi clinici farmaceutici di fase II). Fornisce funzioni per: test con\n contrasti
+    multipli, fit di modelli dose-risposta non lineari (usando stime\n bayesiane e
+    non bayesiane), calcolo del design ottimale e implementazione\n della metodologia
+    MCPMod.\n"
   release: sid
   description_md5: 50e81e3e07bd35ca8f4be6d3dbd424d7
   license: unknown
@@ -39,13 +42,12 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-dosefinding
-  description: pianificazione e analisi di esperimenti di determinazione della dose
-  long_description: " Il pacchetto GNU R DoseFinding fornisce funzioni per la progettazione
-    e\n l'analisi di esperimenti di determinazione della dose (con attenzione agli\n\
-    \ studi clinici farmaceutici di fase II). Fornisce funzioni per: test con\n contrasti
-    multipli, fit di modelli dose-risposta non lineari (usando stime\n bayesiane e
-    non bayesiane), calcolo del design ottimale e implementazione\n della metodologia
-    MCPMod.\n"
+  description: Planlægge og analysere Dose Finding-eksperimenter
+  long_description: " DoseFinding GNU R-pakken tilbyder funktioner for design og analyse
+    af dose-finding-eksperimenter (med fokus på farmaceutiske fase II-kliniske forsøg).
+    Tilbyder funktioner for: flerkontrasttest, tilpasning af ikkelineære dosis-svar
+    modeller (via bayesiansk og ikkebayesiansk estimering), beregning af optimale
+    design og en implementering af MCPMod-metoden.\n"
   release: sid
   description_md5: 50e81e3e07bd35ca8f4be6d3dbd424d7
   license: unknown

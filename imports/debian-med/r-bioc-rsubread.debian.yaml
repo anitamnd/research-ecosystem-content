@@ -9,20 +9,20 @@ license: unknown
 blend: debian-med
 description_md5: c5d4f335de476a5d83afe6183ad19d81
 registries:
-- entry: bioconductor-rsubread
-  name: conda:bioconda
-- entry: rsubread
-  name: bio.tools
 - entry: OMICS_01255
   name: OMICtools
+- entry: rsubread
+  name: bio.tools
+- entry: bioconductor-rsubread
+  name: conda:bioconda
 bib:
 - key: doi
   value: 10.1093/nar/gkz114
 popcon:
-- insts: 112
-  olde: 106
-  recent: 1
-  vote: 5
+- insts: 111
+  olde: 105
+  recent: 2
+  vote: 4
 descr:
 - package: r-bioc-rsubread
   description: Subread Sequence Alignment and Counting for R

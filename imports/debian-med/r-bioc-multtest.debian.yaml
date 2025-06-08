@@ -9,31 +9,11 @@ license: unknown
 blend: debian-med
 description_md5: c4112391aa6882e8925f94048452c84f
 popcon:
-- insts: 75
-  olde: 62
-  recent: 8
+- insts: 76
+  olde: 61
+  recent: 10
   vote: 5
 descr:
-- package: r-bioc-multtest
-  description: Biocunductor resampling-baseret flerhypotesetest
-  long_description: " Ikke-parameteropsat bootstrap og permutationsresampling-baseret
-    flertestprocedurer (herunder empiriske Bayes-metoder) til kontrol af den familiemæssige
-    fejlrate (FWER), generaliseret familiemæssig fejlrate\n (gFWER), halesandsynlighed
-    for andelen af ​​falske positive (TPPFP), og falsk opdagelsesrate (FDR). Flere
-    valg af bootstrap-baseret null-distribution implementeres (centreret, centreret
-    og skaleret, kvantil-transformeret). Enkelttrins og trinvise metoder er tilgængelige.
-    Test baseret på en række forskellige t- og F-statistikker (inklusive t-statistikker
-    også baseret på regressionsparametre fra lineære modeller og overlevelsesmodeller
-    som dem, der er baseret på korrelationsparametre) er inkluderet. Ved prøvehypoteser
-    med t-statistik, kan brugerne også vælge en potentielt hurtigere nulfordeling
-    som er multivariat normal med middel nul og varianskovariansmatrix afledt af vektorpåvirkningsfunktionen.
-    Resultater rapporteres i form af justerede p-værdier, konfidensregioner og teststatistiske
-    beskæringer. Procedurerne er direkte gældende for identifikation af differentielt
-    udtrykte gener i DNA-mikrotabeleksperimenter.\n"
-  release: sid
-  description_md5: c4112391aa6882e8925f94048452c84f
-  license: unknown
-  blend: debian-med
 - package: r-bioc-multtest
   description: Bioconductor resampling-based multiple hypothesis testing
   long_description: " Non-parametric bootstrap and permutation resampling-based multiple\n\
@@ -56,7 +36,28 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-multtest
-  description: test d’hypothèses multiples basé sur le ré-échantillonnage de Bioconductor
+  description: Biocunductor resampling-baseret flerhypotesetest
+  long_description: " Ikke-parameteropsat bootstrap og permutationsresampling-baseret
+    flertestprocedurer (herunder empiriske Bayes-metoder) til kontrol af den familiemæssige
+    fejlrate (FWER), generaliseret familiemæssig fejlrate\n (gFWER), halesandsynlighed
+    for andelen af ​​falske positive (TPPFP), og falsk opdagelsesrate (FDR). Flere
+    valg af bootstrap-baseret null-distribution implementeres (centreret, centreret
+    og skaleret, kvantil-transformeret). Enkelttrins og trinvise metoder er tilgængelige.
+    Test baseret på en række forskellige t- og F-statistikker (inklusive t-statistikker
+    også baseret på regressionsparametre fra lineære modeller og overlevelsesmodeller
+    som dem, der er baseret på korrelationsparametre) er inkluderet. Ved prøvehypoteser
+    med t-statistik, kan brugerne også vælge en potentielt hurtigere nulfordeling
+    som er multivariat normal med middel nul og varianskovariansmatrix afledt af vektorpåvirkningsfunktionen.
+    Resultater rapporteres i form af justerede p-værdier, konfidensregioner og teststatistiske
+    beskæringer. Procedurerne er direkte gældende for identifikation af differentielt
+    udtrykte gener i DNA-mikrotabeleksperimenter.\n"
+  release: sid
+  description_md5: c4112391aa6882e8925f94048452c84f
+  license: unknown
+  blend: debian-med
+- package: r-bioc-multtest
+  description: test d’hypothèses multiples basé sur le ré-échantillonnage de 
+    Bioconductor
   long_description: " Ce paquet concerne les procédures de bootstrap non paramétrique
     et de\n tests de permutation multiple basé sur le ré-échantillonnage (incluant
     les\n méthodes empiriques de Bayes) pour contrôler le taux d’erreur FEWR\n (family-wise

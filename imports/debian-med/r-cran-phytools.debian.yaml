@@ -17,21 +17,11 @@ bib:
 - key: doi
   value: 10.1111/j.2041-210X.2011.00169.x
 popcon:
-- insts: 80
-  olde: 65
-  recent: 8
-  vote: 7
+- insts: 82
+  olde: 64
+  recent: 10
+  vote: 8
 descr:
-- package: r-cran-phytools
-  description: GNU R-fylogenetiske værktøjer til komparativ biologi
-  long_description: " En bred vifte af funktioner til fylogenetisk analyse. Funktionalitet
-    er koncentreret i fylogenetisk komparativ biologi, men inkluderer også en forskelligartet
-    række metoder til visualisering, manipulation, læsning eller skrivning og endda
-    udlede fylogenetiske træer og data.\n"
-  release: sid
-  description_md5: f66836da7553b77091704af997f63b10
-  license: unknown
-  blend: debian-med
 - package: r-cran-phytools
   description: GNU R phylogenetic tools for comparative biology
   long_description: " A wide range of functions for phylogenetic analysis. Functionality
@@ -51,6 +41,16 @@ descr:
     \ simulating trees and phylogenetic data under a range of models, and for\n a
     wide variety of other manipulations and analyses that phylogenetic\n biologists
     might find useful in their research.\n"
+  release: sid
+  description_md5: f66836da7553b77091704af997f63b10
+  license: unknown
+  blend: debian-med
+- package: r-cran-phytools
+  description: GNU R-fylogenetiske værktøjer til komparativ biologi
+  long_description: " En bred vifte af funktioner til fylogenetisk analyse. Funktionalitet
+    er koncentreret i fylogenetisk komparativ biologi, men inkluderer også en forskelligartet
+    række metoder til visualisering, manipulation, læsning eller skrivning og endda
+    udlede fylogenetiske træer og data.\n"
   release: sid
   description_md5: f66836da7553b77091704af997f63b10
   license: unknown

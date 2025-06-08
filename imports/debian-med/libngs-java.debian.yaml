@@ -9,32 +9,34 @@ license: unknown
 blend: debian-med
 description_md5: 7e9c9b034df5ad8390e688ab3dbb4b4b
 registries:
-- entry: sra-tools
-  name: bio.tools
 - entry: OMICS_03771
   name: OMICtools
+- entry: sra-tools
+  name: bio.tools
 - entry: sra-tools
   name: conda:bioconda
 bib:
 - key: doi
   value: 10.1093/nar/gkp998
 popcon:
-- insts: 353
-  nofiles: 47
-  olde: 255
-  recent: 17
-  vote: 34
+- insts: 345
+  nofiles: 48
+  olde: 262
+  recent: 10
+  vote: 25
 descr:
 - package: libngs-java
-  description: Next Generation Sequencing-sprogbindinger - Javabindinger
-  long_description: " NGS er en ny for domænet specifik API for adgang til læsninger,
-    sammenligninger og ophob fra Next Generation Sequencing. Selve API'en er uafhængig
-    af en bestemt motorimplementering og understøtter brug af flere motorer samtidig.
-    Tilbyder også et bibliotek for bygning af nye »motorer«. Motoren for adgang til
-    SRA-data er indeholdt i søsterarkivet ncbi-vdb.\n .\n API'en er i øjeblikket udtrykt
-    i C++, Java og Pyton. Designet gør det muligt at vedligeholde en høj grad af lighed
-    mellem koden i et sprog og koden i et andet - specielt mellem C++ og Java.\n .\n\
-    \ Javabindinger.\n"
+  description: collegamenti a linguaggio per sequenziamento di prossima 
+    generazione (collegamenti Java)
+  long_description: " NGS è una nuova API, specifica per il dominio, per accedere
+    a letture,\n allineamenti e impilamenti prodotti da Next Generation Sequencing.
+    L'API\n stessa è indipendente da qualsiasi specifica implementazione del backend
+    e\n gestisce l'uso simultaneo di backend multipli. Fornisce anche una libreria\n\
+    \ per costruire nuovi \"motori\" di backend. Il motore per accedere a dati SRA\n\
+    \ è contenuto nel repository fratello ncbi-vdb.\n .\n L'API attualmente è espressa
+    nei linguaggi C++, Java e Python. La\n progettazione rende possibile mantenere
+    un alto grado di similarità tra il\n codice in un linguaggio e il codice in un
+    altro, specialmente tra C++ e Java.\n .\n Collegamenti Java.\n"
   release: sid
   description_md5: 7e9c9b034df5ad8390e688ab3dbb4b4b
   license: unknown
@@ -55,8 +57,22 @@ descr:
   license: unknown
   blend: debian-med
 - package: libngs-java
-  description: liaisons du langage de séquençage de nouvelle génération –⋅liaisons
-    Java
+  description: Next Generation Sequencing-sprogbindinger - Javabindinger
+  long_description: " NGS er en ny for domænet specifik API for adgang til læsninger,
+    sammenligninger og ophob fra Next Generation Sequencing. Selve API'en er uafhængig
+    af en bestemt motorimplementering og understøtter brug af flere motorer samtidig.
+    Tilbyder også et bibliotek for bygning af nye »motorer«. Motoren for adgang til
+    SRA-data er indeholdt i søsterarkivet ncbi-vdb.\n .\n API'en er i øjeblikket udtrykt
+    i C++, Java og Pyton. Designet gør det muligt at vedligeholde en høj grad af lighed
+    mellem koden i et sprog og koden i et andet - specielt mellem C++ og Java.\n .\n\
+    \ Javabindinger.\n"
+  release: sid
+  description_md5: 7e9c9b034df5ad8390e688ab3dbb4b4b
+  license: unknown
+  blend: debian-med
+- package: libngs-java
+  description: liaisons du langage de séquençage de nouvelle génération 
+    –⋅liaisons Java
   long_description: " NGS est une nouvelle interface dédiée pour accéder aux lectures,\n\
     \ alignements et fichiers au format pileup produits par les\n séquençages de nouvelle
     génération (Next Generation Sequencing). L'API\n elle-même ne dépend pas de l'implémentation
@@ -67,22 +83,6 @@ descr:
     exprimée en langages⋅C++,\n Java et Python. Cette conception rend possible le
     maintien d'un haut degré\n de similarité du code entre deux langages –⋅surtout
     entre⋅C++ et Java.\n .\n Ce paquet fournit les liaisons Java.\n"
-  release: sid
-  description_md5: 7e9c9b034df5ad8390e688ab3dbb4b4b
-  license: unknown
-  blend: debian-med
-- package: libngs-java
-  description: collegamenti a linguaggio per sequenziamento di prossima generazione
-    (collegamenti Java)
-  long_description: " NGS è una nuova API, specifica per il dominio, per accedere
-    a letture,\n allineamenti e impilamenti prodotti da Next Generation Sequencing.
-    L'API\n stessa è indipendente da qualsiasi specifica implementazione del backend
-    e\n gestisce l'uso simultaneo di backend multipli. Fornisce anche una libreria\n\
-    \ per costruire nuovi \"motori\" di backend. Il motore per accedere a dati SRA\n\
-    \ è contenuto nel repository fratello ncbi-vdb.\n .\n L'API attualmente è espressa
-    nei linguaggi C++, Java e Python. La\n progettazione rende possibile mantenere
-    un alto grado di similarità tra il\n codice in un linguaggio e il codice in un
-    altro, specialmente tra C++ e Java.\n .\n Collegamenti Java.\n"
   release: sid
   description_md5: 7e9c9b034df5ad8390e688ab3dbb4b4b
   license: unknown

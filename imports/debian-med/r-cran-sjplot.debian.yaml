@@ -9,24 +9,11 @@ license: unknown
 blend: debian-med
 description_md5: 53738bb4d85f75acf41acb96e6e5a455
 popcon:
-- insts: 150
-  olde: 131
-  recent: 3
-  vote: 16
+- insts: 151
+  olde: 130
+  recent: 4
+  vote: 17
 descr:
-- package: r-cran-sjplot
-  description: GNU R-datavisualisering for statistik indenfor social videnskab
-  long_description: " Samling af plot- og tabelfunktioner for datavisualisering. Resultater
-    for diverse statistiske analyser (der ofte bruges i sociale videnskaber) kan visualiseres
-    via denne pakke, inklusive simple og krydstabulerede frekvenser, histogrammer,
-    boksplot, (generaliserede) lineære modeller, blandede effektmodeller, principel
-    komponentanalyse og korrelationsmatricer, klyngeanalyser, punktplot, stakskalaer,
-    effektplot for regressionsmodeller (inklusive interaktionstermer) og meget mere.
-    Denne pakke understøtter data med etiketter.\n"
-  release: sid
-  description_md5: 53738bb4d85f75acf41acb96e6e5a455
-  license: unknown
-  blend: debian-med
 - package: r-cran-sjplot
   description: GNU R data visualization for statistics in social science
   long_description: " Collection of plotting and table output functions for data\n\
@@ -37,6 +24,19 @@ descr:
     cluster analyses, scatter plots,\n stacked scales, effects plots of regression
     models (including\n interaction terms) and much more. This package supports labelled
     data.\n"
+  release: sid
+  description_md5: 53738bb4d85f75acf41acb96e6e5a455
+  license: unknown
+  blend: debian-med
+- package: r-cran-sjplot
+  description: GNU R-datavisualisering for statistik indenfor social videnskab
+  long_description: " Samling af plot- og tabelfunktioner for datavisualisering. Resultater
+    for diverse statistiske analyser (der ofte bruges i sociale videnskaber) kan visualiseres
+    via denne pakke, inklusive simple og krydstabulerede frekvenser, histogrammer,
+    boksplot, (generaliserede) lineære modeller, blandede effektmodeller, principel
+    komponentanalyse og korrelationsmatricer, klyngeanalyser, punktplot, stakskalaer,
+    effektplot for regressionsmodeller (inklusive interaktionstermer) og meget mere.
+    Denne pakke understøtter data med etiketter.\n"
   release: sid
   description_md5: 53738bb4d85f75acf41acb96e6e5a455
   license: unknown

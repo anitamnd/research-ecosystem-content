@@ -14,21 +14,22 @@ registries:
 - entry: sumaclust
   name: conda:bioconda
 popcon:
-- insts: 40
-  olde: 32
+- insts: 38
+  olde: 30
   recent: 8
 descr:
 - package: sumaclust
-  description: Hurtig og præcis klyngeopsætning af genomsekvenser
-  long_description: " Med udviklingen af den næste generation af sekventering skal
-    effektive\n værktøjer håndterer millioner af sekvenser på en fornuftig tid. Sumaclust\n\
-    \ er et program udviklet af LECA. Sumaclust forsøger at klyngeopsætte\n sekvenser
-    på en måde som er hurtig og præcis på samme tid. Dette værktøj\n er blevet udviklet
-    som en tilpasning til den type af data som oprettes af\n DNA-metastregkodere,
-    dvs. fuldt ud sekventeret, korte markører. Sumaclust\n klyngeopsætter via de samme
-    klyngealgoritmer som UCLUST og CD-HIT. Denne\n algoritme er hovedsagelig nyttig
-    til at registrere de »fejlramte«\n sekvenser opretter under amplifikation og sekvensprotokoller,
-    afledt fra\n »true« sekvenser.\n"
+  description: raggruppamento veloce in cluster di sequenze genomiche
+  long_description: " Con lo sviluppo del sequenziamento di prossima generazione,
+    sono necessari\n strumenti efficienti per gestire milioni di sequenze in un tempo\n\
+    \ ragionevole. Sumaclust è un programma sviluppato da LECA; mira a\n raggruppare
+    sequenze in cluster in un modo che sia veloce e corretto al\n tempo stesso. Questo
+    strumento è stato sviluppato per essere adattato ai\n tipi di dati generati dal
+    DNA metabarcoding, cioè marcatori corti,\n interamente sequenziati. Sumaclust
+    raggruppa le sequenze in cluster usando\n lo stesso algoritmo di clustering di
+    UCLUST e CD-HIT. Questo algoritmo è\n utile principalmente per rilevare sequenze
+    \"erronee\" create durante i\n protocolli di amplificazione e sequenziamento e
+    che derivano da sequenze\n \"vere\".\n"
   release: sid
   description_md5: 92d33f3cfb182b633a4760068fac6f82
   license: unknown
@@ -49,17 +50,16 @@ descr:
   license: unknown
   blend: debian-med
 - package: sumaclust
-  description: raggruppamento veloce in cluster di sequenze genomiche
-  long_description: " Con lo sviluppo del sequenziamento di prossima generazione,
-    sono necessari\n strumenti efficienti per gestire milioni di sequenze in un tempo\n\
-    \ ragionevole. Sumaclust è un programma sviluppato da LECA; mira a\n raggruppare
-    sequenze in cluster in un modo che sia veloce e corretto al\n tempo stesso. Questo
-    strumento è stato sviluppato per essere adattato ai\n tipi di dati generati dal
-    DNA metabarcoding, cioè marcatori corti,\n interamente sequenziati. Sumaclust
-    raggruppa le sequenze in cluster usando\n lo stesso algoritmo di clustering di
-    UCLUST e CD-HIT. Questo algoritmo è\n utile principalmente per rilevare sequenze
-    \"erronee\" create durante i\n protocolli di amplificazione e sequenziamento e
-    che derivano da sequenze\n \"vere\".\n"
+  description: Hurtig og præcis klyngeopsætning af genomsekvenser
+  long_description: " Med udviklingen af den næste generation af sekventering skal
+    effektive\n værktøjer håndterer millioner af sekvenser på en fornuftig tid. Sumaclust\n\
+    \ er et program udviklet af LECA. Sumaclust forsøger at klyngeopsætte\n sekvenser
+    på en måde som er hurtig og præcis på samme tid. Dette værktøj\n er blevet udviklet
+    som en tilpasning til den type af data som oprettes af\n DNA-metastregkodere,
+    dvs. fuldt ud sekventeret, korte markører. Sumaclust\n klyngeopsætter via de samme
+    klyngealgoritmer som UCLUST og CD-HIT. Denne\n algoritme er hovedsagelig nyttig
+    til at registrere de »fejlramte«\n sekvenser opretter under amplifikation og sekvensprotokoller,
+    afledt fra\n »true« sekvenser.\n"
   release: sid
   description_md5: 92d33f3cfb182b633a4760068fac6f82
   license: unknown

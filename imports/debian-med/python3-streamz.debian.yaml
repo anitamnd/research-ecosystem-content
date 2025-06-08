@@ -9,10 +9,20 @@ license: unknown
 blend: debian-med
 description_md5: 444347d2336283e0a2eb6328cd487481
 popcon:
-- insts: 24
+- insts: 23
   olde: 17
-  recent: 7
+  recent: 6
 descr:
+- package: python3-streamz
+  description: build pipelines to manage continuous streams of data
+  long_description: " It is simple to use in simple cases, but also supports complex
+    pipelines that\n involve branching, joining, flow control, feedback, back pressure,
+    and so on.\n Optionally, Streamz can also work with both Pandas and cuDF dataframes,\n\
+    \ to provide sensible streaming operations on continuous tabular data.\n"
+  release: sid
+  description_md5: 444347d2336283e0a2eb6328cd487481
+  license: unknown
+  blend: debian-med
 - package: python3-streamz
   description: Byg datakanaler til at håndtere fortsættende datastrømme
   long_description: " Det er simpelt at bruge i simple tilfælde, men understøtter
@@ -25,17 +35,8 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-streamz
-  description: build pipelines to manage continuous streams of data
-  long_description: " It is simple to use in simple cases, but also supports complex
-    pipelines that\n involve branching, joining, flow control, feedback, back pressure,
-    and so on.\n Optionally, Streamz can also work with both Pandas and cuDF dataframes,\n\
-    \ to provide sensible streaming operations on continuous tabular data.\n"
-  release: sid
-  description_md5: 444347d2336283e0a2eb6328cd487481
-  license: unknown
-  blend: debian-med
-- package: python3-streamz
-  description: construction de pipelines pour gérer des flux ininterrompus de données
+  description: construction de pipelines pour gérer des flux ininterrompus de 
+    données
   long_description: " Ce paquet est facile à utiliser dans les cas simples, mais il
     peut gérer des\n pipelines plus complexes se composant de branchements, fusions,
     contrôles de\n flux, rétrocontrôles, contrepression, etc. Facultativement, streamz

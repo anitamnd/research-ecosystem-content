@@ -12,21 +12,22 @@ registries:
 - entry: tinyalign
   name: conda:bioconda
 popcon:
-- insts: 23
-  olde: 15
-  recent: 7
-  vote: 1
+- insts: 22
+  olde: 14
+  recent: 6
+  vote: 2
 descr:
 - package: python3-tinyalign
-  description: Numerisk repræsentation af forskelle mellem strenge
-  long_description: " Et lille Pythonmodul tilbyder redigeringsafstand (a.k.a. Levenshtein-afstand),
-    det vil sige, tælle indsættelser, sletninger og erstatninger) og Hamming-afstandsberegning.\n\
-    \ .\n Dets hovedformål er at øge beregningshastigheden for redigeringsafstand
-    ved\n at angive et maksimalt antal af differences maxdiff (banding). Hvis den
-    parameter er angivet så er den returnerede redigeringsafstand kun præcis op til
-    maxdiff. Det vil sige, hvis den faktiske redigeringsafstand er højere end maxdiff,
-    så returneres en værdi større end maxdiff, men ikke nødvendigvis den faktiske
-    redigeringsafstand.\n"
+  description: rappresentazione numerica delle differenze tra stringhe
+  long_description: " Un piccolo modulo Python che fornisce il calcolo della distanza
+    di modifica\n (alias distanza di Levenshtein, cioè contare inserzioni, delezioni
+    e\n sostituzioni) e della distanza di Hamming.\n .\n Il suo scopo principale è
+    di velocizzare il calcolo della distanza di\n modifica, permettendo di specificare
+    un numero massimo di differenze maxdiff\n (banding). Se viene fornito tale parametro,
+    la distanza di modifica\n restituita è accurata solo fino a maxdiff. Cioè, se
+    l'effettiva distanza di\n modifica è più grande di maxdiff, viene restituito un
+    valore più grande di\n maxdiff, ma non necessariamente l'effettiva distanza di
+    modifica.\n"
   release: sid
   description_md5: fc735838ecfedf1d81ef5dbe3b55a580
   license: unknown
@@ -45,16 +46,15 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-tinyalign
-  description: rappresentazione numerica delle differenze tra stringhe
-  long_description: " Un piccolo modulo Python che fornisce il calcolo della distanza
-    di modifica\n (alias distanza di Levenshtein, cioè contare inserzioni, delezioni
-    e\n sostituzioni) e della distanza di Hamming.\n .\n Il suo scopo principale è
-    di velocizzare il calcolo della distanza di\n modifica, permettendo di specificare
-    un numero massimo di differenze maxdiff\n (banding). Se viene fornito tale parametro,
-    la distanza di modifica\n restituita è accurata solo fino a maxdiff. Cioè, se
-    l'effettiva distanza di\n modifica è più grande di maxdiff, viene restituito un
-    valore più grande di\n maxdiff, ma non necessariamente l'effettiva distanza di
-    modifica.\n"
+  description: Numerisk repræsentation af forskelle mellem strenge
+  long_description: " Et lille Pythonmodul tilbyder redigeringsafstand (a.k.a. Levenshtein-afstand),
+    det vil sige, tælle indsættelser, sletninger og erstatninger) og Hamming-afstandsberegning.\n\
+    \ .\n Dets hovedformål er at øge beregningshastigheden for redigeringsafstand
+    ved\n at angive et maksimalt antal af differences maxdiff (banding). Hvis den
+    parameter er angivet så er den returnerede redigeringsafstand kun præcis op til
+    maxdiff. Det vil sige, hvis den faktiske redigeringsafstand er højere end maxdiff,
+    så returneres en værdi større end maxdiff, men ikke nødvendigvis den faktiske
+    redigeringsafstand.\n"
   release: sid
   description_md5: fc735838ecfedf1d81ef5dbe3b55a580
   license: unknown

@@ -31,44 +31,9 @@ tags:
 - tag: works-with::people
 - tag: x11::application
 popcon:
-- insts: 15
-  olde: 15
+- insts: 14
+  olde: 14
 descr:
-- package: python-pyepl
-  description: Modul for kodning af psykologiske eksperimenter i Python
-  long_description: " PyEPL er et værktøjssæt for stimulilevering og svarregistrering,
-    som skal\n bruges til oprettelse af psykologieksperimenter (samt neurovidenskab,\n\
-    \ markedsføringsforskning og andre).\n .\n Det tilbyder\n  - præsentation: Både
-    visuelle og auditive stimuli\n  - svarregistrering: både manuel (tastatur/joystick)
-    og\n    lyd (mikrofon) tidsstemplet\n  - sync-pulserende: synkroniserer din adfærdsmæssige
-    opgave med ekstern\n    erhvervelsesudstyr\n  - fleksibilitet i kodningen af forskellige
-    eksperimenter på grund af\n    brugen af Python som en beskrivelsessprog\n  -
-    Hurtig udførelse af kritiske punkter på grund af kaldene til\n    lænkede og kompilerede
-    biblioteker\n .\n Denne værktøjskasse er et alternativ til det vidt udbredte kommercielle\n\
-    \ produkt E'(E-Prime).\n .\n Denne pakke tilbyder PyEPL for understøttede versioner
-    af Python.\n"
-  release: buster
-  description_md5: 7039f8695b4144c94d98cedceedbaa24
-  license: unknown
-  blend: debian-med
-- package: python-pyepl
-  description: Python-Modul zum Entwurf psychologischer Experimente
-  long_description: " PyEPL ist ein Werkzeugsatz für die experimentelle Erfassung
-    von Reizen und\n Reaktionen. Einsatzmöglichkeiten sind primär der Entwurf psychologischer\n\
-    \ Untersuchungen, aber auch Probleme z.B. in Neurowissenschaften und\n Marktforschung
-    können damit untersucht werden.\n .\n Er bietet\n  - Darstellung: visuelle und
-    auditive Reize\n  - mit einem Zeitstempel versehene Erfassung von Reaktionen:\n\
-    \    sowohl manuell (Tastatur/Joystick) als auch Ton (Mikrofon)\n  - Sync-Taktung:
-    Synchronisierung Ihres Verhaltensexperiments mit\n    externer Hardware für die
-    Datenerfassung\n  - flexible Codierung verschiedener Experimente durch den Einsatz
-    von\n    Python als Beschreibungssprache\n  - schnelle Ausführung zeitkritischer
-    Aufgaben durch Aufruf kompilierter\n    Bibliotheken\n .\n Dieser Werkzeugkasten
-    soll eine Alternative für ein weit verbreitetes\n kommerzielles Produkt E' (E-Prime)
-    sein.\n .\n Dieses Paket enthält PyEPL für die unterstützten Python-Versionen.\n"
-  release: buster
-  description_md5: 7039f8695b4144c94d98cedceedbaa24
-  license: unknown
-  blend: debian-med
 - package: python-pyepl
   description: module for coding psychology experiments in Python
   long_description: " PyEPL is a stimuli delivery and response registration toolkit
@@ -87,18 +52,19 @@ descr:
   license: unknown
   blend: debian-med
 - package: python-pyepl
-  description: module pour coder des expériences psychologiques en Python
-  long_description: " PyEPL est un générateur de stimuli et une boîte à outils d'enregistrement\n\
-    \ des réponses servant à générer des expériences en psychologie\n (ainsi qu’en
-    neurosciences, recherche en marketing et autres).\n .\n Il fournit\n  – présentation :
-    stimuli visuels et auditifs ;\n  – enregistrement des réponses : manuel (clavier/manette)
-    et sonore\n (microphone) avec horodatage ;\n  – sync-pulsing : synchronisation
-    de tâches comportementales avec du\n matériel d'acquisition externe ;\n  – flexibilité
-    de l'encodage de diverses expériences grâce à l'utilisation\n de Python comme
-    langage de description ;\n  – exécution rapide d'éléments critiques du fait d'appels
-    aux\n bibliothèques compilées liées.\n .\n Cette boîte à outils est là pour constituer
-    une alternative à une large\n variété de produits E-Prime du commerce.\n .\n Ce
-    paquet fournit PyEPL pour les versions prises en charge de Python.\n"
+  description: Moduł do kodowania eksperymentów psychologicznych w Pythonie
+  long_description: " PyEPL jest zestawem narzędzi do przesyłania bodźców i rejestrowania\n\
+    \ reakcji, który może być używany do tworzenia psychologicznych eksperymentów\n\
+    \ (a także do neurologii, badań marketingowych, i innych).\n .\n Zapewnia:\n \
+    \ - prezentacje: zarówno bodźców wzrokowych jak i słuchowych;\n  - rejestrowanie
+    reakcji: zarówno manualnej (klawiatura/joystick) jak i\n    dźwiękowej (mikrofon)
+    z sygnaturą czasową;\n  - synchronizację impulsową: synchronizowanie behawioralnych
+    zadań z\n    zewnętrznego sprzętu rejestrującego;\n  - elastyczność kodowania
+    najróżniejszych eksperymentów ze względu na\n    użycie Pythona jako języka opisującego;\n\
+    \  - szybka realizacja krytycznych punktów z powodu wywołań do połączonych\n \
+    \   skompilowanych bibliotek.\n .\n Celem tego zestawu narzędzi jest ustanowienie
+    alternatywy dla powszechnie\n stosowanego komercyjnego programu E (E-Prime).\n\
+    \ .\n Pakiet zawiera PyEPL do obsługiwanych wersji Pythona.\n"
   release: buster
   description_md5: 7039f8695b4144c94d98cedceedbaa24
   license: unknown
@@ -122,19 +88,53 @@ descr:
   license: unknown
   blend: debian-med
 - package: python-pyepl
-  description: Moduł do kodowania eksperymentów psychologicznych w Pythonie
-  long_description: " PyEPL jest zestawem narzędzi do przesyłania bodźców i rejestrowania\n\
-    \ reakcji, który może być używany do tworzenia psychologicznych eksperymentów\n\
-    \ (a także do neurologii, badań marketingowych, i innych).\n .\n Zapewnia:\n \
-    \ - prezentacje: zarówno bodźców wzrokowych jak i słuchowych;\n  - rejestrowanie
-    reakcji: zarówno manualnej (klawiatura/joystick) jak i\n    dźwiękowej (mikrofon)
-    z sygnaturą czasową;\n  - synchronizację impulsową: synchronizowanie behawioralnych
-    zadań z\n    zewnętrznego sprzętu rejestrującego;\n  - elastyczność kodowania
-    najróżniejszych eksperymentów ze względu na\n    użycie Pythona jako języka opisującego;\n\
-    \  - szybka realizacja krytycznych punktów z powodu wywołań do połączonych\n \
-    \   skompilowanych bibliotek.\n .\n Celem tego zestawu narzędzi jest ustanowienie
-    alternatywy dla powszechnie\n stosowanego komercyjnego programu E (E-Prime).\n\
-    \ .\n Pakiet zawiera PyEPL do obsługiwanych wersji Pythona.\n"
+  description: Modul for kodning af psykologiske eksperimenter i Python
+  long_description: " PyEPL er et værktøjssæt for stimulilevering og svarregistrering,
+    som skal\n bruges til oprettelse af psykologieksperimenter (samt neurovidenskab,\n\
+    \ markedsføringsforskning og andre).\n .\n Det tilbyder\n  - præsentation: Både
+    visuelle og auditive stimuli\n  - svarregistrering: både manuel (tastatur/joystick)
+    og\n    lyd (mikrofon) tidsstemplet\n  - sync-pulserende: synkroniserer din adfærdsmæssige
+    opgave med ekstern\n    erhvervelsesudstyr\n  - fleksibilitet i kodningen af forskellige
+    eksperimenter på grund af\n    brugen af Python som en beskrivelsessprog\n  -
+    Hurtig udførelse af kritiske punkter på grund af kaldene til\n    lænkede og kompilerede
+    biblioteker\n .\n Denne værktøjskasse er et alternativ til det vidt udbredte kommercielle\n\
+    \ produkt E'(E-Prime).\n .\n Denne pakke tilbyder PyEPL for understøttede versioner
+    af Python.\n"
+  release: buster
+  description_md5: 7039f8695b4144c94d98cedceedbaa24
+  license: unknown
+  blend: debian-med
+- package: python-pyepl
+  description: module pour coder des expériences psychologiques en Python
+  long_description: " PyEPL est un générateur de stimuli et une boîte à outils d'enregistrement\n\
+    \ des réponses servant à générer des expériences en psychologie\n (ainsi qu’en
+    neurosciences, recherche en marketing et autres).\n .\n Il fournit\n  – présentation :
+    stimuli visuels et auditifs ;\n  – enregistrement des réponses : manuel (clavier/manette)
+    et sonore\n (microphone) avec horodatage ;\n  – sync-pulsing : synchronisation
+    de tâches comportementales avec du\n matériel d'acquisition externe ;\n  – flexibilité
+    de l'encodage de diverses expériences grâce à l'utilisation\n de Python comme
+    langage de description ;\n  – exécution rapide d'éléments critiques du fait d'appels
+    aux\n bibliothèques compilées liées.\n .\n Cette boîte à outils est là pour constituer
+    une alternative à une large\n variété de produits E-Prime du commerce.\n .\n Ce
+    paquet fournit PyEPL pour les versions prises en charge de Python.\n"
+  release: buster
+  description_md5: 7039f8695b4144c94d98cedceedbaa24
+  license: unknown
+  blend: debian-med
+- package: python-pyepl
+  description: Python-Modul zum Entwurf psychologischer Experimente
+  long_description: " PyEPL ist ein Werkzeugsatz für die experimentelle Erfassung
+    von Reizen und\n Reaktionen. Einsatzmöglichkeiten sind primär der Entwurf psychologischer\n\
+    \ Untersuchungen, aber auch Probleme z.B. in Neurowissenschaften und\n Marktforschung
+    können damit untersucht werden.\n .\n Er bietet\n  - Darstellung: visuelle und
+    auditive Reize\n  - mit einem Zeitstempel versehene Erfassung von Reaktionen:\n\
+    \    sowohl manuell (Tastatur/Joystick) als auch Ton (Mikrofon)\n  - Sync-Taktung:
+    Synchronisierung Ihres Verhaltensexperiments mit\n    externer Hardware für die
+    Datenerfassung\n  - flexible Codierung verschiedener Experimente durch den Einsatz
+    von\n    Python als Beschreibungssprache\n  - schnelle Ausführung zeitkritischer
+    Aufgaben durch Aufruf kompilierter\n    Bibliotheken\n .\n Dieser Werkzeugkasten
+    soll eine Alternative für ein weit verbreitetes\n kommerzielles Produkt E' (E-Prime)
+    sein.\n .\n Dieses Paket enthält PyEPL für die unterstützten Python-Versionen.\n"
   release: buster
   description_md5: 7039f8695b4144c94d98cedceedbaa24
   license: unknown

@@ -11,25 +11,25 @@ description_md5: d34486299d09a0083e0794ca56c6826c
 registries:
 - entry: OMICS_00740
   name: OMICtools
-- entry: bioconductor-affy
-  name: conda:bioconda
-- entry: affy
-  name: bio.tools
 - entry: SCR_012835
   name: SciCrunch
+- entry: affy
+  name: bio.tools
+- entry: bioconductor-affy
+  name: conda:bioconda
 bib:
 - key: doi
   value: 10.1093/bioinformatics/btg405
 popcon:
-- insts: 340
-  olde: 263
-  recent: 32
-  vote: 45
+- insts: 350
+  olde: 270
+  recent: 34
+  vote: 46
 descr:
 - package: r-bioc-affy
-  description: BioConductor-metoder for Affymetrix Oligonucleotide Arrays
-  long_description: " Denne pakke er en del af BioConductor GNU R-programpakken. Pakken\n\
-    \ indeholder funktioner for udforskning af oligonucleotid array-analyse.\n"
+  description: metodi BioConductor per array di oligonucleotidi dell'Affymetrix
+  long_description: " Questo pacchetto fa parte della suite GNU R BioConductor. Contiene
+    funzioni\n per analisi esplorativa di array di oligonucleotidi.\n"
   release: sid
   description_md5: d34486299d09a0083e0794ca56c6826c
   license: unknown
@@ -43,17 +43,18 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-affy
-  description: méthodes de BioConductor pour les matrices d'oligonucléotides d'Affymetrix
-  long_description: " Ce paquet fait partie de la suite GNU R Bioconductor. Il fournit
-    des fonctions pour l'analyse exploratoire de matrices d'oligonucléotides.\n"
+  description: BioConductor-metoder for Affymetrix Oligonucleotide Arrays
+  long_description: " Denne pakke er en del af BioConductor GNU R-programpakken. Pakken\n\
+    \ indeholder funktioner for udforskning af oligonucleotid array-analyse.\n"
   release: sid
   description_md5: d34486299d09a0083e0794ca56c6826c
   license: unknown
   blend: debian-med
 - package: r-bioc-affy
-  description: metodi BioConductor per array di oligonucleotidi dell'Affymetrix
-  long_description: " Questo pacchetto fa parte della suite GNU R BioConductor. Contiene
-    funzioni\n per analisi esplorativa di array di oligonucleotidi.\n"
+  description: méthodes de BioConductor pour les matrices d'oligonucléotides 
+    d'Affymetrix
+  long_description: " Ce paquet fait partie de la suite GNU R Bioconductor. Il fournit
+    des fonctions pour l'analyse exploratoire de matrices d'oligonucléotides.\n"
   release: sid
   description_md5: d34486299d09a0083e0794ca56c6826c
   license: unknown

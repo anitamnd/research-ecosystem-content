@@ -12,18 +12,18 @@ registries:
 - entry: bioconductor-org.hs.eg.db
   name: conda:bioconda
 popcon:
-- insts: 142
+- insts: 141
   olde: 128
-  recent: 4
+  recent: 3
   vote: 10
 descr:
 - package: r-bioc-org.hs.eg.db
-  description: Genom-bred annotation for mennesker
-  long_description: " Denne pakke tilbyder beskrivelser for dele af det menneskelige
-    genom, der er blevet identificeret til at kode for RNA, og sandsynligvis også
-    for proteiner. Det tilbyder også henvisninger til elementer med tilsvarende (ortolog)
-    gener i andre arter.\n .\n Denne pakke er forberedt for BioConductor-fællesskabet
-    og bidrager til mange arbejdsforløb og rutineanalyser i beregningsmæssig biologi.\n"
+  description: annotazioni a livello di tutto genoma per l'Uomo
+  long_description: " Questo pacchetto fornisce le descrizioni di parti del genoma
+    umano che sono\n state identificate come codificanti RNA, e probabilmente anche
+    per proteine.\n Offre anche collegamenti a voci di geni equivalenti (ortologhi)
+    in altre\n specie.\n .\n Questo pacchetto è preparato dalla comunità di BioConductor
+    e contribuisce a\n molti flussi di lavoro e analisi di routine in biologia computazionale.\n"
   release: sid
   description_md5: 2460c5659e431087722f322aa85390f2
   license: unknown
@@ -40,12 +40,12 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-org.hs.eg.db
-  description: annotazioni a livello di tutto genoma per l'Uomo
-  long_description: " Questo pacchetto fornisce le descrizioni di parti del genoma
-    umano che sono\n state identificate come codificanti RNA, e probabilmente anche
-    per proteine.\n Offre anche collegamenti a voci di geni equivalenti (ortologhi)
-    in altre\n specie.\n .\n Questo pacchetto è preparato dalla comunità di BioConductor
-    e contribuisce a\n molti flussi di lavoro e analisi di routine in biologia computazionale.\n"
+  description: Genom-bred annotation for mennesker
+  long_description: " Denne pakke tilbyder beskrivelser for dele af det menneskelige
+    genom, der er blevet identificeret til at kode for RNA, og sandsynligvis også
+    for proteiner. Det tilbyder også henvisninger til elementer med tilsvarende (ortolog)
+    gener i andre arter.\n .\n Denne pakke er forberedt for BioConductor-fællesskabet
+    og bidrager til mange arbejdsforløb og rutineanalyser i beregningsmæssig biologi.\n"
   release: sid
   description_md5: 2460c5659e431087722f322aa85390f2
   license: unknown

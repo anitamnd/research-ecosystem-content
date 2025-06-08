@@ -12,14 +12,14 @@ registries:
 - entry: r-tsne
   name: conda:conda-forge
 popcon:
-- insts: 59
-  olde: 47
-  recent: 8
-  vote: 4
+- insts: 60
+  olde: 48
+  recent: 9
+  vote: 3
 descr:
 - package: r-cran-tsne
-  description: T-distribueret stokastisk naboindlejring for R (t-SNE)
-  long_description: " En »pure R«-implementering af t-SNE-algoritmen.\n"
+  description: t-distributed stochastic neighbor embedding per R (t-SNE)
+  long_description: " Un'implementazione in \"puro R\" dell'algoritmo t-SNE.\n"
   release: sid
   description_md5: 4b2124c3a3dc946f4bebf26939a23b33
   license: unknown
@@ -32,8 +32,8 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-tsne
-  description: t-distributed stochastic neighbor embedding per R (t-SNE)
-  long_description: " Un'implementazione in \"puro R\" dell'algoritmo t-SNE.\n"
+  description: T-distribueret stokastisk naboindlejring for R (t-SNE)
+  long_description: " En »pure R«-implementering af t-SNE-algoritmen.\n"
   release: sid
   description_md5: 4b2124c3a3dc946f4bebf26939a23b33
   license: unknown

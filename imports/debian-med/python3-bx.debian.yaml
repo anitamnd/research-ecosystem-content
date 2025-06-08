@@ -14,30 +14,11 @@ registries:
 - entry: bx-python
   name: conda:bioconda
 popcon:
-- insts: 24
+- insts: 22
   olde: 14
-  recent: 9
+  recent: 7
   vote: 1
 descr:
-- package: python3-bx
-  description: Bibliotek til at håndtere genomiske data og deres sammenligning
-  long_description: " Projektet bx-python er et Python 3-bibliotek og associeret sæt
-    af skripter til at tillade hurtig implementering af analyser på genomskala. Biblioteket
-    indeholder en række nyttige moduler, men de specifikke styrker er:\n  * Klasser
-    til at læse og arbejde med genom-scale multiple local-\n    sammenligninger (i
-    MAF-, AXT- og LAV-formater)\n  * Generisk datastruktur for indeksering af diskfiler,
-    der indeholder\n    datablokke associeret med intervaller på diverse sekvenser
-    (brugt, for\n    eksempel, til at tilbyde vilkårlig adgang til individuelle\n\
-    \    sammenligninger i store filer; optimeret for brug over\n    netværksfilsystemer\n\
-    \  * Datastrukturer for arbejdet med intervaller på sekvenser\n  * »Binned bitsets«
-    der fungerer ligesom bit-tabeller i kromosomstørrelse,\n    men dovent allokerer
-    regioner og tillader store blokke for alle sæt\n    eller alle ikke satte bit
-    for kompakt lagring\n  * »Intersecter« for udførelse af hurtig intersektionstest,
-    der bevarer\n    både forespørgsel og målintervaller og associeret annotation\n"
-  release: sid
-  description_md5: 67d503eba4b89cb2b658656d4c7560a1
-  license: unknown
-  blend: debian-med
 - package: python3-bx
   description: library to manage genomic data and its alignment
   long_description: " The bx-python project is a Python3 library and associated set
@@ -53,6 +34,25 @@ descr:
     blocks of all set or all unset\n    bits to be stored compactly\n  * \"Intersecter\"\
     \ for performing fast intersection tests that preserve both\n    query and target
     intervals and associated annotation\n"
+  release: sid
+  description_md5: 67d503eba4b89cb2b658656d4c7560a1
+  license: unknown
+  blend: debian-med
+- package: python3-bx
+  description: Bibliotek til at håndtere genomiske data og deres sammenligning
+  long_description: " Projektet bx-python er et Python 3-bibliotek og associeret sæt
+    af skripter til at tillade hurtig implementering af analyser på genomskala. Biblioteket
+    indeholder en række nyttige moduler, men de specifikke styrker er:\n  * Klasser
+    til at læse og arbejde med genom-scale multiple local-\n    sammenligninger (i
+    MAF-, AXT- og LAV-formater)\n  * Generisk datastruktur for indeksering af diskfiler,
+    der indeholder\n    datablokke associeret med intervaller på diverse sekvenser
+    (brugt, for\n    eksempel, til at tilbyde vilkårlig adgang til individuelle\n\
+    \    sammenligninger i store filer; optimeret for brug over\n    netværksfilsystemer\n\
+    \  * Datastrukturer for arbejdet med intervaller på sekvenser\n  * »Binned bitsets«
+    der fungerer ligesom bit-tabeller i kromosomstørrelse,\n    men dovent allokerer
+    regioner og tillader store blokke for alle sæt\n    eller alle ikke satte bit
+    for kompakt lagring\n  * »Intersecter« for udførelse af hurtig intersektionstest,
+    der bevarer\n    både forespørgsel og målintervaller og associeret annotation\n"
   release: sid
   description_md5: 67d503eba4b89cb2b658656d4c7560a1
   license: unknown

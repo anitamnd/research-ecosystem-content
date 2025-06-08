@@ -9,20 +9,20 @@ license: unknown
 blend: debian-med
 description_md5: 92084c434310e72a06c91d61c4414d07
 popcon:
-- insts: 40
+- insts: 39
   olde: 29
-  recent: 9
+  recent: 8
   vote: 2
 descr:
 - package: python3-bcbio-gff
-  description: Python 3-bibliotek til at læse og skrive Generic Feature Format
-  long_description: " Et Pythonbibliotek til at læse og skrive Generic Feature Format
-    (GFF).\n .\n Generic Feature Format (GFF) er et biologisk sekvensfilformat, der
-    repræsenterer funktioner og annotationer på sekvenser. Det er et format afgrænset
-    med indryk (tab), hvilket gør det tilgængelig for biologer og det kan redigeres
-    i tekstprogrammer og regneark. Det er også godt defineret og kan fortolkes via
-    automatiserede programmer. GFF-filer er tilgængelige fra mange af de store sekventerings-
-    og annotationscentre.\n"
+  description: libreria Python 3 per leggere e scrivere Generic Feature Format
+  long_description: " Libreria Python 3 per leggere e scrivere Generic Feature Format
+    (GFF).\n .\n Il Generic Feature Format (GFF) è un formato di file per rappresentare\n\
+    \ caratteristiche e annotazioni delle sequenze biologiche. È un formato\n delimitato
+    da tabulazioni, il che lo rende accessibile ai biologi e\n modificabile in editor
+    di testo e in programmi di foglio elettronico. È\n anche ben definito e può essere
+    analizzato tramite programmi automatizzati.\n I file GFF sono disponibili da molti
+    dei grandi centri di sequenziamento e\n annotazione.\n"
   release: sid
   description_md5: 92084c434310e72a06c91d61c4414d07
   license: unknown
@@ -41,14 +41,14 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-bcbio-gff
-  description: libreria Python 3 per leggere e scrivere Generic Feature Format
-  long_description: " Libreria Python 3 per leggere e scrivere Generic Feature Format
-    (GFF).\n .\n Il Generic Feature Format (GFF) è un formato di file per rappresentare\n\
-    \ caratteristiche e annotazioni delle sequenze biologiche. È un formato\n delimitato
-    da tabulazioni, il che lo rende accessibile ai biologi e\n modificabile in editor
-    di testo e in programmi di foglio elettronico. È\n anche ben definito e può essere
-    analizzato tramite programmi automatizzati.\n I file GFF sono disponibili da molti
-    dei grandi centri di sequenziamento e\n annotazione.\n"
+  description: Python 3-bibliotek til at læse og skrive Generic Feature Format
+  long_description: " Et Pythonbibliotek til at læse og skrive Generic Feature Format
+    (GFF).\n .\n Generic Feature Format (GFF) er et biologisk sekvensfilformat, der
+    repræsenterer funktioner og annotationer på sekvenser. Det er et format afgrænset
+    med indryk (tab), hvilket gør det tilgængelig for biologer og det kan redigeres
+    i tekstprogrammer og regneark. Det er også godt defineret og kan fortolkes via
+    automatiserede programmer. GFF-filer er tilgængelige fra mange af de store sekventerings-
+    og annotationscentre.\n"
   release: sid
   description_md5: 92084c434310e72a06c91d61c4414d07
   license: unknown

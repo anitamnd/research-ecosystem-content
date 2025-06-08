@@ -11,10 +11,10 @@ description_md5: 7788bf12148938f8dc8e4675657ce605
 registries:
 - entry: OMICS_00137
   name: OMICtools
-- entry: sift
-  name: bio.tools
 - entry: SCR_012813
   name: SciCrunch
+- entry: sift
+  name: bio.tools
 bib:
 - key: doi
   value: 10.1038/nprot.2009.86

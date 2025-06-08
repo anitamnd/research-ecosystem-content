@@ -9,24 +9,24 @@ license: unknown
 blend: debian-med
 description_md5: 98aa6d45393bde874ed4dd11129b0820
 popcon:
-- insts: 1633
+- insts: 1631
   nofiles: 7
-  olde: 1286
-  recent: 76
-  vote: 264
+  olde: 1271
+  recent: 67
+  vote: 286
 descr:
 - package: r-cran-hms
-  description: GNU R smuk tid på dagen
-  long_description: " Denne GNU R-pakke implementerer en S3-klasse til at lagre og
-    formatere\n værdier for tidspunkter på dagen, baseret på klassen difftime.\n"
+  description: Gnu R - hübsche Tageszeiten
+  long_description: " Dieses GNU-R-Paket implementiert eine S3-Klasse zum Speichern\n\
+    \ und Formatieren von Tageszeit-Werten, basierend auf der Klasse »difftime«.\n"
   release: sid
   description_md5: 98aa6d45393bde874ed4dd11129b0820
   license: unknown
   blend: debian-med
 - package: r-cran-hms
-  description: Gnu R - hübsche Tageszeiten
-  long_description: " Dieses GNU-R-Paket implementiert eine S3-Klasse zum Speichern\n\
-    \ und Formatieren von Tageszeit-Werten, basierend auf der Klasse »difftime«.\n"
+  description: ora del giorno bella per GNU R
+  long_description: " Questo pacchetto per GNU R implementa una classe S3, basata
+    sulla classe\n \"difftime\", per memorizzare e formattare valori per ora del giorno.\n"
   release: sid
   description_md5: 98aa6d45393bde874ed4dd11129b0820
   license: unknown
@@ -40,9 +40,9 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-hms
-  description: ora del giorno bella per GNU R
-  long_description: " Questo pacchetto per GNU R implementa una classe S3, basata
-    sulla classe\n \"difftime\", per memorizzare e formattare valori per ora del giorno.\n"
+  description: GNU R smuk tid på dagen
+  long_description: " Denne GNU R-pakke implementerer en S3-klasse til at lagre og
+    formatere\n værdier for tidspunkter på dagen, baseret på klassen difftime.\n"
   release: sid
   description_md5: 98aa6d45393bde874ed4dd11129b0820
   license: unknown

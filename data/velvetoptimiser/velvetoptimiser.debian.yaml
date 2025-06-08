@@ -16,16 +16,17 @@ registries:
 - entry: perl-velvetoptimiser
   name: conda:bioconda
 popcon:
-- insts: 54
-  olde: 45
+- insts: 52
+  olde: 43
   recent: 8
   vote: 1
 descr:
 - package: velvetoptimiser
-  description: Optimer automatisk Velvet do novo-samlingsparametre
-  long_description: " VelvetOptimiser er et flertrådet Perlskript for automatisk optimering
-    af de\n tre primære parameterindstillinger (K, -exp_cov, -cov_cutoff) for Velvet
-    de\n novo-sekvensassembler.\n"
+  description: ottimizza automaticamente i parametri per assemblaggio de novo di
+    Velvet
+  long_description: " VelvetOptimiser è uno script multi-thread in Perl per ottimizzare\n\
+    \ automaticamente le opzioni dei tre parametri primari (K, -exp_cov,\n -cov_cutoff)
+    per l'assemblatore di sequenze de novo Velvet.\n"
   release: sid
   description_md5: 2fd9f73eb8754456ca56f46e217e9799
   license: unknown
@@ -40,10 +41,10 @@ descr:
   license: unknown
   blend: debian-med
 - package: velvetoptimiser
-  description: ottimizza automaticamente i parametri per assemblaggio de novo di Velvet
-  long_description: " VelvetOptimiser è uno script multi-thread in Perl per ottimizzare\n\
-    \ automaticamente le opzioni dei tre parametri primari (K, -exp_cov,\n -cov_cutoff)
-    per l'assemblatore di sequenze de novo Velvet.\n"
+  description: Optimer automatisk Velvet do novo-samlingsparametre
+  long_description: " VelvetOptimiser er et flertrådet Perlskript for automatisk optimering
+    af de\n tre primære parameterindstillinger (K, -exp_cov, -cov_cutoff) for Velvet
+    de\n novo-sekvensassembler.\n"
   release: sid
   description_md5: 2fd9f73eb8754456ca56f46e217e9799
   license: unknown

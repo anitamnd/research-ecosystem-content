@@ -9,24 +9,11 @@ license: unknown
 blend: debian-med
 description_md5: 48923b21c946b9e7dc3cb0440698dc41
 popcon:
-- insts: 57
-  olde: 41
+- insts: 60
+  olde: 43
   recent: 10
-  vote: 6
+  vote: 7
 descr:
-- package: r-cran-waveslim
-  description: GNU R wavelet-rutiner for 1-, 2- og 3-D signalbehandling
-  long_description: " Grundlæggende wavelet-rutiner for tidsserier (1D), billede (2D)
-    og tabelanalyse (3D). Koden tilbudt her er baseret på wavelet-metoden udviklet
-    i Percival og Walden (2000); Gencay, Selcuk og Whitcher (2001); dual-træ kompleks
-    wavelet transform (DTCWT) fra Kingsbury (1999, 2001) som implementeret af Selesnick;
-    og Hilbert wavelet-par (Selesnick 2001, 2002).  Alle figurer i afsnittene 4-7
-    af GSW (2001) kan genskabes ved at bruge denne pakke og R-kode tilgængelig på
-    boginternetsiderne.\n"
-  release: sid
-  description_md5: 48923b21c946b9e7dc3cb0440698dc41
-  license: unknown
-  blend: debian-med
 - package: r-cran-waveslim
   description: GNU R wavelet routines for 1-, 2- and 3-D signal processing
   long_description: " Basic wavelet routines for time series (1D), image (2D)\n and
@@ -36,6 +23,19 @@ descr:
     as implemented by\n Selesnick; and Hilbert wavelet pairs (Selesnick 2001, 2002).\
     \  All\n figures in chapters 4-7 of GSW (2001) are reproducible using this\n package
     and R code available at the book website(s) below.\n"
+  release: sid
+  description_md5: 48923b21c946b9e7dc3cb0440698dc41
+  license: unknown
+  blend: debian-med
+- package: r-cran-waveslim
+  description: GNU R wavelet-rutiner for 1-, 2- og 3-D signalbehandling
+  long_description: " Grundlæggende wavelet-rutiner for tidsserier (1D), billede (2D)
+    og tabelanalyse (3D). Koden tilbudt her er baseret på wavelet-metoden udviklet
+    i Percival og Walden (2000); Gencay, Selcuk og Whitcher (2001); dual-træ kompleks
+    wavelet transform (DTCWT) fra Kingsbury (1999, 2001) som implementeret af Selesnick;
+    og Hilbert wavelet-par (Selesnick 2001, 2002).  Alle figurer i afsnittene 4-7
+    af GSW (2001) kan genskabes ved at bruge denne pakke og R-kode tilgængelig på
+    boginternetsiderne.\n"
   release: sid
   description_md5: 48923b21c946b9e7dc3cb0440698dc41
   license: unknown

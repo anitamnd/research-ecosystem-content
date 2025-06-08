@@ -9,18 +9,19 @@ license: unknown
 blend: debian-med
 description_md5: 90009b4d17ba78e35d3e6f3e29959e3b
 registries:
-- entry: bioconductor-arrayexpress
-  name: conda:bioconda
 - entry: arrayexpress
   name: bio.tools
+- entry: bioconductor-arrayexpress
+  name: conda:bioconda
 popcon:
-- insts: 13
-  olde: 13
+- insts: 15
+  olde: 14
+  recent: 1
 descr:
 - package: r-bioc-arrayexpress
-  description: Adgang til ArrayExpress Microarray Database på EBI
-  long_description: " Adgang til ArrayExpress Microarray Database på EBI og bygning
-    af Bioconductor-datastrukturer: ExpressionSet, AffyBatch, NChannelSet\n"
+  description: accesso al database di microarray ArrayExpress presso EBI
+  long_description: " Accesso al database di microarray ArrayExpress presso EBI e
+    costruzione di\n strutture dati Bioconductor: ExpressionSet, AffyBatch, NChannelSet.\n"
   release: sid
   description_md5: 90009b4d17ba78e35d3e6f3e29959e3b
   license: unknown
@@ -34,18 +35,18 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-arrayexpress
-  description: accès à la base de données de puces à ADN ArrayExpress de l'EBI
-  long_description: " Ce paquet permet d'accéder à la base de données de puces à ADN
-    ArrayExpress de l'EBI (European Bioinformatics Institute) et de construire des
-    structures de données de BioConductor : ExpressionSet, AffyBatch, NChannelSet.\n"
+  description: Adgang til ArrayExpress Microarray Database på EBI
+  long_description: " Adgang til ArrayExpress Microarray Database på EBI og bygning
+    af Bioconductor-datastrukturer: ExpressionSet, AffyBatch, NChannelSet\n"
   release: sid
   description_md5: 90009b4d17ba78e35d3e6f3e29959e3b
   license: unknown
   blend: debian-med
 - package: r-bioc-arrayexpress
-  description: accesso al database di microarray ArrayExpress presso EBI
-  long_description: " Accesso al database di microarray ArrayExpress presso EBI e
-    costruzione di\n strutture dati Bioconductor: ExpressionSet, AffyBatch, NChannelSet.\n"
+  description: accès à la base de données de puces à ADN ArrayExpress de l'EBI
+  long_description: " Ce paquet permet d'accéder à la base de données de puces à ADN
+    ArrayExpress de l'EBI (European Bioinformatics Institute) et de construire des
+    structures de données de BioConductor : ExpressionSet, AffyBatch, NChannelSet.\n"
   release: sid
   description_md5: 90009b4d17ba78e35d3e6f3e29959e3b
   license: unknown

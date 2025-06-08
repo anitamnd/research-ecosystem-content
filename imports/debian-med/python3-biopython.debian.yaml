@@ -9,37 +9,23 @@ license: unknown
 blend: debian-med
 description_md5: b0edcac4d61d56d664f586a477d26535
 registries:
+- entry: OMICS_04850
+  name: OMICtools
 - entry: SCR_007173
   name: SciCrunch
 - entry: Biopython
   name: bio.tools
-- entry: OMICS_04850
-  name: OMICtools
 - entry: biopython
   name: conda:conda-forge
 bib:
 - key: doi
   value: 10.1093/bioinformatics/btp163
 popcon:
-- insts: 363
+- insts: 358
   olde: 278
-  recent: 38
-  vote: 47
+  recent: 35
+  vote: 45
 descr:
-- package: python3-biopython
-  description: Python 3-bibliotek for bioinformatik
-  long_description: " Biopythonprojektet er et internationalt forbund for udviklere
-    af frit\n tilgængelige Pythonværktøjer til molekylær biologi via computeren.\n\
-    \ .\n Projektet er en distribueret samlet indsats for at udvikle Python 3-biblioteker
-    og programmer, der adresserer behovene for nuværende og fremtidig arbejde indenfor
-    bioinformatik. Kildekoden er gjort tilgængelig under Biopython-licensen, der er
-    ekstrem liberal og kompatibel med næsten enhver licens i verden. Projektet arbejder
-    sammen med Open Bioinformatics Foundation, der generøst tilbyder internetplads
-    og CVS-plads for projektet.\n"
-  release: sid
-  description_md5: b0edcac4d61d56d664f586a477d26535
-  license: unknown
-  blend: debian-med
 - package: python3-biopython
   description: Python-3-Bibliothek für die Bioinformatik
   long_description: " Das Projekt Biopython ist eine internationale Vereinigung von
@@ -51,6 +37,20 @@ descr:
     jeder Lizenz auf der Welt. Das Projekt\n arbeitet zusammen mit der Open Bioinformatics
     Foundation, die für das\n Projekt Speicherplatz für CVS und für die Webseiten
     bereitstellt.\n"
+  release: sid
+  description_md5: b0edcac4d61d56d664f586a477d26535
+  license: unknown
+  blend: debian-med
+- package: python3-biopython
+  description: libreria Python 3 per bioinformatica
+  long_description: " Il progetto Biopython è un'associazione internazionale di sviluppatori
+    di\n strumenti Python disponibili liberamente per i calcoli biologici molecolari.\n\
+    \ .\n È uno sforzo collaborativo distribuito per sviluppare librerie e\n applicazioni
+    Python 3 che si rivolgono verso i bisogni dei lavori in\n bioinformatica attuali
+    e futuri. Il codice sorgente è reso disponibile\n sotto la licenza Biopython,
+    che è estremamente liberale e compatibile con\n pressoché qualsiasi licenza esistente.
+    Il progetto lavora accanto alla Open\n Bioinformatics Foundation, che generosamente
+    fornisce lo spazio web e CVS\n per il progetto.\n"
   release: sid
   description_md5: b0edcac4d61d56d664f586a477d26535
   license: unknown
@@ -84,15 +84,15 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-biopython
-  description: libreria Python 3 per bioinformatica
-  long_description: " Il progetto Biopython è un'associazione internazionale di sviluppatori
-    di\n strumenti Python disponibili liberamente per i calcoli biologici molecolari.\n\
-    \ .\n È uno sforzo collaborativo distribuito per sviluppare librerie e\n applicazioni
-    Python 3 che si rivolgono verso i bisogni dei lavori in\n bioinformatica attuali
-    e futuri. Il codice sorgente è reso disponibile\n sotto la licenza Biopython,
-    che è estremamente liberale e compatibile con\n pressoché qualsiasi licenza esistente.
-    Il progetto lavora accanto alla Open\n Bioinformatics Foundation, che generosamente
-    fornisce lo spazio web e CVS\n per il progetto.\n"
+  description: Python 3-bibliotek for bioinformatik
+  long_description: " Biopythonprojektet er et internationalt forbund for udviklere
+    af frit\n tilgængelige Pythonværktøjer til molekylær biologi via computeren.\n\
+    \ .\n Projektet er en distribueret samlet indsats for at udvikle Python 3-biblioteker
+    og programmer, der adresserer behovene for nuværende og fremtidig arbejde indenfor
+    bioinformatik. Kildekoden er gjort tilgængelig under Biopython-licensen, der er
+    ekstrem liberal og kompatibel med næsten enhver licens i verden. Projektet arbejder
+    sammen med Open Bioinformatics Foundation, der generøst tilbyder internetplads
+    og CVS-plads for projektet.\n"
   release: sid
   description_md5: b0edcac4d61d56d664f586a477d26535
   license: unknown

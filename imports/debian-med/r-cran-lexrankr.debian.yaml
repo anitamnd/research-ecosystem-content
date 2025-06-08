@@ -12,23 +12,11 @@ bib:
 - key: doi
   value: 10.1613/jair.1523
 popcon:
-- insts: 48
-  olde: 42
-  recent: 1
+- insts: 52
+  olde: 45
+  recent: 2
   vote: 5
 descr:
-- package: r-cran-lexrankr
-  description: Udtræk summering af tekst med LexRank-algoritmen
-  long_description: " En R-implementering af LexRank-algoritmen, der implementerer
-    en stokastisk grafbaseret metode til beregning af relativ vigtighed for tekstenheder
-    for naturlig sprogbehandling. Teknikken på problemet Test Summarization (TS) er
-    testet. Extractive TS afhænger af koncepter for sætningsfremtræden i et dokument
-    eller sæt af dokumenter. Fremtræden er typisk defineret i form af tilstedeværelsen
-    af bestemte vigtige ord eller termer af lighed for en pseudosætning med tyngde.\n"
-  release: sid
-  description_md5: d03408345328c547da9bb6310e0272cd
-  license: unknown
-  blend: debian-med
 - package: r-cran-lexrankr
   description: extractive summarization of text with the LexRank algorithm
   long_description: " An R implementation of the LexRank algorithm implementing stochastic\n\
@@ -38,6 +26,18 @@ descr:
     identify the most important sentences in a\n document or set of documents. Salience
     is typically defined in terms of\n the presence of particular important words
     or in terms of similarity to\n a centroid pseudo-sentence.\n"
+  release: sid
+  description_md5: d03408345328c547da9bb6310e0272cd
+  license: unknown
+  blend: debian-med
+- package: r-cran-lexrankr
+  description: Udtræk summering af tekst med LexRank-algoritmen
+  long_description: " En R-implementering af LexRank-algoritmen, der implementerer
+    en stokastisk grafbaseret metode til beregning af relativ vigtighed for tekstenheder
+    for naturlig sprogbehandling. Teknikken på problemet Test Summarization (TS) er
+    testet. Extractive TS afhænger af koncepter for sætningsfremtræden i et dokument
+    eller sæt af dokumenter. Fremtræden er typisk defineret i form af tilstedeværelsen
+    af bestemte vigtige ord eller termer af lighed for en pseudosætning med tyngde.\n"
   release: sid
   description_md5: d03408345328c547da9bb6310e0272cd
   license: unknown

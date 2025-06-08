@@ -19,17 +19,17 @@ bib:
 - key: doi
   value: 10.1186/s13059-016-1108-8
 popcon:
-- insts: 36
-  olde: 27
+- insts: 34
+  olde: 25
   recent: 8
   vote: 1
 descr:
 - package: scoary
-  description: Pangenom-brede associationsstudier
-  long_description: " Scoary er designet til at anvende gene_presence_absence.csv-filen
-    fra Roary\n samt som en traits-fil oprettet af brugeren og beregne associationerne\n\
-    \ mellem alle gener i accessory-genet og egenskaberne. Den rapporterer en\n liste
-    over gener sorteret efter styrke på association per egenskab.\n"
+  description: studi di associazione per intero pangenoma
+  long_description: " Scoary è progettato per prendere il file gene_presence_absence.csv
+    da Roary\n e un file dei tratti creato dall'utente e calcolare le associazioni
+    tra\n tutti i geni nel genoma accessorio e i tratti. Produce un elenco dei geni\n\
+    \ ordinato per forza di associazione per tratto.\n"
   release: sid
   description_md5: 7cc373b23ea67fb43af0b4321f3400cc
   license: unknown
@@ -45,11 +45,11 @@ descr:
   license: unknown
   blend: debian-med
 - package: scoary
-  description: studi di associazione per intero pangenoma
-  long_description: " Scoary è progettato per prendere il file gene_presence_absence.csv
-    da Roary\n e un file dei tratti creato dall'utente e calcolare le associazioni
-    tra\n tutti i geni nel genoma accessorio e i tratti. Produce un elenco dei geni\n\
-    \ ordinato per forza di associazione per tratto.\n"
+  description: Pangenom-brede associationsstudier
+  long_description: " Scoary er designet til at anvende gene_presence_absence.csv-filen
+    fra Roary\n samt som en traits-fil oprettet af brugeren og beregne associationerne\n\
+    \ mellem alle gener i accessory-genet og egenskaberne. Den rapporterer en\n liste
+    over gener sorteret efter styrke på association per egenskab.\n"
   release: sid
   description_md5: 7cc373b23ea67fb43af0b4321f3400cc
   license: unknown

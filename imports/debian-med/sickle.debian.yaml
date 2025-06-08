@@ -9,41 +9,19 @@ license: unknown
 blend: debian-med
 description_md5: 669442b6169b604f66a4edae2b8390cc
 registries:
-- entry: sickle
-  name: bio.tools
-- entry: sickle
-  name: conda:bioconda
 - entry: OMICS_01077
   name: OMICtools
 - entry: SCR_006800
   name: SciCrunch
+- entry: sickle
+  name: bio.tools
+- entry: sickle
+  name: conda:bioconda
 popcon:
-- insts: 43
-  olde: 36
+- insts: 41
+  olde: 34
   recent: 7
 descr:
-- package: sickle
-  description: Vinduesopdelt adaptiv trimmingværktøj for FASTQ-filer der bruger kvalitet
-  long_description: " De fleste moderne sekventeringsteknologier fremstiller læsninger,
-    som har\n lavere kvalitet mod 3'.end. Ukorrekte kaldte baser her påvirker negativt\n\
-    \ samlinger, oversættelse og bioinformatik-analyser.\n .\n Sickle er et værktøj,
-    som bruger glidende vinduer sammen med kvalitets- og\n længdetærskler til at bestemme
-    når kvaliteten er tilstrækkelig lav til at\n trimme 3'-end af læsninger. Programmet
-    vil også fjerne læsninger baseret på\n længdens tærskel. Værktøjet bruger kvalitetsværdierne
-    og glider et vindue\n på tværs af dem hvis længde er 0,1 gange længden af læsningen.
-    Hvis denne\n længde er mindre end 1, så sættes vinduet til længden på læsningen.
-    Elles\n glider vinduet langs kvalitetsværdierne indtil den gennemsnitlige kvalitet\n\
-    \ i vinduet er under tærsklen. På dette tidspunkt bestemmer algoritmen hvor i\n\
-    \ vinduet tabet opstår og klipper både læsningen og kvalitetsstrengene der.\n\
-    \ Hvis klip-punktet er mindre end minimumslængdens tærskel, så fjernes\n læsningen
-    helt.\n .\n Sickle understøtter fire typer af kvalitetsværdier: Illumina, Solexa,
-    Phred\n og Sanger. Bemærk at kvalitetsindstillingen Solexa er en tilnærmelse (den\n\
-    \ faktiske konvertering er en ikkelineær transformation). Sluttilnærmelsen er\n\
-    \ luk.\n .\n Sickle understøtter også filer pakket med gzip.\n"
-  release: sid
-  description_md5: 669442b6169b604f66a4edae2b8390cc
-  license: unknown
-  blend: debian-med
 - package: sickle
   description: windowed adaptive trimming tool for FASTQ files using quality
   long_description: " Most modern sequencing technologies produce reads that have
@@ -68,8 +46,31 @@ descr:
   license: unknown
   blend: debian-med
 - package: sickle
-  description: outil de réduction adaptative à des fenêtres pour des fichiers FASTQ
-    utilisant la qualité
+  description: Vinduesopdelt adaptiv trimmingværktøj for FASTQ-filer der bruger 
+    kvalitet
+  long_description: " De fleste moderne sekventeringsteknologier fremstiller læsninger,
+    som har\n lavere kvalitet mod 3'.end. Ukorrekte kaldte baser her påvirker negativt\n\
+    \ samlinger, oversættelse og bioinformatik-analyser.\n .\n Sickle er et værktøj,
+    som bruger glidende vinduer sammen med kvalitets- og\n længdetærskler til at bestemme
+    når kvaliteten er tilstrækkelig lav til at\n trimme 3'-end af læsninger. Programmet
+    vil også fjerne læsninger baseret på\n længdens tærskel. Værktøjet bruger kvalitetsværdierne
+    og glider et vindue\n på tværs af dem hvis længde er 0,1 gange længden af læsningen.
+    Hvis denne\n længde er mindre end 1, så sættes vinduet til længden på læsningen.
+    Elles\n glider vinduet langs kvalitetsværdierne indtil den gennemsnitlige kvalitet\n\
+    \ i vinduet er under tærsklen. På dette tidspunkt bestemmer algoritmen hvor i\n\
+    \ vinduet tabet opstår og klipper både læsningen og kvalitetsstrengene der.\n\
+    \ Hvis klip-punktet er mindre end minimumslængdens tærskel, så fjernes\n læsningen
+    helt.\n .\n Sickle understøtter fire typer af kvalitetsværdier: Illumina, Solexa,
+    Phred\n og Sanger. Bemærk at kvalitetsindstillingen Solexa er en tilnærmelse (den\n\
+    \ faktiske konvertering er en ikkelineær transformation). Sluttilnærmelsen er\n\
+    \ luk.\n .\n Sickle understøtter også filer pakket med gzip.\n"
+  release: sid
+  description_md5: 669442b6169b604f66a4edae2b8390cc
+  license: unknown
+  blend: debian-med
+- package: sickle
+  description: outil de réduction adaptative à des fenêtres pour des fichiers 
+    FASTQ utilisant la qualité
   long_description: " La plupart des technologies de séquençage produisent des lectures
     dont la\n qualité diminue vers l’extrémité 3'. Les bases appelées incorrectement
     ont\n un impact négatif sur les assemblages, les correspondances et les analyses\n\

@@ -16,27 +16,30 @@ bib:
   rank: 1
   value: 10.1002/sim.3592
 popcon:
-- insts: 36
-  olde: 32
+- insts: 39
+  olde: 34
+  recent: 1
   vote: 4
 descr:
 - package: r-cran-seroincidence
-  description: GNU R seroincidence - lommeregnerværktøj
-  long_description: " Antistofniveauer målt i en tværsnitsundersøgelser af befolkningen,
-    kan\n oversættes til et skøn over, hvor hyppigt serokonversioner (nye\n infektioner)
-    forekommer. For at fortolke det målte tværsnitsbillede for\n antistofniveauer,
-    skal parametre som forudsiger henfaldet af antistoffer\n være kendt. I tidligere
-    udgivede rapporter (Simonsen et al. 2009 og\n Versteegh et al. 2005), er der indhentet
-    disse oplysninger fra\n longitudinelle studier om emner, der havde kulturbekræftede
-    salmonella- og\n campylobacterinfektioner. En Bayesiansk tilbageberegningsmodel
-    blev anvendt\n til at omdanne antistofmålinger til en estimering af tid siden
-    infektion.\n Dette kan anvendes til at estimere seroincidence i tværsnitsstikprøven
-    af ​\n ​befolkningen. For både den langsgående måling og\n tværsnitsmålingen af
-    antistofkoncentrationer blev den indirekte ELISA\n anvendt. Modellerne gælder
-    kun for personer over 18 år.\n Seroincidence-estimaterne er egnede til overvågning
-    af effekten af\n kontrolprogrammer, når repræsentative tværsnitsserumprøver er
-    til rådighed\n for analyser. Disse giver mere præcise oplysninger om infektionspres
-    i\n mennesker på tværs af lande.\n"
+  description: strumento GNU R per calcolare la sieroincidenza
+  long_description: " I livelli di anticorpi misurati in campioni di popolazione trasversali\n\
+    \ possono essere tradotti in stime della frequenza con cui avvengono\n sieroconversioni
+    (nuove infezioni). Per poter interpretare i livelli\n anticorpali trasversali
+    misurati, devono essere conosciuti i parametri di\n predizione del decadimento
+    degli anticorpi. In rapporti precedentemente\n pubblicati (Simonsen et al. 2009
+    e Versteegh et al. 2005), queste\n informazioni sono state ottenute da studi longitudinali
+    su soggetti che\n avevano infezioni da Salmonella o Campylobacter confermate colturalmente.
+    È\n stato utilizzato un modello bayesiano di calcolo all'indietro per\n convertire
+    le misure anticorpali in una stima del tempo trascorso\n dall'infezione. Ciò può
+    essere utilizzato per stimare la sieroincidenza nel\n campione trasversale della
+    popolazione. Per entrambe le misure\n longitudinale e trasversale delle concentrazioni
+    anticorpali, è stato usato\n un metodo ELISA indiretto. I modelli sono validi
+    solo per soggetti con più\n di 18 anni. Le stime della sieroincidenza sono adatte
+    per monitorare\n l'effetto di programmi di controllo quando sono disponibili per
+    l'analisi\n campioni di siero trasversali rappresentativi. Questi forniscono\n\
+    \ informazioni più accurate sulla pressione dell'infezione nella popolazione\n\
+    \ umana in più nazioni.\n"
   release: sid
   description_md5: e23665ea473dd0e4bb2ec1224bae3e30
   license: unknown
@@ -63,6 +66,27 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-seroincidence
+  description: GNU R seroincidence - lommeregnerværktøj
+  long_description: " Antistofniveauer målt i en tværsnitsundersøgelser af befolkningen,
+    kan\n oversættes til et skøn over, hvor hyppigt serokonversioner (nye\n infektioner)
+    forekommer. For at fortolke det målte tværsnitsbillede for\n antistofniveauer,
+    skal parametre som forudsiger henfaldet af antistoffer\n være kendt. I tidligere
+    udgivede rapporter (Simonsen et al. 2009 og\n Versteegh et al. 2005), er der indhentet
+    disse oplysninger fra\n longitudinelle studier om emner, der havde kulturbekræftede
+    salmonella- og\n campylobacterinfektioner. En Bayesiansk tilbageberegningsmodel
+    blev anvendt\n til at omdanne antistofmålinger til en estimering af tid siden
+    infektion.\n Dette kan anvendes til at estimere seroincidence i tværsnitsstikprøven
+    af ​\n ​befolkningen. For både den langsgående måling og\n tværsnitsmålingen af
+    antistofkoncentrationer blev den indirekte ELISA\n anvendt. Modellerne gælder
+    kun for personer over 18 år.\n Seroincidence-estimaterne er egnede til overvågning
+    af effekten af\n kontrolprogrammer, når repræsentative tværsnitsserumprøver er
+    til rådighed\n for analyser. Disse giver mere præcise oplysninger om infektionspres
+    i\n mennesker på tværs af lande.\n"
+  release: sid
+  description_md5: e23665ea473dd0e4bb2ec1224bae3e30
+  license: unknown
+  blend: debian-med
+- package: r-cran-seroincidence
   description: calculatrice de séroincidence pour GNU R
   long_description: " Les niveaux d'anticorps mesurés dans des échantillons transversaux
     de\n population peuvent être traduits en estimations de la fréquence à laquelle\n\
@@ -81,29 +105,6 @@ descr:
     des programmes de contrôle quand des échantillons\n transversaux représentatifs
     de sérum sont analysables. Cela fournit des\n informations plus précises sur le
     taux d'infection de populations dans les\n pays.\n"
-  release: sid
-  description_md5: e23665ea473dd0e4bb2ec1224bae3e30
-  license: unknown
-  blend: debian-med
-- package: r-cran-seroincidence
-  description: strumento GNU R per calcolare la sieroincidenza
-  long_description: " I livelli di anticorpi misurati in campioni di popolazione trasversali\n\
-    \ possono essere tradotti in stime della frequenza con cui avvengono\n sieroconversioni
-    (nuove infezioni). Per poter interpretare i livelli\n anticorpali trasversali
-    misurati, devono essere conosciuti i parametri di\n predizione del decadimento
-    degli anticorpi. In rapporti precedentemente\n pubblicati (Simonsen et al. 2009
-    e Versteegh et al. 2005), queste\n informazioni sono state ottenute da studi longitudinali
-    su soggetti che\n avevano infezioni da Salmonella o Campylobacter confermate colturalmente.
-    È\n stato utilizzato un modello bayesiano di calcolo all'indietro per\n convertire
-    le misure anticorpali in una stima del tempo trascorso\n dall'infezione. Ciò può
-    essere utilizzato per stimare la sieroincidenza nel\n campione trasversale della
-    popolazione. Per entrambe le misure\n longitudinale e trasversale delle concentrazioni
-    anticorpali, è stato usato\n un metodo ELISA indiretto. I modelli sono validi
-    solo per soggetti con più\n di 18 anni. Le stime della sieroincidenza sono adatte
-    per monitorare\n l'effetto di programmi di controllo quando sono disponibili per
-    l'analisi\n campioni di siero trasversali rappresentativi. Questi forniscono\n\
-    \ informazioni più accurate sulla pressione dell'infezione nella popolazione\n\
-    \ umana in più nazioni.\n"
   release: sid
   description_md5: e23665ea473dd0e4bb2ec1224bae3e30
   license: unknown

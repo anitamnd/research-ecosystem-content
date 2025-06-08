@@ -12,21 +12,11 @@ bib:
 - key: doi
   value: 10.1186/1471-2105-11-367
 popcon:
-- insts: 1263
-  olde: 1079
-  recent: 63
-  vote: 121
+- insts: 1265
+  olde: 1078
+  recent: 61
+  vote: 126
 descr:
-- package: r-cran-nmf
-  description: GNU R-ramme til at udføre ikke negativ matrix-faktorering
-  long_description: " Denne pakke implementerer et sæt af tidligere udgivne algoritmer
-    og seeding-metoder og tilbyder en ramme til test, udvikling og brug af nye/egne
-    algoritmer. De fleste indbyggede algoritmer er blevet optimeret og hovedgrænsefladen
-    tilbyder parallelle beregninger på maskiner med flere kerner.\n"
-  release: sid
-  description_md5: d6fe09f8e871e2430c9cff98f18b3888
-  license: unknown
-  blend: debian-med
 - package: r-cran-nmf
   description: GNU-R-Rahmenwerk zur Faktorisierung nicht-negativer Matrizen
   long_description: " Dieses Paket implementiert eine Reihe bereits veröffentlichter
@@ -44,6 +34,16 @@ descr:
     and\n seeding methods, and provides a framework to test, develop and plug\n new/custom
     algorithms.  Most of the built-in algorithms have been\n optimized, and the main
     interface function provides parallel\n computations on multicore machines.\n"
+  release: sid
+  description_md5: d6fe09f8e871e2430c9cff98f18b3888
+  license: unknown
+  blend: debian-med
+- package: r-cran-nmf
+  description: GNU R-ramme til at udføre ikke negativ matrix-faktorering
+  long_description: " Denne pakke implementerer et sæt af tidligere udgivne algoritmer
+    og seeding-metoder og tilbyder en ramme til test, udvikling og brug af nye/egne
+    algoritmer. De fleste indbyggede algoritmer er blevet optimeret og hovedgrænsefladen
+    tilbyder parallelle beregninger på maskiner med flere kerner.\n"
   release: sid
   description_md5: d6fe09f8e871e2430c9cff98f18b3888
   license: unknown

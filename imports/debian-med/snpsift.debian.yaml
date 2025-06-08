@@ -9,23 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: fd42e3a61b3597753b3c9d39f249e985
 popcon:
-- insts: 29
-  olde: 22
-  recent: 7
+- insts: 27
+  olde: 21
+  recent: 6
 descr:
-- package: snpsift
-  description: Værktøj til at annotere og manipulere genomvarianter - værktøj
-  long_description: " SnpSift er en værktøjskasse, der gør det muligt at filtrere
-    og manipulere annoterede filer. Når først genomvarianterne er blevet annoteret,
-    så skal man filtrere dem ud for at finde de »interessante/relevante varianter«.
-    Givet de store datafiler, er dette ikke en nem opgave (f.eks. kan man ikke indlæse
-    alle varianterne i XLS-regneark). SnpSift hjælper med at udføre denne VCF-filmanipulation
-    og filtrering krævet på dette trin i databehandlingens datakanaler.\n .\n Denne
-    pakke indeholder værktøjet for kommandolinjen.\n"
-  release: sid
-  description_md5: fd42e3a61b3597753b3c9d39f249e985
-  license: unknown
-  blend: debian-med
 - package: snpsift
   description: tool to annotate and manipulate genome variants - tool
   long_description: " SnpSift is a toolbox that allows one to filter and manipulate
@@ -40,7 +27,21 @@ descr:
   license: unknown
   blend: debian-med
 - package: snpsift
-  description: outil d’annotation et de manipulation de variations génomiques – outil
+  description: Værktøj til at annotere og manipulere genomvarianter - værktøj
+  long_description: " SnpSift er en værktøjskasse, der gør det muligt at filtrere
+    og manipulere annoterede filer. Når først genomvarianterne er blevet annoteret,
+    så skal man filtrere dem ud for at finde de »interessante/relevante varianter«.
+    Givet de store datafiler, er dette ikke en nem opgave (f.eks. kan man ikke indlæse
+    alle varianterne i XLS-regneark). SnpSift hjælper med at udføre denne VCF-filmanipulation
+    og filtrering krævet på dette trin i databehandlingens datakanaler.\n .\n Denne
+    pakke indeholder værktøjet for kommandolinjen.\n"
+  release: sid
+  description_md5: fd42e3a61b3597753b3c9d39f249e985
+  license: unknown
+  blend: debian-med
+- package: snpsift
+  description: outil d’annotation et de manipulation de variations génomiques 
+    – outil
   long_description: " SnpSift est une boîte à outils qui permet de filtrer et de manipuler
     des\n fichiers annotés. Une fois que les variations génomiques ont été annotées,
     il\n est nécessaire de les filtrer pour trouver les « variations intéressantes

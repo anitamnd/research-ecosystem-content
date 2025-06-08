@@ -17,29 +17,11 @@ tags:
 - tag: role::program
 - tag: works-with-format::TODO
 popcon:
-- insts: 45
-  olde: 40
+- insts: 49
+  olde: 43
+  recent: 1
   vote: 5
 descr:
-- package: r-cran-epicalc
-  description: Epidemiologická kalkulačka GNU R
-  long_description: " Funkce usnadňující epidemiologické výpočty R.\n .\n Umí zpracovávat
-    formáty Dbase (.dbf), Stata (.dta), SPSS(.sav), EpiInfo(.rec),\n mezerami oddělené
-    soubory (.csv) i datové snímky R.\n"
-  release: sid
-  description_md5: 68de0447def63c0a0e70c4d75368d041
-  license: unknown
-  blend: debian-med
-- package: r-cran-epicalc
-  description: GNU R epidemiologisk beregner
-  long_description: " Funktioner der gør det let at foretage epidemiologiske beregninger
-    med R.\n .\n Flere datasæt fra formaterne Dbase (.dbf), Stata (.dta), SPSS (.sav),\n\
-    \ EpiInfo (.rec) og kommaseparerede værdier (.csv) såvel som R-datarammer, kan\n\
-    \ behandles til foretagelse af adskillige epidemiologiske beregninger.\n"
-  release: sid
-  description_md5: 68de0447def63c0a0e70c4d75368d041
-  license: unknown
-  blend: debian-med
 - package: r-cran-epicalc
   description: Epidemiologische Berechnungen mit GNU R
   long_description: " Funktionen für den einfachen Einsatz von R für epidemiologische
@@ -51,11 +33,11 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-epicalc
-  description: GNU R Epidemiological calculator
-  long_description: " Functions making R easy for epidemiological calculation.\n .\n\
-    \ Datasets from Dbase (.dbf), Stata (.dta), SPSS(.sav), EpiInfo(.rec) and\n Comma
-    separated value (.csv) formats as well as R data frames can be\n processed to
-    do make several epidemiological calculations.\n"
+  description: calculadora epidemiológica GNU R
+  long_description: " Funções que tornam R fácil para cálculos epidemiológicos.\n\
+    \ .\n Conjuntos de dados provenientes de formatos Dbase (.dbf), Stata (.dta),\n\
+    \ SPS (.sav), EpiInfo (.rec) e valores separados por vírgula (.csv) assim como\n\
+    \ os frames de dados R podem ser processados para realizar vários cálculos\n epidemiológicos.\n"
   release: sid
   description_md5: 68de0447def63c0a0e70c4d75368d041
   license: unknown
@@ -82,11 +64,30 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-epicalc
-  description: calculadora epidemiológica GNU R
-  long_description: " Funções que tornam R fácil para cálculos epidemiológicos.\n\
-    \ .\n Conjuntos de dados provenientes de formatos Dbase (.dbf), Stata (.dta),\n\
-    \ SPS (.sav), EpiInfo (.rec) e valores separados por vírgula (.csv) assim como\n\
-    \ os frames de dados R podem ser processados para realizar vários cálculos\n epidemiológicos.\n"
+  description: Epidemiologická kalkulačka GNU R
+  long_description: " Funkce usnadňující epidemiologické výpočty R.\n .\n Umí zpracovávat
+    formáty Dbase (.dbf), Stata (.dta), SPSS(.sav), EpiInfo(.rec),\n mezerami oddělené
+    soubory (.csv) i datové snímky R.\n"
+  release: sid
+  description_md5: 68de0447def63c0a0e70c4d75368d041
+  license: unknown
+  blend: debian-med
+- package: r-cran-epicalc
+  description: GNU R Epidemiological calculator
+  long_description: " Functions making R easy for epidemiological calculation.\n .\n\
+    \ Datasets from Dbase (.dbf), Stata (.dta), SPSS(.sav), EpiInfo(.rec) and\n Comma
+    separated value (.csv) formats as well as R data frames can be\n processed to
+    do make several epidemiological calculations.\n"
+  release: sid
+  description_md5: 68de0447def63c0a0e70c4d75368d041
+  license: unknown
+  blend: debian-med
+- package: r-cran-epicalc
+  description: GNU R epidemiologisk beregner
+  long_description: " Funktioner der gør det let at foretage epidemiologiske beregninger
+    med R.\n .\n Flere datasæt fra formaterne Dbase (.dbf), Stata (.dta), SPSS (.sav),\n\
+    \ EpiInfo (.rec) og kommaseparerede værdier (.csv) såvel som R-datarammer, kan\n\
+    \ behandles til foretagelse af adskillige epidemiologiske beregninger.\n"
   release: sid
   description_md5: 68de0447def63c0a0e70c4d75368d041
   license: unknown

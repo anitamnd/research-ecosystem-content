@@ -21,27 +21,10 @@ bib:
   value: 10.4049/jimmunol.1502263
 popcon:
 - insts: 57
-  olde: 45
-  recent: 8
+  olde: 44
+  recent: 9
   vote: 4
 descr:
-- package: r-cran-shazam
-  description: Immunoglobulin somatisk hypermutationsanalyse
-  long_description: " Denne pakke tilbyder en beregningsramme for bayesiansk estimering
-    af antigen-drevet valg i immunglobulin-sekvenser (Ig), der tilbyder en intuitiv
-    måde at analysere valg ved at kvantificere graden af selektiv pres. Tilbyder også
-    værktøjer til at profilere mutationer i Ig-sekvenser, bygge modeller med somatisk
-    hypermutation (SHM) i Qg-sekvenser og fremstille modelafhængige afstandssammenligninger
-    af Ig-arkiver.\n .\n SHazaM er en del af analyserammen Immacantation for Adaptive
-    Immune Receptor Repertoire-sekventering (AIRR-seq) og tilbyder værktøjer for avanceret
-    analyse af somatisk hypermutation (SHM) i immunoglobulin-sekvenser (Ig). Shazam
-    fokuserer på de følgende analyseemner:\n .\n  * Kvantifikation af mutational indlæsning\n\
-    \  * Statistiske modeller for SHM-målrettede mønstre\n  * Analyse af valgpres
-    via BASELINe\n  * Modelafhængig afstandsberegninger\n"
-  release: sid
-  description_md5: 34fd8fba9274dcd56ee399bba24b4182
-  license: unknown
-  blend: debian-med
 - package: r-cran-shazam
   description: Immunoglobulin Somatic Hypermutation Analysis
   long_description: " Provides a computational framework for Bayesian estimation of\n\
@@ -73,6 +56,23 @@ descr:
     between\n    sequences or set of sequences based on SHM targeting models. This\n\
     \    information is particularly useful in understanding and defining\n    clonal
     relationships.\n"
+  release: sid
+  description_md5: 34fd8fba9274dcd56ee399bba24b4182
+  license: unknown
+  blend: debian-med
+- package: r-cran-shazam
+  description: Immunoglobulin somatisk hypermutationsanalyse
+  long_description: " Denne pakke tilbyder en beregningsramme for bayesiansk estimering
+    af antigen-drevet valg i immunglobulin-sekvenser (Ig), der tilbyder en intuitiv
+    måde at analysere valg ved at kvantificere graden af selektiv pres. Tilbyder også
+    værktøjer til at profilere mutationer i Ig-sekvenser, bygge modeller med somatisk
+    hypermutation (SHM) i Qg-sekvenser og fremstille modelafhængige afstandssammenligninger
+    af Ig-arkiver.\n .\n SHazaM er en del af analyserammen Immacantation for Adaptive
+    Immune Receptor Repertoire-sekventering (AIRR-seq) og tilbyder værktøjer for avanceret
+    analyse af somatisk hypermutation (SHM) i immunoglobulin-sekvenser (Ig). Shazam
+    fokuserer på de følgende analyseemner:\n .\n  * Kvantifikation af mutational indlæsning\n\
+    \  * Statistiske modeller for SHM-målrettede mønstre\n  * Analyse af valgpres
+    via BASELINe\n  * Modelafhængig afstandsberegninger\n"
   release: sid
   description_md5: 34fd8fba9274dcd56ee399bba24b4182
   license: unknown

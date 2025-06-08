@@ -9,10 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: fb6691de71db05c7b776b75305449fbf
 registries:
-- entry: TreeView
-  name: bio.tools
 - entry: OMICS_13038
   name: OMICtools
+- entry: TreeView
+  name: bio.tools
 bib:
 - key: doi
   value: 10.1093/bioinformatics/12.4.357
@@ -32,21 +32,11 @@ tags:
 - tag: works-with::TODO
 - tag: x11::application
 popcon:
-- insts: 57
-  olde: 48
+- insts: 52
+  olde: 43
   recent: 7
   vote: 2
 descr:
-- package: treeviewx
-  description: Viser og udskriver fylogenetiske træer
-  long_description: " TreeView X er et open source program for flere platforme til
-    at vise\n fylogenetiske træer. Programmet kan læse og vise træfiler i NEXUS- og\n\
-    \ Newickformatet (såsom uddata fra PAUP*, ClustalX, TREE-PUZZLE og andre\n programmer).
-    Programmet tillader en at sortere trægrene og at eksportere\n træerne i SVG-format.\n"
-  release: sid
-  description_md5: fb6691de71db05c7b776b75305449fbf
-  license: unknown
-  blend: debian-med
 - package: treeviewx
   description: Anzeige und Druck phylogenetischer Bäume
   long_description: " TreeViewX ist ein für mehrere Plattformen verfügbares Programm
@@ -54,17 +44,6 @@ descr:
     und Newick lesen\n und darstellen (so wie die, die von PAUP*, ClustalX, TREE-PUZZLE
     und anderen\n Programmen ausgegeben werden). Es ermöglicht das Anordnen der Zweige
     der Bäume\n und den Export der Bäume in das SVG-Format.\n"
-  release: sid
-  description_md5: fb6691de71db05c7b776b75305449fbf
-  license: unknown
-  blend: debian-med
-- package: treeviewx
-  description: Displays and prints phylogenetic trees
-  long_description: " TreeView X is an open source and multi-platform program to display\n\
-    \ phylogenetic trees. It can read and display NEXUS and Newick format tree files\n\
-    \ (such as those output by PAUP*, ClustalX, TREE-PUZZLE, and other programs).
-    It\n allows one to order the branches of the trees, and to export the trees in
-    SVG\n format.\n"
   release: sid
   description_md5: fb6691de71db05c7b776b75305449fbf
   license: unknown
@@ -81,12 +60,33 @@ descr:
   license: unknown
   blend: debian-med
 - package: treeviewx
+  description: Displays and prints phylogenetic trees
+  long_description: " TreeView X is an open source and multi-platform program to display\n\
+    \ phylogenetic trees. It can read and display NEXUS and Newick format tree files\n\
+    \ (such as those output by PAUP*, ClustalX, TREE-PUZZLE, and other programs).
+    It\n allows one to order the branches of the trees, and to export the trees in
+    SVG\n format.\n"
+  release: sid
+  description_md5: fb6691de71db05c7b776b75305449fbf
+  license: unknown
+  blend: debian-med
+- package: treeviewx
   description: Wyświetla i drukuje drzewa filogenetyczne
   long_description: " TreeView X to wieloplatformowy program o otwartym kodzie źródłowym
     do\n wyświetlania drzew filogenetycznych. Może odczytywać i wyświetlać pliki\n\
     \ drzew w formatach NEXUS i Newick (jak te generowane przez programy PAUP*,\n\
     \ ClustalX, TREE-PUZZLE i inne). Umożliwia porządkowanie gałęzi drzew i\n eksportowanie
     tych drzew w formacie SVG.\n"
+  release: sid
+  description_md5: fb6691de71db05c7b776b75305449fbf
+  license: unknown
+  blend: debian-med
+- package: treeviewx
+  description: Viser og udskriver fylogenetiske træer
+  long_description: " TreeView X er et open source program for flere platforme til
+    at vise\n fylogenetiske træer. Programmet kan læse og vise træfiler i NEXUS- og\n\
+    \ Newickformatet (såsom uddata fra PAUP*, ClustalX, TREE-PUZZLE og andre\n programmer).
+    Programmet tillader en at sortere trægrene og at eksportere\n træerne i SVG-format.\n"
   release: sid
   description_md5: fb6691de71db05c7b776b75305449fbf
   license: unknown
