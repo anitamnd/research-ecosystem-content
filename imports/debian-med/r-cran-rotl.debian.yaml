@@ -14,18 +14,18 @@ registries:
 - entry: r-rotl
   name: conda:conda-forge
 popcon:
-- insts: 89
-  olde: 74
-  recent: 8
-  vote: 7
+- insts: 92
+  olde: 73
+  recent: 10
+  vote: 9
 descr:
 - package: r-cran-rotl
-  description: GNU R-grænseflade til »Open Tree of Life«-API'en
-  long_description: " En grænseflade til »Open Tree of Life«-API'en til at indhente
-    fylogenetiske træer, information om studier brugt til at samle det syntetiske
-    træ og redskaber til at matche taksonomiske navne til »Open Tree-identifikatorer«.
-    »Open Tree of Life« forsøger at samle et omfattende fylogenetisk træ for alle
-    navngivne arter.\n"
+  description: interfaccia GNU R all'API di "Open Tree of Life"
+  long_description: " Un'interfaccia all'API di \"Open Tree of Life\" per ottenere
+    alberi\n filogenetici, informazioni sugli studi utilizzati per assemblare l'albero\n\
+    \ sintetico e utilità per trovare corrispondenze tra nomi tassonomici e\n \"identificatori
+    Open Tree\". \"Open Tree of Life\" mira ad assemblare un\n albero filogenetico
+    esaustivo di tutte le specie conosciute.\n"
   release: sid
   description_md5: f983e3c523e39e7104e9b6a548ba69d3
   license: unknown
@@ -42,12 +42,12 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-rotl
-  description: interfaccia GNU R all'API di "Open Tree of Life"
-  long_description: " Un'interfaccia all'API di \"Open Tree of Life\" per ottenere
-    alberi\n filogenetici, informazioni sugli studi utilizzati per assemblare l'albero\n\
-    \ sintetico e utilità per trovare corrispondenze tra nomi tassonomici e\n \"identificatori
-    Open Tree\". \"Open Tree of Life\" mira ad assemblare un\n albero filogenetico
-    esaustivo di tutte le specie conosciute.\n"
+  description: GNU R-grænseflade til »Open Tree of Life«-API'en
+  long_description: " En grænseflade til »Open Tree of Life«-API'en til at indhente
+    fylogenetiske træer, information om studier brugt til at samle det syntetiske
+    træ og redskaber til at matche taksonomiske navne til »Open Tree-identifikatorer«.
+    »Open Tree of Life« forsøger at samle et omfattende fylogenetisk træ for alle
+    navngivne arter.\n"
   release: sid
   description_md5: f983e3c523e39e7104e9b6a548ba69d3
   license: unknown

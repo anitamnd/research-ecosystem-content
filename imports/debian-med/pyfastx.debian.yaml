@@ -15,32 +15,10 @@ bib:
 - key: doi
   value: 10.1093/bib/bbaa368
 popcon:
-- insts: 34
-  olde: 26
-  recent: 8
+- insts: 32
+  olde: 25
+  recent: 7
 descr:
-- package: pyfastx
-  description: Hurtig vilkårlig adgang til sekvenser fra FASTA/Q-fil - kommando
-  long_description: " Pyfastx er en simpel Python C-udvidelse, der gør det muligt
-    for brugere vilkårligt at tilgå sekvenser fra rene og gzippede FASTA/Q-filer.
-    Dette modul forsøger at tilbyde simple API'er for brugere til at udtrække sekvens
-    fra FAST og læsninger fra FASTQ efter identifikator og indeksnummer. Pyfastx vil
-    bygge indeks lagret i en sqlite3-databasefil for vilkårlig adgang for at undgå
-    forbrug af en omfattende mængde af hukommelse. Derudover kan pyfastx fortolke
-    standardformatet (sekvens spredes ud over flere linjer med den samme længde) og
-    FASTA-formatet uden for standard (sekvens spredes ud på en eller flere linjer
-    med forskellig længde)\n .\n Indeholder:\n .\n  * en enkel fil for Pythonudvidelsen\n\
-    \  * simpel, hukommelseseffektiv FASTA/Q-filfortolkning\n  * hurtig vilkårlig
-    adgang til sekvenser fra gzippede FASTA/Q-fil\n  * sekvenslæsning fra FASTA-fil
-    linje efter linje\n  * N50- og L50-beregning for sekvenser i FASTA-fil\n  * GC-indhold
-    og nukleotiders kompositionsudtrækning\n  * glimrende kompatibilitet: understøttelse
-    for fortolkning af FASTA-fil\n    uden for standarden\n  * understøttelse for
-    konvertering af FASTA-kvalitetsbedømmelse\n  * en kommandolinjegrænseflade for
-    opdeling af FASTA/Q-fil\n .\n Denne pakke tilbyder brugerfladen for kommandolinjen.\n"
-  release: sid
-  description_md5: 499b00909ee985a2ddfd9ac4ba066bd5
-  license: unknown
-  blend: debian-med
 - package: pyfastx
   description: fast random access to sequences from FASTA/Q file - command
   long_description: " The pyfastx is a lightweight Python C extension that enables
@@ -59,6 +37,28 @@ descr:
     excellent compatibility: support for parsing nonstandard FASTA file;\n  * support
     for FASTQ quality score conversion;\n  * a command line interface for splitting
     FASTA/Q file.\n .\n This package provides the command line interface.\n"
+  release: sid
+  description_md5: 499b00909ee985a2ddfd9ac4ba066bd5
+  license: unknown
+  blend: debian-med
+- package: pyfastx
+  description: Hurtig vilkårlig adgang til sekvenser fra FASTA/Q-fil - kommando
+  long_description: " Pyfastx er en simpel Python C-udvidelse, der gør det muligt
+    for brugere vilkårligt at tilgå sekvenser fra rene og gzippede FASTA/Q-filer.
+    Dette modul forsøger at tilbyde simple API'er for brugere til at udtrække sekvens
+    fra FAST og læsninger fra FASTQ efter identifikator og indeksnummer. Pyfastx vil
+    bygge indeks lagret i en sqlite3-databasefil for vilkårlig adgang for at undgå
+    forbrug af en omfattende mængde af hukommelse. Derudover kan pyfastx fortolke
+    standardformatet (sekvens spredes ud over flere linjer med den samme længde) og
+    FASTA-formatet uden for standard (sekvens spredes ud på en eller flere linjer
+    med forskellig længde)\n .\n Indeholder:\n .\n  * en enkel fil for Pythonudvidelsen\n\
+    \  * simpel, hukommelseseffektiv FASTA/Q-filfortolkning\n  * hurtig vilkårlig
+    adgang til sekvenser fra gzippede FASTA/Q-fil\n  * sekvenslæsning fra FASTA-fil
+    linje efter linje\n  * N50- og L50-beregning for sekvenser i FASTA-fil\n  * GC-indhold
+    og nukleotiders kompositionsudtrækning\n  * glimrende kompatibilitet: understøttelse
+    for fortolkning af FASTA-fil\n    uden for standarden\n  * understøttelse for
+    konvertering af FASTA-kvalitetsbedømmelse\n  * en kommandolinjegrænseflade for
+    opdeling af FASTA/Q-fil\n .\n Denne pakke tilbyder brugerfladen for kommandolinjen.\n"
   release: sid
   description_md5: 499b00909ee985a2ddfd9ac4ba066bd5
   license: unknown

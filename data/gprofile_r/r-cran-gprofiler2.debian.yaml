@@ -9,12 +9,12 @@ license: unknown
 blend: debian-med
 description_md5: 6735d237fa3785d2187678fbcbcac7ed
 registries:
+- entry: SCR_006809
+  name: SciCrunch
 - entry: gprofile_r
   name: bio.tools
 - entry: r-gprofiler2
   name: conda:conda-forge
-- entry: SCR_006809
-  name: SciCrunch
 popcon:
 - insts: 43
   olde: 34

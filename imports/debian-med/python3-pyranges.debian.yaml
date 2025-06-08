@@ -19,19 +19,20 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btz615
 popcon:
-- insts: 19
-  olde: 10
-  recent: 8
+- insts: 18
+  olde: 8
+  recent: 9
   vote: 1
 descr:
 - package: python3-pyranges
-  description: 2D-repræsentation af genom-intervaller og deres annotationer
-  long_description: " Et PyRanges-objekt skal have kolonnerne Chromosome, Start og
-    End. Disse beskriver genompositionen og -funktionen som implicit rækkeetiketter.
-    En Strand-kolonne er valgfri og tilføjer strand-information til intervallerne.
-    Enhver anden kolonne er tilladt og anses som værende metadata.\n .\n Strukturen
-    kan udfyldes fra filtyperne .bed, .bam eller .gff, også fra tabulær eller tekstmæssige
-    repræsentationer.\n"
+  description: rappresentazione 2D di intervalli genomici e delle loro 
+    annotazioni
+  long_description: " Un oggetto PyRanges deve avere le colonne Chromosome, Start
+    ed End. Queste\n descrivono la posizione genomica e funzionano da etichette implicite
+    di\n riga. Una colonna Strand è opzionale e aggiunge informazioni sul filamento\n\
+    \ agli intervalli. Ogni altra colonna è permessa ed è considerata metadato.\n\
+    \ .\n La struttura può essere riempita a partire da file .bed, .bam o .gff, e\n\
+    \ anche da rappresentazioni tabellari o testuali.\n"
   release: sid
   description_md5: 2894de07ea184f23a470c215e90b1eb1
   license: unknown
@@ -48,13 +49,13 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-pyranges
-  description: rappresentazione 2D di intervalli genomici e delle loro annotazioni
-  long_description: " Un oggetto PyRanges deve avere le colonne Chromosome, Start
-    ed End. Queste\n descrivono la posizione genomica e funzionano da etichette implicite
-    di\n riga. Una colonna Strand è opzionale e aggiunge informazioni sul filamento\n\
-    \ agli intervalli. Ogni altra colonna è permessa ed è considerata metadato.\n\
-    \ .\n La struttura può essere riempita a partire da file .bed, .bam o .gff, e\n\
-    \ anche da rappresentazioni tabellari o testuali.\n"
+  description: 2D-repræsentation af genom-intervaller og deres annotationer
+  long_description: " Et PyRanges-objekt skal have kolonnerne Chromosome, Start og
+    End. Disse beskriver genompositionen og -funktionen som implicit rækkeetiketter.
+    En Strand-kolonne er valgfri og tilføjer strand-information til intervallerne.
+    Enhver anden kolonne er tilladt og anses som værende metadata.\n .\n Strukturen
+    kan udfyldes fra filtyperne .bed, .bam eller .gff, også fra tabulær eller tekstmæssige
+    repræsentationer.\n"
   release: sid
   description_md5: 2894de07ea184f23a470c215e90b1eb1
   license: unknown

@@ -19,29 +19,14 @@ tags:
 - tag: works-with::image:raster
 - tag: x11::application
 popcon:
-- insts: 331
-  olde: 219
-  recent: 95
-  vote: 17
+- insts: 327
+  olde: 199
+  recent: 113
+  vote: 15
 descr:
 - package: medcon
-  description: Medicinsk billedkonverteringsværktøj (DICOM, ECAT, ...)
-  long_description: " Dette projekt står for Medical Image Conversion, dvs. et medicinsk\n\
-    \ billedkonverteringsværktøj. Programmet er udgivet under (L)GPL. Den fulde\n\
-    \ C-kildekode fra biblioteket følger med. Det er et fleksibelt\n kommandolinjeredskab
-    med en pæn grafisk grænseflade, som anvender GTK+-\n værktøjssættet. Formater
-    som aktuelt understøttes er: Acr/Nema 2.0,\n Analyze (SPM), DICOM 3.0, InterFile
-    3.3 og PNG.\n .\n Programmet giver også mulighed for at læse ej understøttede
-    filer uden\n komprimering, at udskrive billedpunktsværdier eller at udtrække/ændre\n\
-    \ rækkefølge på specificerede billeder. Det er muligt at hente de rå\n binære/ascii-billedarray'er
-    eller at skrive PNG for skrivebordsprogrammer.\n .\n Dette er kommandolinjeværktøjet
-    for jobbehandling.\n"
-  release: sid
-  description_md5: 06576e7dcc31c6ed74b250627939542b
-  license: unknown
-  blend: debian-med
-- package: medcon
-  description: Werkzeug zur Konvertierung medizinischer Bilder (DICOM, ECAT, ...)
+  description: Werkzeug zur Konvertierung medizinischer Bilder (DICOM, ECAT, 
+    ...)
   long_description: " Der Name dieses Projektes leitet sich von »Medical Image Conversion«\n\
     \ (Umwandlung von Bildern in der Medizin) ab. Die Software wurde unter der\n (L)GPL
     veröffentlicht, stellt den kompletten C-Quellcode der Bibliothek zur\n Verfügung
@@ -57,32 +42,17 @@ descr:
   license: unknown
   blend: debian-med
 - package: medcon
-  description: Medical Image (DICOM, ECAT, ...) conversion tool
-  long_description: " This project stands for Medical Image Conversion. Released under
-    the\n (L)GPL, it comes with the full C-source code of the library, a\n flexible
-    command line utility and a neat graphical front-end using\n the GTK+ toolkit.
-    The currently supported formats are: Acr/Nema 2.0,\n Analyze (SPM), DICOM 3.0,
-    InterFile 3.3 and PNG.\n .\n The program also allows one to read unsupported files
-    without\n compression, to print pixel values or to extract/reorder specified\n\
-    \ images. It is possible to retrieve the raw binary/ascii image arrays\n or to
-    write PNG for desktop applications.\n .\n This is the command line tool for batch
-    processing.\n"
-  release: sid
-  description_md5: 06576e7dcc31c6ed74b250627939542b
-  license: unknown
-  blend: debian-med
-- package: medcon
-  description: Outil de conversion d'images médicales (DICOM, ECAT, etc.)
-  long_description: " Ce projet a pour but la conversion d’image médicale (Medical
-    Image Conversion).\n Publié sous licence (L)GPL, il est livré avec le code source C
-    complet de la\n bibliothèque, un outil flexible en ligne de commande et une interface
-    graphique\n soignée utilisant la boîte à outils GTK+. Les formats pris en charge\n\
-    \ actuellement sont : Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 et\n\
-    \ PNG.\n .\n Le programme permet aussi de lire des fichiers non pris en charge
-    et non\n compressés, pour afficher les valeurs de pixel ou pour extraire ou réorganiser\n\
-    \ les images indiquées. Il est possible de récupérer les tableaux d’image\n binaire
-    ou ASCII RAW ou d’écrire des PNG pour des applications de bureau.\n .\n Ceci est
-    l'outil en ligne de commande pour le traitement par lot.\n"
+  description: nástroj (grafické používateľské rozhranie) na konverziu 
+    medicínskych obrázkov (DICOM, ECAT, ...)
+  long_description: " Tento projekt je skratkou Medical Image Conversion. Je uvoľnený
+    pod\n licenciou (L)GPL, dodáva sa s úplným zdrojovým kódom knižnice v jazyku C,\n\
+    \ flexibilným nástrojom príkazového riadka a pekným grafickým používateľským\n\
+    \ rozhraním, ktoré používa sadu nástrojov GTK+. Momentálne podporuje formáty\n\
+    \ Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 a PNG.\n .\n Program tiež
+    umožňuje čítať nepodporované nekomprimované formáty, vypisovať\n hodnoty pixelov
+    alebo extrahovať/meniť poradie uvedených obrázkov. Je možné\n získať nespracované
+    binárne/ASCII polia obrázkov alebo zapisovať PNG na\n použitie v aplikáciách pracovného
+    prostredia.\n .\n Toto je nástroj príkazového riadka na dávkové spracovanie.\n"
   release: sid
   description_md5: 06576e7dcc31c6ed74b250627939542b
   license: unknown
@@ -104,7 +74,23 @@ descr:
   license: unknown
   blend: debian-med
 - package: medcon
-  description: Narzędzie do konwersji formatów obrazów medycznych (DICOM, ECAT, ...)
+  description: Medical Image (DICOM, ECAT, ...) conversion tool
+  long_description: " This project stands for Medical Image Conversion. Released under
+    the\n (L)GPL, it comes with the full C-source code of the library, a\n flexible
+    command line utility and a neat graphical front-end using\n the GTK+ toolkit.
+    The currently supported formats are: Acr/Nema 2.0,\n Analyze (SPM), DICOM 3.0,
+    InterFile 3.3 and PNG.\n .\n The program also allows one to read unsupported files
+    without\n compression, to print pixel values or to extract/reorder specified\n\
+    \ images. It is possible to retrieve the raw binary/ascii image arrays\n or to
+    write PNG for desktop applications.\n .\n This is the command line tool for batch
+    processing.\n"
+  release: sid
+  description_md5: 06576e7dcc31c6ed74b250627939542b
+  license: unknown
+  blend: debian-med
+- package: medcon
+  description: Narzędzie do konwersji formatów obrazów medycznych (DICOM, ECAT, 
+    ...)
   long_description: " Program przeznaczony jest do konwertowania formatów obrazów
     medycznych i\n rozpowszechniany na podstawie licencji (L)GPL. Pakiet zawiera kompletny
     kod\n źródłowy w języku C, elastyczne narzędzie wiersza poleceń oraz przejrzysty\n\
@@ -121,17 +107,33 @@ descr:
   license: unknown
   blend: debian-med
 - package: medcon
-  description: nástroj (grafické používateľské rozhranie) na konverziu medicínskych
-    obrázkov (DICOM, ECAT, ...)
-  long_description: " Tento projekt je skratkou Medical Image Conversion. Je uvoľnený
-    pod\n licenciou (L)GPL, dodáva sa s úplným zdrojovým kódom knižnice v jazyku C,\n\
-    \ flexibilným nástrojom príkazového riadka a pekným grafickým používateľským\n\
-    \ rozhraním, ktoré používa sadu nástrojov GTK+. Momentálne podporuje formáty\n\
-    \ Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 a PNG.\n .\n Program tiež
-    umožňuje čítať nepodporované nekomprimované formáty, vypisovať\n hodnoty pixelov
-    alebo extrahovať/meniť poradie uvedených obrázkov. Je možné\n získať nespracované
-    binárne/ASCII polia obrázkov alebo zapisovať PNG na\n použitie v aplikáciách pracovného
-    prostredia.\n .\n Toto je nástroj príkazového riadka na dávkové spracovanie.\n"
+  description: Medicinsk billedkonverteringsværktøj (DICOM, ECAT, ...)
+  long_description: " Dette projekt står for Medical Image Conversion, dvs. et medicinsk\n\
+    \ billedkonverteringsværktøj. Programmet er udgivet under (L)GPL. Den fulde\n\
+    \ C-kildekode fra biblioteket følger med. Det er et fleksibelt\n kommandolinjeredskab
+    med en pæn grafisk grænseflade, som anvender GTK+-\n værktøjssættet. Formater
+    som aktuelt understøttes er: Acr/Nema 2.0,\n Analyze (SPM), DICOM 3.0, InterFile
+    3.3 og PNG.\n .\n Programmet giver også mulighed for at læse ej understøttede
+    filer uden\n komprimering, at udskrive billedpunktsværdier eller at udtrække/ændre\n\
+    \ rækkefølge på specificerede billeder. Det er muligt at hente de rå\n binære/ascii-billedarray'er
+    eller at skrive PNG for skrivebordsprogrammer.\n .\n Dette er kommandolinjeværktøjet
+    for jobbehandling.\n"
+  release: sid
+  description_md5: 06576e7dcc31c6ed74b250627939542b
+  license: unknown
+  blend: debian-med
+- package: medcon
+  description: Outil de conversion d'images médicales (DICOM, ECAT, etc.)
+  long_description: " Ce projet a pour but la conversion d’image médicale (Medical
+    Image Conversion).\n Publié sous licence (L)GPL, il est livré avec le code source C
+    complet de la\n bibliothèque, un outil flexible en ligne de commande et une interface
+    graphique\n soignée utilisant la boîte à outils GTK+. Les formats pris en charge\n\
+    \ actuellement sont : Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 et\n\
+    \ PNG.\n .\n Le programme permet aussi de lire des fichiers non pris en charge
+    et non\n compressés, pour afficher les valeurs de pixel ou pour extraire ou réorganiser\n\
+    \ les images indiquées. Il est possible de récupérer les tableaux d’image\n binaire
+    ou ASCII RAW ou d’écrire des PNG pour des applications de bureau.\n .\n Ceci est
+    l'outil en ligne de commande pour le traitement par lot.\n"
   release: sid
   description_md5: 06576e7dcc31c6ed74b250627939542b
   license: unknown

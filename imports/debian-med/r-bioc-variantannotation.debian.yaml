@@ -9,25 +9,26 @@ license: unknown
 blend: debian-med
 description_md5: 17670e83de551a30abddcb85706e9bf5
 registries:
-- entry: variantannotation
-  name: bio.tools
 - entry: OMICS_02073
   name: OMICtools
+- entry: variantannotation
+  name: bio.tools
 - entry: bioconductor-variantannotation
   name: conda:bioconda
 bib:
 - key: doi
   value: 10.1093/bioinformatics/btu168
 popcon:
-- insts: 169
-  olde: 151
+- insts: 166
+  olde: 147
   recent: 11
-  vote: 7
+  vote: 8
 descr:
 - package: r-bioc-variantannotation
-  description: BioConductor-annotation af genetiske varianter
-  long_description: " Denne BioConductor-pakke tilbyder R-funktioner til at annotere
-    varianter,\n beregne ændring af aminosyrekodning og forudsige kodningsresultater.\n"
+  description: annotazione di varianti genetiche per BioConductor
+  long_description: " Questo pacchetto per BioConductor fornisce funzioni R per annotare\n\
+    \ varianti, calcolare cambiamenti nella codifica degli aminoacidi e prevedere\n\
+    \ i risultati delle codifiche.\n"
   release: sid
   description_md5: 17670e83de551a30abddcb85706e9bf5
   license: unknown
@@ -41,10 +42,9 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-variantannotation
-  description: annotazione di varianti genetiche per BioConductor
-  long_description: " Questo pacchetto per BioConductor fornisce funzioni R per annotare\n\
-    \ varianti, calcolare cambiamenti nella codifica degli aminoacidi e prevedere\n\
-    \ i risultati delle codifiche.\n"
+  description: BioConductor-annotation af genetiske varianter
+  long_description: " Denne BioConductor-pakke tilbyder R-funktioner til at annotere
+    varianter,\n beregne ændring af aminosyrekodning og forudsige kodningsresultater.\n"
   release: sid
   description_md5: 17670e83de551a30abddcb85706e9bf5
   license: unknown

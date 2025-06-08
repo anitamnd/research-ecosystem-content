@@ -14,30 +14,12 @@ tags:
 - tag: interface::commandline
 - tag: role::program
 popcon:
-- insts: 295
-  olde: 218
-  recent: 31
+- insts: 308
+  nofiles: 1
+  olde: 228
+  recent: 33
   vote: 46
 descr:
-- package: r-cran-epi
-  description: GNU R epidemiologisk analyse
-  long_description: " Funktioner til demografisk og epidemiologisk analyse i Lexis-programmet,\n\
-    \ dvs. register- og kohorte-opfølgningsdata, inklusive intervalcensorerede\n data
-    og repræsentation af data i flere tilstande. Indeholder også nyttige\n funktioner
-    til tabulering og plotning. Indeholder også nogle epidemiologiske datasæt.\n .\n\
-    \ Epi-pakken er primært fokuseret på »klassisk« kronisk sygdomsepidemiologi.\n\
-    \ Pakken er vokset ud af kurset »Statistical Practice in Epidemiology using\n\
-    \ R« (se http://www.pubhealth.ku.dk/~bxc/SPE).\n .\n Der er en kort introduktion
-    til epidemiologi med R tilgængelig på\n http://staff.pubhealth.ku.dk/%7Ebxc/Epi/R-intro.pdf\n\
-    \ Vær opmærksom på at siderne 38-120 fra denne blot er manualsiderne til Epi-\n\
-    \ pakken.\n .\n Epi er ikke den eneste R-pakke til epidemiologisk analyse. En
-    pakke med\n tættere tilhørsforhold til smitsom sygdomsepidemiologi er pakken epitools,\n\
-    \ der også er tilgængelig gennem Debian.\n .\n Epi anvendes af Biostatistisk Afdeling
-    ved Københavns Universitet.\n"
-  release: sid
-  description_md5: 1c65fa6a367b5dbc008481efa234d725
-  license: unknown
-  blend: debian-med
 - package: r-cran-epi
   description: 'GNU R: epidemiologische Analyse'
   long_description: " Funktionen für demographische und epidemiologische Analysen
@@ -53,25 +35,6 @@ descr:
     einzige R-Paket für epidemiologische Analysen. Das\n ebenfalls in Debian verfügbare
     Paket epitools beschäftigt sich mehr mit\n ansteckenden Krankheiten.\n .\n Epi
     wird in der Universität Kopenhagen von der Abteilung Biostatistik\n verwendet.\n"
-  release: sid
-  description_md5: 1c65fa6a367b5dbc008481efa234d725
-  license: unknown
-  blend: debian-med
-- package: r-cran-epi
-  description: GNU R epidemiological analysis
-  long_description: " Functions for demographic and epidemiological analysis in the
-    Lexis diagram,\n i.e. register and cohort follow-up data, including interval censored
-    data and\n representation of multistate data. Also some useful functions for tabulation\n\
-    \ and plotting. Contains some epidemiological datasets.\n .\n The Epi package
-    is mainly focused on \"classical\" chronic disease epidemiology.\n The package
-    has grown out of the course Statistical Practice in Epidemiology\n using R (see
-    http://www.pubhealth.ku.dk/~bxc/SPE).\n .\n There is A short introduction to R
-    for Epidemiology available at\n http://staff.pubhealth.ku.dk/%7Ebxc/Epi/R-intro.pdf\n\
-    \ Beware that the pages 38-120 of this is merely the manual pages for the Epi\n\
-    \ package.\n .\n Epi is not the only R-package for epidemiological analysis, a
-    package with\n more affinity to infectious disease epidemiology is the epitools
-    package\n which is also evailable in Debian.\n .\n Epi is used in the Department
-    of Biostatistics of the University of Copenhagen.\n"
   release: sid
   description_md5: 1c65fa6a367b5dbc008481efa234d725
   license: unknown
@@ -113,6 +76,44 @@ descr:
     epidemiologica, il pacchetto\n epitools, anch'esso disponibile in Debian, è un
     pacchetto più indirizzato\n all'epidemiologia delle malattie infettive.\n .\n\
     \ Epi è usato dal Dipartimento di Biostatistica dell'Università di Copenaghen.\n"
+  release: sid
+  description_md5: 1c65fa6a367b5dbc008481efa234d725
+  license: unknown
+  blend: debian-med
+- package: r-cran-epi
+  description: GNU R epidemiological analysis
+  long_description: " Functions for demographic and epidemiological analysis in the
+    Lexis diagram,\n i.e. register and cohort follow-up data, including interval censored
+    data and\n representation of multistate data. Also some useful functions for tabulation\n\
+    \ and plotting. Contains some epidemiological datasets.\n .\n The Epi package
+    is mainly focused on \"classical\" chronic disease epidemiology.\n The package
+    has grown out of the course Statistical Practice in Epidemiology\n using R (see
+    http://www.pubhealth.ku.dk/~bxc/SPE).\n .\n There is A short introduction to R
+    for Epidemiology available at\n http://staff.pubhealth.ku.dk/%7Ebxc/Epi/R-intro.pdf\n\
+    \ Beware that the pages 38-120 of this is merely the manual pages for the Epi\n\
+    \ package.\n .\n Epi is not the only R-package for epidemiological analysis, a
+    package with\n more affinity to infectious disease epidemiology is the epitools
+    package\n which is also evailable in Debian.\n .\n Epi is used in the Department
+    of Biostatistics of the University of Copenhagen.\n"
+  release: sid
+  description_md5: 1c65fa6a367b5dbc008481efa234d725
+  license: unknown
+  blend: debian-med
+- package: r-cran-epi
+  description: GNU R epidemiologisk analyse
+  long_description: " Funktioner til demografisk og epidemiologisk analyse i Lexis-programmet,\n\
+    \ dvs. register- og kohorte-opfølgningsdata, inklusive intervalcensorerede\n data
+    og repræsentation af data i flere tilstande. Indeholder også nyttige\n funktioner
+    til tabulering og plotning. Indeholder også nogle epidemiologiske datasæt.\n .\n\
+    \ Epi-pakken er primært fokuseret på »klassisk« kronisk sygdomsepidemiologi.\n\
+    \ Pakken er vokset ud af kurset »Statistical Practice in Epidemiology using\n\
+    \ R« (se http://www.pubhealth.ku.dk/~bxc/SPE).\n .\n Der er en kort introduktion
+    til epidemiologi med R tilgængelig på\n http://staff.pubhealth.ku.dk/%7Ebxc/Epi/R-intro.pdf\n\
+    \ Vær opmærksom på at siderne 38-120 fra denne blot er manualsiderne til Epi-\n\
+    \ pakken.\n .\n Epi er ikke den eneste R-pakke til epidemiologisk analyse. En
+    pakke med\n tættere tilhørsforhold til smitsom sygdomsepidemiologi er pakken epitools,\n\
+    \ der også er tilgængelig gennem Debian.\n .\n Epi anvendes af Biostatistisk Afdeling
+    ved Københavns Universitet.\n"
   release: sid
   description_md5: 1c65fa6a367b5dbc008481efa234d725
   license: unknown

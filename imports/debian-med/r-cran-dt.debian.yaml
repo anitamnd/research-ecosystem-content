@@ -10,21 +10,22 @@ blend: debian-med
 description_md5: a783f188093d501d240609ab7349ea9f
 registries:
 - entry: r-dt
-  name: conda:conda-forge
-- entry: r-dt
   name: conda:bioconda
+- entry: r-dt
+  name: conda:conda-forge
 popcon:
-- insts: 1480
+- insts: 1481
   nofiles: 6
-  olde: 1223
-  recent: 66
-  vote: 185
+  olde: 1225
+  recent: 64
+  vote: 186
 descr:
 - package: r-cran-dt
-  description: GNU R-omslag for JavaScript-bibliotkeet »DataTables«
-  long_description: " Dataobjekter i R kan optegnes som HTML-tabeller via JavaScript-biblioteket
-    »DataTables« (typisk via R Markdown eller Shiny). Biblioteket »DataTables« er
-    blevet inkluderet i denne R-pakke. Pakkennavnet »DT« er en forkortelse for »DataTables«.\n"
+  description: wrapper GNU R della libreria JavaScript "DataTables"
+  long_description: " Gli oggetti dati in R possono essere resi come tabelle HTML
+    usando la\n libreria JavaScript \"DataTables\" (tipicamente usando R Markdown
+    o Shiny).\n La libreria \"DataTables\" è stata inclusa in questo pacchetto per
+    R. Il\n nome del pacchetto, \"DT\" è un'abbreviazione di \"DataTables\".\n"
   release: sid
   description_md5: a783f188093d501d240609ab7349ea9f
   license: unknown
@@ -40,11 +41,10 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-dt
-  description: wrapper GNU R della libreria JavaScript "DataTables"
-  long_description: " Gli oggetti dati in R possono essere resi come tabelle HTML
-    usando la\n libreria JavaScript \"DataTables\" (tipicamente usando R Markdown
-    o Shiny).\n La libreria \"DataTables\" è stata inclusa in questo pacchetto per
-    R. Il\n nome del pacchetto, \"DT\" è un'abbreviazione di \"DataTables\".\n"
+  description: GNU R-omslag for JavaScript-bibliotkeet »DataTables«
+  long_description: " Dataobjekter i R kan optegnes som HTML-tabeller via JavaScript-biblioteket
+    »DataTables« (typisk via R Markdown eller Shiny). Biblioteket »DataTables« er
+    blevet inkluderet i denne R-pakke. Pakkennavnet »DT« er en forkortelse for »DataTables«.\n"
   release: sid
   description_md5: a783f188093d501d240609ab7349ea9f
   license: unknown

@@ -12,20 +12,20 @@ bib:
 - key: doi
   value: 10.1093/jac/dks261
 popcon:
-- insts: 33
+- insts: 32
   olde: 24
   recent: 7
-  vote: 2
+  vote: 1
 descr:
 - package: resfinder
-  description: Identificer erhvervede antimikrobielle resistensgener
-  long_description: " ResFinder identificerer erhvervede antimikrobielle resistensgener
-    i alt eller delvise sekventerede isolater af bakterier.\n .\n ResFinder der bruger
-    BLAST til identifikation af erhvervede antimikrobielle resistensgener i whole-genome-data.
-    Som data kan metoden bruge både genomer samlet på forhånd, fuldstændige genomer
-    eller delvise genomer, og korte sekvenslæsninger fra fire forskellige sekventeringsplatforme.
-    Metoden blev evalueret på 1.862 GenBank-filer indeholdende 1.411 forskellige resistensgener,
-    samt på 23 de-novo-sekventerede isolater.\n"
+  description: identifica geni acquisiti di resistenza agli antimicrobici
+  long_description: " ResFinder identifica geni acquisiti di resistenza agli antimicrobici
+    in\n isolati batterici totalmente o parzialmente sequenziati.\n .\n ResFinder
+    usa BLAST per l'identificazione di geni acquisiti di resistenza\n agli antimicrobici
+    in dati di genomi interi. Come input il metodo può usare\n sia genomi completi
+    o parziali pre-assemblati sia letture corte di sequenze\n da quattro diverse piattaforme
+    di sequenziamento. Il metodo è stato valutato\n su 1862 file GenBank contenenti
+    1411 differenti geni di resistenza, oltre a\n 23 isolati sequenziati de-novo.\n"
   release: sid
   description_md5: cce3ff3cc36c4c2328391a5521af12c8
   license: unknown
@@ -44,14 +44,14 @@ descr:
   license: unknown
   blend: debian-med
 - package: resfinder
-  description: identifica geni acquisiti di resistenza agli antimicrobici
-  long_description: " ResFinder identifica geni acquisiti di resistenza agli antimicrobici
-    in\n isolati batterici totalmente o parzialmente sequenziati.\n .\n ResFinder
-    usa BLAST per l'identificazione di geni acquisiti di resistenza\n agli antimicrobici
-    in dati di genomi interi. Come input il metodo può usare\n sia genomi completi
-    o parziali pre-assemblati sia letture corte di sequenze\n da quattro diverse piattaforme
-    di sequenziamento. Il metodo è stato valutato\n su 1862 file GenBank contenenti
-    1411 differenti geni di resistenza, oltre a\n 23 isolati sequenziati de-novo.\n"
+  description: Identificer erhvervede antimikrobielle resistensgener
+  long_description: " ResFinder identificerer erhvervede antimikrobielle resistensgener
+    i alt eller delvise sekventerede isolater af bakterier.\n .\n ResFinder der bruger
+    BLAST til identifikation af erhvervede antimikrobielle resistensgener i whole-genome-data.
+    Som data kan metoden bruge både genomer samlet på forhånd, fuldstændige genomer
+    eller delvise genomer, og korte sekvenslæsninger fra fire forskellige sekventeringsplatforme.
+    Metoden blev evalueret på 1.862 GenBank-filer indeholdende 1.411 forskellige resistensgener,
+    samt på 23 de-novo-sekventerede isolater.\n"
   release: sid
   description_md5: cce3ff3cc36c4c2328391a5521af12c8
   license: unknown

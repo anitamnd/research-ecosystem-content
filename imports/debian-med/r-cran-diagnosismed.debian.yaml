@@ -16,23 +16,11 @@ tags:
 - tag: role::program
 - tag: use::analysing
 popcon:
-- insts: 42
-  olde: 38
+- insts: 46
+  olde: 41
+  recent: 1
   vote: 4
 descr:
-- package: r-cran-diagnosismed
-  description: Præcisionsevaluering af diagnostisk test for læger
-  long_description: " DiagnosisMed er en GNU R-pakke til analyse af data fra\n præcisionsevalueringer
-    af diagnostiske test af sundhedsbetingelser. Det\n bliver udviklet til anvendelse
-    i sundhedsvæsenet. Pakken er i stand til at\n estimere følsomhed og specificitet
-    fra kategoriske og fortløbende\n testresultater, inklusive enkelte evalueringer
-    af ubestemmelige\n resultater, eller sammenligning af forskellige kategoriske
-    test, samt\n estimering af rimelige afgrænsninger af test. Dette vises på en måde
-    som\n ofte anvendes i sundhedsvæsenet. Der er endnu ingen grafisk grænseflade.\n"
-  release: sid
-  description_md5: a91d8edb16b5a4c4e239ba802513f4ba
-  license: unknown
-  blend: debian-med
 - package: r-cran-diagnosismed
   description: Werkzeugsatz zur Genauigkeitsanalyse diagnostischer Tests
   long_description: " Mit dem GNU-R-Paket DiagnosisMed kann die Genauigkeit von diagnostischen
@@ -43,19 +31,6 @@ descr:
     Tests vergleichen, sinnvolle\n Ausschlussbedingungen für Tests abschätzen und
     das Ganze so darstellen, wie es\n im Allgemeinen von Gesundheitsexperten genutzt
     wird. Noch ist keine grafische\n Benutzerschnittstelle verfügbar.\n"
-  release: sid
-  description_md5: a91d8edb16b5a4c4e239ba802513f4ba
-  license: unknown
-  blend: debian-med
-- package: r-cran-diagnosismed
-  description: medical diagnostic test accuracy analysis toolkit
-  long_description: " DiagnosisMed is a GNU R package to analyze the accuracy of data
-    from\n diagnostic tests evaluating health conditions. It was designed to be\n\
-    \ used by health professionals. This package helps estimating sensitivity\n and
-    specificity from categorical and continuous test results including\n some  evaluations
-    of indeterminate results, or compare different\n categorical tests, and estimate
-    reasonable cut-offs of tests and display\n it in a way commonly used by health
-    professionals. No graphical\n interface is available yet.\n"
   release: sid
   description_md5: a91d8edb16b5a4c4e239ba802513f4ba
   license: unknown
@@ -83,6 +58,32 @@ descr:
     diversi test categorici e stimare valori limite ragionevoli per\n i test e visualizzarli
     in un modo usato comunemente da professionisti in\n campo medico. Non è ancora
     disponibile un'interfaccia grafica.\n"
+  release: sid
+  description_md5: a91d8edb16b5a4c4e239ba802513f4ba
+  license: unknown
+  blend: debian-med
+- package: r-cran-diagnosismed
+  description: medical diagnostic test accuracy analysis toolkit
+  long_description: " DiagnosisMed is a GNU R package to analyze the accuracy of data
+    from\n diagnostic tests evaluating health conditions. It was designed to be\n\
+    \ used by health professionals. This package helps estimating sensitivity\n and
+    specificity from categorical and continuous test results including\n some  evaluations
+    of indeterminate results, or compare different\n categorical tests, and estimate
+    reasonable cut-offs of tests and display\n it in a way commonly used by health
+    professionals. No graphical\n interface is available yet.\n"
+  release: sid
+  description_md5: a91d8edb16b5a4c4e239ba802513f4ba
+  license: unknown
+  blend: debian-med
+- package: r-cran-diagnosismed
+  description: Præcisionsevaluering af diagnostisk test for læger
+  long_description: " DiagnosisMed er en GNU R-pakke til analyse af data fra\n præcisionsevalueringer
+    af diagnostiske test af sundhedsbetingelser. Det\n bliver udviklet til anvendelse
+    i sundhedsvæsenet. Pakken er i stand til at\n estimere følsomhed og specificitet
+    fra kategoriske og fortløbende\n testresultater, inklusive enkelte evalueringer
+    af ubestemmelige\n resultater, eller sammenligning af forskellige kategoriske
+    test, samt\n estimering af rimelige afgrænsninger af test. Dette vises på en måde
+    som\n ofte anvendes i sundhedsvæsenet. Der er endnu ingen grafisk grænseflade.\n"
   release: sid
   description_md5: a91d8edb16b5a4c4e239ba802513f4ba
   license: unknown

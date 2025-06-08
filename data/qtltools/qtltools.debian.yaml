@@ -20,18 +20,18 @@ bib:
   rank: 1
   value: 10.1093/bioinformatics/btx074
 popcon:
-- insts: 41
-  olde: 33
+- insts: 39
+  olde: 31
   recent: 8
 descr:
 - package: qtltools
-  description: Værktøjssæt for molekylær QTL-registrering og analyse
-  long_description: " QTLtools er et værktøjssæt for molekylær Quantitative Trait
-    Loci-\n registrering og analyse (QTL). Det gør det muligt at gå fra rå\n sekvensdata
-    til indsamling af molekylær QTL i nogle få trin, der er nemme\n at udføre. QTLtools
-    indeholder flere metoder til at forberede dataene, til\n at registrere proximal
-    og distal molekylær QTL og endelig til at\n integrere dem med GWAS-varianter og
-    funktionelle annotationer for\n genomet.\n"
+  description: insieme di strumenti per scoperta e analisi di QTL molecolari
+  long_description: " QTLtools è un insieme di strumenti per scoperta e analisi di
+    caratteri\n quantitativi (Quantitative Trait Loci, QTL) molecolari. Permette all'utente\n\
+    \ di andare da dati di sequenze grezze fino alla raccolta di QTL molecolari\n\
+    \ in pochi passi facili da eseguire. QTLtools contiene metodi multipli per\n preparare
+    i dati, per scoprire QTL molecolari distali e prossimali e infine\n per integrarli
+    con varianti GWAS e annotazioni funzionali del genoma.\n"
   release: sid
   description_md5: e7b754de7d0cb114c93545d286bb027e
   license: unknown
@@ -49,13 +49,13 @@ descr:
   license: unknown
   blend: debian-med
 - package: qtltools
-  description: insieme di strumenti per scoperta e analisi di QTL molecolari
-  long_description: " QTLtools è un insieme di strumenti per scoperta e analisi di
-    caratteri\n quantitativi (Quantitative Trait Loci, QTL) molecolari. Permette all'utente\n\
-    \ di andare da dati di sequenze grezze fino alla raccolta di QTL molecolari\n\
-    \ in pochi passi facili da eseguire. QTLtools contiene metodi multipli per\n preparare
-    i dati, per scoprire QTL molecolari distali e prossimali e infine\n per integrarli
-    con varianti GWAS e annotazioni funzionali del genoma.\n"
+  description: Værktøjssæt for molekylær QTL-registrering og analyse
+  long_description: " QTLtools er et værktøjssæt for molekylær Quantitative Trait
+    Loci-\n registrering og analyse (QTL). Det gør det muligt at gå fra rå\n sekvensdata
+    til indsamling af molekylær QTL i nogle få trin, der er nemme\n at udføre. QTLtools
+    indeholder flere metoder til at forberede dataene, til\n at registrere proximal
+    og distal molekylær QTL og endelig til at\n integrere dem med GWAS-varianter og
+    funktionelle annotationer for\n genomet.\n"
   release: sid
   description_md5: e7b754de7d0cb114c93545d286bb027e
   license: unknown

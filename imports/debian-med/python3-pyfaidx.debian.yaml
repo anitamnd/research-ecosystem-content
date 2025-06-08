@@ -15,22 +15,23 @@ bib:
 - key: doi
   value: 10.7287/peerj.preprints.970v1
 popcon:
-- insts: 77
-  olde: 42
-  recent: 26
-  vote: 9
+- insts: 75
+  olde: 41
+  recent: 23
+  vote: 11
 descr:
 - package: python3-pyfaidx
-  description: Effektiv vilkårlig adgang til fasta-undersekvenser for Python 3
-  long_description: " Samtools tilbyder en funktion »faidx« (FAsta InDeX), der opretter
-    en lille flad indeksfil ».fai« der tillader hurtig vilkårlig adgang til enhver
-    undersekvens i den indekserede FASTA-fil, mens der indlæses en minimal mængde
-    af filen i hukommelsen. Dette Pythonmodul implementerer rene Pythonklasser for
-    indeksering, indhentelse og på stedet ændring af FASTA-filer via et samtools-kompatibelt
-    indeks. Modulet pyfaidx er API-kompatibelt med pygr seqdb-modulet. Et kommandolinjeskript
-    »faidx« er installeret sammen med modulet pyfaidx og faciliterer kompleks manipulering
-    af FAST-filer uden nogen programmeringsviden.\n .\n Denne pakke tilbyder Python
-    3-modulerne til at tilgå fasta-filer.\n"
+  description: accesso casuale efficiente per sottosequenze FASTA in Python 3
+  long_description: " Samtools fornisce una funzione \"faidx\" (FAsta InDeX) che crea
+    un piccolo\n file indice piatto \".fai\" che permette un accesso casuale veloce
+    a\n qualsiasi sottosequenza del file FASTA indicizzato, caricando solo una\n quantità
+    minima del file in memoria. Questo modulo Python implementa classi\n Python pure
+    per indicizzazione, recupero e modifica sul posto di file FASTA\n usando un indice
+    compatibile con samtools. Il modulo pyfaidx è compatibile\n a livello di API con
+    il modulo seqdb di pygr. Uno script \"faidx\" a riga di\n comando viene installato
+    accanto al modulo pyfaidx e facilita manipolazioni\n complesse di file FASTA senza
+    alcuna conoscenza di programmazione.\n .\n Questo pacchetto fornisce i moduli
+    Python 3 per accedere a file FASTA.\n"
   release: sid
   description_md5: 8b4b562961c5bb65ecfef8c074f66a35
   license: unknown
@@ -51,17 +52,16 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-pyfaidx
-  description: accesso casuale efficiente per sottosequenze FASTA in Python 3
-  long_description: " Samtools fornisce una funzione \"faidx\" (FAsta InDeX) che crea
-    un piccolo\n file indice piatto \".fai\" che permette un accesso casuale veloce
-    a\n qualsiasi sottosequenza del file FASTA indicizzato, caricando solo una\n quantità
-    minima del file in memoria. Questo modulo Python implementa classi\n Python pure
-    per indicizzazione, recupero e modifica sul posto di file FASTA\n usando un indice
-    compatibile con samtools. Il modulo pyfaidx è compatibile\n a livello di API con
-    il modulo seqdb di pygr. Uno script \"faidx\" a riga di\n comando viene installato
-    accanto al modulo pyfaidx e facilita manipolazioni\n complesse di file FASTA senza
-    alcuna conoscenza di programmazione.\n .\n Questo pacchetto fornisce i moduli
-    Python 3 per accedere a file FASTA.\n"
+  description: Effektiv vilkårlig adgang til fasta-undersekvenser for Python 3
+  long_description: " Samtools tilbyder en funktion »faidx« (FAsta InDeX), der opretter
+    en lille flad indeksfil ».fai« der tillader hurtig vilkårlig adgang til enhver
+    undersekvens i den indekserede FASTA-fil, mens der indlæses en minimal mængde
+    af filen i hukommelsen. Dette Pythonmodul implementerer rene Pythonklasser for
+    indeksering, indhentelse og på stedet ændring af FASTA-filer via et samtools-kompatibelt
+    indeks. Modulet pyfaidx er API-kompatibelt med pygr seqdb-modulet. Et kommandolinjeskript
+    »faidx« er installeret sammen med modulet pyfaidx og faciliterer kompleks manipulering
+    af FAST-filer uden nogen programmeringsviden.\n .\n Denne pakke tilbyder Python
+    3-modulerne til at tilgå fasta-filer.\n"
   release: sid
   description_md5: 8b4b562961c5bb65ecfef8c074f66a35
   license: unknown

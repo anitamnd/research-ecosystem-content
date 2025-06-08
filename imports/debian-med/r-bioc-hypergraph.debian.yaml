@@ -9,14 +9,15 @@ license: unknown
 blend: debian-med
 description_md5: c9869c741900ddb0d82d391efd5501c5
 popcon:
-- insts: 21
-  olde: 20
+- insts: 24
+  olde: 21
+  recent: 2
   vote: 1
 descr:
 - package: r-bioc-hypergraph
-  description: BioConductor - hypergraf-datastrukturer
-  long_description: " Denne pakke implementerer nogle simple funktioner for repræsentation
-    og\n manipulering af hypergrafer.\n"
+  description: strutture di dati di ipergrafi per Bioconductor
+  long_description: " Questo pacchetto di Bioconductor implementa alcune funzionalità
+    semplici\n per rappresentare e manipolare ipergrafi.\n"
   release: sid
   description_md5: c9869c741900ddb0d82d391efd5501c5
   license: unknown
@@ -30,9 +31,9 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-hypergraph
-  description: strutture di dati di ipergrafi per Bioconductor
-  long_description: " Questo pacchetto di Bioconductor implementa alcune funzionalità
-    semplici\n per rappresentare e manipolare ipergrafi.\n"
+  description: BioConductor - hypergraf-datastrukturer
+  long_description: " Denne pakke implementerer nogle simple funktioner for repræsentation
+    og\n manipulering af hypergrafer.\n"
   release: sid
   description_md5: c9869c741900ddb0d82d391efd5501c5
   license: unknown

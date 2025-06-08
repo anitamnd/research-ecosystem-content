@@ -11,30 +11,18 @@ description_md5: b70bdf02833d19f3a62039b4c16af62a
 registries:
 - entry: OMICS_00779
   name: OMICtools
-- entry: SAM
-  name: bio.tools
 - entry: SCR_010951
   name: SciCrunch
+- entry: SAM
+  name: bio.tools
 - entry: r-samr
   name: conda:bioconda
 popcon:
-- insts: 65
-  olde: 52
-  recent: 7
-  vote: 6
+- insts: 66
+  olde: 51
+  recent: 8
+  vote: 7
 descr:
-- package: r-cran-samr
-  description: GNU R-signifikansanalyse af mikrotabeller
-  long_description: " Denne GNU R-pakke tilbyder signifikansanalyse af mikrotabeller.
-    En mikrotabel er et multiplex lab-on-a-chip. Det er en 2D-matrix på et fast stof
-    (normalt en glasskive eller en thin-film celle i silicium), der analyserer store
-    mængder biologisk materiale ved hjælp af screening med miniaturiserede, multipleksede
-    og parallelle behandlings- og registreringsmetoder.\n .\n Denne pakke hjælper
-    med at analysere denne type mikrotabeller.\n"
-  release: sid
-  description_md5: b70bdf02833d19f3a62039b4c16af62a
-  license: unknown
-  blend: debian-med
 - package: r-cran-samr
   description: GNU R significance analysis of microarrays
   long_description: " This GNU R package provides significance analysis of microarrays.\n\
@@ -43,6 +31,18 @@ descr:
     of biological material using high-throughput screening\n miniaturized, multiplexed
     and parallel processing and detection methods.\n .\n This package helps analysing
     this kind of microarrays.\n"
+  release: sid
+  description_md5: b70bdf02833d19f3a62039b4c16af62a
+  license: unknown
+  blend: debian-med
+- package: r-cran-samr
+  description: GNU R-signifikansanalyse af mikrotabeller
+  long_description: " Denne GNU R-pakke tilbyder signifikansanalyse af mikrotabeller.
+    En mikrotabel er et multiplex lab-on-a-chip. Det er en 2D-matrix på et fast stof
+    (normalt en glasskive eller en thin-film celle i silicium), der analyserer store
+    mængder biologisk materiale ved hjælp af screening med miniaturiserede, multipleksede
+    og parallelle behandlings- og registreringsmetoder.\n .\n Denne pakke hjælper
+    med at analysere denne type mikrotabeller.\n"
   release: sid
   description_md5: b70bdf02833d19f3a62039b4c16af62a
   license: unknown

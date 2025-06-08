@@ -34,21 +34,21 @@ tags:
 - tag: works-with::image
 - tag: x11::application
 popcon:
-- insts: 776
-  olde: 677
-  recent: 26
-  vote: 73
+- insts: 780
+  olde: 674
+  recent: 35
+  vote: 71
 descr:
 - package: pymol
-  description: System til molekylærgrafik
-  long_description: " PyMOL er et system til molekylærgrafik målrettet mellemstore
-    til store\n biomolekyler som proteiner. Det kan fremstille udgivelsesklare billeder\n\
-    \ og animationer af molekylærgrafik i høj kvalitet.\n .\n Egenskaber inkluderer:\n\
-    \  * Visualisering af molekyler, molekylærbaner og overflader af data fra\n  \
-    \  krystallografi eller orbitaler\n  * Molekylærbygger og -skulptør\n  * Intern
-    strålesporing og filmgenerator\n  * Fuldt udvidelig og skriptbar via en Python-grænseflade\n\
-    \ .\n Filformater som PyMOL kan læse inkluderer PDB, XYZ, CIF, »MDL Molfile«,\n\
-    \ ChemDraw, CCP4-kort, XPLOR-kort og »Gaussian cube«-kort.\n"
+  description: Графічна система відтворення молекул
+  long_description: " PyMOL — графічна система відтворення молекул призначена для
+    відтворення\n середніх та великих молекул, таких як протеїни. Вона може створювати\n\
+    \ високоякісні готові для публікації зображення та анімації.\n .\n Серед можливостей:\n\
+    \  * візуалізація молекул, молекулярних траєкторій та поверхонь за даними\n кристалографії
+    та орбіталей;\n  * інструмент для створення молекул;\n  * внутрішній візуалізатор
+    та створювач анімацій;\n  * повністю розширюваний та підтримуючий сценарії Python
+    інтерфейс.\n .\n Серед форматів файлів які читає PyMOL — PDB, XYZ, CIF, MDL Molfile,\n\
+    \ ChemDraw, CCP4 мапи, XPLOR мапи та кубічні мапи Гауса.\n"
   release: sid
   description_md5: bfc8e8676a87c0058529a662aef95313
   license: unknown
@@ -64,66 +64,6 @@ descr:
     \  * Voll erweiterbar und programmierbar durch eine Python-Schnittstelle\n .\n\
     \ PyMOL kann unter anderem folgende Dateiformate lesen: PDB, XYZ, CIF, MDL\n Molfile,
     ChemDraw, CCP4 Maps, XPLOR Maps und Gaussian Cube Maps.\n"
-  release: sid
-  description_md5: bfc8e8676a87c0058529a662aef95313
-  license: unknown
-  blend: debian-med
-- package: pymol
-  description: Molecular Graphics System
-  long_description: " PyMOL is a molecular graphics system targeted at medium to large\n\
-    \ biomolecules like proteins. It can generate high-quality publication-ready\n\
-    \ molecular graphics images and animations.\n .\n Features include:\n  * Visualization
-    of molecules, molecular trajectories and surfaces\n    of crystallography data
-    or orbitals\n  * Molecular builder and sculptor\n  * Internal raytracer and movie
-    generator\n  * Fully extensible and scriptable via a Python interface\n .\n File
-    formats PyMOL can read include PDB, XYZ, CIF, MDL Molfile, ChemDraw,\n CCP4 maps,
-    XPLOR maps and Gaussian cube maps.\n"
-  release: sid
-  description_md5: bfc8e8676a87c0058529a662aef95313
-  license: unknown
-  blend: debian-med
-- package: pymol
-  description: système de graphismes moléculaires
-  long_description: " PyMOL est un programme de visualisation de molécules ciblant
-    la biologie\n structurale pour des biomolécules moyennes ou grosses telles que
-    les\n protéines. Il peut produire des graphismes et des animations de molécules\n\
-    \ de qualité professionnelle.\n .\n Les fonctions incluent :\n  – la visualisation
-    de molécules, de trajectoires moléculaires et de\n    structures de données cristallographiques
-    ou d’orbitales ;\n  – un « constructeur » et « sculpteur » de molécules ;\n  – un
-    lanceur de rayons et un générateur de film internes ;\n  – la possibilité de toutes
-    extensions et scripts à l’aide d’une interface\n    en Python.\n .\n Les formats
-    de fichier que PyMOL peut lire incluent PDB, XYZ, CIF,\n MDL Molfile, ChemDraw,
-    les « cartes » CCP4, XPLOR et Gaussian cube.\n"
-  release: sid
-  description_md5: bfc8e8676a87c0058529a662aef95313
-  license: unknown
-  blend: debian-med
-- package: pymol
-  description: sistema di grafica per molecole
-  long_description: " PyMOL è un sistema di grafica per molecole pensato per biomolecole
-    medie o\n grandi, come proteine. Può generare immagini grafiche e animazioni di\n\
-    \ molecole di alta qualità pronte per la pubblicazione.\n .\n Le funzionalità
-    includono:\n  * visualizzazione di molecole, traiettorie molecolari e superfici
-    di dati\n    di cristallografia o orbitali;\n  * costruttore e scultore molecolare;\n\
-    \  * raytracer e generatore di filmati interno;\n  * completamente estensibile
-    e gestibile da script tramite interfaccia\n    Python.\n .\n Tra i formati file
-    che PyMOL può leggere sono inclusi PDB, XYZ, CIF,\n MDL Molfile, ChemDraw, mappe
-    CCP4, mappe XPLOR e mappe gaussiane cubiche.\n"
-  release: sid
-  description_md5: bfc8e8676a87c0058529a662aef95313
-  license: unknown
-  blend: debian-med
-- package: pymol
-  description: Molekularny system graficzny
-  long_description: " PyMOL jest systemem grafiki molekularnej, ukierunkowanym na
-    średnie i duże\n biocząsteczki takie jak białka. Potrafi tworzyć wysokiej jakości,
-    gotowe do\n opublikowania, molekularne grafiki i animacje.\n .\n Wśród możliwości:\n\
-    \  * wizualizowanie molekuł, trajektorii molekularnych i powierzchnii danych\n\
-    \    krystalograficznych lub orbitalnych;\n  * budowanie i rzeźbienie molekularne;\n\
-    \  * kreślenie wewnętrznej grafiki i generowanie filmów;\n  * pełna rozszerzalność
-    i obsługa skryptów za pośrednictwem interfejsu\n    Pythona.\n .\n PyMOL umożliwia
-    odczytywanie następujących formatów plików: PDB, XYZ, CIF,\n MDL Molfile, ChemDraw,
-    CCP4 maps, XPLOR maps i Gaussian cube maps.\n"
   release: sid
   description_md5: bfc8e8676a87c0058529a662aef95313
   license: unknown
@@ -158,15 +98,75 @@ descr:
   license: unknown
   blend: debian-med
 - package: pymol
-  description: Графічна система відтворення молекул
-  long_description: " PyMOL — графічна система відтворення молекул призначена для
-    відтворення\n середніх та великих молекул, таких як протеїни. Вона може створювати\n\
-    \ високоякісні готові для публікації зображення та анімації.\n .\n Серед можливостей:\n\
-    \  * візуалізація молекул, молекулярних траєкторій та поверхонь за даними\n кристалографії
-    та орбіталей;\n  * інструмент для створення молекул;\n  * внутрішній візуалізатор
-    та створювач анімацій;\n  * повністю розширюваний та підтримуючий сценарії Python
-    інтерфейс.\n .\n Серед форматів файлів які читає PyMOL — PDB, XYZ, CIF, MDL Molfile,\n\
-    \ ChemDraw, CCP4 мапи, XPLOR мапи та кубічні мапи Гауса.\n"
+  description: sistema di grafica per molecole
+  long_description: " PyMOL è un sistema di grafica per molecole pensato per biomolecole
+    medie o\n grandi, come proteine. Può generare immagini grafiche e animazioni di\n\
+    \ molecole di alta qualità pronte per la pubblicazione.\n .\n Le funzionalità
+    includono:\n  * visualizzazione di molecole, traiettorie molecolari e superfici
+    di dati\n    di cristallografia o orbitali;\n  * costruttore e scultore molecolare;\n\
+    \  * raytracer e generatore di filmati interno;\n  * completamente estensibile
+    e gestibile da script tramite interfaccia\n    Python.\n .\n Tra i formati file
+    che PyMOL può leggere sono inclusi PDB, XYZ, CIF,\n MDL Molfile, ChemDraw, mappe
+    CCP4, mappe XPLOR e mappe gaussiane cubiche.\n"
+  release: sid
+  description_md5: bfc8e8676a87c0058529a662aef95313
+  license: unknown
+  blend: debian-med
+- package: pymol
+  description: Molecular Graphics System
+  long_description: " PyMOL is a molecular graphics system targeted at medium to large\n\
+    \ biomolecules like proteins. It can generate high-quality publication-ready\n\
+    \ molecular graphics images and animations.\n .\n Features include:\n  * Visualization
+    of molecules, molecular trajectories and surfaces\n    of crystallography data
+    or orbitals\n  * Molecular builder and sculptor\n  * Internal raytracer and movie
+    generator\n  * Fully extensible and scriptable via a Python interface\n .\n File
+    formats PyMOL can read include PDB, XYZ, CIF, MDL Molfile, ChemDraw,\n CCP4 maps,
+    XPLOR maps and Gaussian cube maps.\n"
+  release: sid
+  description_md5: bfc8e8676a87c0058529a662aef95313
+  license: unknown
+  blend: debian-med
+- package: pymol
+  description: Molekularny system graficzny
+  long_description: " PyMOL jest systemem grafiki molekularnej, ukierunkowanym na
+    średnie i duże\n biocząsteczki takie jak białka. Potrafi tworzyć wysokiej jakości,
+    gotowe do\n opublikowania, molekularne grafiki i animacje.\n .\n Wśród możliwości:\n\
+    \  * wizualizowanie molekuł, trajektorii molekularnych i powierzchnii danych\n\
+    \    krystalograficznych lub orbitalnych;\n  * budowanie i rzeźbienie molekularne;\n\
+    \  * kreślenie wewnętrznej grafiki i generowanie filmów;\n  * pełna rozszerzalność
+    i obsługa skryptów za pośrednictwem interfejsu\n    Pythona.\n .\n PyMOL umożliwia
+    odczytywanie następujących formatów plików: PDB, XYZ, CIF,\n MDL Molfile, ChemDraw,
+    CCP4 maps, XPLOR maps i Gaussian cube maps.\n"
+  release: sid
+  description_md5: bfc8e8676a87c0058529a662aef95313
+  license: unknown
+  blend: debian-med
+- package: pymol
+  description: System til molekylærgrafik
+  long_description: " PyMOL er et system til molekylærgrafik målrettet mellemstore
+    til store\n biomolekyler som proteiner. Det kan fremstille udgivelsesklare billeder\n\
+    \ og animationer af molekylærgrafik i høj kvalitet.\n .\n Egenskaber inkluderer:\n\
+    \  * Visualisering af molekyler, molekylærbaner og overflader af data fra\n  \
+    \  krystallografi eller orbitaler\n  * Molekylærbygger og -skulptør\n  * Intern
+    strålesporing og filmgenerator\n  * Fuldt udvidelig og skriptbar via en Python-grænseflade\n\
+    \ .\n Filformater som PyMOL kan læse inkluderer PDB, XYZ, CIF, »MDL Molfile«,\n\
+    \ ChemDraw, CCP4-kort, XPLOR-kort og »Gaussian cube«-kort.\n"
+  release: sid
+  description_md5: bfc8e8676a87c0058529a662aef95313
+  license: unknown
+  blend: debian-med
+- package: pymol
+  description: système de graphismes moléculaires
+  long_description: " PyMOL est un programme de visualisation de molécules ciblant
+    la biologie\n structurale pour des biomolécules moyennes ou grosses telles que
+    les\n protéines. Il peut produire des graphismes et des animations de molécules\n\
+    \ de qualité professionnelle.\n .\n Les fonctions incluent :\n  – la visualisation
+    de molécules, de trajectoires moléculaires et de\n    structures de données cristallographiques
+    ou d’orbitales ;\n  – un « constructeur » et « sculpteur » de molécules ;\n  – un
+    lanceur de rayons et un générateur de film internes ;\n  – la possibilité de toutes
+    extensions et scripts à l’aide d’une interface\n    en Python.\n .\n Les formats
+    de fichier que PyMOL peut lire incluent PDB, XYZ, CIF,\n MDL Molfile, ChemDraw,
+    les « cartes » CCP4, XPLOR et Gaussian cube.\n"
   release: sid
   description_md5: bfc8e8676a87c0058529a662aef95313
   license: unknown

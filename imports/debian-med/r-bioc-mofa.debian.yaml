@@ -18,19 +18,21 @@ bib:
   value: 10.15252/msb.20178124
 popcon:
 - insts: 46
-  olde: 36
-  recent: 8
+  olde: 35
+  recent: 9
   vote: 2
 descr:
 - package: r-bioc-mofa
-  description: Multi-Omics Factor Analysis (MOFA)
-  long_description: " Multi-Omics Factor Analysis: en ramme uden overvågning for integrationen
-    af fler-omics datasæt.\n .\n Opstrøm understøtter ikke længere denne pakke. Pakken
-    findes kun stadig for at hjælpe med at afvikle igen/sammenligne/overføre eksisterende
-    projekter. For nye projekter opgraderes til MOFA2 (MOFA+). Også når der tilføjes
-    nye data til gamle projekter, MOFA2 har yderligere forbedret håndteringen af flere
-    faktorer og for at kompensere for en jobeffekt, der sandsynligvis introduceres
-    med yderligere data, kan det være et umiddelbart brugstilfælde for den nye version.\n"
+  description: MOFA (Multi-Omics Factor Analysis)
+  long_description: " Multi-Omics Factor Analysis : cadriciel non entretenu pour l’intégration\n\
+    \ d’ensembles de données de multiomique.\n .\n L’amont n’entretient plus ce paquet.
+    Celui-ci est encore fourni comme aide lors\n de nouvelles exécutions, de comparaisons
+    ou de transitions de projets existants.\n Pour de nouveaux projets, une mise à
+    niveau vers MOFA2 (MOFA+) est recommandé.\n En fait, lors de l’ajout de nouvelles
+    données à d’anciens projets, MOFA2 a en\n outre amélioré la gestion de facteurs
+    multiples et pour compenser l’effet de\n lots qui est vraisemblablement introduit
+    avec les données supplémentaires, peut\n être un cas d’utilisation immédiate de
+    cette nouvelle version.\n"
   release: sid
   description_md5: a64264c46be1f92fcf0f92890f21d4a5
   license: unknown
@@ -49,16 +51,14 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-mofa
-  description: MOFA (Multi-Omics Factor Analysis)
-  long_description: " Multi-Omics Factor Analysis : cadriciel non entretenu pour l’intégration\n\
-    \ d’ensembles de données de multiomique.\n .\n L’amont n’entretient plus ce paquet.
-    Celui-ci est encore fourni comme aide lors\n de nouvelles exécutions, de comparaisons
-    ou de transitions de projets existants.\n Pour de nouveaux projets, une mise à
-    niveau vers MOFA2 (MOFA+) est recommandé.\n En fait, lors de l’ajout de nouvelles
-    données à d’anciens projets, MOFA2 a en\n outre amélioré la gestion de facteurs
-    multiples et pour compenser l’effet de\n lots qui est vraisemblablement introduit
-    avec les données supplémentaires, peut\n être un cas d’utilisation immédiate de
-    cette nouvelle version.\n"
+  description: Multi-Omics Factor Analysis (MOFA)
+  long_description: " Multi-Omics Factor Analysis: en ramme uden overvågning for integrationen
+    af fler-omics datasæt.\n .\n Opstrøm understøtter ikke længere denne pakke. Pakken
+    findes kun stadig for at hjælpe med at afvikle igen/sammenligne/overføre eksisterende
+    projekter. For nye projekter opgraderes til MOFA2 (MOFA+). Også når der tilføjes
+    nye data til gamle projekter, MOFA2 har yderligere forbedret håndteringen af flere
+    faktorer og for at kompensere for en jobeffekt, der sandsynligvis introduceres
+    med yderligere data, kan det være et umiddelbart brugstilfælde for den nye version.\n"
   release: sid
   description_md5: a64264c46be1f92fcf0f92890f21d4a5
   license: unknown

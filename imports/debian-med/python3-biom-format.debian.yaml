@@ -12,28 +12,32 @@ bib:
 - key: doi
   value: 10.1186/2047-217X-1-7
 popcon:
-- insts: 146
-  olde: 115
-  recent: 12
-  vote: 19
+- insts: 142
+  olde: 114
+  recent: 10
+  vote: 18
 descr:
 - package: python3-biom-format
-  description: Biological Observation Matrix-format (BIOM) - Python 3
-  long_description: " BIOM-filformatet (kanonisk udtalt biome) er designet til at
-    være et alment\n format for repræsentation af biologisk prøve efter observationsuforudsete\n\
-    \ tabeller. BIOM er en anerkendt standard for Earth Microbiome Project og er\n\
-    \ et Genomics Standards Consortium-kandidatprojekt.\n .\n BIOM-formatet er designet
-    for almen brug i brede områder for komparative\n -omics. For eksempel i undersøgelser
-    for marker-gene, den primære brug for\n dette format er at repræsentere OTU-tabeller:
-    Observationerne i dette\n tilfælde er OTU'er og matrixen indeholder antal svarende
-    til antallet af\n gange hver OTU observeres i hver prøve. Med hensyn til metagenom-data,
-    vil\n dette format blive brugt til at repræsentere metagenome-tabeller:\n Observationerne
-    i dette tilfælde kan svare til SEED-undersystemer, og\n matrixen vil indeholder
-    antal svarende til antallet af gange hvert\n undersystem observeres i hvert metagenom.
-    På samme måde med hensyn til\n genom-data kan dette format bruges til at repræsentere
-    et sæt af genomer:\n observationerne i dette tilfælde kan igen tilsvare SEED-undersystemer,
-    og\n antallet vil tilsvare antallet af gange hvert undersystem er observeret i\n\
-    \ hvert genom.\n .\n Denne pakke tilbyder BIOM-formatbiblioteket for Python 3-fortolkeren.\n"
+  description: formato BIOM (Biological Observation Matrix) (Python 3)
+  long_description: " Il formato di file BIOM (Biological Observation Matrix, matrice
+    di\n osservazioni biologiche) è progettato per essere un formato di uso generico\n\
+    \ per rappresentare campioni biologici con tabelle di contingenza delle\n osservazioni.
+    BIOM è uno standard riconosciuto per l'Earth Microbiome\n Project ed è un progetto
+    candidato del Genomics Standards Consortium.\n .\n Il formato BIOM è progettato
+    per l'uso generico in vaste aree delle scienze\n -omiche comparative. Per esempio,
+    in indagini su geni marker, l'uso\n principale di questo formato è quello di rappresentare
+    tabelle OTU: in\n questo caso le osservazioni sono OTU e la matrice contiene i
+    conteggi\n corrispondenti al numero di volte che ogni singola OTU è stata osservata
+    in\n ciascun campione. Nel caso di dati di metagenomi, questo formato può essere\n\
+    \ usato per rappresentare tabelle metagenomiche: le osservazioni in questo\n caso
+    potrebbero corrispondere ai sottosistemi SEED e la matrice conterrebbe\n i conteggi
+    corrispondenti al numero di volte che ogni sottosistema è stato\n osservato in
+    ciascun metagenoma. Analogamente, nel caso di dati genomici,\n questo formato
+    può essere usato per rappresentare un insieme di genomi: le\n osservazioni in
+    questo caso corrisponderebbero ancora una volta ai\n sottosistemi SEED e i conteggi
+    corrisponderebbero al numero di volte che\n ogni sottosistema è stato osservato
+    in ciascun genoma.\n .\n Questo pacchetto fornisce la libreria per il formato
+    BIOM per l'interprete\n Python 3.\n"
   release: sid
   description_md5: a8e1165fb97cc05bc8c23295225341cd
   license: unknown
@@ -85,26 +89,22 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-biom-format
-  description: formato BIOM (Biological Observation Matrix) (Python 3)
-  long_description: " Il formato di file BIOM (Biological Observation Matrix, matrice
-    di\n osservazioni biologiche) è progettato per essere un formato di uso generico\n\
-    \ per rappresentare campioni biologici con tabelle di contingenza delle\n osservazioni.
-    BIOM è uno standard riconosciuto per l'Earth Microbiome\n Project ed è un progetto
-    candidato del Genomics Standards Consortium.\n .\n Il formato BIOM è progettato
-    per l'uso generico in vaste aree delle scienze\n -omiche comparative. Per esempio,
-    in indagini su geni marker, l'uso\n principale di questo formato è quello di rappresentare
-    tabelle OTU: in\n questo caso le osservazioni sono OTU e la matrice contiene i
-    conteggi\n corrispondenti al numero di volte che ogni singola OTU è stata osservata
-    in\n ciascun campione. Nel caso di dati di metagenomi, questo formato può essere\n\
-    \ usato per rappresentare tabelle metagenomiche: le osservazioni in questo\n caso
-    potrebbero corrispondere ai sottosistemi SEED e la matrice conterrebbe\n i conteggi
-    corrispondenti al numero di volte che ogni sottosistema è stato\n osservato in
-    ciascun metagenoma. Analogamente, nel caso di dati genomici,\n questo formato
-    può essere usato per rappresentare un insieme di genomi: le\n osservazioni in
-    questo caso corrisponderebbero ancora una volta ai\n sottosistemi SEED e i conteggi
-    corrisponderebbero al numero di volte che\n ogni sottosistema è stato osservato
-    in ciascun genoma.\n .\n Questo pacchetto fornisce la libreria per il formato
-    BIOM per l'interprete\n Python 3.\n"
+  description: Biological Observation Matrix-format (BIOM) - Python 3
+  long_description: " BIOM-filformatet (kanonisk udtalt biome) er designet til at
+    være et alment\n format for repræsentation af biologisk prøve efter observationsuforudsete\n\
+    \ tabeller. BIOM er en anerkendt standard for Earth Microbiome Project og er\n\
+    \ et Genomics Standards Consortium-kandidatprojekt.\n .\n BIOM-formatet er designet
+    for almen brug i brede områder for komparative\n -omics. For eksempel i undersøgelser
+    for marker-gene, den primære brug for\n dette format er at repræsentere OTU-tabeller:
+    Observationerne i dette\n tilfælde er OTU'er og matrixen indeholder antal svarende
+    til antallet af\n gange hver OTU observeres i hver prøve. Med hensyn til metagenom-data,
+    vil\n dette format blive brugt til at repræsentere metagenome-tabeller:\n Observationerne
+    i dette tilfælde kan svare til SEED-undersystemer, og\n matrixen vil indeholder
+    antal svarende til antallet af gange hvert\n undersystem observeres i hvert metagenom.
+    På samme måde med hensyn til\n genom-data kan dette format bruges til at repræsentere
+    et sæt af genomer:\n observationerne i dette tilfælde kan igen tilsvare SEED-undersystemer,
+    og\n antallet vil tilsvare antallet af gange hvert undersystem er observeret i\n\
+    \ hvert genom.\n .\n Denne pakke tilbyder BIOM-formatbiblioteket for Python 3-fortolkeren.\n"
   release: sid
   description_md5: a8e1165fb97cc05bc8c23295225341cd
   license: unknown

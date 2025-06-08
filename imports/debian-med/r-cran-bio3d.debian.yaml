@@ -17,21 +17,22 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btl461
 popcon:
-- insts: 73
-  olde: 60
-  recent: 8
+- insts: 72
+  olde: 58
+  recent: 9
   vote: 5
 descr:
 - package: r-cran-bio3d
-  description: GNU R-pakke for biologisk strukturanalyse
-  long_description: " Pakken bio3d indeholder redskaber til at behandle, organisere
-    og udforske\n proteinstruktur, sekvens og dynamiske data. Funktioner inkluderer\n\
-    \ muligheden for at læse og skrive struktur, sekvens og dynamiske banedata,\n\
-    \ udføre atomreferater, atomvalg, nyorientering, superposition, rigid\n kerneidentifikation,
-    klynger, vridningsanalyse, afstandsmatrixanalyse,\n struktur- og sekvenskonservateringsanalyse
-    og hovedstols komponentanalyse\n (PCA). Derudover tilbydes diverse redskabsfunktioner
-    for at aktivere\n statistiske og grafiske funktioner for R-miljøet kan fungere
-    med biologiske\n sekvens- og strukturdata.\n"
+  description: GNU R -paketti biologiseen rakenneanalyysiin
+  long_description: " bio3d-paketti sisältää työkaluja proteiinirakenteiden, sekvenssien
+    ja\n dynamiikkadatan käsittelyyn, järjestelyyn ja tutkimiseen. Ominaisuuksia\n\
+    \ ovat rakenteiden, sekvenssidatan ja dynaamisen kehittymisdatan lukeminen ja\n\
+    \ kirjoittaminen, atomiyhteenvetojen suorittaminen, atomin valinta,\n uudelleensuuntaus,
+    kerrostaminen (superpositio), klusterointi,\n vääntöanalyysi, etäisyysmatriisianalyysi,
+    rakenteen ja sekvenssin\n säilymisanalyysi sekä pääkomponenttianalyysi (PCA).
+    Lisäksi monilla\n apufunktioilla on mahdollista käyttää R-ympäristön tilastollisia
+    ja\n graafisia ominaisuuksia biologisten sekvenssien ja rakennedatojen kanssa\n\
+    \ työskentelyyn.\n"
   release: sid
   description_md5: 5150a63a38e956e286904b0c1ebe5442
   license: unknown
@@ -52,6 +53,22 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-bio3d
+  description: pacchetto GNU R per l'analisi di strutture biologiche
+  long_description: " Il pacchetto bio3d contiene utilità per elaborare, organizzare
+    ed esplorare\n dati sulla struttura, la sequenza e la dinamica di proteine. Le\n\
+    \ funzionalità includono la capacità di leggere e scrivere dati su struttura,\n\
+    \ sequenza e traiettoria dinamica, effettuare rapporti riassuntivi degli\n atomi,
+    selezione di atomi, ri-orientamento, sovrapposizione,\n identificazione del core
+    invariabile, clustering, analisi di torsione,\n analisi con matrice di distanza,
+    analisi di conservazione di struttura e\n sequenza e analisi dei componenti principali
+    (PCA). In aggiunta sono\n fornite varie funzioni di utilità per permettere l'uso
+    della potenza\n statistica e grafica dell'ambiente R con dati di sequenze e strutture\n\
+    \ biologiche.\n"
+  release: sid
+  description_md5: 5150a63a38e956e286904b0c1ebe5442
+  license: unknown
+  blend: debian-med
+- package: r-cran-bio3d
   description: GNU R package for biological structure analysis
   long_description: " The bio3d package contains utilities to process, organize and
     explore\n protein structure, sequence and dynamics data.  Features include the\n\
@@ -67,16 +84,15 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-bio3d
-  description: GNU R -paketti biologiseen rakenneanalyysiin
-  long_description: " bio3d-paketti sisältää työkaluja proteiinirakenteiden, sekvenssien
-    ja\n dynamiikkadatan käsittelyyn, järjestelyyn ja tutkimiseen. Ominaisuuksia\n\
-    \ ovat rakenteiden, sekvenssidatan ja dynaamisen kehittymisdatan lukeminen ja\n\
-    \ kirjoittaminen, atomiyhteenvetojen suorittaminen, atomin valinta,\n uudelleensuuntaus,
-    kerrostaminen (superpositio), klusterointi,\n vääntöanalyysi, etäisyysmatriisianalyysi,
-    rakenteen ja sekvenssin\n säilymisanalyysi sekä pääkomponenttianalyysi (PCA).
-    Lisäksi monilla\n apufunktioilla on mahdollista käyttää R-ympäristön tilastollisia
-    ja\n graafisia ominaisuuksia biologisten sekvenssien ja rakennedatojen kanssa\n\
-    \ työskentelyyn.\n"
+  description: GNU R-pakke for biologisk strukturanalyse
+  long_description: " Pakken bio3d indeholder redskaber til at behandle, organisere
+    og udforske\n proteinstruktur, sekvens og dynamiske data. Funktioner inkluderer\n\
+    \ muligheden for at læse og skrive struktur, sekvens og dynamiske banedata,\n\
+    \ udføre atomreferater, atomvalg, nyorientering, superposition, rigid\n kerneidentifikation,
+    klynger, vridningsanalyse, afstandsmatrixanalyse,\n struktur- og sekvenskonservateringsanalyse
+    og hovedstols komponentanalyse\n (PCA). Derudover tilbydes diverse redskabsfunktioner
+    for at aktivere\n statistiske og grafiske funktioner for R-miljøet kan fungere
+    med biologiske\n sekvens- og strukturdata.\n"
   release: sid
   description_md5: 5150a63a38e956e286904b0c1ebe5442
   license: unknown
@@ -93,22 +109,6 @@ descr:
     component analysis). En plus de cela, des\n fonctions utilitaires sont fournies
     pour permettre à la puissance graphique\n de l'environnement R de travailler avec
     des données de séquencement et de\n structuration biologiques.\n"
-  release: sid
-  description_md5: 5150a63a38e956e286904b0c1ebe5442
-  license: unknown
-  blend: debian-med
-- package: r-cran-bio3d
-  description: pacchetto GNU R per l'analisi di strutture biologiche
-  long_description: " Il pacchetto bio3d contiene utilità per elaborare, organizzare
-    ed esplorare\n dati sulla struttura, la sequenza e la dinamica di proteine. Le\n\
-    \ funzionalità includono la capacità di leggere e scrivere dati su struttura,\n\
-    \ sequenza e traiettoria dinamica, effettuare rapporti riassuntivi degli\n atomi,
-    selezione di atomi, ri-orientamento, sovrapposizione,\n identificazione del core
-    invariabile, clustering, analisi di torsione,\n analisi con matrice di distanza,
-    analisi di conservazione di struttura e\n sequenza e analisi dei componenti principali
-    (PCA). In aggiunta sono\n fornite varie funzioni di utilità per permettere l'uso
-    della potenza\n statistica e grafica dell'ambiente R con dati di sequenze e strutture\n\
-    \ biologiche.\n"
   release: sid
   description_md5: 5150a63a38e956e286904b0c1ebe5442
   license: unknown

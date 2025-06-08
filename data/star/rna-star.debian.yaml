@@ -33,10 +33,10 @@ edam_scopes:
 registries:
 - entry: OMICS_01254
   name: OMICtools
-- entry: star
-  name: bio.tools
 - entry: SCR_015899
   name: SciCrunch
+- entry: star
+  name: bio.tools
 - entry: star
   name: conda:bioconda
 - entry: star
@@ -45,26 +45,28 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/bts635
 popcon:
-- insts: 67
-  olde: 53
-  recent: 11
+- insts: 64
+  olde: 52
+  recent: 9
   vote: 3
 descr:
 - package: rna-star
-  description: Ultrahurtig univerel RNA-seq-sammenligningsprogram
-  long_description: " Programmet Spliced Transcripts Alignment to a Reference (STAR)
-    baseret på\n en tidligere ubeskrevet RNA-seq-sammenligningsalgoritme, som bruger\n\
-    \ sekventiel maksimal kortlægningsparat seed-søgning i suffikstabeller uden\n\
-    \ komprimering efterfulgt af seed-klyngeopbygning og syning. STAR er bedre\n end
-    andre sammenligningsprogrammer med en faktor >50 i\n kortlægningshastighed, sammenligning
-    med menneskets genom 550 million 2 ×\n 76 bp parret-slut læsninger per time på
-    en moderat server med 12-kerner,\n mens der på samme tid er en forbedring af sammenligningssensitivitet
-    og\n præcision. Udover fordomsfri de novo-registrering af kanoniske bindinger\n\
-    \ kan STAR registrere ikkekanoniske dele og chimeric (fusion)\n transkriptioner,
-    og kan også oversætte RNA-sekvenser i fuld længde. Via\n Rocke 454-sekvensering
-    af »reverse transcription polymerase chain reaction\n amplicons« validerede forfatterne
-    eksperimentelt 1960 novel mellemgenom\n delbindinger med 80-90 % succes, underbyggende
-    den høje præcision i\n START-kortlægningsstrategien.\n"
+  description: allineatore universale e ultraveloce di sequenziamento di RNA
+  long_description: " Software STAR (Spliced Transcripts Alignment to a Reference)
+    basato su un\n algoritmo di allineamento per RNA-seq mai descritto prima, che
+    usa la\n ricerca di seed mappabili sequenziali massimi in array di suffissi non\n\
+    \ compressi seguita da raggruppamento in cluster dei seed e procedure di\n cucitura.
+    STAR supera in prestazioni altri strumenti di allineamento di un\n fattore maggiore
+    di 50 in velocità di mappatura, facendo l'allineamento con\n il genoma umano di
+    550 milioni di letture a terminali accoppiati 2 x 76 pb\n all'ora su un modesto
+    server con 12 core, al contempo migliorando la\n sensibilità e la precisione dell'allineamento.
+    In aggiunta a rilevazioni de\n novo senza bias di giunzioni canoniche, STAR può
+    anche scoprire trascritti\n chimerici (fusione) e splice non canonici, ed è anche
+    in grado di mappare\n sequenze di RNA a sequenza intera. Usando il sequenziamento
+    Roche 454 di\n ampliconi PCR di trascrizione inversa, gli autori hanno validato\n\
+    \ sperimentalmente 1960 nuove giunzioni di splice intergeniche con un tasso\n\
+    \ di successo dell'80-90%, confermando l'elevata precisione della strategia\n\
+    \ di mappatura di STAR.\n"
   release: sid
   description_md5: c6dec2f618a2789f3d047717c690ae49
   license: unknown
@@ -89,6 +91,25 @@ descr:
   license: unknown
   blend: debian-med
 - package: rna-star
+  description: Ultrahurtig univerel RNA-seq-sammenligningsprogram
+  long_description: " Programmet Spliced Transcripts Alignment to a Reference (STAR)
+    baseret på\n en tidligere ubeskrevet RNA-seq-sammenligningsalgoritme, som bruger\n\
+    \ sekventiel maksimal kortlægningsparat seed-søgning i suffikstabeller uden\n\
+    \ komprimering efterfulgt af seed-klyngeopbygning og syning. STAR er bedre\n end
+    andre sammenligningsprogrammer med en faktor >50 i\n kortlægningshastighed, sammenligning
+    med menneskets genom 550 million 2 ×\n 76 bp parret-slut læsninger per time på
+    en moderat server med 12-kerner,\n mens der på samme tid er en forbedring af sammenligningssensitivitet
+    og\n præcision. Udover fordomsfri de novo-registrering af kanoniske bindinger\n\
+    \ kan STAR registrere ikkekanoniske dele og chimeric (fusion)\n transkriptioner,
+    og kan også oversætte RNA-sekvenser i fuld længde. Via\n Rocke 454-sekvensering
+    af »reverse transcription polymerase chain reaction\n amplicons« validerede forfatterne
+    eksperimentelt 1960 novel mellemgenom\n delbindinger med 80-90 % succes, underbyggende
+    den høje præcision i\n START-kortlægningsstrategien.\n"
+  release: sid
+  description_md5: c6dec2f618a2789f3d047717c690ae49
+  license: unknown
+  blend: debian-med
+- package: rna-star
   description: aligneur universel et ultra-rapide de RNA-seq
   long_description: " Il s’agit du logiciel STAR (Spliced Transcripts Alignment to
     a Reference)\n basé sur un algorithme, non décrit auparavant, d'alignement de
@@ -105,27 +126,6 @@ descr:
     et\n transcription inverse, les auteurs ont validé expérimentalement 1960\n nouvelles
     jonctions de ligature intergénique avec un taux de succès de 80-\n 90 %, corroborant
     la précision élevée de la stratégie de cartographie de\n STAR.\n"
-  release: sid
-  description_md5: c6dec2f618a2789f3d047717c690ae49
-  license: unknown
-  blend: debian-med
-- package: rna-star
-  description: allineatore universale e ultraveloce di sequenziamento di RNA
-  long_description: " Software STAR (Spliced Transcripts Alignment to a Reference)
-    basato su un\n algoritmo di allineamento per RNA-seq mai descritto prima, che
-    usa la\n ricerca di seed mappabili sequenziali massimi in array di suffissi non\n\
-    \ compressi seguita da raggruppamento in cluster dei seed e procedure di\n cucitura.
-    STAR supera in prestazioni altri strumenti di allineamento di un\n fattore maggiore
-    di 50 in velocità di mappatura, facendo l'allineamento con\n il genoma umano di
-    550 milioni di letture a terminali accoppiati 2 x 76 pb\n all'ora su un modesto
-    server con 12 core, al contempo migliorando la\n sensibilità e la precisione dell'allineamento.
-    In aggiunta a rilevazioni de\n novo senza bias di giunzioni canoniche, STAR può
-    anche scoprire trascritti\n chimerici (fusione) e splice non canonici, ed è anche
-    in grado di mappare\n sequenze di RNA a sequenza intera. Usando il sequenziamento
-    Roche 454 di\n ampliconi PCR di trascrizione inversa, gli autori hanno validato\n\
-    \ sperimentalmente 1960 nuove giunzioni di splice intergeniche con un tasso\n\
-    \ di successo dell'80-90%, confermando l'elevata precisione della strategia\n\
-    \ di mappatura di STAR.\n"
   release: sid
   description_md5: c6dec2f618a2789f3d047717c690ae49
   license: unknown

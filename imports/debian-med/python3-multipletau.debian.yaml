@@ -9,11 +9,21 @@ license: unknown
 blend: debian-med
 description_md5: a68e324b05642e4d881f9d57f042f1e5
 popcon:
-- insts: 136
-  olde: 121
-  recent: 11
-  vote: 4
+- insts: 135
+  olde: 117
+  recent: 12
+  vote: 6
 descr:
+- package: python3-multipletau
+  description: algoritmo multiple-tau per Python3/NumPy
+  long_description: " La correlazione multiple-tau è calcolata su scala logaritmica
+    (vengono\n calcolati meno punti dati) ed è perciò molto più veloce della correlazione\n\
+    \ convenzionale su scala lineare come \"numpy.correlate\".\n .\n Un riferimento
+    online è disponibile su\n http://paulmueller.github.io/multipletau\n"
+  release: sid
+  description_md5: a68e324b05642e4d881f9d57f042f1e5
+  license: unknown
+  blend: debian-med
 - package: python3-multipletau
   description: multiple-tau algorithm for Python3/NumPy
   long_description: " Multiple-tau correlation is computed on a logarithmic scale
@@ -30,16 +40,6 @@ descr:
     \ logarithmique (moins de points de données sont calculés) et est donc plus\n\
     \ rapide que la corrélation conventionnelle à partir d’une échelle linéaire\n\
     \ telle que « numpy.correlate ».\n .\n Une documentation est disponible sur http://paulmueller.github.io/multipletau\n"
-  release: sid
-  description_md5: a68e324b05642e4d881f9d57f042f1e5
-  license: unknown
-  blend: debian-med
-- package: python3-multipletau
-  description: algoritmo multiple-tau per Python3/NumPy
-  long_description: " La correlazione multiple-tau è calcolata su scala logaritmica
-    (vengono\n calcolati meno punti dati) ed è perciò molto più veloce della correlazione\n\
-    \ convenzionale su scala lineare come \"numpy.correlate\".\n .\n Un riferimento
-    online è disponibile su\n http://paulmueller.github.io/multipletau\n"
   release: sid
   description_md5: a68e324b05642e4d881f9d57f042f1e5
   license: unknown

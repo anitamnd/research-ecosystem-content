@@ -15,27 +15,10 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btq228
 popcon:
-- insts: 43
-  olde: 35
+- insts: 41
+  olde: 33
   recent: 8
 descr:
-- package: sumtrees
-  description: Fylogenetisk træsummering og annotation
-  long_description: " SumTrees er et program til at summere ikkeparametrisk boostrap
-    eller\n Bayesiansk posterior understøttelse af sandsynlighed for opdelinger eller\n\
-    \ clader på fylogenetiske træer.\n .\n Grundlaget for støttebedømmelsen er typisk
-    givet af et sæt af\n ikkeparametriske bootstrap-replikerede træprøver produceret
-    af\n programmer såsom GARLI eller RAxML, eller ved et sæt MCMC-træprøver\n produceret
-    af programmer som Mr. Bayes eller BEAST. Andelen af træer ud\n af prøverne, hvor
-    en bestemt deling er fundet, anses for at være\n graden af støtte til den splittelse,
-    som er angivet af prøverne. De\n prøver, som er grundlaget for støtten kan fordeles
-    på tværs af flere\n filer og en indbrændingsindstilling giver mulighed for at
-    et antal\n træer i hver fil udelukkes fra analysen, hvis de ikke anses for at
-    være\n trukket fra den korrekte supportdistribution.\n"
-  release: sid
-  description_md5: 4964129447ebcba981d0887bca14317e
-  license: unknown
-  blend: debian-med
 - package: sumtrees
   description: Phylogenetic Tree Summarization and Annotation
   long_description: " SumTrees is a program to summarize non-parameteric bootstrap
@@ -49,6 +32,23 @@ descr:
     be distributed across multiple files,\n and a burn-in option allows for an initial
     number of trees in each file\n to be excluded from the analysis if they are not
     considered to be drawn\n from the true support distribution.\n"
+  release: sid
+  description_md5: 4964129447ebcba981d0887bca14317e
+  license: unknown
+  blend: debian-med
+- package: sumtrees
+  description: Fylogenetisk træsummering og annotation
+  long_description: " SumTrees er et program til at summere ikkeparametrisk boostrap
+    eller\n Bayesiansk posterior understøttelse af sandsynlighed for opdelinger eller\n\
+    \ clader på fylogenetiske træer.\n .\n Grundlaget for støttebedømmelsen er typisk
+    givet af et sæt af\n ikkeparametriske bootstrap-replikerede træprøver produceret
+    af\n programmer såsom GARLI eller RAxML, eller ved et sæt MCMC-træprøver\n produceret
+    af programmer som Mr. Bayes eller BEAST. Andelen af træer ud\n af prøverne, hvor
+    en bestemt deling er fundet, anses for at være\n graden af støtte til den splittelse,
+    som er angivet af prøverne. De\n prøver, som er grundlaget for støtten kan fordeles
+    på tværs af flere\n filer og en indbrændingsindstilling giver mulighed for at
+    et antal\n træer i hver fil udelukkes fra analysen, hvis de ikke anses for at
+    være\n trukket fra den korrekte supportdistribution.\n"
   release: sid
   description_md5: 4964129447ebcba981d0887bca14317e
   license: unknown

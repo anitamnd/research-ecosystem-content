@@ -17,11 +17,27 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/bts456
 popcon:
-- insts: 41
-  olde: 32
+- insts: 40
+  olde: 31
   recent: 8
   vote: 1
 descr:
+- package: yaha
+  description: find split-read mappings on single-end queries
+  long_description: " yaha is an open source, flexible, sensitive and accurate DNA
+    aligner\n designed for single-end reads. It supports three major modes of\n operation:\n\
+    \  * The default “Optimal Query Coverage” (-OQC) mode reports the\n    best set
+    of alignments that cover the length of each query.\n  * Using “Filter By Similarity”
+    (-FBS), along with the best set of\n    alignments, yaha will also output alignments
+    that are highly similar\n    to an alignment in the best set.\n  * Finally, yaha
+    can output all the alignments found for each query.\n The -OQC and -FBS modes
+    are specifically tuned to form split read\n mappings that can be used to accurately
+    identify structural variation\n events (deletions, duplications, insertions or
+    inversions) between the\n subject query and the reference genome.\n"
+  release: sid
+  description_md5: 93435da37e2ea580b6a7d1c2a5ccbafa
+  license: unknown
+  blend: debian-med
 - package: yaha
   description: Find split-read-oversættelser på single-end-forespørgsler
   long_description: " Yaha er en fleksibel, sensitiv og præcis DNA-sammenligner designet
@@ -35,22 +51,6 @@ descr:
     som kan bruges til præcist at identificere\n strukturelle variationshændelser
     (sletninger, duplikeringer, indsættelser\n eller inversioner) mellem emneforespørgslen
     og referencegenomet.\n"
-  release: sid
-  description_md5: 93435da37e2ea580b6a7d1c2a5ccbafa
-  license: unknown
-  blend: debian-med
-- package: yaha
-  description: find split-read mappings on single-end queries
-  long_description: " yaha is an open source, flexible, sensitive and accurate DNA
-    aligner\n designed for single-end reads. It supports three major modes of\n operation:\n\
-    \  * The default “Optimal Query Coverage” (-OQC) mode reports the\n    best set
-    of alignments that cover the length of each query.\n  * Using “Filter By Similarity”
-    (-FBS), along with the best set of\n    alignments, yaha will also output alignments
-    that are highly similar\n    to an alignment in the best set.\n  * Finally, yaha
-    can output all the alignments found for each query.\n The -OQC and -FBS modes
-    are specifically tuned to form split read\n mappings that can be used to accurately
-    identify structural variation\n events (deletions, duplications, insertions or
-    inversions) between the\n subject query and the reference genome.\n"
   release: sid
   description_md5: 93435da37e2ea580b6a7d1c2a5ccbafa
   license: unknown

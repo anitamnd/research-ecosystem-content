@@ -14,30 +14,17 @@ registries:
 - entry: SCR_005056
   name: SciCrunch
 - entry: sspace
-  name: conda:bioconda
-- entry: sspace
   name: bio.tools
+- entry: sspace
+  name: conda:bioconda
 bib:
 - key: doi
   value: 10.1093/bioinformatics/btq683
 popcon:
-- insts: 39
-  olde: 31
+- insts: 37
+  olde: 29
   recent: 8
 descr:
-- package: sspace
-  description: Scaffolding på forhånd samlede contig'er efter filendelse
-  long_description: " SSAKE-based Scaffolding of Pre-Assembled Contigs after Extension
-    (SSPACE)\n er et skript, som kan udvide og scaffold på forhånd samlede contig'er
-    via\n en eller flere mate pairs eller paired-end biblioteker, eller en kombination.\n\
-    \ .\n SSPACE er bygget baseret på SSAKE. Koden i SSAKE er ændret for at kunne\n\
-    \ udvide og scaffold på forhånd samlede contig'er for flerparrede\n læsninger-biblioteker.\n\
-    \ .\n Dette er den frie »grundlæggende« version af SSPACE. Den ikkefrie\n »standardversion«
-    er tilgængelig direkte fra Baseclear.\n"
-  release: sid
-  description_md5: 06f04f25cd2bcad772ca2f11e3bf6cbb
-  license: unknown
-  blend: debian-med
 - package: sspace
   description: scaffolding pre-assembled contigs after extension
   long_description: " SSAKE-based Scaffolding of Pre-Assembled Contigs after Extension
@@ -47,6 +34,19 @@ descr:
     and scaffold pre-assembled contigs for multiple paired reads\n libraries.\n .\n\
     \ This is the free 'basic' version of SSPACE. The non-free 'standard' version
     is\n available directly from Baseclear.\n"
+  release: sid
+  description_md5: 06f04f25cd2bcad772ca2f11e3bf6cbb
+  license: unknown
+  blend: debian-med
+- package: sspace
+  description: Scaffolding på forhånd samlede contig'er efter filendelse
+  long_description: " SSAKE-based Scaffolding of Pre-Assembled Contigs after Extension
+    (SSPACE)\n er et skript, som kan udvide og scaffold på forhånd samlede contig'er
+    via\n en eller flere mate pairs eller paired-end biblioteker, eller en kombination.\n\
+    \ .\n SSPACE er bygget baseret på SSAKE. Koden i SSAKE er ændret for at kunne\n\
+    \ udvide og scaffold på forhånd samlede contig'er for flerparrede\n læsninger-biblioteker.\n\
+    \ .\n Dette er den frie »grundlæggende« version af SSPACE. Den ikkefrie\n »standardversion«
+    er tilgængelig direkte fra Baseclear.\n"
   release: sid
   description_md5: 06f04f25cd2bcad772ca2f11e3bf6cbb
   license: unknown

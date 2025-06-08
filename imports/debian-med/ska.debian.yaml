@@ -15,26 +15,10 @@ bib:
 - key: doi
   value: 10.1101/453142
 popcon:
-- insts: 32
-  olde: 24
-  recent: 8
+- insts: 30
+  olde: 23
+  recent: 7
 descr:
-- package: ska
-  description: Split Kmer-analyse
-  long_description: " SKA (Split Kmer Analysis) er et værktøjssæt for prokaryot (og
-    enhver anden\n lille, haploid) DNA-sekvensanalyse ved brug af split kmers. En
-    split kmer er et par af kmers i en DNA-sekvens, der er adskilt af en enkelt base.\n\
-    \ Split kmers tillader hurtig sammenligning og overensstemmelse med små genomer,
-    og er særligt velegnet til overvågning eller undersøgelse af udbrud. SKA kan producere
-    split kmer-filer fra formatsamlingerne fasta eller direkte fra fastq-formatets
-    læsningssekvenser, klynge dem sammen, justere dem med eller uden en referencesekvens
-    og vise forskellige sammenligninger og resume-statistikker. I øjeblikket er alle
-    test udført via højkvalitets Illumina-læste data, så resultaterne for andre platforme
-    kan variere.\n"
-  release: sid
-  description_md5: a70402a5a02fca20fd7666875565a3fb
-  license: unknown
-  blend: debian-med
 - package: ska
   description: Split Kmer Analysis
   long_description: " SKA (Split Kmer Analysis) is a toolkit for prokaryotic (and
@@ -47,6 +31,22 @@ descr:
     and provide various comparison and summary\n statistics. Currently all testing
     has been carried out on high-quality\n Illumina read data, so results for other
     platforms may vary.\n"
+  release: sid
+  description_md5: a70402a5a02fca20fd7666875565a3fb
+  license: unknown
+  blend: debian-med
+- package: ska
+  description: Split Kmer-analyse
+  long_description: " SKA (Split Kmer Analysis) er et værktøjssæt for prokaryot (og
+    enhver anden\n lille, haploid) DNA-sekvensanalyse ved brug af split kmers. En
+    split kmer er et par af kmers i en DNA-sekvens, der er adskilt af en enkelt base.\n\
+    \ Split kmers tillader hurtig sammenligning og overensstemmelse med små genomer,
+    og er særligt velegnet til overvågning eller undersøgelse af udbrud. SKA kan producere
+    split kmer-filer fra formatsamlingerne fasta eller direkte fra fastq-formatets
+    læsningssekvenser, klynge dem sammen, justere dem med eller uden en referencesekvens
+    og vise forskellige sammenligninger og resume-statistikker. I øjeblikket er alle
+    test udført via højkvalitets Illumina-læste data, så resultaterne for andre platforme
+    kan variere.\n"
   release: sid
   description_md5: a70402a5a02fca20fd7666875565a3fb
   license: unknown

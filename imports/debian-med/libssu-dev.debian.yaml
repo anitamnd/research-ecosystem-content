@@ -15,23 +15,9 @@ bib:
 - key: doi
   value: 10.1038/s41592-018-0187-8
 popcon:
-- insts: 15
-  nofiles: 15
+- insts: 14
+  nofiles: 14
 descr:
-- package: libssu-dev
-  description: Højtydende fylogenetisk mangfoldighedsberegninger - udvikling
-  long_description: " De facto-arkivet for højtydende fylogenetiske mangfoldighedsberegninger.
-    Metoderne i dette arkiv er baseret på en implementering af Strided State UniFrac-algoritmen
-    der er hurtigere, og bruger mindre hukommelse end Fast UniFrac. Strided State
-    UniFrac understøtter Unweighted UniFrac, Weighted UniFrac, Generalized UniFrac,
-    Variance Adjusted UniFrac og meta UniFrac. Dette arkiver indeholder også Stacked
-    Faith (manuskript under forberedelse), en metode til at beregne Faith's PD, der
-    er hurtigere og bruger mindre hukommelse end den Fast UniFrac-baserede referenceimplementering.\n\
-    \ .\n Denne pakke indeholder det statiske bibliotek og hovedfiler.\n"
-  release: sid
-  description_md5: 2d14aa5ce7b46f9304f353b887c48258
-  license: unknown
-  blend: debian-med
 - package: libssu-dev
   description: high-performance phylogenetic diversity calculations (dev)
   long_description: " The de facto repository for high-performance phylogenetic diversity\n\
@@ -43,6 +29,20 @@ descr:
     for calculating Faith's PD\n that is faster and uses less memory than the Fast
     UniFrac-based\n reference implementation.\n .\n This package contains the static
     library and header files.\n"
+  release: sid
+  description_md5: 2d14aa5ce7b46f9304f353b887c48258
+  license: unknown
+  blend: debian-med
+- package: libssu-dev
+  description: Højtydende fylogenetisk mangfoldighedsberegninger - udvikling
+  long_description: " De facto-arkivet for højtydende fylogenetiske mangfoldighedsberegninger.
+    Metoderne i dette arkiv er baseret på en implementering af Strided State UniFrac-algoritmen
+    der er hurtigere, og bruger mindre hukommelse end Fast UniFrac. Strided State
+    UniFrac understøtter Unweighted UniFrac, Weighted UniFrac, Generalized UniFrac,
+    Variance Adjusted UniFrac og meta UniFrac. Dette arkiver indeholder også Stacked
+    Faith (manuskript under forberedelse), en metode til at beregne Faith's PD, der
+    er hurtigere og bruger mindre hukommelse end den Fast UniFrac-baserede referenceimplementering.\n\
+    \ .\n Denne pakke indeholder det statiske bibliotek og hovedfiler.\n"
   release: sid
   description_md5: 2d14aa5ce7b46f9304f353b887c48258
   license: unknown

@@ -11,10 +11,10 @@ description_md5: db5aab57fa1c709b6f3f8edc023eda41
 registries:
 - entry: OMICS_00093
   name: OMICtools
-- entry: varscan
-  name: bio.tools
 - entry: SCR_006849
   name: SciCrunch
+- entry: varscan
+  name: bio.tools
 - entry: varscan
   name: conda:bioconda
 bib:

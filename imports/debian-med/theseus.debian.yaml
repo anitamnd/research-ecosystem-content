@@ -32,25 +32,11 @@ tags:
 - tag: use::comparing
 - tag: works-with-format::plaintext
 popcon:
-- insts: 44
-  olde: 33
+- insts: 42
+  olde: 31
   recent: 9
   vote: 2
 descr:
-- package: theseus
-  description: Overlejring af makromolekyler med brug af maksimal sandsynlighed
-  long_description: " Theseus er et program, som simultant overlejrer flere makromolekylære\n\
-    \ strukturer. Theseus finder den optimale løsning til superpositionsproblemet\n\
-    \ med brug af metoden for maksimal sandsynlighed. Ved at nedvægte variable\n regioner
-    af superpositionen og ved at rette for korrelationer mellem\n atomer, fremstiller
-    ML-superpositionsmetoden meget præcise strukturelle\n sammenligninger.\n .\n Når
-    makromolekyler med forskellige sekvenser bliver overlejret, fjerner\n andre programmer
-    og algoritmer rester som er sammenlignet med huller.\n Theseus, derimod, bruger
-    en ny superimpositionsalgoritme som inkluderer\n alle data.\n"
-  release: sid
-  description_md5: 91517695c1e9e5cdc2a87ff78d5403a8
-  license: unknown
-  blend: debian-med
 - package: theseus
   description: Maximum-Likelihood-Überlagerung von Makromolekülen
   long_description: " Das Programm Theseus überlagert gleichzeitig mehrere makromolekulare\n\
@@ -62,20 +48,6 @@ descr:
     werden,\n verwerfen andere Programme und Algorithmen die mit Lücken ausgerichteten\n\
     \ Restsequenzen. Theseus verwendet jedoch einen neuartigen\n Überlagerungsalgorithmus,
     der alle Daten verarbeitet.\n"
-  release: sid
-  description_md5: 91517695c1e9e5cdc2a87ff78d5403a8
-  license: unknown
-  blend: debian-med
-- package: theseus
-  description: superimpose macromolecules using maximum likelihood
-  long_description: " Theseus is a program that simultaneously superimposes multiple\n\
-    \ macromolecular structures. Theseus finds the optimal solution to the\n superposition
-    problem using the method of maximum likelihood. By\n down-weighting variable regions
-    of the superposition and by correcting for\n correlations among atoms, the ML
-    superposition method produces very\n accurate structural alignments.\n .\n When
-    macromolecules with different residue sequences are superimposed,\n other programs
-    and algorithms discard residues that are aligned with\n gaps. Theseus, however,
-    uses a novel superimposition algorithm that\n includes all of the data.\n"
   release: sid
   description_md5: 91517695c1e9e5cdc2a87ff78d5403a8
   license: unknown
@@ -106,6 +78,34 @@ descr:
     outros programas e algoritmos descartam resíduos que são\n alinhados com lacunas.
     No entanto, o theseus, usa um algoritmo de\n sobreposição original que inclui
     todos os dados.\n"
+  release: sid
+  description_md5: 91517695c1e9e5cdc2a87ff78d5403a8
+  license: unknown
+  blend: debian-med
+- package: theseus
+  description: superimpose macromolecules using maximum likelihood
+  long_description: " Theseus is a program that simultaneously superimposes multiple\n\
+    \ macromolecular structures. Theseus finds the optimal solution to the\n superposition
+    problem using the method of maximum likelihood. By\n down-weighting variable regions
+    of the superposition and by correcting for\n correlations among atoms, the ML
+    superposition method produces very\n accurate structural alignments.\n .\n When
+    macromolecules with different residue sequences are superimposed,\n other programs
+    and algorithms discard residues that are aligned with\n gaps. Theseus, however,
+    uses a novel superimposition algorithm that\n includes all of the data.\n"
+  release: sid
+  description_md5: 91517695c1e9e5cdc2a87ff78d5403a8
+  license: unknown
+  blend: debian-med
+- package: theseus
+  description: Overlejring af makromolekyler med brug af maksimal sandsynlighed
+  long_description: " Theseus er et program, som simultant overlejrer flere makromolekylære\n\
+    \ strukturer. Theseus finder den optimale løsning til superpositionsproblemet\n\
+    \ med brug af metoden for maksimal sandsynlighed. Ved at nedvægte variable\n regioner
+    af superpositionen og ved at rette for korrelationer mellem\n atomer, fremstiller
+    ML-superpositionsmetoden meget præcise strukturelle\n sammenligninger.\n .\n Når
+    makromolekyler med forskellige sekvenser bliver overlejret, fjerner\n andre programmer
+    og algoritmer rester som er sammenlignet med huller.\n Theseus, derimod, bruger
+    en ny superimpositionsalgoritme som inkluderer\n alle data.\n"
   release: sid
   description_md5: 91517695c1e9e5cdc2a87ff78d5403a8
   license: unknown

@@ -9,22 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: af57b968c50c6245e1c69de3c25cfcb8
 popcon:
-- insts: 34
-  olde: 27
+- insts: 33
+  olde: 26
   recent: 7
 descr:
-- package: yanagiba
-  description: Filtrer Oxford Nanopore-læsninger i lav kvalitet basecalled med Albacore
-  long_description: " Yanagiba bruges til at filtrere Oxford Nanopore-læsninger i
-    kort eller lav kvalitet, der er blevet basecalled med Albacore. Programmet bruger
-    fastq.gz og en Albacore-resumefil. Hvis ingen Albacore-resumefil er angivet forsøges
-    en direkte beregning på middel qscore fra fastq-filen via NanoMath. Bemærk: Beregnede
-    kvalitetsbedømmelser fremstår lavere for læsninger kaldt med Metrichor, du skal
-    eventuelt mindske din minqual-indstilling i dette tilfælde.\n"
-  release: sid
-  description_md5: af57b968c50c6245e1c69de3c25cfcb8
-  license: unknown
-  blend: debian-med
 - package: yanagiba
   description: filter low quality Oxford Nanopore reads basecalled with Albacore
   long_description: " Yanagiba is used to filter short or low quality Oxford Nanopore
@@ -33,6 +21,19 @@ descr:
     mean qscore from directly from fastq file using\n NanoMath. Note: Calculated quality
     scores appear to be lower for reads\n called with Metrichor, you may need to lower
     your minqual setting in\n this case.\n"
+  release: sid
+  description_md5: af57b968c50c6245e1c69de3c25cfcb8
+  license: unknown
+  blend: debian-med
+- package: yanagiba
+  description: Filtrer Oxford Nanopore-læsninger i lav kvalitet basecalled med 
+    Albacore
+  long_description: " Yanagiba bruges til at filtrere Oxford Nanopore-læsninger i
+    kort eller lav kvalitet, der er blevet basecalled med Albacore. Programmet bruger
+    fastq.gz og en Albacore-resumefil. Hvis ingen Albacore-resumefil er angivet forsøges
+    en direkte beregning på middel qscore fra fastq-filen via NanoMath. Bemærk: Beregnede
+    kvalitetsbedømmelser fremstår lavere for læsninger kaldt med Metrichor, du skal
+    eventuelt mindske din minqual-indstilling i dette tilfælde.\n"
   release: sid
   description_md5: af57b968c50c6245e1c69de3c25cfcb8
   license: unknown

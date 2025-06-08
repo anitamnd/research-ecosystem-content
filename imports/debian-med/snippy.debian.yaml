@@ -12,19 +12,20 @@ registries:
 - entry: snippy
   name: conda:bioconda
 popcon:
-- insts: 10
-  olde: 4
-  recent: 6
+- insts: 8
+  olde: 3
+  recent: 5
 descr:
 - package: snippy
-  description: Hurtig haploid-variantkald og kernegenomjustering
-  long_description: " Snippy finder SNP'er mellem et haploid-referencegenom og din
-    NGS-sekvenslæsninger. Den finder både substitutioner (snps) og indsættelser/sletninger
-    (indels). Programmet vil bruge så mange cpu'er, som du kan give det på en enkelt
-    computer (testet til 64 kerner). Programmet er designet med tanke på hastighed
-    og fremstiller et ensartet sæt resultatfiler i en enkelt mappe. Programmet kan
-    derefter anvende et sæt Snippy-resultater ved at bruge det samme reference og
-    generere en SNP-kernejustering (og i sidste ende et fylogenomisk træ).\n"
+  description: identificazione rapida di varianti aploidi e allineamento di 
+    genoma core
+  long_description: " Snippy trova gli SNP tra un genoma di riferimento aploide e
+    le letture di\n sequenziamento NGS dell'utente.\n Trova sia le sostituzioni (snps)
+    sia le inserzioni/delezioni (indels). Usa\n tante CPU quante gliene vengono fornite
+    in un unico computer (testato con\n 64 core). È progettato pensando alla velocità
+    e produce un insieme coerente\n di file di output in un'unica cartella. Può poi
+    prendere un insieme di\n risultati di Snippy che usano lo stesso riferimento e
+    generare un\n allineamento di SNP core (e da ultimo un albero filogenomico).\n"
   release: sid
   description_md5: 69a2b5b3b56a3668e1203b1fb67096eb
   license: unknown
@@ -43,15 +44,14 @@ descr:
   license: unknown
   blend: debian-med
 - package: snippy
-  description: identificazione rapida di varianti aploidi e allineamento di genoma
-    core
-  long_description: " Snippy trova gli SNP tra un genoma di riferimento aploide e
-    le letture di\n sequenziamento NGS dell'utente.\n Trova sia le sostituzioni (snps)
-    sia le inserzioni/delezioni (indels). Usa\n tante CPU quante gliene vengono fornite
-    in un unico computer (testato con\n 64 core). È progettato pensando alla velocità
-    e produce un insieme coerente\n di file di output in un'unica cartella. Può poi
-    prendere un insieme di\n risultati di Snippy che usano lo stesso riferimento e
-    generare un\n allineamento di SNP core (e da ultimo un albero filogenomico).\n"
+  description: Hurtig haploid-variantkald og kernegenomjustering
+  long_description: " Snippy finder SNP'er mellem et haploid-referencegenom og din
+    NGS-sekvenslæsninger. Den finder både substitutioner (snps) og indsættelser/sletninger
+    (indels). Programmet vil bruge så mange cpu'er, som du kan give det på en enkelt
+    computer (testet til 64 kerner). Programmet er designet med tanke på hastighed
+    og fremstiller et ensartet sæt resultatfiler i en enkelt mappe. Programmet kan
+    derefter anvende et sæt Snippy-resultater ved at bruge det samme reference og
+    generere en SNP-kernejustering (og i sidste ende et fylogenomisk træ).\n"
   release: sid
   description_md5: 69a2b5b3b56a3668e1203b1fb67096eb
   license: unknown

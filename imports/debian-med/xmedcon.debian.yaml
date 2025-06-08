@@ -21,30 +21,14 @@ tags:
 - tag: works-with::image:raster
 - tag: x11::application
 popcon:
-- insts: 309
-  olde: 202
-  recent: 89
-  vote: 18
+- insts: 305
+  olde: 181
+  recent: 108
+  vote: 16
 descr:
 - package: xmedcon
-  description: Medicinsk billedkonverteringsværktøj (DICOM, ECAT, ...) - grafisk brugerflade
-  long_description: " Dette projekt står for Medical Image Conversion, dvs. et medicinsk\n\
-    \ billedkonverteringsværktøj. Programmet er udgivet under (L)GPL. Den fulde\n\
-    \ C-kildekode fra biblioteket følger med. Det er et fleksibelt\n kommandolinjeredskab
-    med en pæn grafisk grænseflade, som anvender GTK+-\n værktøjssættet. Formater
-    som aktuelt understøttes er: Acr/Nema 2.0,\n Analyze (SPM), DICOM 3.0, InterFile
-    3.3 og PNG.\n .\n Programmet giver også mulighed for at læse ej understøttede
-    filer uden\n komprimering, at udskrive billedpunktsværdier eller at udtrække/ændre\n\
-    \ rækkefølge på specificerede billeder. Det er muligt at hente de rå\n binære/ascii-billedarray'er
-    eller at skrive PNG for skrivebordsprogrammer.\n .\n Dette er programversionen
-    til X baseret på GTK+. Behandler kun én fil ad\n gangen.\n"
-  release: sid
-  description_md5: b40c0fc98589850925479a578c1a440f
-  license: unknown
-  blend: debian-med
-- package: xmedcon
-  description: Werkzeug zur Konvertierung medizinischer Bilder (DICOM, ECAT, …) -
-    GUI
+  description: Werkzeug zur Konvertierung medizinischer Bilder (DICOM, ECAT, …) 
+    - GUI
   long_description: " Der Name dieses Projektes leitet sich von »Medical Image Conversion«\n\
     \ (Umwandlung von Bildern in der Medizin) ab. Die Software wurde unter der\n (L)GPL
     veröffentlicht, stellt den kompletten C-Quellcode der Bibliothek zur\n Verfügung
@@ -56,6 +40,40 @@ descr:
     rohe\n Binär-/ASCII-Bildfelder auszulesen oder PNG für Desktopanwendungen\n zu
     schreiben.\n .\n Dieses Paket enthält die GUI-Version für X, basierend auf GTK+.
     Hiermit\n kann stets nur eine Datei zur Zeit bearbeitet werden.\n"
+  release: sid
+  description_md5: b40c0fc98589850925479a578c1a440f
+  license: unknown
+  blend: debian-med
+- package: xmedcon
+  description: nástroj (grafické používateľské rozhranie) na konverziu 
+    medicínskych obrázkov (DICOM, ECAT, ...)
+  long_description: " Tento projekt je skratkou Medical Image Conversion. Je uvoľnený
+    pod\n licenciou (L)GPL, dodáva sa s úplným zdrojovým kódom knižnice v jazyku C,\n\
+    \ flexibilným nástrojom príkazového riadka a pekným grafickým používateľským\n\
+    \ rozhraním, ktoré používa sadu nástrojov GTK+. Momentálne podporuje formáty\n\
+    \ Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 a PNG.\n .\n Program tiež
+    umožňuje čítať nepodporované nekomprimované formáty, vypisovať\n hodnoty pixelov
+    alebo extrahovať/meniť poradie uvedených obrázkov. Je možné\n získať nespracované
+    binárne/ASCII polia obrázkov alebo zapisovať PNG na\n použitie v aplikáciách pracovného
+    prostredia.\n .\n Toto je program pre X založený na GTK+. Spracováva zároveň iba
+    jeden súbor.\n"
+  release: sid
+  description_md5: b40c0fc98589850925479a578c1a440f
+  license: unknown
+  blend: debian-med
+- package: xmedcon
+  description: strumento di conversione di immagini medicali (DICOM, ECAT...) 
+    (GUI)
+  long_description: " Questo progetto riguarda la conversione di immagini medicali.
+    È rilasciato\n sotto licenza (L)GPL e viene fornito con il completo codice sorgente
+    in C\n della libreria, una flessibile utilità a riga di comando e una bella\n\
+    \ interfaccia grafica che usa il toolkit GTK+. I formati attualmente\n gestiti
+    sono: Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 e PNG.\n .\n Può anche
+    leggere file non supportati senza compressione, visualizzare i\n valori dei pixel
+    o estrarre/riordinare le immagini specificate.\n È possibile recuperare i vettori
+    grezzi delle immagini in formato binario o\n ASCII o produrre immagini PNG per
+    le applicazioni desktop.\n .\n Questa è la versione per X del programma, basata
+    su GTK+. Elabora un solo\n file alla volta.\n"
   release: sid
   description_md5: b40c0fc98589850925479a578c1a440f
   license: unknown
@@ -76,23 +94,8 @@ descr:
   license: unknown
   blend: debian-med
 - package: xmedcon
-  description: strumento di conversione di immagini medicali (DICOM, ECAT...) (GUI)
-  long_description: " Questo progetto riguarda la conversione di immagini medicali.
-    È rilasciato\n sotto licenza (L)GPL e viene fornito con il completo codice sorgente
-    in C\n della libreria, una flessibile utilità a riga di comando e una bella\n\
-    \ interfaccia grafica che usa il toolkit GTK+. I formati attualmente\n gestiti
-    sono: Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 e PNG.\n .\n Può anche
-    leggere file non supportati senza compressione, visualizzare i\n valori dei pixel
-    o estrarre/riordinare le immagini specificate.\n È possibile recuperare i vettori
-    grezzi delle immagini in formato binario o\n ASCII o produrre immagini PNG per
-    le applicazioni desktop.\n .\n Questa è la versione per X del programma, basata
-    su GTK+. Elabora un solo\n file alla volta.\n"
-  release: sid
-  description_md5: b40c0fc98589850925479a578c1a440f
-  license: unknown
-  blend: debian-med
-- package: xmedcon
-  description: Graficzne narzędzie do konwersji obrazów medycznych (DICOM, ECAT, ...)
+  description: Graficzne narzędzie do konwersji obrazów medycznych (DICOM, ECAT,
+    ...)
   long_description: " Program przeznaczony jest do konwertowania formatów obrazów
     medycznych i\n rozpowszechniany na podstawie licencji (L)GPL. Pakiet zawiera kompletny
     kod\n źródłowy w języku C, elastyczne narzędzie wiersza poleceń oraz przejrzysty\n\
@@ -110,18 +113,18 @@ descr:
   license: unknown
   blend: debian-med
 - package: xmedcon
-  description: nástroj (grafické používateľské rozhranie) na konverziu medicínskych
-    obrázkov (DICOM, ECAT, ...)
-  long_description: " Tento projekt je skratkou Medical Image Conversion. Je uvoľnený
-    pod\n licenciou (L)GPL, dodáva sa s úplným zdrojovým kódom knižnice v jazyku C,\n\
-    \ flexibilným nástrojom príkazového riadka a pekným grafickým používateľským\n\
-    \ rozhraním, ktoré používa sadu nástrojov GTK+. Momentálne podporuje formáty\n\
-    \ Acr/Nema 2.0, Analyze (SPM), DICOM 3.0, InterFile 3.3 a PNG.\n .\n Program tiež
-    umožňuje čítať nepodporované nekomprimované formáty, vypisovať\n hodnoty pixelov
-    alebo extrahovať/meniť poradie uvedených obrázkov. Je možné\n získať nespracované
-    binárne/ASCII polia obrázkov alebo zapisovať PNG na\n použitie v aplikáciách pracovného
-    prostredia.\n .\n Toto je program pre X založený na GTK+. Spracováva zároveň iba
-    jeden súbor.\n"
+  description: Medicinsk billedkonverteringsværktøj (DICOM, ECAT, ...) - grafisk
+    brugerflade
+  long_description: " Dette projekt står for Medical Image Conversion, dvs. et medicinsk\n\
+    \ billedkonverteringsværktøj. Programmet er udgivet under (L)GPL. Den fulde\n\
+    \ C-kildekode fra biblioteket følger med. Det er et fleksibelt\n kommandolinjeredskab
+    med en pæn grafisk grænseflade, som anvender GTK+-\n værktøjssættet. Formater
+    som aktuelt understøttes er: Acr/Nema 2.0,\n Analyze (SPM), DICOM 3.0, InterFile
+    3.3 og PNG.\n .\n Programmet giver også mulighed for at læse ej understøttede
+    filer uden\n komprimering, at udskrive billedpunktsværdier eller at udtrække/ændre\n\
+    \ rækkefølge på specificerede billeder. Det er muligt at hente de rå\n binære/ascii-billedarray'er
+    eller at skrive PNG for skrivebordsprogrammer.\n .\n Dette er programversionen
+    til X baseret på GTK+. Behandler kun én fil ad\n gangen.\n"
   release: sid
   description_md5: b40c0fc98589850925479a578c1a440f
   license: unknown

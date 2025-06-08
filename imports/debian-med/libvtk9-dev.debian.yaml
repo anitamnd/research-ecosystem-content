@@ -9,23 +9,22 @@ license: unknown
 blend: debian-med
 description_md5: 7e2bbc8c66e40961c2bc067211a7a6c1
 popcon:
-- insts: 648
-  olde: 554
-  recent: 37
-  vote: 57
+- insts: 644
+  olde: 553
+  recent: 42
+  vote: 49
 descr:
 - package: libvtk9-dev
-  description: VTK-teksthovedfiler
-  long_description: " Visualization Toolkit (VTK) er et programsystem for 3D-computergrafik,\n\
-    \ billedbehandling og visualisering.\n .\n Denne pakke tilbyder VTK-teksthovedfiler
-    krævet for at kompilere\n C++-programmer, som bruger VTK til at udføre 3D-visualisering.\n"
+  description: VTK ヘッダファイル
+  long_description: " Visualization Toolkit (VTK) は、3D コンピュータグラフィックス、画像処理、\n 可視化のためのオープンソースソフトウェアです。\n\
+    \ .\n 本パッケージは、VTK を 3D 可視化に用いている C++ プログラムのコンパイルに\n 必要な VTK ヘッダファイルを提供します。\n"
   release: sid
   description_md5: 7e2bbc8c66e40961c2bc067211a7a6c1
   license: unknown
   blend: debian-med
 - package: libvtk9-dev
-  description: Visualization Toolkit - hochentwickelte 3D-Visualisierungsbibliothek
-    - Header
+  description: Visualization Toolkit - hochentwickelte 
+    3D-Visualisierungsbibliothek - Header
   long_description: " Das Visualization Toolkit (VTK) ist ein quelloffenes Softwaresystem\n\
     \ für 3D-Computergrafik, Bildverarbeitung und Visualisierung.\n .\n Dieses Paket
     stellt die VTK-Header-Dateien bereit, die zum Kompilieren von\n C++-Programmen
@@ -35,11 +34,10 @@ descr:
   license: unknown
   blend: debian-med
 - package: libvtk9-dev
-  description: VTK header files
-  long_description: " The Visualization Toolkit (VTK) is an open-source software system\n\
-    \ for 3D computer graphics, image processing, and visualization.\n .\n This package
-    provides the VTK header files required to compile\n C++ programs that use VTK
-    to do 3D visualisation.\n"
+  description: hlavičkové súbory VTK
+  long_description: " Visualization Toolkit (VTK) je open source softvér na 3D počítačovú
+    grafiku,\n spracovanie obrazu a vizualizáciu.\n .\n Tento balík poskytuje hlavičkové
+    súbory VTK potrebné na kompilovanie\n programov využívajúcich VTK na 3D vizualizáciu.\n"
   release: sid
   description_md5: 7e2bbc8c66e40961c2bc067211a7a6c1
   license: unknown
@@ -55,9 +53,11 @@ descr:
   license: unknown
   blend: debian-med
 - package: libvtk9-dev
-  description: VTK ヘッダファイル
-  long_description: " Visualization Toolkit (VTK) は、3D コンピュータグラフィックス、画像処理、\n 可視化のためのオープンソースソフトウェアです。\n\
-    \ .\n 本パッケージは、VTK を 3D 可視化に用いている C++ プログラムのコンパイルに\n 必要な VTK ヘッダファイルを提供します。\n"
+  description: VTK header files
+  long_description: " The Visualization Toolkit (VTK) is an open-source software system\n\
+    \ for 3D computer graphics, image processing, and visualization.\n .\n This package
+    provides the VTK header files required to compile\n C++ programs that use VTK
+    to do 3D visualisation.\n"
   release: sid
   description_md5: 7e2bbc8c66e40961c2bc067211a7a6c1
   license: unknown
@@ -73,10 +73,10 @@ descr:
   license: unknown
   blend: debian-med
 - package: libvtk9-dev
-  description: hlavičkové súbory VTK
-  long_description: " Visualization Toolkit (VTK) je open source softvér na 3D počítačovú
-    grafiku,\n spracovanie obrazu a vizualizáciu.\n .\n Tento balík poskytuje hlavičkové
-    súbory VTK potrebné na kompilovanie\n programov využívajúcich VTK na 3D vizualizáciu.\n"
+  description: VTK-teksthovedfiler
+  long_description: " Visualization Toolkit (VTK) er et programsystem for 3D-computergrafik,\n\
+    \ billedbehandling og visualisering.\n .\n Denne pakke tilbyder VTK-teksthovedfiler
+    krævet for at kompilere\n C++-programmer, som bruger VTK til at udføre 3D-visualisering.\n"
   release: sid
   description_md5: 7e2bbc8c66e40961c2bc067211a7a6c1
   license: unknown

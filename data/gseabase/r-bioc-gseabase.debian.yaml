@@ -9,19 +9,20 @@ license: unknown
 blend: debian-med
 description_md5: 85e0fd5a6d06be5b79a4f0970b8f1a34
 registries:
-- entry: bioconductor-gseabase
-  name: conda:bioconda
 - entry: gseabase
   name: bio.tools
+- entry: bioconductor-gseabase
+  name: conda:bioconda
 popcon:
-- insts: 13
-  olde: 11
-  vote: 2
+- insts: 15
+  olde: 13
+  recent: 1
+  vote: 1
 descr:
 - package: r-bioc-gseabase
-  description: Gene Set Enrichment Analysis - datastrukturer og metoder
-  long_description: " Denne pakke tilbyder klasse og metoder til at understøtte Gene
-    Set Enrichment Analysis (GSEA).\n"
+  description: strutture dati e metodi per arricchimento di insiemi di geni
+  long_description: " Questo pacchetto fornisce classi e metodi per supportare Gene
+    Set\n Enrichment Analysis (GSEA).\n"
   release: sid
   description_md5: 85e0fd5a6d06be5b79a4f0970b8f1a34
   license: unknown
@@ -35,9 +36,9 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-gseabase
-  description: strutture dati e metodi per arricchimento di insiemi di geni
-  long_description: " Questo pacchetto fornisce classi e metodi per supportare Gene
-    Set\n Enrichment Analysis (GSEA).\n"
+  description: Gene Set Enrichment Analysis - datastrukturer og metoder
+  long_description: " Denne pakke tilbyder klasse og metoder til at understøtte Gene
+    Set Enrichment Analysis (GSEA).\n"
   release: sid
   description_md5: 85e0fd5a6d06be5b79a4f0970b8f1a34
   license: unknown

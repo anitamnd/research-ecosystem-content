@@ -15,19 +15,20 @@ bib:
 - key: doi
   value: 10.1186/1471-2105-12-124
 popcon:
-- insts: 39
-  olde: 31
+- insts: 37
+  olde: 29
   recent: 8
 descr:
 - package: proteinortho
-  description: Registrering af (Co-)ortologer i storskala proteinanalyse
-  long_description: " Proteinortho er et uafhængigt værktøj, der er rettet mod store
-    datasæt og gør brug af distribuerede beregningsteknikker, når afviklet på udstyr
-    med flere kerner. Programmet implementerer en udvidet version af den reciprokke
-    bedste sammenligningsheuristik. Proteinortho blev brugt til at beregne orthologous-proteiner
-    i det fulde sæt med alle 717 eubakterielle genomer tilgængelige hos NCBI i begyndelsen
-    af 2009. Forfattere lykkedes med at identificere 30 proteiner til stede i 99 %
-    af alle bakterieproteomer.\n"
+  description: rilevazione di (co-)ortologhi in analisi su vasta scala di 
+    proteine
+  long_description: " Proteinortho è uno strumento autonomo che è diretto verso grandi
+    insiemi di\n dati e fa uso di tecniche di calcolo distribuito quando gira su hardware\n\
+    \ multi-core. Implementa una versione estesa dell'euristica per il miglior\n allineamento
+    reciproco. Proteinortho è stato applicato per calcolare le\n proteine ortologhe
+    nell'insieme completo di tutti i 717 genomi eubatterici\n disponibili su NCBI
+    all'inizio del 2009. Gli autori sono riusciti ad\n identificare trenta proteine
+    presenti nel 99% di tutti i proteomi batterici.\n"
   release: sid
   description_md5: e3a91e234fd7863ad7849747c6f6e226
   license: unknown
@@ -46,14 +47,14 @@ descr:
   license: unknown
   blend: debian-med
 - package: proteinortho
-  description: rilevazione di (co-)ortologhi in analisi su vasta scala di proteine
-  long_description: " Proteinortho è uno strumento autonomo che è diretto verso grandi
-    insiemi di\n dati e fa uso di tecniche di calcolo distribuito quando gira su hardware\n\
-    \ multi-core. Implementa una versione estesa dell'euristica per il miglior\n allineamento
-    reciproco. Proteinortho è stato applicato per calcolare le\n proteine ortologhe
-    nell'insieme completo di tutti i 717 genomi eubatterici\n disponibili su NCBI
-    all'inizio del 2009. Gli autori sono riusciti ad\n identificare trenta proteine
-    presenti nel 99% di tutti i proteomi batterici.\n"
+  description: Registrering af (Co-)ortologer i storskala proteinanalyse
+  long_description: " Proteinortho er et uafhængigt værktøj, der er rettet mod store
+    datasæt og gør brug af distribuerede beregningsteknikker, når afviklet på udstyr
+    med flere kerner. Programmet implementerer en udvidet version af den reciprokke
+    bedste sammenligningsheuristik. Proteinortho blev brugt til at beregne orthologous-proteiner
+    i det fulde sæt med alle 717 eubakterielle genomer tilgængelige hos NCBI i begyndelsen
+    af 2009. Forfattere lykkedes med at identificere 30 proteiner til stede i 99 %
+    af alle bakterieproteomer.\n"
   release: sid
   description_md5: e3a91e234fd7863ad7849747c6f6e226
   license: unknown

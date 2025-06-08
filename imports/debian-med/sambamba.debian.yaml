@@ -9,10 +9,10 @@ license: unknown
 blend: debian-med
 description_md5: cffb799478d991a3e309bbae0c0e0b13
 registries:
-- entry: Sambamba
-  name: bio.tools
 - entry: OMICS_07586
   name: OMICtools
+- entry: Sambamba
+  name: bio.tools
 - entry: sambamba
   name: conda:bioconda
 - entry: sambamba
@@ -21,18 +21,19 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btv098
 popcon:
-- insts: 97
+- insts: 94
   olde: 73
-  recent: 17
-  vote: 7
+  recent: 15
+  vote: 6
 descr:
 - package: sambamba
-  description: Værktøjer for arbejde med SAM/BAM-data
-  long_description: " Sambamba positionerer sig selv som et højtydende alternativ
-    til samtools\n og tilbyder værktøjer for\n  * Funktionsrig filtrering med sambamba
-    view --filter\n  * Picard-lignende SAM-teksthovedsammenføjning i værktøjet merge\n\
-    \  * Valgfri for operationer på hele BAM'er\n  * Hurtig kopiering af en region
-    til en ny fil med værktøjet slice\n  * Duplikere markering/fjernelse, via Picardkriteriet\n"
+  description: strumenti per lavorare con dati SAM/BAM
+  long_description: " Sambamba si posiziona come alternativa performante a samtools
+    e fornisce\n strumenti per:\n  * filtraggio potente con sambamba view --filter;\n\
+    \  * unione di intestazioni in stile Picard nello strumento merge;\n  * opzionale
+    per operazioni su interi BAM;\n  * copia veloce di una regione su un nuovo file
+    con lo strumento slice;\n  * marcatura/rimozione di duplicati usando il criterio
+    Picard.\n"
   release: sid
   description_md5: cffb799478d991a3e309bbae0c0e0b13
   license: unknown
@@ -49,13 +50,12 @@ descr:
   license: unknown
   blend: debian-med
 - package: sambamba
-  description: strumenti per lavorare con dati SAM/BAM
-  long_description: " Sambamba si posiziona come alternativa performante a samtools
-    e fornisce\n strumenti per:\n  * filtraggio potente con sambamba view --filter;\n\
-    \  * unione di intestazioni in stile Picard nello strumento merge;\n  * opzionale
-    per operazioni su interi BAM;\n  * copia veloce di una regione su un nuovo file
-    con lo strumento slice;\n  * marcatura/rimozione di duplicati usando il criterio
-    Picard.\n"
+  description: Værktøjer for arbejde med SAM/BAM-data
+  long_description: " Sambamba positionerer sig selv som et højtydende alternativ
+    til samtools\n og tilbyder værktøjer for\n  * Funktionsrig filtrering med sambamba
+    view --filter\n  * Picard-lignende SAM-teksthovedsammenføjning i værktøjet merge\n\
+    \  * Valgfri for operationer på hele BAM'er\n  * Hurtig kopiering af en region
+    til en ny fil med værktøjet slice\n  * Duplikere markering/fjernelse, via Picardkriteriet\n"
   release: sid
   description_md5: cffb799478d991a3e309bbae0c0e0b13
   license: unknown

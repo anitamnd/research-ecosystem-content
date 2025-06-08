@@ -9,28 +9,16 @@ license: unknown
 blend: debian-med
 description_md5: dee5b368dc490802cbe1444441049444
 registries:
-- entry: bioconductor-megadepth
-  name: conda:bioconda
 - entry: megadepth
   name: bio.tools
+- entry: bioconductor-megadepth
+  name: conda:bioconda
 popcon:
-- insts: 37
-  olde: 29
+- insts: 36
+  olde: 28
   recent: 7
   vote: 1
 descr:
-- package: r-bioc-megadepth
-  description: BioCOnductor BigWig og BAM-relaterede redskaber
-  long_description: " Denne pakke tilbyder en R-grænseflade til Megadepth af Christopher
-    Wilks tilgængelig på https://github.com/ChristopherWilks/megadepth. Den er speciel
-    nyttig til at beregne dækningen af et sæt af genomregioner på tværs af BigWig-
-    eller BAM-filer. Med denne pakke kan du bygge base-par dækningsmatricer for regioner
-    eller annotationer efter eget valg fra BigWig-filer. Megadepth blev brugt til
-    at oprette de rå filer tilbudt af <https://bioconductor.org/packages/recount3>.\n"
-  release: sid
-  description_md5: dee5b368dc490802cbe1444441049444
-  license: unknown
-  blend: debian-med
 - package: r-bioc-megadepth
   description: BioCOnductor BigWig and BAM related utilities
   long_description: " This package provides an R interface to Megadepth by Christopher\n\
@@ -39,6 +27,18 @@ descr:
     or BAM files. With this package, you can build base-pair\n coverage matrices for
     regions or annotations of your choice from BigWig\n files. Megadepth was used
     to create the raw files provided by\n https://bioconductor.org/packages/recount3.\n"
+  release: sid
+  description_md5: dee5b368dc490802cbe1444441049444
+  license: unknown
+  blend: debian-med
+- package: r-bioc-megadepth
+  description: BioCOnductor BigWig og BAM-relaterede redskaber
+  long_description: " Denne pakke tilbyder en R-grænseflade til Megadepth af Christopher
+    Wilks tilgængelig på https://github.com/ChristopherWilks/megadepth. Den er speciel
+    nyttig til at beregne dækningen af et sæt af genomregioner på tværs af BigWig-
+    eller BAM-filer. Med denne pakke kan du bygge base-par dækningsmatricer for regioner
+    eller annotationer efter eget valg fra BigWig-filer. Megadepth blev brugt til
+    at oprette de rå filer tilbudt af <https://bioconductor.org/packages/recount3>.\n"
   release: sid
   description_md5: dee5b368dc490802cbe1444441049444
   license: unknown

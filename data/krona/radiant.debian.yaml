@@ -11,26 +11,27 @@ description_md5: ebbe6c64ad9b1f2094c661efc9e77f4e
 registries:
 - entry: OMICS_01498
   name: OMICtools
-- entry: krona
-  name: bio.tools
 - entry: SCR_012785
   name: SciCrunch
+- entry: krona
+  name: bio.tools
 - entry: krona
   name: conda:bioconda
 bib:
 - key: doi
   value: 10.1186/1471-2105-12-385
 popcon:
-- insts: 43
-  olde: 35
+- insts: 41
+  olde: 33
   recent: 8
 descr:
 - package: radiant
-  description: Udforsk hierarkiske metagenomdata med lagkagediagrammer
-  long_description: " Krona tillader at hierarkiske data udforskes med lagkagediagrammer
-    med zoom. Kronadiagrammer inkluderer understøttelse for flere bioinformatik-værktøjer
-    og rå dataformater. Diagrammerne kan ses med en nyere version af enhver væsentlig
-    internetbrowser.\n"
+  description: esplora dati gerarchici di metagenomi con grafici a torta con 
+    zoom
+  long_description: " Krona permette di esplorare dati gerarchici con grafici a torta
+    con zoom. I\n grafici di Krona includono la gestione di diversi strumenti bioinformatici\n\
+    \ e di formati per dati grezzi. I grafici possono essere visualizzati con una\n\
+    \ versione recente di qualsiasi web browser comune.\n"
   release: sid
   description_md5: ebbe6c64ad9b1f2094c661efc9e77f4e
   license: unknown
@@ -46,11 +47,11 @@ descr:
   license: unknown
   blend: debian-med
 - package: radiant
-  description: esplora dati gerarchici di metagenomi con grafici a torta con zoom
-  long_description: " Krona permette di esplorare dati gerarchici con grafici a torta
-    con zoom. I\n grafici di Krona includono la gestione di diversi strumenti bioinformatici\n\
-    \ e di formati per dati grezzi. I grafici possono essere visualizzati con una\n\
-    \ versione recente di qualsiasi web browser comune.\n"
+  description: Udforsk hierarkiske metagenomdata med lagkagediagrammer
+  long_description: " Krona tillader at hierarkiske data udforskes med lagkagediagrammer
+    med zoom. Kronadiagrammer inkluderer understøttelse for flere bioinformatik-værktøjer
+    og rå dataformater. Diagrammerne kan ses med en nyere version af enhver væsentlig
+    internetbrowser.\n"
   release: sid
   description_md5: ebbe6c64ad9b1f2094c661efc9e77f4e
   license: unknown

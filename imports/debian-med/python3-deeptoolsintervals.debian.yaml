@@ -9,21 +9,11 @@ license: unknown
 blend: debian-med
 description_md5: 05590a66a3fd7f1cbbeec6b3e0aaa55b
 popcon:
-- insts: 47
-  olde: 34
-  recent: 9
-  vote: 4
+- insts: 46
+  olde: 33
+  recent: 7
+  vote: 6
 descr:
-- package: python3-deeptoolsintervals
-  description: Håndtering af GTF-lignende sekvensassocieret interal-annotation
-  long_description: " Regioner i biologiske sekvenser beskrives (annoteres) som gener,
-    faktorbindingssteder for transkriptioner, lav kompleksitet, ... hvad biologisk
-    forskning nu bringer.\n .\n Denne pakke understøtter den effektive operation med
-    denne information.\n"
-  release: sid
-  description_md5: 05590a66a3fd7f1cbbeec6b3e0aaa55b
-  license: unknown
-  blend: debian-med
 - package: python3-deeptoolsintervals
   description: handlig GTF-like sequence-associated interal-annotation
   long_description: " Regions in biological sequences are described (annotated) as
@@ -35,7 +25,18 @@ descr:
   license: unknown
   blend: debian-med
 - package: python3-deeptoolsintervals
-  description: gestion de style GTF de séquences, intervalles associés, annotations
+  description: Håndtering af GTF-lignende sekvensassocieret interal-annotation
+  long_description: " Regioner i biologiske sekvenser beskrives (annoteres) som gener,
+    faktorbindingssteder for transkriptioner, lav kompleksitet, ... hvad biologisk
+    forskning nu bringer.\n .\n Denne pakke understøtter den effektive operation med
+    denne information.\n"
+  release: sid
+  description_md5: 05590a66a3fd7f1cbbeec6b3e0aaa55b
+  license: unknown
+  blend: debian-med
+- package: python3-deeptoolsintervals
+  description: gestion de style GTF de séquences, intervalles associés, 
+    annotations
   long_description: " Les régions dans des séquences biologiques sont décrites (annotées)
     comme\n gènes, sites de facteur de transcription, régions de basse complexité…
     et\n tout ce qui se rapporte à la recherche en biologie.\n .\n Ce paquet fournit

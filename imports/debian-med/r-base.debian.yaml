@@ -18,35 +18,83 @@ tags:
 - tag: role::metapackage
 - tag: suite::gnu
 popcon:
-- insts: 4094
-  nofiles: 3956
-  olde: 75
+- insts: 4109
+  nofiles: 3974
+  olde: 72
   recent: 9
   vote: 54
 descr:
 - package: r-base
-  description: GNU R statistisk beregning og grafiksystem
-  long_description: " R er et system til statistisk beregning og grafik. Det består
-    af et sprog\n plus et afviklingsmiljø med grafik, et aflusningsredskab, adgang
-    til\n særlige systemfunktioner, samt evnen til at køre programmer som er gemt\n\
-    \ som skriptfiler.\n .\n Designet af R er tungt påvirket af to eksisterende sprog:
-    Becker, Chambers\n & Wilks' S og Sussman's Scheme. Hvor sprogudformningen i sin
-    fremtræden i\n høj grad ligner S, så er den underliggende implementering og semantik\n\
-    \ afledt fra Scheme.\n .\n Kernen i R er et fortolket programmeringssprog som
-    tillader forgrening og\n løkker, så vel som modulær programmering med brug af
-    funktioner. De fleste\n funktioner som er synlige for brugeren i R er skrevet
-    i R. Det er muligt\n for brugeren at tilgå procedurer skrevet i C, C++ eller FORTRAN
-    sprogene\n for effektivitet, og mange af R's kernefunktioner gør dette.\n Distributionen
-    R indeholder funktionalitet til et stort antal statistiske\n procedurer og underliggende
-    anvendte matematiske beregninger. Der er også\n et stort sæt af funktioner, der
-    tilbyder et grafisk miljø til oprettelse\n af adskillige slags datarepræsentationer.\n\
-    \ .\n Derudover er flere tusinde udvidelsespakker tilgængelige fra CRAN\n (Comprehensive
-    R Archive Network), mange også som Debianpakker, der er\n navngivet »r-cran-<navn>«.\n\
-    \ .\n Disse pakker er en metapakke, som letter overgangen fra\n pre-1.5.0-pakkestrukturen
-    med dennes store r-base-pakke. Så snart den er\n installeret, kan den uden videre
-    fjernes og apt-get vil automatisk\n opgradere dens komponenter under fremtidige
-    opgraderinger. Denne pakke gør\n det muligt for brugerne kun at installere r-base-core,
-    hvis de ønsker det.\n"
+  description: GNU R — система для статистичних обчислень та представлення даних
+    в графічному вигляді
+  long_description: " R — система для статистичних обчислень та представлення даних
+    в графічному\n вигляді. Вона складається з мови з виконавчим середовищем для графічного\n\
+    \ відтворення даних, відлагоджувача, доступу до певних системних функцій та\n\
+    \ можливості виконувати програми, що містяться у файлах сценаріїв.\n .\n На вигляд
+    R значною мірою вплинули дві існуючі мови: S (Becker, Chambers &\n Wilks) та Scheme
+    (Sussman). Отже в результаті вийшла мова, що дуже схожа на\n S з реалізацією та
+    семантикою, успадкованою з Scheme.\n .\n Ядром R є інтерпретована комп’ютерна
+    мова, яка дозволяє створювати\n розгалуження та цикли так само, як і модульні
+    програми з використанням\n функцій. Більшість доступних користувачам функцій R
+    написані на R. R дає\n можливість користувачам звертатись до процедур, написаних
+    на Сі, Сі++ або\n Фортран, для підвищення ефективності, і більшість із основних
+    функцій R\n дозволяють робити це. Дистрибутив R містить функції для великої кількості\n\
+    \ статистичних завдань та математичних розрахунків, на які вони спираються. В\n\
+    \ ньому також міститься великий набір  функцій, що надають гнучке середовище\n\
+    \ для графічного подання даних та результатів обчислень.\n .\n На додачу, кілька
+    тисяч пакунків розширень доступні на CRAN (Comprehensive\n R Archive Network)
+    багато з них також є пакунками Debian, що мають назву\n 'r-cran-<name>'.\n .\n\
+    \ Цей пакунок є збірним пакунком, який полегшує перехід з встановлення\n пакунків
+    pre-1.5.0 до використання великого пакунка r-base. Після\n встановлення його можна
+    безпечно вилучити, а apt-get буде виконувати\n автоматичне оновлення його компонентів
+    в майбутньому. Встановивши цей\n пакунок, користувачам потім буде потрібно лише
+    встановити пакунок r-base-\n core, якщо вони забажають.\n"
+  release: sid
+  description_md5: 5787ca79ed716232c4cc2087ed9b425b
+  license: unknown
+  blend: debian-med
+- package: r-base
+  description: система статистических расчетов и построения графиков GNU R
+  long_description: " R — это система для статистических расчётов, состоящая\n из
+    языка и рабочего окружения с графикой, отладчиком, доступом к некоторым\n системным
+    функциям и возможностью запуска сценариев, хранимых в отдельных\n файлах.\n .\n\
+    \ На разработку R сильное влияние оказали два существующих языка: S\n Бекера,
+    Чамберса и Уилкса, и Scheme Сассмана. Несмотря на то, что внешне\n получившийся
+    язык очень сильно похож на S, его реализация и\n семантика произошли из Scheme.\n\
+    \ .\n Ядро R представляет собой интерпретируемый язык программирования, который\n\
+    \ позволяет реализовать ветвления и циклы, а также  модульное программирование\n\
+    \ с использованием функций. Большинство функций R, видимых пользователю,\n написаны
+    на R. Также существует возможность обращаться к процедурам,\n написанным на C,
+    C++ или FORTRAN для большей эффективности, и многие базовые\n функции R это делают.
+    Дистрибутив R позволяет осуществлять множество\n статистических операций и лежащих
+    в их основе прикладных математических\n вычислений. Также присутствует большой
+    набор функций, обеспечивающих гибкое\n графическое окружение для создания различных
+    графических представлений\n данных.\n .\n Дополнительно, несколько тысяч «пакетов»
+    с расширениями доступны на CRAN,\n Comprehensive R Archive Network. Многие из
+    них также собраны в виде\n пакетов Debian, называющихся 'r-cran-<имя пакета>'\n\
+    \ .\n Настоящий пакет является метапакетом, облегчающим переход с R версий,\n\
+    \ меньших 1.5.0, которые поставлялись в виде одного большого пакета r-base.\n\
+    \ После установки, его можно спокойно удалить; apt-get будет автоматически\n обновлять
+    установленные компоненты R при последующих обновлениях.\n Предоставление r-base
+    как метапакета позволяет пользователям устанавливать\n только пакет r-base-core
+    (меньший по объёму), если они этого пожелают.\n"
+  release: sid
+  description_md5: 5787ca79ed716232c4cc2087ed9b425b
+  license: unknown
+  blend: debian-med
+- package: r-base
+  description: GNU R 統計計算・グラフィックスシステム
+  long_description: " R は、統計計算とグラフィクスのためのシステムです。R は言語、グラフィックを\n サポートするランタイム環境、デバッガから構成され、一部のシステム関数に\n\
+    \ アクセスでき、スクリプトファイルに保存したプログラムを実行することができます。\n .\n R の設計は、Becker, Chambers & Wilks
+    の S と、Sussman の Scheme に非常に\n 強く影響を受けています。外見的には S によく似ており、一方で基礎部分の実装と\n セマンティクスは
+    Scheme に由来しています。\n .\n R の中核はインタープリタ式コンピュータ言語で、分岐、ループが可能で、関数を\n 使ったモジュール型プログラミングもできます。R
+    のユーザから見える\n 関数のほとんどは、R で書かれています。R のコアの多くの関数と同様に、\n 効率を良くするために C, C++ または FORTRAN
+    で書かれた手続きに\n 接続することができます。R のディストリビューションには、膨大な統計の手続きと、\n その基礎となる応用数学の計算アルゴリズムが含まれています。さらに、多種にわたる\n\
+    \ データを表現するため、柔軟性のあるグラフィック環境を提供する多くの関数群が\n 存在します。\n .\n また、数千もの拡張「パッケージ」が CRAN
+    (Comprehensive R Archive\n Network) から入手可能で、その多くが 'r-cran-<name>' という名前の Debian\n\
+    \ パッケージにもなっています。\n .\n このパッケージは、バージョン 1.5.0 より前の、サイズの大きな r-base\n パッケージからの移行を容易にするメタパッケージです。一度インストールした後は、\n\
+    \ このパッケージは安全に削除できます。apt-get は今後のアップグレード時に、\n このコンポーネントを自動的にアップグレードします。必要であれば、\n\
+    \ r-base-core パッケージだけをインストールするといったことができます。\n"
   release: sid
   description_md5: 5787ca79ed716232c4cc2087ed9b425b
   license: unknown
@@ -76,33 +124,6 @@ descr:
     kann es gefahrlos\n entfernt werden und apt-get wird automatisch seine Komponenten
     bei\n zukünftigen Upgrades aktualisieren. Die Bereitstellung dieses Pakets\n ermöglicht
     Anwendern, nur r-base-core zu installieren, wenn sie dies\n wünschen.\n"
-  release: sid
-  description_md5: 5787ca79ed716232c4cc2087ed9b425b
-  license: unknown
-  blend: debian-med
-- package: r-base
-  description: GNU R statistical computation and graphics system
-  long_description: " R is a system for statistical computation and graphics.  It
-    consists\n of a language plus a run-time environment with graphics, a debugger,\n\
-    \ access to certain system functions, and the ability to run programs\n stored
-    in script files.\n .\n The design of R has been heavily influenced by two existing
-    languages:\n Becker, Chambers & Wilks' S and Sussman's Scheme.  Whereas the\n\
-    \ resulting language is very similar in appearance to S, the underlying\n implementation
-    and semantics are derived from Scheme.\n .\n The core of R is an interpreted computer
-    language which allows\n branching and looping as well as modular programming using
-    functions.\n Most of the user-visible functions in R are written in R.  It is\n\
-    \ possible for the user to interface to procedures written in the\n C, C++, or
-    FORTRAN languages for efficiency, and many of R's core\n functions do so.  The
-    R distribution contains functionality for a\n large number of statistical procedures
-    and underlying applied math\n computations.  There is also a large set of functions
-    which provide\n a flexible graphical environment for creating various kinds of
-    data\n presentations.\n .\n Additionally, several thousand extension \"packages\"\
-    \ are available from\n CRAN, the Comprehensive R Archive Network, many also as
-    Debian packages,\n named 'r-cran-<name>'.\n .\n This package is a metapackage
-    which eases the transition from the\n pre-1.5.0 package setup with its larger
-    r-base package. Once installed, it\n can be safely removed and apt-get will automatically
-    upgrade its components\n during future upgrades.  Providing this package gives
-    a way to users to\n then only install r-base-core if they so desire.\n"
   release: sid
   description_md5: 5787ca79ed716232c4cc2087ed9b425b
   license: unknown
@@ -165,25 +186,35 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-base
-  description: GNU R 統計計算・グラフィックスシステム
-  long_description: " R は、統計計算とグラフィクスのためのシステムです。R は言語、グラフィックを\n サポートするランタイム環境、デバッガから構成され、一部のシステム関数に\n\
-    \ アクセスでき、スクリプトファイルに保存したプログラムを実行することができます。\n .\n R の設計は、Becker, Chambers & Wilks
-    の S と、Sussman の Scheme に非常に\n 強く影響を受けています。外見的には S によく似ており、一方で基礎部分の実装と\n セマンティクスは
-    Scheme に由来しています。\n .\n R の中核はインタープリタ式コンピュータ言語で、分岐、ループが可能で、関数を\n 使ったモジュール型プログラミングもできます。R
-    のユーザから見える\n 関数のほとんどは、R で書かれています。R のコアの多くの関数と同様に、\n 効率を良くするために C, C++ または FORTRAN
-    で書かれた手続きに\n 接続することができます。R のディストリビューションには、膨大な統計の手続きと、\n その基礎となる応用数学の計算アルゴリズムが含まれています。さらに、多種にわたる\n\
-    \ データを表現するため、柔軟性のあるグラフィック環境を提供する多くの関数群が\n 存在します。\n .\n また、数千もの拡張「パッケージ」が CRAN
-    (Comprehensive R Archive\n Network) から入手可能で、その多くが 'r-cran-<name>' という名前の Debian\n\
-    \ パッケージにもなっています。\n .\n このパッケージは、バージョン 1.5.0 より前の、サイズの大きな r-base\n パッケージからの移行を容易にするメタパッケージです。一度インストールした後は、\n\
-    \ このパッケージは安全に削除できます。apt-get は今後のアップグレード時に、\n このコンポーネントを自動的にアップグレードします。必要であれば、\n\
-    \ r-base-core パッケージだけをインストールするといったことができます。\n"
+  description: GNU R statistical computation and graphics system
+  long_description: " R is a system for statistical computation and graphics.  It
+    consists\n of a language plus a run-time environment with graphics, a debugger,\n\
+    \ access to certain system functions, and the ability to run programs\n stored
+    in script files.\n .\n The design of R has been heavily influenced by two existing
+    languages:\n Becker, Chambers & Wilks' S and Sussman's Scheme.  Whereas the\n\
+    \ resulting language is very similar in appearance to S, the underlying\n implementation
+    and semantics are derived from Scheme.\n .\n The core of R is an interpreted computer
+    language which allows\n branching and looping as well as modular programming using
+    functions.\n Most of the user-visible functions in R are written in R.  It is\n\
+    \ possible for the user to interface to procedures written in the\n C, C++, or
+    FORTRAN languages for efficiency, and many of R's core\n functions do so.  The
+    R distribution contains functionality for a\n large number of statistical procedures
+    and underlying applied math\n computations.  There is also a large set of functions
+    which provide\n a flexible graphical environment for creating various kinds of
+    data\n presentations.\n .\n Additionally, several thousand extension \"packages\"\
+    \ are available from\n CRAN, the Comprehensive R Archive Network, many also as
+    Debian packages,\n named 'r-cran-<name>'.\n .\n This package is a metapackage
+    which eases the transition from the\n pre-1.5.0 package setup with its larger
+    r-base package. Once installed, it\n can be safely removed and apt-get will automatically
+    upgrade its components\n during future upgrades.  Providing this package gives
+    a way to users to\n then only install r-base-core if they so desire.\n"
   release: sid
   description_md5: 5787ca79ed716232c4cc2087ed9b425b
   license: unknown
   blend: debian-med
 - package: r-base
-  description: System GNU R do obliczeń statystycznych i prezentacji danych w formie
-    graficznej
+  description: System GNU R do obliczeń statystycznych i prezentacji danych w 
+    formie graficznej
   long_description: " R to system do obliczeń statystycznych i prezentacji danych
     w formie\n graficznej. Składa się on z języka oraz środowiska wykonawczego z grafiką,\n\
     \ debuggerem, dostępem do niektórych funkcji systemowych oraz możliwością\n uruchamiania
@@ -210,59 +241,28 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-base
-  description: система статистических расчетов и построения графиков GNU R
-  long_description: " R — это система для статистических расчётов, состоящая\n из
-    языка и рабочего окружения с графикой, отладчиком, доступом к некоторым\n системным
-    функциям и возможностью запуска сценариев, хранимых в отдельных\n файлах.\n .\n\
-    \ На разработку R сильное влияние оказали два существующих языка: S\n Бекера,
-    Чамберса и Уилкса, и Scheme Сассмана. Несмотря на то, что внешне\n получившийся
-    язык очень сильно похож на S, его реализация и\n семантика произошли из Scheme.\n\
-    \ .\n Ядро R представляет собой интерпретируемый язык программирования, который\n\
-    \ позволяет реализовать ветвления и циклы, а также  модульное программирование\n\
-    \ с использованием функций. Большинство функций R, видимых пользователю,\n написаны
-    на R. Также существует возможность обращаться к процедурам,\n написанным на C,
-    C++ или FORTRAN для большей эффективности, и многие базовые\n функции R это делают.
-    Дистрибутив R позволяет осуществлять множество\n статистических операций и лежащих
-    в их основе прикладных математических\n вычислений. Также присутствует большой
-    набор функций, обеспечивающих гибкое\n графическое окружение для создания различных
-    графических представлений\n данных.\n .\n Дополнительно, несколько тысяч «пакетов»
-    с расширениями доступны на CRAN,\n Comprehensive R Archive Network. Многие из
-    них также собраны в виде\n пакетов Debian, называющихся 'r-cran-<имя пакета>'\n\
-    \ .\n Настоящий пакет является метапакетом, облегчающим переход с R версий,\n\
-    \ меньших 1.5.0, которые поставлялись в виде одного большого пакета r-base.\n\
-    \ После установки, его можно спокойно удалить; apt-get будет автоматически\n обновлять
-    установленные компоненты R при последующих обновлениях.\n Предоставление r-base
-    как метапакета позволяет пользователям устанавливать\n только пакет r-base-core
-    (меньший по объёму), если они этого пожелают.\n"
-  release: sid
-  description_md5: 5787ca79ed716232c4cc2087ed9b425b
-  license: unknown
-  blend: debian-med
-- package: r-base
-  description: GNU R — система для статистичних обчислень та представлення даних в
-    графічному вигляді
-  long_description: " R — система для статистичних обчислень та представлення даних
-    в графічному\n вигляді. Вона складається з мови з виконавчим середовищем для графічного\n\
-    \ відтворення даних, відлагоджувача, доступу до певних системних функцій та\n\
-    \ можливості виконувати програми, що містяться у файлах сценаріїв.\n .\n На вигляд
-    R значною мірою вплинули дві існуючі мови: S (Becker, Chambers &\n Wilks) та Scheme
-    (Sussman). Отже в результаті вийшла мова, що дуже схожа на\n S з реалізацією та
-    семантикою, успадкованою з Scheme.\n .\n Ядром R є інтерпретована комп’ютерна
-    мова, яка дозволяє створювати\n розгалуження та цикли так само, як і модульні
-    програми з використанням\n функцій. Більшість доступних користувачам функцій R
-    написані на R. R дає\n можливість користувачам звертатись до процедур, написаних
-    на Сі, Сі++ або\n Фортран, для підвищення ефективності, і більшість із основних
-    функцій R\n дозволяють робити це. Дистрибутив R містить функції для великої кількості\n\
-    \ статистичних завдань та математичних розрахунків, на які вони спираються. В\n\
-    \ ньому також міститься великий набір  функцій, що надають гнучке середовище\n\
-    \ для графічного подання даних та результатів обчислень.\n .\n На додачу, кілька
-    тисяч пакунків розширень доступні на CRAN (Comprehensive\n R Archive Network)
-    багато з них також є пакунками Debian, що мають назву\n 'r-cran-<name>'.\n .\n\
-    \ Цей пакунок є збірним пакунком, який полегшує перехід з встановлення\n пакунків
-    pre-1.5.0 до використання великого пакунка r-base. Після\n встановлення його можна
-    безпечно вилучити, а apt-get буде виконувати\n автоматичне оновлення його компонентів
-    в майбутньому. Встановивши цей\n пакунок, користувачам потім буде потрібно лише
-    встановити пакунок r-base-\n core, якщо вони забажають.\n"
+  description: GNU R statistisk beregning og grafiksystem
+  long_description: " R er et system til statistisk beregning og grafik. Det består
+    af et sprog\n plus et afviklingsmiljø med grafik, et aflusningsredskab, adgang
+    til\n særlige systemfunktioner, samt evnen til at køre programmer som er gemt\n\
+    \ som skriptfiler.\n .\n Designet af R er tungt påvirket af to eksisterende sprog:
+    Becker, Chambers\n & Wilks' S og Sussman's Scheme. Hvor sprogudformningen i sin
+    fremtræden i\n høj grad ligner S, så er den underliggende implementering og semantik\n\
+    \ afledt fra Scheme.\n .\n Kernen i R er et fortolket programmeringssprog som
+    tillader forgrening og\n løkker, så vel som modulær programmering med brug af
+    funktioner. De fleste\n funktioner som er synlige for brugeren i R er skrevet
+    i R. Det er muligt\n for brugeren at tilgå procedurer skrevet i C, C++ eller FORTRAN
+    sprogene\n for effektivitet, og mange af R's kernefunktioner gør dette.\n Distributionen
+    R indeholder funktionalitet til et stort antal statistiske\n procedurer og underliggende
+    anvendte matematiske beregninger. Der er også\n et stort sæt af funktioner, der
+    tilbyder et grafisk miljø til oprettelse\n af adskillige slags datarepræsentationer.\n\
+    \ .\n Derudover er flere tusinde udvidelsespakker tilgængelige fra CRAN\n (Comprehensive
+    R Archive Network), mange også som Debianpakker, der er\n navngivet »r-cran-<navn>«.\n\
+    \ .\n Disse pakker er en metapakke, som letter overgangen fra\n pre-1.5.0-pakkestrukturen
+    med dennes store r-base-pakke. Så snart den er\n installeret, kan den uden videre
+    fjernes og apt-get vil automatisk\n opgradere dens komponenter under fremtidige
+    opgraderinger. Denne pakke gør\n det muligt for brugerne kun at installere r-base-core,
+    hvis de ønsker det.\n"
   release: sid
   description_md5: 5787ca79ed716232c4cc2087ed9b425b
   license: unknown

@@ -9,14 +9,14 @@ license: unknown
 blend: debian-med
 description_md5: d8ff9082fb3dd433b6c561c43ac72ddb
 registries:
+- entry: OMICS_01502
+  name: OMICtools
 - entry: SCR_000131
   name: SciCrunch
 - entry: spades
-  name: conda:bioconda
-- entry: OMICS_01502
-  name: OMICtools
-- entry: spades
   name: bio.tools
+- entry: spades
+  name: conda:bioconda
 bib:
 - key: doi
   value: 10.1089/cmb.2012.0021
@@ -42,26 +42,29 @@ bib:
   rank: 7
   value: 10.1101/gr.243477.118
 popcon:
-- insts: 61
-  olde: 53
+- insts: 60
+  olde: 51
   recent: 8
+  vote: 1
 descr:
 - package: spades
-  description: Genomsamler for single-celle- og isolates-datasæt
-  long_description: " SPAdes - St. Petersburg-genomsamleren er lavet for både isolates-
-    og\n single-celle MDA-bateriesamlinger. Den fungerer med Illumina- eller\n IonTorrent-læsninger
-    og kan tilbyde hybride samlinger, der bruger PacBio-\n og Sangerlæsninger. Du
-    kan også tilbyde yderligere contigs, som vil blive\n brugt som lange læsninger.\n\
-    \ .\n Denne pakke tilbyder de følgende yderligere datakanaler:\n  * metaSPAdes
-    – en datakanal for metagenomiske datasæt\n  * plasmidSPAdes – en datakanal til
-    at udtrække og samle plasmids fra\n    WGS-datasæt\n  * metaplasmidSPAdes – en
-    datakanal til at udtrække og samle plasmids\n    fra metagenomiske datasæt\n \
-    \ * rnaSPAdes – en de novo transkriptom-samler fra RNA-Seq-data\n  * truSPAdes
-    – et modul for TruSeq-stregkodesamling\n  * biosyntheticSPAdes – et modul for
-    biosyntetisk genklyngesamling med\n    paired-end læsninger\n .\n SPAdes tilbyder
-    flere uafhængige binære filer med en relativ simpel kommandolinjegrænseflade:
-    optælling af k-mer (spades-kmercounter), grafkonstruktion over samling (spades-gbuilder)
-    og en lang læsning til grafsammenligning (spades-gmapper).\n"
+  description: assemblatore di genomi per singola-cellula e insiemi di dati di 
+    isolati
+  long_description: " L'assemblatore di genomi SPAdes - St. Petersburg è pensato per
+    assemblaggi\n di isolati standard e di MDA batterici da singola cellula. Funziona
+    con\n letture Illumina o IonTorrent ed è in grado di fornire assemblati ibridi\n\
+    \ usando letture PacBio e Sanger. Si possono anche fornire contigui\n aggiuntivi
+    che verranno usati come letture lunghe.\n .\n Questo pacchetto fornisce le seguenti
+    catene di elaborazione aggiuntive:\n  * metaSPAdes – catena per insiemi di dati
+    metagenomici\n  * plasmidSPAdes – catena per estrarre e assemblare plasmidi da
+    insiemi\n    di dati WGS\n  * metaplasmidSPAdes – catena per estrarre e assemblare
+    plasmidi da\n    insiemi di dati metagenomici\n  * rnaSPAdes – assemblatore de
+    novo di trascrittomi da dati RNA-Seq\n  * truSPAdes – modulo per assemblamento
+    di barcode TruSeq\n  * biosyntheticSPAdes – modulo per assemblamento di cluster
+    di geni\n    per biosintesi con letture a estremità accoppiate\n .\n SPAdes fornisce
+    diversi binari autonomi con un'interfaccia a riga di\n comando relativamente semplice:
+    conteggio di k-meri (spades-kmercounter),\n costruzione di grafi di assemblamento
+    (spades-gbuilder) e allineatore da\n letture lunghe a grafo (spades-gmapper).\n"
   release: sid
   description_md5: d8ff9082fb3dd433b6c561c43ac72ddb
   license: unknown
@@ -87,8 +90,28 @@ descr:
   license: unknown
   blend: debian-med
 - package: spades
-  description: assembleur génomique pour des ensembles de données de « single-cell »
-    et « isolates »
+  description: Genomsamler for single-celle- og isolates-datasæt
+  long_description: " SPAdes - St. Petersburg-genomsamleren er lavet for både isolates-
+    og\n single-celle MDA-bateriesamlinger. Den fungerer med Illumina- eller\n IonTorrent-læsninger
+    og kan tilbyde hybride samlinger, der bruger PacBio-\n og Sangerlæsninger. Du
+    kan også tilbyde yderligere contigs, som vil blive\n brugt som lange læsninger.\n\
+    \ .\n Denne pakke tilbyder de følgende yderligere datakanaler:\n  * metaSPAdes
+    – en datakanal for metagenomiske datasæt\n  * plasmidSPAdes – en datakanal til
+    at udtrække og samle plasmids fra\n    WGS-datasæt\n  * metaplasmidSPAdes – en
+    datakanal til at udtrække og samle plasmids\n    fra metagenomiske datasæt\n \
+    \ * rnaSPAdes – en de novo transkriptom-samler fra RNA-Seq-data\n  * truSPAdes
+    – et modul for TruSeq-stregkodesamling\n  * biosyntheticSPAdes – et modul for
+    biosyntetisk genklyngesamling med\n    paired-end læsninger\n .\n SPAdes tilbyder
+    flere uafhængige binære filer med en relativ simpel kommandolinjegrænseflade:
+    optælling af k-mer (spades-kmercounter), grafkonstruktion over samling (spades-gbuilder)
+    og en lang læsning til grafsammenligning (spades-gmapper).\n"
+  release: sid
+  description_md5: d8ff9082fb3dd433b6c561c43ac72ddb
+  license: unknown
+  blend: debian-med
+- package: spades
+  description: assembleur génomique pour des ensembles de données de 
+    « single-cell » et « isolates »
   long_description: " SPAdes (assembleur de génome de Saint-Pétersbourg) est conçu
     pour à la fois\n les assemblages de MDA bactériens isolés standard et ceux de
     cellule unique.\n Il fonctionne avec les lectures d’Illumina ou IonTorrent et
@@ -107,27 +130,6 @@ descr:
     relativement simple : comptage k-mer (spades-kmercounter),\n construction de graphe
     d’assemblages (spades-gbuilder) et lectures longues\n vers un alignement de graphe
     (spades-gmapper).\n"
-  release: sid
-  description_md5: d8ff9082fb3dd433b6c561c43ac72ddb
-  license: unknown
-  blend: debian-med
-- package: spades
-  description: assemblatore di genomi per singola-cellula e insiemi di dati di isolati
-  long_description: " L'assemblatore di genomi SPAdes - St. Petersburg è pensato per
-    assemblaggi\n di isolati standard e di MDA batterici da singola cellula. Funziona
-    con\n letture Illumina o IonTorrent ed è in grado di fornire assemblati ibridi\n\
-    \ usando letture PacBio e Sanger. Si possono anche fornire contigui\n aggiuntivi
-    che verranno usati come letture lunghe.\n .\n Questo pacchetto fornisce le seguenti
-    catene di elaborazione aggiuntive:\n  * metaSPAdes – catena per insiemi di dati
-    metagenomici\n  * plasmidSPAdes – catena per estrarre e assemblare plasmidi da
-    insiemi\n    di dati WGS\n  * metaplasmidSPAdes – catena per estrarre e assemblare
-    plasmidi da\n    insiemi di dati metagenomici\n  * rnaSPAdes – assemblatore de
-    novo di trascrittomi da dati RNA-Seq\n  * truSPAdes – modulo per assemblamento
-    di barcode TruSeq\n  * biosyntheticSPAdes – modulo per assemblamento di cluster
-    di geni\n    per biosintesi con letture a estremità accoppiate\n .\n SPAdes fornisce
-    diversi binari autonomi con un'interfaccia a riga di\n comando relativamente semplice:
-    conteggio di k-meri (spades-kmercounter),\n costruzione di grafi di assemblamento
-    (spades-gbuilder) e allineatore da\n letture lunghe a grafo (spades-gmapper).\n"
   release: sid
   description_md5: d8ff9082fb3dd433b6c561c43ac72ddb
   license: unknown

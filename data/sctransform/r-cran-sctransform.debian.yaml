@@ -11,27 +11,16 @@ description_md5: 7d96f8664a9a855819d1bbe2d077943c
 registries:
 - entry: OMICS_31041
   name: OMICtools
-- entry: r-sctransform
-  name: conda:conda-forge
 - entry: sctransform
   name: bio.tools
+- entry: r-sctransform
+  name: conda:conda-forge
 popcon:
-- insts: 65
-  olde: 51
+- insts: 66
+  olde: 52
   recent: 9
   vote: 5
 descr:
-- package: r-cran-sctransform
-  description: Variance Stabilizing Transformations for Single Cell UMI-data
-  long_description: " En normaliseringsmetode for single-cell UMI-antalsdata via en
-    variance stabilizing-transformation. Transformationen er baseret på en negativ
-    binomial regressionsmodel med legaliserede parametre. Som del af den samme regressionsramme
-    tilbyder denne pakke også funktioner for rettelser i batch og datakorrektion.
-    Se Hafemeister og Satija 2019 <doi:10.1101/576827> for yderligere detaljer.\n"
-  release: sid
-  description_md5: 7d96f8664a9a855819d1bbe2d077943c
-  license: unknown
-  blend: debian-med
 - package: r-cran-sctransform
   description: Variance Stabilizing Transformations for Single Cell UMI Data
   long_description: " A normalization method for single-cell UMI count data using
@@ -39,6 +28,17 @@ descr:
     binomial regression model with regularized parameters. As part of the\n same regression
     framework, this package also provides functions for\n batch correction, and data
     correction. See Hafemeister and Satija 2019\n <doi:10.1101/576827> for more details.\n"
+  release: sid
+  description_md5: 7d96f8664a9a855819d1bbe2d077943c
+  license: unknown
+  blend: debian-med
+- package: r-cran-sctransform
+  description: Variance Stabilizing Transformations for Single Cell UMI-data
+  long_description: " En normaliseringsmetode for single-cell UMI-antalsdata via en
+    variance stabilizing-transformation. Transformationen er baseret på en negativ
+    binomial regressionsmodel med legaliserede parametre. Som del af den samme regressionsramme
+    tilbyder denne pakke også funktioner for rettelser i batch og datakorrektion.
+    Se Hafemeister og Satija 2019 <doi:10.1101/576827> for yderligere detaljer.\n"
   release: sid
   description_md5: 7d96f8664a9a855819d1bbe2d077943c
   license: unknown

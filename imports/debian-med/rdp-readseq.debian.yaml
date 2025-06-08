@@ -12,9 +12,10 @@ registries:
 - entry: rdp-readseq
   name: conda:bioconda
 popcon:
-- insts: 47
-  olde: 38
-  recent: 9
+- insts: 45
+  olde: 36
+  recent: 8
+  vote: 1
 descr:
 - package: rdp-readseq
   description: RDPs Bibliothek zum Sequenzlesen und -schreiben
@@ -29,23 +30,23 @@ descr:
   license: unknown
   blend: debian-med
 - package: rdp-readseq
-  description: Ribosomal Database Project (RDP) sequence reading and writing
-  long_description: " Rdp-readseq is a simple user interface to the sequence reading
-    library\n developed by the Ribosomal Database Project.  It can handle genbank,
-    embl,\n fasta, fastq, sff and sto files.  It can read from files or streams, and\n\
-    \ can handle indexing files.\n .\n The package also contains the ReadSeq Java
-    library which is used by other\n RDP tools.\n"
-  release: sid
-  description_md5: 124226f81a5ccc2095bb45c30b38c16c
-  license: unknown
-  blend: debian-med
-- package: rdp-readseq
   description: lettura e scrittura di sequenze RDP (Ribosomal Database Project)
   long_description: " Rdp-readseq è una semplice interfaccia utente per la libreria
     di lettura di\n sequenze sviluppata dal Ribosomal Database Project. Può gestire
     file\n genbank, embl, fasta, fastq, sff e sto. Può leggere da file o flussi e
     può\n gestire file di indicizzazione.\n .\n Il pacchetto contiene anche la libreria
     Java ReadSeq che è utilizzata da\n altri strumenti RDP.\n"
+  release: sid
+  description_md5: 124226f81a5ccc2095bb45c30b38c16c
+  license: unknown
+  blend: debian-med
+- package: rdp-readseq
+  description: Ribosomal Database Project (RDP) sequence reading and writing
+  long_description: " Rdp-readseq is a simple user interface to the sequence reading
+    library\n developed by the Ribosomal Database Project.  It can handle genbank,
+    embl,\n fasta, fastq, sff and sto files.  It can read from files or streams, and\n\
+    \ can handle indexing files.\n .\n The package also contains the ReadSeq Java
+    library which is used by other\n RDP tools.\n"
   release: sid
   description_md5: 124226f81a5ccc2095bb45c30b38c16c
   license: unknown

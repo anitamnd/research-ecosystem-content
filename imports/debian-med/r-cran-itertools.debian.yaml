@@ -9,16 +9,17 @@ license: unknown
 blend: debian-med
 description_md5: ad64fb6630d4f29cc696e9e9cc2c7907
 popcon:
-- insts: 286
-  olde: 214
-  recent: 27
-  vote: 45
+- insts: 298
+  nofiles: 1
+  olde: 223
+  recent: 30
+  vote: 44
 descr:
 - package: r-cran-itertools
-  description: Iterator-værktøjer
-  long_description: " Diverse værktøjer til at oprette iteratorer, mange mønsteropsat
-    efter funktioner i Pythonmodulet itertools og andre mønsteropsat efter funktionerne
-    i pakken snow.\n"
+  description: strumenti per iteratori
+  long_description: " Vari strumenti per creare iteratori, molti creati prendendo
+    a modello funzioni\n nel modulo itertools di Python, e altri funzioni nel pacchetto
+    \"snow\".\n"
   release: sid
   description_md5: ad64fb6630d4f29cc696e9e9cc2c7907
   license: unknown
@@ -33,19 +34,19 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-itertools
-  description: outils pour itérateurs
-  long_description: " Il s’agit d’outils divers pour créer des itérateurs, beaucoup
-    basés sur\n des fonctions présentes dans le module itertools de Python et d’autres\n\
-    \ basés sur des fonctions présentes dans le paquet « snow ».\n"
+  description: Iterator-værktøjer
+  long_description: " Diverse værktøjer til at oprette iteratorer, mange mønsteropsat
+    efter funktioner i Pythonmodulet itertools og andre mønsteropsat efter funktionerne
+    i pakken snow.\n"
   release: sid
   description_md5: ad64fb6630d4f29cc696e9e9cc2c7907
   license: unknown
   blend: debian-med
 - package: r-cran-itertools
-  description: strumenti per iteratori
-  long_description: " Vari strumenti per creare iteratori, molti creati prendendo
-    a modello funzioni\n nel modulo itertools di Python, e altri funzioni nel pacchetto
-    \"snow\".\n"
+  description: outils pour itérateurs
+  long_description: " Il s’agit d’outils divers pour créer des itérateurs, beaucoup
+    basés sur\n des fonctions présentes dans le module itertools de Python et d’autres\n\
+    \ basés sur des fonctions présentes dans le paquet « snow ».\n"
   release: sid
   description_md5: ad64fb6630d4f29cc696e9e9cc2c7907
   license: unknown

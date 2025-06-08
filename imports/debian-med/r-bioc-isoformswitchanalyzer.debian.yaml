@@ -9,13 +9,14 @@ license: unknown
 blend: debian-med
 description_md5: 6e336d084c273bc54872e6621a01f875
 registries:
-- entry: bioconductor-isoformswitchanalyzer
-  name: conda:bioconda
 - entry: isoformswitchanalyzer
   name: bio.tools
+- entry: bioconductor-isoformswitchanalyzer
+  name: conda:bioconda
 popcon:
-- insts: 11
-  olde: 11
+- insts: 13
+  olde: 12
+  recent: 1
 descr:
 - package: r-bioc-isoformswitchanalyzer
   description: Identify, Annotate and Visualize Alternative Splicing and

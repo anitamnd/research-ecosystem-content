@@ -11,36 +11,40 @@ description_md5: 20ba6f1e1adc3851b48029310a06b4ed
 registries:
 - entry: OMICS_01287
   name: OMICtools
-- entry: rsem
-  name: bio.tools
 - entry: SCR_013027
   name: SciCrunch
+- entry: rsem
+  name: bio.tools
 - entry: rsem
   name: conda:bioconda
 bib:
 - key: doi
   value: 10.1186/1471-2105-12-323
 popcon:
-- insts: 47
-  olde: 37
-  recent: 9
+- insts: 44
+  olde: 36
+  recent: 7
   vote: 1
 descr:
 - package: rsem
-  description: RNA-Seq ved Expectation-Maximization
-  long_description: " RSEM er en programpakke til at estimere gen- og isoform-udtryksniveauer
-    fra RNA-Seq-data. Pakken RSEM tilbyder en brugervenlig grænseflade, understøtter
-    tråde for parallel beregning af EM-algoritmen, single-end og paired-end læste
-    data, kvalitetsbedømmelser, variabel-længde læsninger og RSPD-estimering. Derudover
-    tilbydes posterior gennemsnit og 95 % troværdighedsintervalestimater for udtryksniveauer.
-    For visualisering kan oprettes BAM- og Wigglefiler i både transcript-coordinate
-    og genomic-coordinate. Genomic-coordinate-filer kan visualiseres af både UCSC-genombrowser
-    og Broad Institutes Integrative Genomics Viewer (IGV). Transcript-coordinate-filer
-    kan visualiseres af IGV. RSEM har også sine egne skripter til at oprette transkript-læsningsdybdeplot
-    i pdf-format. Den unikke funktion af RSEM er at læsningsdybdeplot kan stables,
-    med læsningsdybde bidrage til unikke læsninger vist i sort og bidrag til multi-læsninger
-    vist i rødt. Derudover kan modeller lært fra data også visualiseres. Sidst men
-    ikke mindst kan RSEM indeholde en simulator.\n"
+  description: RNA-Seq tramite Expectation-Maximization
+  long_description: " RSEM è un pacchetto software per stimare i livelli di espressione
+    di\n isoforme e geni da dati RNA-Seq. Il pacchetto RSEM fornisce un'interfaccia\n\
+    \ facile da usare, gestisce i thread per il calcolo parallelo dell'algoritmo\n\
+    \ EM, dati di lettura a terminali accoppiati e singoli, punteggi di qualità,\n\
+    \ letture a lunghezza variabile e stima RSPD. Inoltre, fornisce stime per la\n\
+    \ media a posteriori e per l'intervallo di confidenza al 95% per i livelli di\n\
+    \ espressione. Per la visualizzazione, può generare file BAM e Wiggle sia in\n\
+    \ coordinate dei trascritti sia in coordinate genomiche. I file in coordinate\n\
+    \ genomiche possono essere visualizzati sia dal navigatore UCSC Genome sia\n dall'Integrative
+    Genomics Viewer (IGV) del Broad Institute. I file in\n coordinate dei trascritti
+    possono essere visualizzati da IGV. RSEM ha anche\n i propri script per generare
+    grafici della profondità di lettura dei\n trascritti in formato PDF. La funzionalità
+    che distingue RSEM è che i\n grafici della profondità di lettura possono essere
+    sovrapposti, con la\n profondità di lettura attribuibile a letture uniche mostrata
+    in nero e\n quella attribuibile a letture multiple mostrata in rosso.\n Inoltre,
+    i modelli dedotti dai dati possono anche essere visualizzati.\n Ultimo, ma non
+    meno importante, RSEM contiene un simulatore.\n"
   release: sid
   description_md5: 20ba6f1e1adc3851b48029310a06b4ed
   license: unknown
@@ -66,24 +70,20 @@ descr:
   license: unknown
   blend: debian-med
 - package: rsem
-  description: RNA-Seq tramite Expectation-Maximization
-  long_description: " RSEM è un pacchetto software per stimare i livelli di espressione
-    di\n isoforme e geni da dati RNA-Seq. Il pacchetto RSEM fornisce un'interfaccia\n\
-    \ facile da usare, gestisce i thread per il calcolo parallelo dell'algoritmo\n\
-    \ EM, dati di lettura a terminali accoppiati e singoli, punteggi di qualità,\n\
-    \ letture a lunghezza variabile e stima RSPD. Inoltre, fornisce stime per la\n\
-    \ media a posteriori e per l'intervallo di confidenza al 95% per i livelli di\n\
-    \ espressione. Per la visualizzazione, può generare file BAM e Wiggle sia in\n\
-    \ coordinate dei trascritti sia in coordinate genomiche. I file in coordinate\n\
-    \ genomiche possono essere visualizzati sia dal navigatore UCSC Genome sia\n dall'Integrative
-    Genomics Viewer (IGV) del Broad Institute. I file in\n coordinate dei trascritti
-    possono essere visualizzati da IGV. RSEM ha anche\n i propri script per generare
-    grafici della profondità di lettura dei\n trascritti in formato PDF. La funzionalità
-    che distingue RSEM è che i\n grafici della profondità di lettura possono essere
-    sovrapposti, con la\n profondità di lettura attribuibile a letture uniche mostrata
-    in nero e\n quella attribuibile a letture multiple mostrata in rosso.\n Inoltre,
-    i modelli dedotti dai dati possono anche essere visualizzati.\n Ultimo, ma non
-    meno importante, RSEM contiene un simulatore.\n"
+  description: RNA-Seq ved Expectation-Maximization
+  long_description: " RSEM er en programpakke til at estimere gen- og isoform-udtryksniveauer
+    fra RNA-Seq-data. Pakken RSEM tilbyder en brugervenlig grænseflade, understøtter
+    tråde for parallel beregning af EM-algoritmen, single-end og paired-end læste
+    data, kvalitetsbedømmelser, variabel-længde læsninger og RSPD-estimering. Derudover
+    tilbydes posterior gennemsnit og 95 % troværdighedsintervalestimater for udtryksniveauer.
+    For visualisering kan oprettes BAM- og Wigglefiler i både transcript-coordinate
+    og genomic-coordinate. Genomic-coordinate-filer kan visualiseres af både UCSC-genombrowser
+    og Broad Institutes Integrative Genomics Viewer (IGV). Transcript-coordinate-filer
+    kan visualiseres af IGV. RSEM har også sine egne skripter til at oprette transkript-læsningsdybdeplot
+    i pdf-format. Den unikke funktion af RSEM er at læsningsdybdeplot kan stables,
+    med læsningsdybde bidrage til unikke læsninger vist i sort og bidrag til multi-læsninger
+    vist i rødt. Derudover kan modeller lært fra data også visualiseres. Sidst men
+    ikke mindst kan RSEM indeholde en simulator.\n"
   release: sid
   description_md5: 20ba6f1e1adc3851b48029310a06b4ed
   license: unknown

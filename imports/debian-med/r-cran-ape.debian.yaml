@@ -23,25 +23,28 @@ bib:
   rank: 8
   value: 10.1093/bioinformatics/bts184
 popcon:
-- insts: 506
-  olde: 393
-  recent: 40
-  vote: 73
+- insts: 518
+  nofiles: 1
+  olde: 402
+  recent: 41
+  vote: 74
 descr:
 - package: r-cran-ape
-  description: GNU R-pakke for Analyses of Phylogenetics and Evolution
-  long_description: " Denne pakke tilbyder funktioner til at læse, skrive, plotte
-    og manipulere\n fylogenetiske træer, analysere komparative data i en fylogenetisk
-    ramme,\n tegnanalyser for forfædre, analyser af diversificering og makroevolution,\n\
-    \ beregne afstande fra DNA-sekvenser, læse og skrive nukleotidsekvenser samt\n\
-    \ import fra BioConductor samt flere værktøjer såsom Mantels test,\n generaliserede
-    himmellinjeplot, grafisk undersøgelse af fylogenetiske data\n (alex, trex, kronoviz),
-    estimering af absolutte evolutionære hastigheder og\n ur-lignende træer med ikkesamtidige
-    sekvenser, oversætte DNA til\n AA-sekvenser og anslå sekvenssammenligninger. Fylogeniestimering
-    kan\n udføres med metoderne NJ, BIONJ, ME, MVR, SDM og triangle og flere metoder\n\
-    \ håndterer ufuldstændige afstandsmatricer (NJ*, BIONJ*, MVR* og den\n tilsvarende
-    trianglemetode). Nogle funktioner kalder eksterne programmer\n (PhyML, Clustal,
-    T-Coffee, Muscle) hvis resultater returneres til R.\n"
+  description: pacchetto GNU R per analisi su filogenesi ed evoluzione
+  long_description: " Questo pacchetto fornisce funzioni per leggere, scrivere, disegnare
+    e\n manipolare alberi filogenetici, analisi di dati comparativi in\n un'infrastruttura
+    filogenetica, analisi di caratteri ancestrali, analisi di\n diversificazione e
+    macroevoluzione, calcoli di distanze da sequenze di DNA,\n lettura e scrittura
+    di sequenze nucleotidiche oltre all'importazione da\n BioConductor e svariati
+    strumenti come il test di Mantel, grafici skyline\n generalizzati, esplorazioni
+    grafiche di dati filogenetici (alex, trex,\n kronoviz), stime di tassi evolutivi
+    assoluti e alberi in stile orologio\n usando lunghezze di percorsi medi e verosimiglianza
+    con penalità,\n traduzione di DNA in sequenze di AA e valutazione di allineamenti
+    di\n sequenze. Le stime filogenetiche possono essere fatte con i metodi NJ,\n\
+    \ BIONJ, ME, MVR, SDM e triangolare e svariati metodi gestiscono matrici di\n\
+    \ distanze non complete (NJ*, BIONJ*, MVR* e il corrispondente metodo\n triangolare).
+    Alcune funzioni chiamano applicazioni esterne (PhyML,\n Clustal, T-Coffee, Muscle)
+    i cui risultati vengono restituiti ad R.\n"
   release: sid
   description_md5: 166447854d6bd83748ad21a28b263aaa
   license: unknown
@@ -66,6 +69,24 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-ape
+  description: GNU R-pakke for Analyses of Phylogenetics and Evolution
+  long_description: " Denne pakke tilbyder funktioner til at læse, skrive, plotte
+    og manipulere\n fylogenetiske træer, analysere komparative data i en fylogenetisk
+    ramme,\n tegnanalyser for forfædre, analyser af diversificering og makroevolution,\n\
+    \ beregne afstande fra DNA-sekvenser, læse og skrive nukleotidsekvenser samt\n\
+    \ import fra BioConductor samt flere værktøjer såsom Mantels test,\n generaliserede
+    himmellinjeplot, grafisk undersøgelse af fylogenetiske data\n (alex, trex, kronoviz),
+    estimering af absolutte evolutionære hastigheder og\n ur-lignende træer med ikkesamtidige
+    sekvenser, oversætte DNA til\n AA-sekvenser og anslå sekvenssammenligninger. Fylogeniestimering
+    kan\n udføres med metoderne NJ, BIONJ, ME, MVR, SDM og triangle og flere metoder\n\
+    \ håndterer ufuldstændige afstandsmatricer (NJ*, BIONJ*, MVR* og den\n tilsvarende
+    trianglemetode). Nogle funktioner kalder eksterne programmer\n (PhyML, Clustal,
+    T-Coffee, Muscle) hvis resultater returneres til R.\n"
+  release: sid
+  description_md5: 166447854d6bd83748ad21a28b263aaa
+  license: unknown
+  blend: debian-med
+- package: r-cran-ape
   description: paquet de GNU R pour l’analyse de phylogénie et d’évolution
   long_description: " Ce paquet fournit des fonctions pour lire, écrire, tracer et
     manipuler des\n arbres phylogénétiques, des analyses de données comparatives dans
@@ -84,26 +105,6 @@ descr:
     \ de distance (NJ*, BIONJ*, MVR* et la « méthode du triangle »\n correspondante.
     Quelques fonctions appellent des applications externes\n (PhyML, Clustal, T-Coffee,
     Muscle) dent les résultats sont renvoyés\n dans R.\n"
-  release: sid
-  description_md5: 166447854d6bd83748ad21a28b263aaa
-  license: unknown
-  blend: debian-med
-- package: r-cran-ape
-  description: pacchetto GNU R per analisi su filogenesi ed evoluzione
-  long_description: " Questo pacchetto fornisce funzioni per leggere, scrivere, disegnare
-    e\n manipolare alberi filogenetici, analisi di dati comparativi in\n un'infrastruttura
-    filogenetica, analisi di caratteri ancestrali, analisi di\n diversificazione e
-    macroevoluzione, calcoli di distanze da sequenze di DNA,\n lettura e scrittura
-    di sequenze nucleotidiche oltre all'importazione da\n BioConductor e svariati
-    strumenti come il test di Mantel, grafici skyline\n generalizzati, esplorazioni
-    grafiche di dati filogenetici (alex, trex,\n kronoviz), stime di tassi evolutivi
-    assoluti e alberi in stile orologio\n usando lunghezze di percorsi medi e verosimiglianza
-    con penalità,\n traduzione di DNA in sequenze di AA e valutazione di allineamenti
-    di\n sequenze. Le stime filogenetiche possono essere fatte con i metodi NJ,\n\
-    \ BIONJ, ME, MVR, SDM e triangolare e svariati metodi gestiscono matrici di\n\
-    \ distanze non complete (NJ*, BIONJ*, MVR* e il corrispondente metodo\n triangolare).
-    Alcune funzioni chiamano applicazioni esterne (PhyML,\n Clustal, T-Coffee, Muscle)
-    i cui risultati vengono restituiti ad R.\n"
   release: sid
   description_md5: 166447854d6bd83748ad21a28b263aaa
   license: unknown

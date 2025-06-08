@@ -15,21 +15,10 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btq249
 popcon:
-- insts: 35
-  olde: 28
+- insts: 33
+  olde: 26
   recent: 7
 descr:
-- package: psortb
-  description: Forudsigelsesværktøj for lokalisering af bakterier
-  long_description: " PSORTb aktiver forudsigelse af bakteriel protein subcellulær
-    lokalisering (SCL) og tilbyder en hurtig og billig metode til at få indsigt i
-    proteinfunktion, verifikation af eksperimenter, annotation af sekventerede bakteriegenomer,
-    registrering af potentielle celleoverflade/udskilt stof-mål samt identifikation
-    af biomarkører for mikrober.\n"
-  release: sid
-  description_md5: c4c3c9336dc64d2e6c762b3285d6c6be
-  license: unknown
-  blend: debian-med
 - package: psortb
   description: bacterial localization prediction tool
   long_description: " PSORTb enables prediction of bacterial protein subcellular localization\n\
@@ -37,6 +26,17 @@ descr:
     protein function, verifying experimental results, annotating newly\n sequenced
     bacterial genomes, detecting potential cell surface/secreted\n drug targets, as
     well as identifying biomarkers for microbes.\n"
+  release: sid
+  description_md5: c4c3c9336dc64d2e6c762b3285d6c6be
+  license: unknown
+  blend: debian-med
+- package: psortb
+  description: Forudsigelsesværktøj for lokalisering af bakterier
+  long_description: " PSORTb aktiver forudsigelse af bakteriel protein subcellulær
+    lokalisering (SCL) og tilbyder en hurtig og billig metode til at få indsigt i
+    proteinfunktion, verifikation af eksperimenter, annotation af sekventerede bakteriegenomer,
+    registrering af potentielle celleoverflade/udskilt stof-mål samt identifikation
+    af biomarkører for mikrober.\n"
   release: sid
   description_md5: c4c3c9336dc64d2e6c762b3285d6c6be
   license: unknown

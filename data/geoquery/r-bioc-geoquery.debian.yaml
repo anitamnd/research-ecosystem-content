@@ -9,24 +9,24 @@ license: unknown
 blend: debian-med
 description_md5: 952355a18eb44e818e0bf24162ae78a1
 registries:
-- entry: bioconductor-geoquery
-  name: conda:bioconda
 - entry: OMICS_01972
   name: OMICtools
 - entry: geoquery
   name: bio.tools
+- entry: bioconductor-geoquery
+  name: conda:bioconda
 popcon:
-- insts: 134
-  olde: 121
-  recent: 8
+- insts: 132
+  olde: 117
+  recent: 10
   vote: 5
 descr:
 - package: r-bioc-geoquery
-  description: Hent data fra NCBI Gene Expression Omnibus (GEO)
-  long_description: " NCBI Gene Expression Omnibus (GEO) er et offentligt arkiv med
-    microarray-data. Givet den rige og varierede natur i denne ressource, er det kun
-    naturligt at ønske at anvende BioConductor-værktøjer på disse data. GEOquery er
-    broen mellem GEO og BioConductor.\n"
+  description: ottiene dati da Gene Expression Omnibus (GEO) dell'NCBI
+  long_description: " Il Gene Expression Omnibus (GEO) dell'NCBI è un repository pubblico
+    di dati\n su microarray. Data la natura ricca e variegata di questa risorsa, risulta\n\
+    \ naturale voler utilizzare strumenti BioConductor su questi dati. GEOquery è\n\
+    \ il ponte tra GEO e BioConductor.\n"
   release: sid
   description_md5: 952355a18eb44e818e0bf24162ae78a1
   license: unknown
@@ -42,11 +42,11 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-bioc-geoquery
-  description: ottiene dati da Gene Expression Omnibus (GEO) dell'NCBI
-  long_description: " Il Gene Expression Omnibus (GEO) dell'NCBI è un repository pubblico
-    di dati\n su microarray. Data la natura ricca e variegata di questa risorsa, risulta\n\
-    \ naturale voler utilizzare strumenti BioConductor su questi dati. GEOquery è\n\
-    \ il ponte tra GEO e BioConductor.\n"
+  description: Hent data fra NCBI Gene Expression Omnibus (GEO)
+  long_description: " NCBI Gene Expression Omnibus (GEO) er et offentligt arkiv med
+    microarray-data. Givet den rige og varierede natur i denne ressource, er det kun
+    naturligt at ønske at anvende BioConductor-værktøjer på disse data. GEOquery er
+    broen mellem GEO og BioConductor.\n"
   release: sid
   description_md5: 952355a18eb44e818e0bf24162ae78a1
   license: unknown

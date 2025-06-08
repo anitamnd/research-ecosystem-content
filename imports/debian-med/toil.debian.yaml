@@ -17,18 +17,19 @@ bib:
 - key: doi
   value: 10.1038/nbt.3772
 popcon:
-- insts: 61
-  olde: 39
+- insts: 60
+  olde: 38
   recent: 21
   vote: 1
 descr:
 - package: toil
-  description: Arbejdsgangsmotor for flere platforme
-  long_description: " Toil er en skalerbar, effektiv og nem at anvende arbejdsgangsmotor
-    i\n ren Python. Den fungerer med flere etablerede belastningsudjævnere såsom\n\
-    \ Slurm eller Sun Grid Engine. Toil er også kompatibel med Common Workflow\n Language
-    (CWL) via grænsefladen »toil-cwl-runner«, som denne pakke gør\n tilgængelig via
-    Debian alternativess-systemet under aliasset »cwl-\n runner«.\n"
+  description: motore per flusso di lavoro multipiattaforma
+  long_description: " Toil è un motore per flusso di lavoro in Python puro scalabile,
+    efficiente,\n multipiattaforma e facile da usare. Funziona con svariati bilanciatori
+    del\n carico di comune utilizzo, come Slurm o Sun Grid Engine. Toil è anche\n\
+    \ compatibile con CWL (Common Workflow Language) attraverso l'interfaccia\n \"\
+    toil-cwl-runner\", che questo pacchetto rende disponibile per mezzo del\n sistema
+    delle alternative di Debian sotto l'alias \"cwl-runner\".\n"
   release: sid
   description_md5: be04c7b7e5f339860cab15c0630008b8
   license: unknown
@@ -46,18 +47,6 @@ descr:
   license: unknown
   blend: debian-med
 - package: toil
-  description: motore per flusso di lavoro multipiattaforma
-  long_description: " Toil è un motore per flusso di lavoro in Python puro scalabile,
-    efficiente,\n multipiattaforma e facile da usare. Funziona con svariati bilanciatori
-    del\n carico di comune utilizzo, come Slurm o Sun Grid Engine. Toil è anche\n\
-    \ compatibile con CWL (Common Workflow Language) attraverso l'interfaccia\n \"\
-    toil-cwl-runner\", che questo pacchetto rende disponibile per mezzo del\n sistema
-    delle alternative di Debian sotto l'alias \"cwl-runner\".\n"
-  release: sid
-  description_md5: be04c7b7e5f339860cab15c0630008b8
-  license: unknown
-  blend: debian-med
-- package: toil
   description: Wieloplatformowy silnik przepływu pracy
   long_description: " Toil to skalowalny, wydajny, wieloplatformowy i łatwy w użyciu
     silnik przepływu pracy napisany w czystym Pythonie. Współpracuje z kilkoma\n dobrze
@@ -65,6 +54,17 @@ descr:
     jest również kompatybilny z Common Workflow Language (CWL) poprzez interfejs \"\
     toil-cwl-runner\", który ten pakiet udostępnia za\n pośrednictwem alternatywnego
     systemu Debiana pod aliasem \"cwl-runner\".\n"
+  release: sid
+  description_md5: be04c7b7e5f339860cab15c0630008b8
+  license: unknown
+  blend: debian-med
+- package: toil
+  description: Arbejdsgangsmotor for flere platforme
+  long_description: " Toil er en skalerbar, effektiv og nem at anvende arbejdsgangsmotor
+    i\n ren Python. Den fungerer med flere etablerede belastningsudjævnere såsom\n\
+    \ Slurm eller Sun Grid Engine. Toil er også kompatibel med Common Workflow\n Language
+    (CWL) via grænsefladen »toil-cwl-runner«, som denne pakke gør\n tilgængelig via
+    Debian alternativess-systemet under aliasset »cwl-\n runner«.\n"
   release: sid
   description_md5: be04c7b7e5f339860cab15c0630008b8
   license: unknown

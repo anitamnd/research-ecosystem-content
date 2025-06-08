@@ -9,19 +9,19 @@ license: unknown
 blend: debian-med
 description_md5: 9551e5ebe8c49f9d9485b7f15547f082
 popcon:
-- insts: 24
+- insts: 23
   olde: 16
   recent: 7
-  vote: 1
 descr:
 - package: ruby-bio
-  description: Ruby-værktøjer til beregningsmolekylær biologi
-  long_description: " BioRuby-projektet forsøger at implementere et integreret miljø
-    for Bioinformatik med sproget Ruby. Designfilosofien for BioRuby-biblioteket er
-    KISS (keep it simple, stupid) for at maksimere brugbarhed og effektiviteten for
-    biologer som et dagligt værktøj. Projektet blev startet i Japan og understøttes
-    af Tokyos universitet (Human Genome Center), Kyotos universitet (Bioinformatics
-    Center) og Open Bio Foundation.\n"
+  description: strumenti Ruby per la biologia molecolare computazionale
+  long_description: " Il progetto BioRuby mira ad implementare con il linguaggio Ruby
+    un ambiente\n integrato per la bioinformatica. La filosofia di progettazione della\n\
+    \ libreria BioRuby è KISS (Keep It Simple, Stupid; mantieni le cose semplici,\n\
+    \ stupido) per massimizzare l'usabilità e l'efficienza come strumento\n quotidiano
+    per i biologi. Il progetto è nato in Giappone ed è supportato\n dalla Università
+    di Tokyo (Human Genome Center), dalla Università di Kyoto\n (Bioinformatics Center)
+    e dalla Open Bio Foundation.\n"
   release: sid
   description_md5: 9551e5ebe8c49f9d9485b7f15547f082
   license: unknown
@@ -39,6 +39,18 @@ descr:
   license: unknown
   blend: debian-med
 - package: ruby-bio
+  description: Ruby-værktøjer til beregningsmolekylær biologi
+  long_description: " BioRuby-projektet forsøger at implementere et integreret miljø
+    for Bioinformatik med sproget Ruby. Designfilosofien for BioRuby-biblioteket er
+    KISS (keep it simple, stupid) for at maksimere brugbarhed og effektiviteten for
+    biologer som et dagligt værktøj. Projektet blev startet i Japan og understøttes
+    af Tokyos universitet (Human Genome Center), Kyotos universitet (Bioinformatics
+    Center) og Open Bio Foundation.\n"
+  release: sid
+  description_md5: 9551e5ebe8c49f9d9485b7f15547f082
+  license: unknown
+  blend: debian-med
+- package: ruby-bio
   description: Herramientas de Ruby para biología molecular computacional
   long_description: " El proyecto BioRuby pretende implementar un entorno integrado
     para\n bioinformáticos mediante el lenguaje Ruby. La filosofía de diseño de la\n\
@@ -47,19 +59,6 @@ descr:
     biólogos. El proyecto se inició en Japón con el apoyo de la\n Universidad de Tokio
     (Centro del Genoma Humano), la Universidad de Kyoto\n (Centro de bioinformática)
     y la Fundación Open Bio.\n"
-  release: sid
-  description_md5: 9551e5ebe8c49f9d9485b7f15547f082
-  license: unknown
-  blend: debian-med
-- package: ruby-bio
-  description: strumenti Ruby per la biologia molecolare computazionale
-  long_description: " Il progetto BioRuby mira ad implementare con il linguaggio Ruby
-    un ambiente\n integrato per la bioinformatica. La filosofia di progettazione della\n\
-    \ libreria BioRuby è KISS (Keep It Simple, Stupid; mantieni le cose semplici,\n\
-    \ stupido) per massimizzare l'usabilità e l'efficienza come strumento\n quotidiano
-    per i biologi. Il progetto è nato in Giappone ed è supportato\n dalla Università
-    di Tokyo (Human Genome Center), dalla Università di Kyoto\n (Bioinformatics Center)
-    e dalla Open Bio Foundation.\n"
   release: sid
   description_md5: 9551e5ebe8c49f9d9485b7f15547f082
   license: unknown

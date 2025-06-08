@@ -9,20 +9,22 @@ license: unknown
 blend: debian-med
 description_md5: a91b83840b37399fbc50ff48f14f7352
 registries:
-- entry: r-rentrez
-  name: conda:conda-forge
 - entry: OMICS_23803
   name: OMICtools
+- entry: r-rentrez
+  name: conda:conda-forge
 popcon:
-- insts: 272
-  olde: 226
-  recent: 11
-  vote: 35
+- insts: 279
+  nofiles: 1
+  olde: 232
+  recent: 13
+  vote: 33
 descr:
 - package: r-cran-dynamictreecut
-  description: Metoder til registrering af klynger i Hierarchical Clustering
-  long_description: " Dendrogrammer indeholder metoder for registrering af klynger
-    i\n hierarkiske klyngedendrogrammer.\n"
+  description: méthodes pour la détection de regroupements pour le regroupement 
+    hiérarchique
+  long_description: " Dendrograms fournit des méthodes pour la détection de regroupements
+    dans des\n dendrogrammes de regroupement hiérarchique.\n"
   release: sid
   description_md5: a91b83840b37399fbc50ff48f14f7352
   license: unknown
@@ -36,9 +38,9 @@ descr:
   license: unknown
   blend: debian-med
 - package: r-cran-dynamictreecut
-  description: méthodes pour la détection de regroupements pour le regroupement hiérarchique
-  long_description: " Dendrograms fournit des méthodes pour la détection de regroupements
-    dans des\n dendrogrammes de regroupement hiérarchique.\n"
+  description: Metoder til registrering af klynger i Hierarchical Clustering
+  long_description: " Dendrogrammer indeholder metoder for registrering af klynger
+    i\n hierarkiske klyngedendrogrammer.\n"
   release: sid
   description_md5: a91b83840b37399fbc50ff48f14f7352
   license: unknown

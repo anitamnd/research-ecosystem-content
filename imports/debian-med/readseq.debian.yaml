@@ -29,34 +29,16 @@ tags:
 - tag: works-with-format::plaintext
 - tag: works-with::TODO
 popcon:
-- insts: 70
-  olde: 61
-  recent: 8
+- insts: 69
+  olde: 59
+  recent: 9
   vote: 1
 descr:
-- package: readseq
-  description: Konvertering mellem sekvensformater
-  long_description: " Læser og skriver kerne/proteinsekvenser i forskellige\n formater.
-    Datafiler kan have flere sekvenser.\n Readseq er specielt nyttig, fordi den automatisk
-    finder\n mange sekvensformater og konverterer imellem dem.\n"
-  release: sid
-  description_md5: ea5b579d2401da971810ba00ea4b7cc8
-  license: unknown
-  blend: debian-med
 - package: readseq
   description: Umwandlung von Sequenzformaten
   long_description: " Liest und schreibt Zellkern-/Protein-Sequenzen in diversen Formaten.\n\
     \ Datendateien können mehrere Sequenzen enthalten. Readseq ist besonders\n nützlich,
     weil es automatisch viele Sequenzformate erkennt und zwischen\n diesen umwandelt.\n"
-  release: sid
-  description_md5: ea5b579d2401da971810ba00ea4b7cc8
-  license: unknown
-  blend: debian-med
-- package: readseq
-  description: Conversion between sequence formats
-  long_description: " Reads and writes nucleic/protein sequences in various\n formats.
-    Data files may have multiple sequences.\n Readseq is particularly useful as it
-    automatically detects many\n sequence formats, and converts between them.\n"
   release: sid
   description_md5: ea5b579d2401da971810ba00ea4b7cc8
   license: unknown
@@ -81,11 +63,29 @@ descr:
   license: unknown
   blend: debian-med
 - package: readseq
+  description: Conversion between sequence formats
+  long_description: " Reads and writes nucleic/protein sequences in various\n formats.
+    Data files may have multiple sequences.\n Readseq is particularly useful as it
+    automatically detects many\n sequence formats, and converts between them.\n"
+  release: sid
+  description_md5: ea5b579d2401da971810ba00ea4b7cc8
+  license: unknown
+  blend: debian-med
+- package: readseq
   description: Konwersja między różnymi formatami sekwencji białek
   long_description: " Program odczytuje i zapisuje nukleinowe/proteinowe sekwencje
     w różnych\n formatach. Pliki danych mogą zawierać wiele sekwencji. Readseq jest\n\
     \ szczególnie użyteczny, gdyż automatycznie rozpoznaje wiele formatów\n sekwencji
     i dokonuje konwersji między nimi.\n"
+  release: sid
+  description_md5: ea5b579d2401da971810ba00ea4b7cc8
+  license: unknown
+  blend: debian-med
+- package: readseq
+  description: Konvertering mellem sekvensformater
+  long_description: " Læser og skriver kerne/proteinsekvenser i forskellige\n formater.
+    Datafiler kan have flere sekvenser.\n Readseq er specielt nyttig, fordi den automatisk
+    finder\n mange sekvensformater og konverterer imellem dem.\n"
   release: sid
   description_md5: ea5b579d2401da971810ba00ea4b7cc8
   license: unknown

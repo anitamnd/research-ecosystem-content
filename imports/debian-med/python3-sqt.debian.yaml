@@ -12,38 +12,11 @@ registries:
 - entry: sqt
   name: conda:bioconda
 popcon:
-- insts: 36
-  olde: 27
-  recent: 8
-  vote: 1
+- insts: 34
+  olde: 26
+  recent: 6
+  vote: 2
 descr:
-- package: python3-sqt
-  description: SeQuencing-værktøjer for biologiske DNA/RNA-data med høj gennemløb
-  long_description: " Sqt er en samling af kommandolinjeværktøjer til arbejdet med
-    sekvensdata med høj gennemløb. Er i konceptet ikke låst til et bestemt sprog,
-    mange sqt-underkommandoer er i øjeblikket implementeret i Python. For dem er en
-    Pythonpakke tilgængelig med funktioner til at læse og skrive FASTA/FASTQ-filer,
-    beregne sammenligninger, kvalitetstilpasning etc.\n .\n De følgende værktøjer
-    tilbydes:\n  * sqt-coverage - beregn per reference-statistik såsom dækning og
-    GC-\n    indhold\n  * sqt-fastqmod - FASTQ-ændringer: forkort, undersæt, omvendt
-    komplement,\n    kvalitetstilpasning\n  * sqt-fastastats - beregn N50, min/maks
-    længde, GC-indhold etc. for en\n    FASTA-fil\n  * sqt-qualityguess - gæt kvalitetskodning
-    for en eller flere FASTA-filer\n  * sqt-globalalign - beregn en global eller semiglobal
-    sammenligning af\n    to strenge\n  * sqt-chars - tæl længden af det første ord
-    på kommandolinjen\n  * sqt-sam-cscq - tilføj CS- og CQ-mærker til en SAM-fil med\n\
-    \    farverumslæsninger\n  * sqt-fastamutate - tilføj erstatninger og indels til
-    sekvenser i en\n    FASTA-fil\n  * sqt-fastaextract - udtræk effektivt en eller
-    flere regioner fra en\n    indekseret FASTA-fil\n  * sqt-translate - erstat tegn
-    i FASTA-filer (som kommandoen »tr«)\n  * sqt-sam-fixn - erstat alle ikke-ACGT-tegn
-    i læsninger i en SAM-fil\n  * sqt-sam-insertsize - gennemsnit og standard and
-    standardafvigelse for\n    paired-end insert-størrelser\n  * sqt-sam-set-op -
-    Set-operationer (union, intersection, ...) på\n    SAM/BAM-filer\n  * sqt-bam-eof
-    - kontroller for End-Of-File-markeringen i komprimerede\n    BAM-filer\n  * sqt-checkfastqpe
-    - kontroller om to FASTQ-filer indeholder korrekte\n    parrede paired-end data.\n"
-  release: sid
-  description_md5: af37cd01facb2305c25529d7be11e4b3
-  license: unknown
-  blend: debian-med
 - package: python3-sqt
   description: SeQuencing Tools for biological DNA/RNA high-throughput data
   long_description: " sqt is a collection of command-line tools for working with\n\
@@ -67,6 +40,34 @@ descr:
     -- Set operations (union, intersection, ...) on\n    SAM/BAM files.\n  * sqt-bam-eof
     -- Check for the End-Of-File marker in compressed\n    BAM files.\n  * sqt-checkfastqpe
     -- Check whether two FASTQ files contain correctly\n    paired paired-end data.\n"
+  release: sid
+  description_md5: af37cd01facb2305c25529d7be11e4b3
+  license: unknown
+  blend: debian-med
+- package: python3-sqt
+  description: SeQuencing-værktøjer for biologiske DNA/RNA-data med høj 
+    gennemløb
+  long_description: " Sqt er en samling af kommandolinjeværktøjer til arbejdet med
+    sekvensdata med høj gennemløb. Er i konceptet ikke låst til et bestemt sprog,
+    mange sqt-underkommandoer er i øjeblikket implementeret i Python. For dem er en
+    Pythonpakke tilgængelig med funktioner til at læse og skrive FASTA/FASTQ-filer,
+    beregne sammenligninger, kvalitetstilpasning etc.\n .\n De følgende værktøjer
+    tilbydes:\n  * sqt-coverage - beregn per reference-statistik såsom dækning og
+    GC-\n    indhold\n  * sqt-fastqmod - FASTQ-ændringer: forkort, undersæt, omvendt
+    komplement,\n    kvalitetstilpasning\n  * sqt-fastastats - beregn N50, min/maks
+    længde, GC-indhold etc. for en\n    FASTA-fil\n  * sqt-qualityguess - gæt kvalitetskodning
+    for en eller flere FASTA-filer\n  * sqt-globalalign - beregn en global eller semiglobal
+    sammenligning af\n    to strenge\n  * sqt-chars - tæl længden af det første ord
+    på kommandolinjen\n  * sqt-sam-cscq - tilføj CS- og CQ-mærker til en SAM-fil med\n\
+    \    farverumslæsninger\n  * sqt-fastamutate - tilføj erstatninger og indels til
+    sekvenser i en\n    FASTA-fil\n  * sqt-fastaextract - udtræk effektivt en eller
+    flere regioner fra en\n    indekseret FASTA-fil\n  * sqt-translate - erstat tegn
+    i FASTA-filer (som kommandoen »tr«)\n  * sqt-sam-fixn - erstat alle ikke-ACGT-tegn
+    i læsninger i en SAM-fil\n  * sqt-sam-insertsize - gennemsnit og standard and
+    standardafvigelse for\n    paired-end insert-størrelser\n  * sqt-sam-set-op -
+    Set-operationer (union, intersection, ...) på\n    SAM/BAM-filer\n  * sqt-bam-eof
+    - kontroller for End-Of-File-markeringen i komprimerede\n    BAM-filer\n  * sqt-checkfastqpe
+    - kontroller om to FASTQ-filer indeholder korrekte\n    parrede paired-end data.\n"
   release: sid
   description_md5: af37cd01facb2305c25529d7be11e4b3
   license: unknown

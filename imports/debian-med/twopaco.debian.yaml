@@ -15,18 +15,19 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btw609
 popcon:
-- insts: 34
-  olde: 27
-  recent: 7
+- insts: 32
+  olde: 26
+  recent: 5
+  vote: 1
 descr:
 - package: twopaco
-  description: Byg den kompakte de Bruijn-graf fra mange fuldstændige genomer
-  long_description: " TwoPaCO er en implementering af algoritmen beskrevet i artiklen:
-    »TwoPaCo: An efficient algorithm to build the compacted de Bruijn graph from many
-    complete genomes«.\n .\n Denne pakke indeholder to programmer:\n .\n  twopaco:
-    værktøj til direkte konstruktion af den komprimerede graf fra flere\n        \
-    \   fuldstændige genomer\n  graphdump: redskab der omdanner resultatet for twopaco
-    til tekstformat\n"
+  description: costruzione del grafo de Bruijn compatto da molti genomi completi
+  long_description: " TwoPaCo è un'implementazione dell'algoritmo descritto nell'articolo\n\
+    \ \"TwoPaCo: An efficient algorithm to build the compacted de Bruijn graph\n from
+    many complete genomes\".\n .\n Questo pacchetto contiene due programmi:\n .\n\
+    \  twopaco: strumento per costruzione diretta del grafo compresso da più\n   \
+    \        genomi completi;\n  graphdump: utilità che trasforma l'output di twopaco
+    in un formato\n             testuale.\n"
   release: sid
   description_md5: 05c6ff7f96df232f40804108d30f5a8d
   license: unknown
@@ -44,13 +45,13 @@ descr:
   license: unknown
   blend: debian-med
 - package: twopaco
-  description: costruzione del grafo de Bruijn compatto da molti genomi completi
-  long_description: " TwoPaCo è un'implementazione dell'algoritmo descritto nell'articolo\n\
-    \ \"TwoPaCo: An efficient algorithm to build the compacted de Bruijn graph\n from
-    many complete genomes\".\n .\n Questo pacchetto contiene due programmi:\n .\n\
-    \  twopaco: strumento per costruzione diretta del grafo compresso da più\n   \
-    \        genomi completi;\n  graphdump: utilità che trasforma l'output di twopaco
-    in un formato\n             testuale.\n"
+  description: Byg den kompakte de Bruijn-graf fra mange fuldstændige genomer
+  long_description: " TwoPaCO er en implementering af algoritmen beskrevet i artiklen:
+    »TwoPaCo: An efficient algorithm to build the compacted de Bruijn graph from many
+    complete genomes«.\n .\n Denne pakke indeholder to programmer:\n .\n  twopaco:
+    værktøj til direkte konstruktion af den komprimerede graf fra flere\n        \
+    \   fuldstændige genomer\n  graphdump: redskab der omdanner resultatet for twopaco
+    til tekstformat\n"
   release: sid
   description_md5: 05c6ff7f96df232f40804108d30f5a8d
   license: unknown

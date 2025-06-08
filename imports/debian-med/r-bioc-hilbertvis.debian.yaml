@@ -9,12 +9,12 @@ license: unknown
 blend: debian-med
 description_md5: ef2bbbd3831fe633c838f37f00806810
 registries:
-- entry: hilbertvis
-  name: bio.tools
 - entry: OMICS_00627
   name: OMICtools
 - entry: SCR_007862
   name: SciCrunch
+- entry: hilbertvis
+  name: bio.tools
 - entry: bioconductor-hilbertvis
   name: conda:bioconda
 bib:
@@ -28,23 +28,10 @@ tags:
 - tag: use::analysing
 popcon:
 - insts: 56
-  olde: 45
-  recent: 9
+  olde: 43
+  recent: 11
   vote: 2
 descr:
-- package: r-bioc-hilbertvis
-  description: GNU R-pakke til at visualisere lange vektordata
-  long_description: " Dette værktøj giver dig mulighed for at vise meget lange datavektorer
-    på en\n pladseffektiv måde, ved at organisere dataene via en 2D-Hilbertkurve.\n\
-    \ Brugeren kan så visuelt bedømme den store skalastruktur og distribution af\n\
-    \ funktioner på samme tid via den rå form og intensiteten for individuelle\n funktioner.\n\
-    \ .\n I bioinformatics er et typisk brugstilfælde ChIP-Chip og ChIP-Seq, eller\n\
-    \ grundlæggende alle slags genomdata, som passende vises som kvantitative\n spor
-    (»wiggle data«) i genombrowsere såsom dem tilbudt af Ensembl eller UCSC.\n"
-  release: sid
-  description_md5: ef2bbbd3831fe633c838f37f00806810
-  license: unknown
-  blend: debian-med
 - package: r-bioc-hilbertvis
   description: GNU-R-Paket zur Visualisierung langer Datenvektoren
   long_description: " Dieses Werkzeug ermöglicht die Anzeige sehr langer Datenvektoren
@@ -55,20 +42,6 @@ descr:
     Anwendungsfall ChIP-Chip und\n ChIP-Seq, oder grundsätzlich alle Arten von genomischen
     Daten, die\n konventionell als quantitative Spur (»wiggle-Daten«) von Genom-Browsern\n\
     \ angezeigt werden, wie sie von Ensembl oder UCSC bereitgestellt werden.\n"
-  release: sid
-  description_md5: ef2bbbd3831fe633c838f37f00806810
-  license: unknown
-  blend: debian-med
-- package: r-bioc-hilbertvis
-  description: GNU R package to visualise long vector data
-  long_description: " This tool allows one to display very long data vectors in a
-    space-efficient\n manner, by organising it along a 2D Hilbert curve. The user
-    can then\n visually judge the large scale structure and distribution of features\n\
-    \ simultaenously with the rough shape and intensity of individual features.\n\
-    \ .\n In bioinformatics, a typical use case is ChIP-Chip and ChIP-Seq,\n or basically
-    all the kinds of genomic data, that are conventionally\n displayed as quantitative
-    track (\"wiggle data\") in genome browsers such\n as those provided by Ensembl
-    or UCSC.\n"
   release: sid
   description_md5: ef2bbbd3831fe633c838f37f00806810
   license: unknown
@@ -99,6 +72,33 @@ descr:
     tutti i generi di dati genomici, che sono convenzionalmente\n visualizzati come
     tracciato quantitativo (\"wiggle data\") in navigatori per\n genoma come quelli
     forniti da Ensembl o UCSC.\n"
+  release: sid
+  description_md5: ef2bbbd3831fe633c838f37f00806810
+  license: unknown
+  blend: debian-med
+- package: r-bioc-hilbertvis
+  description: GNU R package to visualise long vector data
+  long_description: " This tool allows one to display very long data vectors in a
+    space-efficient\n manner, by organising it along a 2D Hilbert curve. The user
+    can then\n visually judge the large scale structure and distribution of features\n\
+    \ simultaenously with the rough shape and intensity of individual features.\n\
+    \ .\n In bioinformatics, a typical use case is ChIP-Chip and ChIP-Seq,\n or basically
+    all the kinds of genomic data, that are conventionally\n displayed as quantitative
+    track (\"wiggle data\") in genome browsers such\n as those provided by Ensembl
+    or UCSC.\n"
+  release: sid
+  description_md5: ef2bbbd3831fe633c838f37f00806810
+  license: unknown
+  blend: debian-med
+- package: r-bioc-hilbertvis
+  description: GNU R-pakke til at visualisere lange vektordata
+  long_description: " Dette værktøj giver dig mulighed for at vise meget lange datavektorer
+    på en\n pladseffektiv måde, ved at organisere dataene via en 2D-Hilbertkurve.\n\
+    \ Brugeren kan så visuelt bedømme den store skalastruktur og distribution af\n\
+    \ funktioner på samme tid via den rå form og intensiteten for individuelle\n funktioner.\n\
+    \ .\n I bioinformatics er et typisk brugstilfælde ChIP-Chip og ChIP-Seq, eller\n\
+    \ grundlæggende alle slags genomdata, som passende vises som kvantitative\n spor
+    (»wiggle data«) i genombrowsere såsom dem tilbudt af Ensembl eller UCSC.\n"
   release: sid
   description_md5: ef2bbbd3831fe633c838f37f00806810
   license: unknown

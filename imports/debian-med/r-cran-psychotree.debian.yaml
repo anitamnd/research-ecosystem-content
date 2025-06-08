@@ -9,25 +9,26 @@ license: unknown
 blend: debian-med
 description_md5: e1c7df461c53929a2d8ff035530ad354
 popcon:
-- insts: 274
-  olde: 199
-  recent: 30
+- insts: 287
+  nofiles: 1
+  olde: 209
+  recent: 32
   vote: 45
 descr:
-- package: r-cran-psychotree
-  description: GNU R-rekursiv partitionering baseret på psykometriske modeller
-  long_description: " Rekursiv partitionering baseret på psykometriske modeller, der
-    anvender den generelle MOB-algoritmer (fra pakken partykit) for at opnå Bradley-Terry-træer,
-    Rasch-træer, bedømmelsesskala og delvise kredittræer og MPT-træer.\n"
-  release: sid
-  description_md5: e1c7df461c53929a2d8ff035530ad354
-  license: unknown
-  blend: debian-med
 - package: r-cran-psychotree
   description: GNU R recursive partitioning based on psychometric models
   long_description: " Recursive partitioning based on psychometric models, employing
     the general\n MOB algorithm (from package partykit) to obtain Bradley-Terry trees,
     Rasch\n trees, rating scale and partial credit trees, and MPT trees.\n"
+  release: sid
+  description_md5: e1c7df461c53929a2d8ff035530ad354
+  license: unknown
+  blend: debian-med
+- package: r-cran-psychotree
+  description: GNU R-rekursiv partitionering baseret på psykometriske modeller
+  long_description: " Rekursiv partitionering baseret på psykometriske modeller, der
+    anvender den generelle MOB-algoritmer (fra pakken partykit) for at opnå Bradley-Terry-træer,
+    Rasch-træer, bedømmelsesskala og delvise kredittræer og MPT-træer.\n"
   release: sid
   description_md5: e1c7df461c53929a2d8ff035530ad354
   license: unknown

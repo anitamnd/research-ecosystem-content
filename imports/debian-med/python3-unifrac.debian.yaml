@@ -15,25 +15,11 @@ bib:
 - key: doi
   value: 10.1038/s41592-018-0187-8
 popcon:
-- insts: 101
-  olde: 89
-  recent: 6
+- insts: 97
+  olde: 86
+  recent: 5
   vote: 6
 descr:
-- package: python3-unifrac
-  description: Højtydende fylogenetisk mangfoldighedsberegninger
-  long_description: " De facto-arkivet for højtydende fylogenetiske mangfoldighedsberegninger.
-    Metoderne i dette arkiv er baseret på en implementering af Strided State UniFrac-algoritmen
-    der er hurtigere, og bruger mindre hukommelse end Fast UniFrac. Strided State
-    UniFrac understøtter Unweighted UniFrac, Weighted UniFrac, Generalized UniFrac,
-    Variance Adjusted UniFrac og meta UniFrac. Dette arkiver indeholder også Stacked
-    Faith (manuskript under forberedelse), en metode til at beregne Faith's PD, der
-    er hurtigere og bruger mindre hukommelse end den Fast UniFrac-baserede referenceimplementering.\n\
-    \ .\n Denne pakke indeholder Python 3-modulet.\n"
-  release: sid
-  description_md5: d968493756bc6c4b0655277bddba48f3
-  license: unknown
-  blend: debian-med
 - package: python3-unifrac
   description: high-performance phylogenetic diversity calculations
   long_description: " The de facto repository for high-performance phylogenetic diversity\n\
@@ -45,6 +31,20 @@ descr:
     for calculating Faith's PD\n that is faster and uses less memory than the Fast
     UniFrac-based\n reference implementation.\n .\n This package contains the Python3
     module.\n"
+  release: sid
+  description_md5: d968493756bc6c4b0655277bddba48f3
+  license: unknown
+  blend: debian-med
+- package: python3-unifrac
+  description: Højtydende fylogenetisk mangfoldighedsberegninger
+  long_description: " De facto-arkivet for højtydende fylogenetiske mangfoldighedsberegninger.
+    Metoderne i dette arkiv er baseret på en implementering af Strided State UniFrac-algoritmen
+    der er hurtigere, og bruger mindre hukommelse end Fast UniFrac. Strided State
+    UniFrac understøtter Unweighted UniFrac, Weighted UniFrac, Generalized UniFrac,
+    Variance Adjusted UniFrac og meta UniFrac. Dette arkiver indeholder også Stacked
+    Faith (manuskript under forberedelse), en metode til at beregne Faith's PD, der
+    er hurtigere og bruger mindre hukommelse end den Fast UniFrac-baserede referenceimplementering.\n\
+    \ .\n Denne pakke indeholder Python 3-modulet.\n"
   release: sid
   description_md5: d968493756bc6c4b0655277bddba48f3
   license: unknown

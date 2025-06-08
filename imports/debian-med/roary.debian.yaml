@@ -17,22 +17,23 @@ bib:
 - key: doi
   value: 10.1093/bioinformatics/btv421
 popcon:
-- insts: 38
-  olde: 30
-  recent: 7
-  vote: 1
+- insts: 36
+  olde: 28
+  recent: 6
+  vote: 2
 descr:
 - package: roary
-  description: Højhastigheds og uafhængig pan-genomdatakanal
-  long_description: " Roary er en højhastigheds og uafhængig pan-genomdatakanal, der
-    bruger\n kommenterede samlinger i GFF3-format (som fremstillet, for eksempel af\n\
-    \ Prokka) og som beregner pan-genomet. Ved hjælp af en stationær pc, kan\n programmet
-    analysere datasæt med tusindvis af prøver, hvilket er\n beregningsmæssigt umuligt
-    med eksisterende metoder, uden at forringe\n kvaliteten af resultaterne. 128 prøver
-    kan analyseres på under 1 time ved\n anvendelse af 1 GB RAM og en enkelt processor.
-    For at udføre denne analyse\n med brug af eksisterende metoder tager det uger
-    og hundredvis af GB RAM.\n Rorri er ikke beregnet til meta-genomforskning eller
-    til at sammenligne\n ekstremt forskelligartede sæt af genomer.\n"
+  description: catena di strumenti autonoma ad alta velocità per pan-genomi
+  long_description: " Roary è una catena di strumenti autonoma ad alta velocità per
+    pan-genomi,\n che accetta assemblati annotati in formato GFF3 (come prodotti,
+    ad esempio,\n da Prokka) e calcola il pan-genoma. Utilizzando un PC desktop standard
+    può\n analizzare insiemi di dati con migliaia di campioni, cosa che è\n impossibile,
+    dal punto di vista del calcolo, con i metodi esistenti senza\n compromettere la
+    qualità dei risultati. 128 campioni possono essere\n analizzati in meno di 1 ora,
+    usando 1 GB di RAM e un processore singolo.\n Per effettuare questa analisi utilizzando
+    metodi esistenti servirebbero\n settimane e centinaia di GB di RAM. Roary non
+    è pensato per la\n meta-genomica o per confrontare insiemi estremamente diversi
+    di genomi.\n"
   release: sid
   description_md5: 6d457fd706202fc2ef292eacf7b46029
   license: unknown
@@ -53,6 +54,21 @@ descr:
   license: unknown
   blend: debian-med
 - package: roary
+  description: Højhastigheds og uafhængig pan-genomdatakanal
+  long_description: " Roary er en højhastigheds og uafhængig pan-genomdatakanal, der
+    bruger\n kommenterede samlinger i GFF3-format (som fremstillet, for eksempel af\n\
+    \ Prokka) og som beregner pan-genomet. Ved hjælp af en stationær pc, kan\n programmet
+    analysere datasæt med tusindvis af prøver, hvilket er\n beregningsmæssigt umuligt
+    med eksisterende metoder, uden at forringe\n kvaliteten af resultaterne. 128 prøver
+    kan analyseres på under 1 time ved\n anvendelse af 1 GB RAM og en enkelt processor.
+    For at udføre denne analyse\n med brug af eksisterende metoder tager det uger
+    og hundredvis af GB RAM.\n Rorri er ikke beregnet til meta-genomforskning eller
+    til at sammenligne\n ekstremt forskelligartede sæt af genomer.\n"
+  release: sid
+  description_md5: 6d457fd706202fc2ef292eacf7b46029
+  license: unknown
+  blend: debian-med
+- package: roary
   description: pipeline de pangénome autonome et très rapide
   long_description: " Roary est un pipeline de pangénome autonome et très rapide,
     prenant des\n assemblages annotés au format GFF3 (comme produits, par exemple,
@@ -65,22 +81,6 @@ descr:
     semaines et demanderait des\n centaines de gigaoctets de RAM. Roary n’est pas
     prévu pour la métagénomique\n ou pour comparer des ensembles extrêmement divers
     de génomes.\n"
-  release: sid
-  description_md5: 6d457fd706202fc2ef292eacf7b46029
-  license: unknown
-  blend: debian-med
-- package: roary
-  description: catena di strumenti autonoma ad alta velocità per pan-genomi
-  long_description: " Roary è una catena di strumenti autonoma ad alta velocità per
-    pan-genomi,\n che accetta assemblati annotati in formato GFF3 (come prodotti,
-    ad esempio,\n da Prokka) e calcola il pan-genoma. Utilizzando un PC desktop standard
-    può\n analizzare insiemi di dati con migliaia di campioni, cosa che è\n impossibile,
-    dal punto di vista del calcolo, con i metodi esistenti senza\n compromettere la
-    qualità dei risultati. 128 campioni possono essere\n analizzati in meno di 1 ora,
-    usando 1 GB di RAM e un processore singolo.\n Per effettuare questa analisi utilizzando
-    metodi esistenti servirebbero\n settimane e centinaia di GB di RAM. Roary non
-    è pensato per la\n meta-genomica o per confrontare insiemi estremamente diversi
-    di genomi.\n"
   release: sid
   description_md5: 6d457fd706202fc2ef292eacf7b46029
   license: unknown
