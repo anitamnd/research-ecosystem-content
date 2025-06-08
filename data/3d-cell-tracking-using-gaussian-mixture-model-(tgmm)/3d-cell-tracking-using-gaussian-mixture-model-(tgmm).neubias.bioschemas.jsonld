@@ -49,13 +49,13 @@
   },
   "http://schema.org/name": "3D cell tracking using Gaussian Mixture Model (TGMM)",
   "http://schema.org/publisher": [
+    "Wan Yinan",
+    "Keller J Philipp",
+    "Myers W Eugene",
+    "Mossing P Daniel",
+    "Lemon William",
     "Amat Fernando",
     "McDole Katie",
-    "Lemon William",
-    "Mossing P Daniel",
-    "Myers W Eugene",
-    "Branson Kristin",
-    "Keller J Philipp",
-    "Wan Yinan"
+    "Branson Kristin"
   ]
 }

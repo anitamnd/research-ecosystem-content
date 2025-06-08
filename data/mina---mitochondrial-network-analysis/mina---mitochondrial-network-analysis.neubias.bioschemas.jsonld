@@ -34,13 +34,13 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
+      "@id": "http://edamontology.org/operation_Image_thresholding"
+    },
+    {
       "@id": "http://edamontology.org/operation_Skeletonization"
     },
     {
       "@id": "http://edamontology.org/operation_3443"
-    },
-    {
-      "@id": "http://edamontology.org/operation_Image_thresholding"
     },
     {
       "@id": "http://edamontology.org/operation_Morphological_operations"
@@ -63,10 +63,10 @@
       "@id": "http://edamontology.org/operation_3443"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_thresholding"
+      "@id": "http://edamontology.org/operation_Morphological_operations"
     },
     {
-      "@id": "http://edamontology.org/operation_Morphological_operations"
+      "@id": "http://edamontology.org/operation_Image_thresholding"
     }
   ],
   "http://schema.org/name": "MiNA - Mitochondrial Network Analysis",

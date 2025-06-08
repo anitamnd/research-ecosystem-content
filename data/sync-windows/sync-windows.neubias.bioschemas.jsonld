@@ -42,10 +42,10 @@
   },
   "http://schema.org/name": "Sync Windows",
   "http://schema.org/publisher": [
-    "Hiner Mark",
-    "Kelly Patrick",
     "Schindelin Johannes",
-    "Walter Joachim"
+    "Walter Joachim",
+    "Kelly Patrick",
+    "Hiner Mark"
   ],
   "http://schema.org/softwareRequirements": {
     "@id": "http://biii.eu/node/38"

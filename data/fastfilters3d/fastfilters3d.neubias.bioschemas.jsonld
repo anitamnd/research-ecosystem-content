@@ -45,10 +45,10 @@
   "http://schema.org/description": "<p>This plugin perform various 3D filters on 8-bits or 16-bits gray-levels stacks :</p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>3D median</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>3D mean</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>3D minimum</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>3D maximum</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>3D maximum local</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>3D tophat (detect bright spots,&nbsp;<em>TH=I-max(min(I))</em>&nbsp;)</p>\r\n\t</li>\r\n</ul>\r\n",
   "http://schema.org/featureList": [
     {
-      "@id": "http://edamontology.org/operation_Object_detection"
+      "@id": "http://edamontology.org/operation_Image_processing"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_processing"
+      "@id": "http://edamontology.org/operation_Object_detection"
     }
   ],
   "http://schema.org/name": "FastFilters3D",

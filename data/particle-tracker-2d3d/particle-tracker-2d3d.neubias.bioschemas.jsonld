@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Particle_tracking"
+      "@id": "http://edamontology.org/operation_Image_tracking"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_tracking"
+      "@id": "http://edamontology.org/operation_Particle_tracking"
     }
   ],
   "http://schema.org/citation": [
@@ -60,8 +60,8 @@
   "http://schema.org/name": "Particle Tracker 2D/3D",
   "http://schema.org/publisher": [
     "Mosaic group",
-    "Janicke Cardinale",
     "Guy Levy",
+    "Janicke Cardinale",
     "Ivo Sbalzarini"
   ],
   "http://schema.org/softwareRequirements": [

@@ -36,10 +36,10 @@
     "@id": "http://edamontology.org/operation_Image_tracking"
   },
   "http://schema.org/citation": [
-    "SLEAP: A deep learning system for multi-animal pose tracking (Nature Methods publication) ",
     {
       "@id": "https://doi.org/10.1038/s41592-022-01495-2"
-    }
+    },
+    "SLEAP: A deep learning system for multi-animal pose tracking (Nature Methods publication) "
   ],
   "http://schema.org/dateCreated": "2023-05-08T07:35:19+00:00",
   "http://schema.org/dateModified": "2023-05-11T11:00:33+00:00",
@@ -50,34 +50,34 @@
   "http://schema.org/license": "The Clear BSD License",
   "http://schema.org/name": "SLEAP",
   "http://schema.org/publisher": [
-    "Ravindranath, Shruthi",
-    "McKenzie-Smith, Grace C.",
-    "Sanes, Dan H.",
-    "Li, Junyu",
-    "Wang, Z. Yan",
-    "Shaevitz, Joshua W.",
-    "Tabris, Nathaniel",
-    "Turner, David M.",
-    "Kocher, Sarah D.",
-    "Mitelut, Catalin C.",
-    "Falkner, Annegret L.",
-    "Kislin, Mikhail",
-    "Castro, Marielisa D. ",
     "Pereira, Talmo D. (orcid.org/0000-0001-9075-8365)",
+    "Ravindranath, Shruthi",
+    "Falkner, Annegret L.",
+    "Mitelut, Catalin C.",
+    "Kocher, Sarah D.",
+    "Tabris, Nathaniel",
     "Normand, Edna",
-    "Matsliah, Arie",
-    "D`uva, John",
+    "Kislin, Mikhail",
+    "Shaevitz, Joshua W.",
     "Deutsch, David S.",
-    "Murthy, Mala",
+    "Wang, Z. Yan",
     "Papadoyanis, Eleni S.",
-    "Wang, Samuel S.-H."
+    "Castro, Marielisa D. ",
+    "Matsliah, Arie",
+    "McKenzie-Smith, Grace C.",
+    "Wang, Samuel S.-H.",
+    "Murthy, Mala",
+    "Sanes, Dan H.",
+    "Turner, David M.",
+    "Li, Junyu",
+    "D`uva, John"
   ],
   "http://schema.org/softwareRequirements": [
     {
-      "@id": "http://biii.eu/node/1288"
+      "@id": "http://biii.eu/node/1201"
     },
     {
-      "@id": "http://biii.eu/node/1201"
+      "@id": "http://biii.eu/node/1288"
     },
     {
       "@id": "http://biii.eu/node/1312"

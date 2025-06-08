@@ -59,8 +59,8 @@
   ],
   "http://schema.org/name": "MoBIE Fiji Viewer",
   "http://schema.org/publisher": [
-    "Pape Constantin",
-    "Tisher Christian"
+    "Tisher Christian",
+    "Pape Constantin"
   ],
   "http://schema.org/softwareRequirements": [
     {

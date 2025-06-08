@@ -43,8 +43,8 @@
   },
   "http://schema.org/name": "THOT",
   "http://schema.org/publisher": [
-    "Briane Vincent",
-    "Kervrann Charles"
+    "Kervrann Charles",
+    "Briane Vincent"
   ],
   "http://schema.org/softwareRequirements": {
     "@id": "http://biii.eu/node/101"

@@ -49,13 +49,13 @@
   },
   "http://schema.org/name": "SGP-dec, A Scaled Gradient Projection method for 2D and 3D images deconvolution",
   "http://schema.org/publisher": [
-    "Boccacci P",
-    "Bertero M",
-    "Vicidomini G",
-    "Zanghirati G",
     "Cavicchioli R",
+    "Vicidomini G",
+    "Zanella R",
+    "Zanghirati G",
+    "Bertero M",
     "Zanni L",
-    "Zanella R"
+    "Boccacci P"
   ],
   "http://schema.org/softwareRequirements": [
     {

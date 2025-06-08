@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Feature_extraction"
+      "@id": "http://edamontology.org/operation_Morphological_operations"
     },
     {
-      "@id": "http://edamontology.org/operation_Morphological_operations"
+      "@id": "http://edamontology.org/operation_Feature_extraction"
     }
   ],
   "http://schema.org/dateCreated": "2016-05-25T20:27:39+00:00",

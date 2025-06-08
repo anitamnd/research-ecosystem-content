@@ -34,22 +34,22 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Image_registration"
+      "@id": "http://edamontology.org/operation_Feature_extraction"
     },
     {
       "@id": "http://edamontology.org/operation_Image_enhancement"
     },
     {
-      "@id": "http://edamontology.org/operation_3443"
-    },
-    {
-      "@id": "http://edamontology.org/operation_Feature_extraction"
+      "@id": "http://edamontology.org/operation_Image_visualisation"
     },
     {
       "@id": "http://edamontology.org/operation_Image_segmentation"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_visualisation"
+      "@id": "http://edamontology.org/operation_3443"
+    },
+    {
+      "@id": "http://edamontology.org/operation_Image_registration"
     }
   ],
   "http://schema.org/citation": [
@@ -66,19 +66,19 @@
       "@id": "http://edamontology.org/operation_Image_segmentation"
     },
     {
+      "@id": "http://edamontology.org/operation_3443"
+    },
+    {
       "@id": "http://edamontology.org/operation_Image_visualisation"
     },
     {
       "@id": "http://edamontology.org/operation_Image_registration"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_enhancement"
-    },
-    {
-      "@id": "http://edamontology.org/operation_3443"
-    },
-    {
       "@id": "http://edamontology.org/operation_Feature_extraction"
+    },
+    {
+      "@id": "http://edamontology.org/operation_Image_enhancement"
     }
   ],
   "http://schema.org/license": "SBIA Contribution and Software License Agreement",

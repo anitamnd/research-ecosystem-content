@@ -34,19 +34,19 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Illumination_correction"
+      "@id": "http://edamontology.org/operation_3443"
     },
     {
       "@id": "http://edamontology.org/operation_2409"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_segmentation"
+      "@id": "http://edamontology.org/operation_Illumination_correction"
     },
     {
       "@id": "http://edamontology.org/operation_0337"
     },
     {
-      "@id": "http://edamontology.org/operation_3443"
+      "@id": "http://edamontology.org/operation_Image_segmentation"
     }
   ],
   "http://schema.org/dateCreated": "2023-04-29T07:48:41+00:00",
@@ -57,26 +57,26 @@
       "@id": "http://edamontology.org/operation_Illumination_correction"
     },
     {
-      "@id": "http://edamontology.org/operation_2409"
+      "@id": "http://edamontology.org/operation_0337"
     },
     {
       "@id": "http://edamontology.org/operation_Image_segmentation"
     },
     {
-      "@id": "http://edamontology.org/operation_0337"
+      "@id": "http://edamontology.org/operation_3443"
     },
     {
-      "@id": "http://edamontology.org/operation_3443"
+      "@id": "http://edamontology.org/operation_2409"
     }
   ],
   "http://schema.org/license": "BSD 3-Clause",
   "http://schema.org/name": "Fractal",
   "http://schema.org/publisher": [
+    "Prisca Liberali",
+    "Jacopo Nespolo",
+    "Gustavo de Medeiros",
     "Marco Franzon",
     "Joel Lüthi",
-    "Tommaso Comparin",
-    "Gustavo de Medeiros",
-    "Jacopo Nespolo",
-    "Prisca Liberali"
+    "Tommaso Comparin"
   ]
 }

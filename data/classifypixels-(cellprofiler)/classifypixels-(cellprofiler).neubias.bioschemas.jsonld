@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_2409"
+      "@id": "http://edamontology.org/operation_Pixel_classification"
     },
     {
-      "@id": "http://edamontology.org/operation_Pixel_classification"
+      "@id": "http://edamontology.org/operation_2409"
     }
   ],
   "http://schema.org/dateCreated": "2013-10-11T13:08:46+00:00",
@@ -54,10 +54,10 @@
   "http://schema.org/name": "ClassifyPixels (CellProfiler)",
   "http://schema.org/softwareRequirements": [
     {
-      "@id": "http://biii.eu/node/88"
+      "@id": "http://biii.eu/node/31"
     },
     {
-      "@id": "http://biii.eu/node/31"
+      "@id": "http://biii.eu/node/88"
     }
   ]
 }
