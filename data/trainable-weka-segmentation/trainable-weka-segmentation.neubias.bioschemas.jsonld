@@ -34,13 +34,13 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
+      "@id": "http://edamontology.org/operation_Pixel_classification"
+    },
+    {
       "@id": "http://edamontology.org/operation_Image_segmentation"
     },
     {
       "@id": "http://edamontology.org/operation_3553"
-    },
-    {
-      "@id": "http://edamontology.org/operation_Pixel_classification"
     }
   ],
   "http://schema.org/citation": [
@@ -66,10 +66,10 @@
   "http://schema.org/license": "GPL",
   "http://schema.org/name": "Trainable Weka Segmentation",
   "http://schema.org/publisher": [
-    "Verena Kaynig",
     "Ignacio Arganda-Carreras",
-    " Johannes Schindelin",
-    "Albert Cardona"
+    "Verena Kaynig",
+    "Albert Cardona",
+    " Johannes Schindelin"
   ],
   "http://schema.org/softwareRequirements": {
     "@id": "http://biii.eu/node/79"

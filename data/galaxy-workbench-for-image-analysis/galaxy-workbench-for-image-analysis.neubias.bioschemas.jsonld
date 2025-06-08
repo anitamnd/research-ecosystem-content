@@ -37,8 +37,8 @@
   "http://schema.org/description": "<p>Galaxy instance with tools for Image analyses shipped in a Docker container.</p>\r\n",
   "http://schema.org/name": "Galaxy Workbench for Image Analysis",
   "http://schema.org/publisher": [
-    "Thomas Wollmann",
     "Greg von Kuster",
-    "Bjoern Gruening"
+    "Bjoern Gruening",
+    "Thomas Wollmann"
   ]
 }

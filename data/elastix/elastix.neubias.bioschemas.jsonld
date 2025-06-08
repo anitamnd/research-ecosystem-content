@@ -45,13 +45,13 @@
   ],
   "http://schema.org/citation": [
     {
-      "@id": "https://www.frontiersin.org/articles/10.3389/fninf.2013.00050/full"
-    },
-    {
       "@id": "http://dx.doi.org/10.1109/TMI.2009.2035616"
     },
+    "10.1109/TMI.2009.2035616",
     "10.3389/fninf.2013.00050",
-    "10.1109/TMI.2009.2035616"
+    {
+      "@id": "https://www.frontiersin.org/articles/10.3389/fninf.2013.00050/full"
+    }
   ],
   "http://schema.org/dateCreated": "2018-04-11T10:11:30+00:00",
   "http://schema.org/dateModified": "2023-04-30T16:12:47+00:00",
@@ -69,7 +69,7 @@
   ],
   "http://schema.org/name": "elastix",
   "http://schema.org/publisher": [
-    "Marius Staring",
-    "Stefan Klein"
+    "Stefan Klein",
+    "Marius Staring"
   ]
 }

@@ -42,8 +42,8 @@
   },
   "http://schema.org/name": "Simple Operations (Icy)",
   "http://schema.org/publisher": [
-    "Alexandre Dufour",
-    "Sorin Pop"
+    "Sorin Pop",
+    "Alexandre Dufour"
   ],
   "http://schema.org/softwareRequirements": [
     {

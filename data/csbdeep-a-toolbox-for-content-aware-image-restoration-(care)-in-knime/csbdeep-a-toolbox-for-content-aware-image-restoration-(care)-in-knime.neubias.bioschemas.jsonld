@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation__RDyyXyhf1oHK93opXhEnRND"
+      "@id": "http://edamontology.org/operation_Image_deconvolution"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_deconvolution"
+      "@id": "http://edamontology.org/operation__RDyyXyhf1oHK93opXhEnRND"
     }
   ],
   "http://schema.org/dateCreated": "2018-05-07T16:21:56+00:00",
@@ -45,10 +45,10 @@
   "http://schema.org/description": "<p>Deep learning based restoration, with guidelines for training. See also the Fiji plugin.</p>\r\n\r\n<p>See more <a href=\"https://github.com/CSBDeep/CSBDeep_website/wiki/CSBDeep-in-KNIME\">CSBDeep in Knime</a>.</p>\r\n",
   "http://schema.org/featureList": [
     {
-      "@id": "http://edamontology.org/operation_Image_deconvolution"
+      "@id": "http://edamontology.org/operation__RDyyXyhf1oHK93opXhEnRND"
     },
     {
-      "@id": "http://edamontology.org/operation__RDyyXyhf1oHK93opXhEnRND"
+      "@id": "http://edamontology.org/operation_Image_deconvolution"
     }
   ],
   "http://schema.org/name": "CSBDeep a toolbox for Content-aware Image Restoration (CARE) in Knime",

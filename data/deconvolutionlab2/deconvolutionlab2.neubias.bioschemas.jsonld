@@ -50,15 +50,15 @@
   "http://schema.org/license": "GPL 3",
   "http://schema.org/name": "DeconvolutionLab2",
   "http://schema.org/publisher": [
-    "Vonesch, Cédric",
-    "Fortun, Denis ",
-    "Schmit, Guillaume ",
-    "Seitz, Arne ",
-    "Guiet, Romain ",
-    "Donati, Lauréne ",
     "Unser, Michael",
-    "Soulez, Ferréol ",
-    "Sage, Daniel "
+    "Guiet, Romain ",
+    "Schmit, Guillaume ",
+    "Vonesch, Cédric",
+    "Donati, Lauréne ",
+    "Sage, Daniel ",
+    "Seitz, Arne ",
+    "Fortun, Denis ",
+    "Soulez, Ferréol "
   ],
   "http://schema.org/softwareRequirements": {
     "@id": "http://biii.eu/node/38"

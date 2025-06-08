@@ -48,20 +48,20 @@
   "http://schema.org/description": "<p>SRRF is a high-performance analytical approach for Live-cell Super-Resolution Microscopy, provided as a fast GPU-enabled ImageJ plugin. SRRF is capable of extracting high-fidelity super-resolution information from TIRF, widefield and confocals using conventional fluorophores such as GFP. SRRF is capable of live-cell imaging over timescales ranging from minutes to hours.</p>\r\n",
   "http://schema.org/featureList": [
     {
-      "@id": "http://edamontology.org/operation__RDyyXyhf1oHK93opXhEnRND"
+      "@id": "http://edamontology.org/operation_Image_deconvolution"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_deconvolution"
+      "@id": "http://edamontology.org/operation__RDyyXyhf1oHK93opXhEnRND"
     }
   ],
   "http://schema.org/name": "Super-Resolution Radial Fluctuations (SRRF) ",
   "http://schema.org/publisher": [
+    "George Ashdown",
     "Dylan M. Owen",
+    "Siân Culley",
     "Ricardo Henriques",
     "Nils Gustafsson",
-    "Siân Culley",
-    "Pedro Matos Pereira",
-    "George Ashdown"
+    "Pedro Matos Pereira"
   ],
   "http://schema.org/softwareRequirements": {
     "@id": "http://biii.eu/node/38"

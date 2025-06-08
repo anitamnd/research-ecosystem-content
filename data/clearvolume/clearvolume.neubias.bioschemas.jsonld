@@ -46,23 +46,23 @@
   },
   "http://schema.org/name": "ClearVolume",
   "http://schema.org/publisher": [
-    "Royer Loic  orcid.org/0000-0002-9991-9724",
-    "Gunther Ulrik",
-    "Weigert Martin",
-    "Myers Eugene",
-    "Maghelli Nicola",
     "Sbalzarini Ivo",
-    "Jug Florian"
+    "Maghelli Nicola",
+    "Gunther Ulrik",
+    "Royer Loic  orcid.org/0000-0002-9991-9724",
+    "Jug Florian",
+    "Myers Eugene",
+    "Weigert Martin"
   ],
   "http://schema.org/softwareRequirements": [
-    {
-      "@id": "http://biii.eu/node/60"
-    },
     {
       "@id": "http://biii.eu/node/1185"
     },
     {
       "@id": "http://biii.eu/node/1180"
+    },
+    {
+      "@id": "http://biii.eu/node/60"
     }
   ]
 }

@@ -60,12 +60,12 @@
   "http://schema.org/license": "MIT license",
   "http://schema.org/name": "DeepCLEM",
   "http://schema.org/publisher": [
+    "Sebastian Britz orcid.org/0000-0002-7566-005X2",
+    "Christian Stigloher",
+    "Veronika Perschin",
     "Sebastian M. Markert orcid.org/0000-0001-9069-156X2",
     "Christoph Erbacher",
-    "Christian Stigloher",
-    "Sebastian Britz orcid.org/0000-0002-7566-005X2",
     "Philip Kollmannsberger orcid.org/0000-0002-8049-61861",
-    "Veronika Perschin",
     "Rick Seifert  "
   ],
   "http://schema.org/softwareRequirements": [

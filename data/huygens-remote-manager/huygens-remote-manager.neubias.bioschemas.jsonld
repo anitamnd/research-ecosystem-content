@@ -45,13 +45,13 @@
   "http://schema.org/name": "Huygens Remote Manager",
   "http://schema.org/publisher": [
     " Alessandra Griffa",
-    "Torsten Stöter",
-    "José Viña",
-    "Aaron Ponti",
     "Daniel Sevilla",
-    "Asheesh Gulati",
-    "Olivier Burri",
     "Volker Baecker",
-    "Niko Ehrenfeuchter"
+    "José Viña",
+    "Torsten Stöter",
+    "Aaron Ponti",
+    "Asheesh Gulati",
+    "Niko Ehrenfeuchter",
+    "Olivier Burri"
   ]
 }
