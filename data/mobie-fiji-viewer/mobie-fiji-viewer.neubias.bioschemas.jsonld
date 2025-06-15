@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_0337"
+      "@id": "http://edamontology.org/operation_Image_visualisation"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_visualisation"
+      "@id": "http://edamontology.org/operation_0337"
     }
   ],
   "http://schema.org/citation": [
@@ -59,8 +59,8 @@
   ],
   "http://schema.org/name": "MoBIE Fiji Viewer",
   "http://schema.org/publisher": [
-    "Tisher Christian",
-    "Pape Constantin"
+    "Pape Constantin",
+    "Tisher Christian"
   ],
   "http://schema.org/softwareRequirements": [
     {

@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Image_visualisation"
+      "@id": "http://edamontology.org/operation_0337"
     },
     {
-      "@id": "http://edamontology.org/operation_0337"
+      "@id": "http://edamontology.org/operation_Image_visualisation"
     }
   ],
   "http://schema.org/dateCreated": "2018-03-16T11:51:57+00:00",
@@ -45,10 +45,10 @@
   "http://schema.org/description": "<p>This <a href=\"http://paraviewweb.kitware.com/\">ParaViewWeb</a> Docker container is used by the <a href=\"https://galaxyproject.org/\">Galaxy Project</a>.&nbsp; Paraview is an VTK based visualization server, for 3D.</p>\r\n",
   "http://schema.org/featureList": [
     {
-      "@id": "http://edamontology.org/operation_Image_visualisation"
+      "@id": "http://edamontology.org/operation_0337"
     },
     {
-      "@id": "http://edamontology.org/operation_0337"
+      "@id": "http://edamontology.org/operation_Image_visualisation"
     }
   ],
   "http://schema.org/name": "Docker ParaViewWeb",

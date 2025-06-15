@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Image_segmentation"
+      "@id": "http://edamontology.org/operation_Image_registration"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_registration"
+      "@id": "http://edamontology.org/operation_Image_segmentation"
     }
   ],
   "http://schema.org/citation": {
@@ -58,9 +58,9 @@
   "http://schema.org/name": "2D brain slice region annotation: SliceMap",
   "http://schema.org/publisher": [
     "Nuydens Rony",
-    "Barbier Michaël",
     "De Vos Winnok H.",
     "Bottelbergs Astrid",
-    "Ebneth Andreas"
+    "Ebneth Andreas",
+    "Barbier Michaël"
   ]
 }

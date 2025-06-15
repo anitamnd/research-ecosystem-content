@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Rotation"
+      "@id": "http://edamontology.org/operation__Rhb4iyLUQWY4HnhPpuqNNI"
     },
     {
-      "@id": "http://edamontology.org/operation__Rhb4iyLUQWY4HnhPpuqNNI"
+      "@id": "http://edamontology.org/operation_Rotation"
     }
   ],
   "http://schema.org/dateCreated": "2024-10-25T12:58:35+00:00",

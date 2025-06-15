@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Image_deconvolution"
+      "@id": "http://edamontology.org/operation__RBPObKBKIMwjdLygBOlvojW"
     },
     {
-      "@id": "http://edamontology.org/operation__RBPObKBKIMwjdLygBOlvojW"
+      "@id": "http://edamontology.org/operation_Image_deconvolution"
     }
   ],
   "http://schema.org/citation": [
@@ -59,7 +59,7 @@
   ],
   "http://schema.org/name": "Real-time multi-view deconvolution",
   "http://schema.org/publisher": [
-    "Schmid Benjamin",
-    "Huisken Jan"
+    "Huisken Jan",
+    "Schmid Benjamin"
   ]
 }

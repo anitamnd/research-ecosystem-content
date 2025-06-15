@@ -45,10 +45,10 @@
   "http://schema.org/description": "<p>For post-processing analysis, use <a href=\"https://biii.eu/analyzeskeleton\">Analyze Skeleton plugin</a> written by the same author.</p>\r\n",
   "http://schema.org/featureList": [
     {
-      "@id": "http://edamontology.org/operation_Morphological_operations"
+      "@id": "http://edamontology.org/operation_Skeletonization"
     },
     {
-      "@id": "http://edamontology.org/operation_Skeletonization"
+      "@id": "http://edamontology.org/operation_Morphological_operations"
     }
   ],
   "http://schema.org/license": "GPLv3",

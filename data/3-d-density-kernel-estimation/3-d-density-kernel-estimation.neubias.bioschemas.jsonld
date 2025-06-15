@@ -37,21 +37,21 @@
       "@id": "http://edamontology.org/operation_Pixel_classification"
     },
     {
-      "@id": "http://edamontology.org/operation_Cell_counting"
+      "@id": "http://edamontology.org/operation_2423"
     },
     {
-      "@id": "http://edamontology.org/operation_2423"
+      "@id": "http://edamontology.org/operation_Cell_counting"
     }
   ],
   "http://schema.org/citation": [
+    "pdf version",
     {
       "@id": "https://github.com/dwaithe/Density_Kernel_Estimation_3D/blob/master/submissionFinal.pdf"
     },
     {
       "@id": "https://link.springer.com/chapter/10.1007/978-3-319-46604-0_18"
     },
-    "conference proceedings",
-    "pdf version"
+    "conference proceedings"
   ],
   "http://schema.org/dateCreated": "2018-10-18T10:18:22+00:00",
   "http://schema.org/dateModified": "2018-10-18T10:29:30+00:00",
@@ -61,10 +61,10 @@
       "@id": "http://edamontology.org/operation_2423"
     },
     {
-      "@id": "http://edamontology.org/operation_Pixel_classification"
+      "@id": "http://edamontology.org/operation_Cell_counting"
     },
     {
-      "@id": "http://edamontology.org/operation_Cell_counting"
+      "@id": "http://edamontology.org/operation_Pixel_classification"
     }
   ],
   "http://schema.org/license": "GNU General Public License v2.0",
@@ -78,13 +78,13 @@
       "@id": "http://biii.eu/node/128"
     },
     {
+      "@id": "http://biii.eu/node/1312"
+    },
+    {
       "@id": "http://biii.eu/node/1376"
     },
     {
       "@id": "http://biii.eu/node/73"
-    },
-    {
-      "@id": "http://biii.eu/node/1312"
     }
   ]
 }

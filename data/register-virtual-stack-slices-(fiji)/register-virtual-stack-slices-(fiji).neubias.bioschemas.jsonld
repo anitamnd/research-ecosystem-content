@@ -45,8 +45,8 @@
   "http://schema.org/name": "Register Virtual Stack Slices (Fiji)",
   "http://schema.org/publisher": [
     "Stephan Saalfeld",
-    "Albert Cardona",
-    "Ignacio Arganda-Carreras"
+    "Ignacio Arganda-Carreras",
+    "Albert Cardona"
   ],
   "http://schema.org/softwareRequirements": {
     "@id": "http://biii.eu/node/79"

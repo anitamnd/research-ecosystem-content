@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Neuron_image_analysis"
+      "@id": "http://edamontology.org/operation_2990"
     },
     {
-      "@id": "http://edamontology.org/operation_2990"
+      "@id": "http://edamontology.org/operation_Neuron_image_analysis"
     }
   ],
   "http://schema.org/citation": [
@@ -62,10 +62,10 @@
   "http://schema.org/publisher": "M U Ghani",
   "http://schema.org/softwareRequirements": [
     {
-      "@id": "http://biii.eu/node/89"
+      "@id": "http://biii.eu/node/101"
     },
     {
-      "@id": "http://biii.eu/node/101"
+      "@id": "http://biii.eu/node/89"
     }
   ]
 }
