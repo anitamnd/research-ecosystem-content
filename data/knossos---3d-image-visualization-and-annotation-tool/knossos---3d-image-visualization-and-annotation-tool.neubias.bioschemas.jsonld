@@ -34,9 +34,6 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_3553"
-    },
-    {
       "@id": "http://edamontology.org/operation_Skeletonization"
     },
     {
@@ -44,6 +41,9 @@
     },
     {
       "@id": "http://edamontology.org/operation_Image_segmentation"
+    },
+    {
+      "@id": "http://edamontology.org/operation_3553"
     }
   ],
   "http://schema.org/dateCreated": "2016-10-01T17:18:55+00:00",

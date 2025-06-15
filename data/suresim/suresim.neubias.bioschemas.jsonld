@@ -42,8 +42,8 @@
   "http://schema.org/name": "SuReSim",
   "http://schema.org/publisher": [
     "Mike Heilemann",
+    "Varun Venkataramani",
     "Thomas Kuner",
-    "Frank Herrmannsdörfer",
-    "Varun Venkataramani"
+    "Frank Herrmannsdörfer"
   ]
 }

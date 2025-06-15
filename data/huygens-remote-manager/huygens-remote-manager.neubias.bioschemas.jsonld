@@ -44,14 +44,14 @@
   "http://schema.org/license": "CeCILL license",
   "http://schema.org/name": "Huygens Remote Manager",
   "http://schema.org/publisher": [
-    " Alessandra Griffa",
-    "Daniel Sevilla",
-    "Volker Baecker",
-    "José Viña",
-    "Torsten Stöter",
     "Aaron Ponti",
-    "Asheesh Gulati",
+    "José Viña",
+    "Olivier Burri",
+    "Volker Baecker",
+    " Alessandra Griffa",
     "Niko Ehrenfeuchter",
-    "Olivier Burri"
+    "Asheesh Gulati",
+    "Torsten Stöter",
+    "Daniel Sevilla"
   ]
 }

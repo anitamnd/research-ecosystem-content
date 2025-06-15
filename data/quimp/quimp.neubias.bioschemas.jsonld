@@ -34,19 +34,19 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Image_tracking"
-    },
-    {
       "@id": "http://edamontology.org/operation_Interactive_segmentation"
     },
     {
-      "@id": "http://edamontology.org/operation_Cell_segmentation"
+      "@id": "http://edamontology.org/operation_Image_tracking"
+    },
+    {
+      "@id": "http://edamontology.org/operation_Shape_features"
     },
     {
       "@id": "http://edamontology.org/operation_Cell_tracking"
     },
     {
-      "@id": "http://edamontology.org/operation_Shape_features"
+      "@id": "http://edamontology.org/operation_Cell_segmentation"
     }
   ],
   "http://schema.org/dateCreated": "2017-09-11T10:49:04+00:00",
@@ -57,16 +57,16 @@
       "@id": "http://edamontology.org/operation_Interactive_segmentation"
     },
     {
-      "@id": "http://edamontology.org/operation_Cell_segmentation"
+      "@id": "http://edamontology.org/operation_Image_tracking"
     },
     {
       "@id": "http://edamontology.org/operation_Cell_tracking"
     },
     {
-      "@id": "http://edamontology.org/operation_Shape_features"
+      "@id": "http://edamontology.org/operation_Cell_segmentation"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_tracking"
+      "@id": "http://edamontology.org/operation_Shape_features"
     }
   ],
   "http://schema.org/license": "University License",

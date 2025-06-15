@@ -48,11 +48,11 @@
   "http://schema.org/name": "Microscope autopilot",
   "http://schema.org/publisher": [
     "Loic A. Royer",
-    "Philipp J. Keller",
     "Yinan Wan",
+    "Philipp J. Keller",
+    "Raghav K. Chhetri",
     "Michael Coleman",
     "Eugene Myers",
-    "Raghav K. Chhetri",
     "William C. Lemon"
   ]
 }

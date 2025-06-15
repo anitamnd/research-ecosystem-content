@@ -59,9 +59,9 @@
   ],
   "http://schema.org/name": "Particle Tracker 2D/3D",
   "http://schema.org/publisher": [
-    "Mosaic group",
     "Guy Levy",
     "Janicke Cardinale",
+    "Mosaic group",
     "Ivo Sbalzarini"
   ],
   "http://schema.org/softwareRequirements": [

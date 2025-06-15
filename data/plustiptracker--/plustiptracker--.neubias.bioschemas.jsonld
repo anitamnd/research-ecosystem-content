@@ -51,27 +51,27 @@
   "http://schema.org/name": "plusTipTracker  ",
   "http://schema.org/publisher": [
     "Maria H. Bagonis",
-    "Sebastien Besson",
     "Gaudenz Danuser",
-    "Alexandre Matova",
     "Khuloud Jaqaman",
-    "Kathryn T. Applegate"
+    "Sebastien Besson",
+    "Kathryn T. Applegate",
+    "Alexandre Matova"
   ],
   "http://schema.org/softwareRequirements": [
     {
-      "@id": "http://biii.eu/node/89"
+      "@id": "http://biii.eu/node/1289"
     },
     {
-      "@id": "http://biii.eu/node/1300"
+      "@id": "http://biii.eu/node/89"
     },
     {
       "@id": "http://biii.eu/node/1290"
     },
     {
-      "@id": "http://biii.eu/node/101"
+      "@id": "http://biii.eu/node/1300"
     },
     {
-      "@id": "http://biii.eu/node/1289"
+      "@id": "http://biii.eu/node/101"
     }
   ]
 }

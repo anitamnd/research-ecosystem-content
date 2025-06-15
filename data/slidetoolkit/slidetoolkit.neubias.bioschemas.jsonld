@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Image_segmentation"
+      "@id": "http://edamontology.org/operation_Image_stitching"
     },
     {
-      "@id": "http://edamontology.org/operation_Image_stitching"
+      "@id": "http://edamontology.org/operation_Image_segmentation"
     }
   ],
   "http://schema.org/citation": [
@@ -60,10 +60,10 @@
   "http://schema.org/license": "MIT",
   "http://schema.org/name": "slideToolkit",
   "http://schema.org/publisher": [
-    "Joost A. van Herwaarden",
-    "Frans L. Moll",
     "Bastiaan G. L. Nelissen ",
     "Gerard Pasterkamp",
+    "Frans L. Moll",
+    "Joost A. van Herwaarden",
     "Paul J. van Diest"
   ],
   "http://schema.org/softwareRequirements": [
@@ -71,16 +71,16 @@
       "@id": "http://biii.eu/node/127"
     },
     {
-      "@id": "http://biii.eu/node/31"
-    },
-    {
       "@id": "http://biii.eu/node/1319"
     },
     {
-      "@id": "http://biii.eu/node/1322"
+      "@id": "http://biii.eu/node/31"
     },
     {
       "@id": "http://biii.eu/node/1320"
+    },
+    {
+      "@id": "http://biii.eu/node/1322"
     },
     {
       "@id": "http://biii.eu/node/1321"

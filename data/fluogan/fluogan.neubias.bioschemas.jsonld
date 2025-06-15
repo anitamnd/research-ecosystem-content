@@ -59,8 +59,8 @@
   ],
   "http://schema.org/name": "FluoGAN",
   "http://schema.org/publisher": [
-    "Blanc-Ferraud Laure",
-    "Cachia Mayeul"
+    "Cachia Mayeul",
+    "Blanc-Ferraud Laure"
   ],
   "http://schema.org/softwareRequirements": [
     {

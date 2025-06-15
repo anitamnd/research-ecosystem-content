@@ -34,16 +34,16 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Interactive_segmentation"
+      "@id": "http://edamontology.org/operation_Pixel_classification"
     },
     {
-      "@id": "http://edamontology.org/operation_Texture_extraction"
+      "@id": "http://edamontology.org/operation_Interactive_segmentation"
     },
     {
       "@id": "http://edamontology.org/operation___Clustering"
     },
     {
-      "@id": "http://edamontology.org/operation_Pixel_classification"
+      "@id": "http://edamontology.org/operation_Texture_extraction"
     }
   ],
   "http://schema.org/citation": {
@@ -54,7 +54,7 @@
   "http://schema.org/description": "<p>This tool allows the user to define structures of interest by interactively marking a subset of pixels. Thanks to the real-time feedback, the user can place new markings strategically, depending on the current outcome.</p>\r\n",
   "http://schema.org/featureList": [
     {
-      "@id": "http://edamontology.org/operation___Clustering"
+      "@id": "http://edamontology.org/operation_Texture_extraction"
     },
     {
       "@id": "http://edamontology.org/operation_Pixel_classification"
@@ -63,7 +63,7 @@
       "@id": "http://edamontology.org/operation_Interactive_segmentation"
     },
     {
-      "@id": "http://edamontology.org/operation_Texture_extraction"
+      "@id": "http://edamontology.org/operation___Clustering"
     }
   ],
   "http://schema.org/name": "InSegt",

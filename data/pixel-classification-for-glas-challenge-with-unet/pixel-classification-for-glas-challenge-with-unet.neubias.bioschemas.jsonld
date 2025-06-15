@@ -34,10 +34,10 @@
   "@type": "http://schema.org/SoftwareApplication",
   "http://schema.org/applicationCategory": [
     {
-      "@id": "http://edamontology.org/operation_Image_smoothing"
+      "@id": "http://edamontology.org/operation_Pixel_classification"
     },
     {
-      "@id": "http://edamontology.org/operation_Pixel_classification"
+      "@id": "http://edamontology.org/operation_Image_smoothing"
     }
   ],
   "http://schema.org/dateCreated": "2019-03-14T23:38:32+00:00",
@@ -55,10 +55,10 @@
   "http://schema.org/publisher": "Mormont, Romain",
   "http://schema.org/softwareRequirements": [
     {
-      "@id": "http://biii.eu/node/1476"
+      "@id": "http://biii.eu/node/1478"
     },
     {
-      "@id": "http://biii.eu/node/1478"
+      "@id": "http://biii.eu/node/1476"
     }
   ]
 }
