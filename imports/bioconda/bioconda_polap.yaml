@@ -8,7 +8,7 @@ about:
   summary: 'POLAP: plant organelle long-read assembly pipeline'
 build:
   noarch: generic
-  number: 3
+  number: 0
   run_exports:
   - None
 extra:
@@ -16,7 +16,7 @@ extra:
   - goshng
 package:
   name: polap
-  version: 0.4.3.7.5
+  version: 0.4.3.7.9
 requirements:
   host:
   - python >=3.8
@@ -63,8 +63,8 @@ requirements:
   - perl
   - pandoc
 source:
-  sha256: 771cc3fe514c46acf8e6e31be80aa5d5ebd93f82484150c6419b9047637acc7e
-  url: https://github.com/goshng/polap/archive/refs/tags/0.4.3.7.5.tar.gz
+  sha256: 55014b43936336b76eb2c0091d8771325133de317412863dff84a2823e85720e
+  url: https://github.com/goshng/polap/archive/refs/tags/0.4.3.7.9.tar.gz
 test:
   commands:
   - polap
